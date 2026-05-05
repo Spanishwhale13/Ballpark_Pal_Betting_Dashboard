@@ -1,0 +1,42 @@
+name: Scrape BallparkPal
+
+on:
+  schedule:
+    # Runs every 30 minutes from 9 AM – 11 PM Eastern (13:00–03:00 UTC)
+    # Adjust cron times to match your local timezone / game slate window
+    - cron: '0,30 13-23 * * *'   # 9 AM – 7 PM ET (every 30 min)
+    - cron: '0,30 0-3  * * *'    # 8 PM – 11 PM ET (every 30 min)
+  workflow_dispatch:              # also allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write             # needed to commit data.json back to the repo
+      
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        env:
+          BPP_PHPSESSID:    ${{ secrets.BPP_PHPSESSID }}
+          BPP_CF_CLEARANCE: ${{ secrets.BPP_CF_CLEARANCE }}
+        run: python scrape_ballparkpal.py
+
+      - name: Commit data.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          # Only commit if something actually changed
+          git diff --cached --quiet || git commit -m "chore: refresh BallparkPal data [skip ci]"
+          git push
