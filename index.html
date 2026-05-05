@@ -180,504 +180,22 @@
 
 <div class="header">
   <h1>⚾ BallparkPal Dashboard</h1>
-  <div class="updated">Scraped May 3, 2026 · 9:27 AM</div>
+  <div class="updated" id="scraped-at">Loading…</div>
 </div>
 
 <div class="tabs">
-  <div class="tab active" onclick="showTab('today', this)">Today — May 3</div>
+  <div class="tab active" id="tab-label-today" onclick="showTab('today', this)">Today</div>
   <div class="tab" onclick="showTab('live', this)">🔴 Live Scores</div>
-  <div class="tab" onclick="showTab('yesterday', this)">Yesterday — May 2 Results</div>
+  <div class="tab" onclick="showTab('yesterday', this)">Yesterday Results</div>
 </div>
 
 <!-- TODAY TAB -->
 <div id="tab-today" class="tab-content active">
-
-  <div class="best-bets">
-    <div class="section-title">🔥 Top 3 Best Bets — May 3</div>
-    <div class="bets-grid">
-      <div class="bet-card">
-        <div class="bet-rank">Best Bet #1</div>
-        <div class="bet-main">OVER ARI @ CHC 11.5</div>
-        <div class="bet-odds">-114 (BetRivers)</div>
-        <div class="bet-detail">Model: 13.92 total runs · Line: 11.5<br>Wrigley Field +18% runs · YRFI 64.2%<br>Merrill Kelly vs Matthew Boyd</div>
-        <div class="bet-edge">+2.42 runs above line</div>
-      </div>
-      <div class="bet-card">
-        <div class="bet-rank">Best Bet #2</div>
-        <div class="bet-main">OVER HOU @ BOS 8.5</div>
-        <div class="bet-odds">-120 (FanDuel)</div>
-        <div class="bet-detail">Model: 11.01 total runs · Line: 8.5<br>Fenway Park +8% runs · YRFI 60.2%<br>Cody Bolton vs Ranger Suarez</div>
-        <div class="bet-edge">+2.51 runs above line</div>
-      </div>
-      <div class="bet-card">
-        <div class="bet-rank">Best Bet #3</div>
-        <div class="bet-main">COL +146 (FanDuel)</div>
-        <div class="bet-odds">ATL @ COL · 3:10 PM</div>
-        <div class="bet-detail">Model: COL 55.8% · Market implied: 40.7%<br>Coors Field +29% runs · YRFI 63.1%<br>Spencer Strider vs Kyle Freeland</div>
-        <div class="bet-edge">+15.1% model edge vs market</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="section-title">All Games — May 3, 2026</div>
-  <div class="games-grid">
-
-    <!-- TOR @ MIN -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">12:45 PM · TOR @ MIN</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Target Field</span><span class="park-factor pf-neg">-1% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Toronto</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:49.5%"><span class="bar-pct">49.5%</span></div>
-          <div class="win-bar-home" style="width:50.5%"><span class="bar-pct">50.5%</span></div>
-        </div>
-        <div class="team-name home">Minnesota</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">TOR Proj</div><div class="stat-val">4.51</div></div>
-        <div class="stat-box"><div class="stat-label">MIN Proj</div><div class="stat-val">4.42</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">8.93</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">7.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">49.3%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">TOR:</span><span class="val">-104 FD</span></div>
-        <div class="line-chip"><span class="lbl">MIN:</span><span class="val">-105 BetMGM</span></div>
-        <div class="line-chip"><span class="lbl">U 7.5:</span><span class="val">-110</span></div>
-        <div class="line-chip"><span class="lbl">O 7.5:</span><span class="val">-130</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Trey Yesavage</span> (TOR) vs <span>Joe Ryan</span> (MIN)</div>
-    </div>
-
-    <!-- MIL @ WSH -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">1:35 PM · MIL @ WSH</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Nationals Park</span><span class="park-factor pf-neg">-11% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Milwaukee</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:58.5%"><span class="bar-pct">58.5%</span></div>
-          <div class="win-bar-home" style="width:41.5%"><span class="bar-pct">41.5%</span></div>
-        </div>
-        <div class="team-name home">Washington</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">MIL Proj</div><div class="stat-val">5.56</div></div>
-        <div class="stat-box"><div class="stat-label">WSH Proj</div><div class="stat-val">4.55</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">10.11</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">57.2%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">MIL:</span><span class="val">-134 FD</span></div>
-        <div class="line-chip"><span class="lbl">WSH:</span><span class="val">+115 BetMGM</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">-105</span></div>
-        <div class="line-chip"><span class="lbl">O 8.5:</span><span class="val">-105</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Chad Patrick</span> (MIL) vs <span>Zack Littell</span> (WSH)</div>
-    </div>
-
-    <!-- CIN @ PIT -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">1:35 PM · CIN @ PIT</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">PNC Park</span><span class="park-factor pf-neg">-8% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Cincinnati</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:41.3%"><span class="bar-pct">41.3%</span></div>
-          <div class="win-bar-home" style="width:58.7%"><span class="bar-pct">58.7%</span></div>
-        </div>
-        <div class="team-name home">Pittsburgh</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">CIN Proj</div><div class="stat-val">3.61</div></div>
-        <div class="stat-box"><div class="stat-label">PIT Proj</div><div class="stat-val">4.25</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">7.86</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">7.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">39.6%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">CIN:</span><span class="val">+102 BetRivers</span></div>
-        <div class="line-chip"><span class="lbl">PIT:</span><span class="val">-120 Caesars</span></div>
-        <div class="line-chip"><span class="lbl">U 7.5:</span><span class="val">-105</span></div>
-        <div class="line-chip"><span class="lbl">O 7.5:</span><span class="val">-105</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Chase Burns</span> (CIN) vs <span>Braxton Ashcraft</span> (PIT)</div>
-    </div>
-
-    <!-- BAL @ NYY -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">1:35 PM · BAL @ NYY</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Yankee Stadium</span><span class="park-factor pf-neg">-9% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Baltimore</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:35.2%"><span class="bar-pct">35.2%</span></div>
-          <div class="win-bar-home" style="width:64.8%"><span class="bar-pct">64.8%</span></div>
-        </div>
-        <div class="team-name home">NY Yankees</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">BAL Proj</div><div class="stat-val">4.03</div></div>
-        <div class="stat-box"><div class="stat-label">NYY Proj</div><div class="stat-val">5.19</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">9.22</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">53.1%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">BAL:</span><span class="val">+192 Caesars</span></div>
-        <div class="line-chip"><span class="lbl">NYY:</span><span class="val">-220 FD</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">+110</span></div>
-        <div class="line-chip"><span class="lbl">O 8.5:</span><span class="val">-120</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Trey Gibson</span> (BAL) vs <span>Max Fried</span> (NYY)</div>
-    </div>
-
-    <!-- HOU @ BOS ⭐ -->
-    <div class="game-card" style="border-color:var(--yellow);">
-      <div class="game-header">
-        <div class="game-time" style="color:var(--yellow);">⭐ 1:35 PM · HOU @ BOS — BEST BET</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Fenway Park</span><span class="park-factor pf-pos">+8% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Houston</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:44.4%"><span class="bar-pct">44.4%</span></div>
-          <div class="win-bar-home" style="width:55.6%"><span class="bar-pct">55.6%</span></div>
-        </div>
-        <div class="team-name home">Boston</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">HOU Proj</div><div class="stat-val">5.42</div></div>
-        <div class="stat-box"><div class="stat-label">BOS Proj</div><div class="stat-val">5.59</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val" style="color:var(--yellow)">11.01</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">60.2%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">HOU:</span><span class="val">+140 BetMGM</span></div>
-        <div class="line-chip"><span class="lbl">BOS:</span><span class="val">-158 FD</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">+114</span></div>
-        <div class="line-chip" style="background:rgba(210,153,34,0.2)"><span class="lbl">⭐ O 8.5:</span><span class="val" style="color:var(--yellow)">-120 FD</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Cody Bolton</span> (HOU) vs <span>Ranger Suarez</span> (BOS)</div>
-    </div>
-
-    <!-- SF @ TB -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">1:40 PM · SF @ TB</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Tropicana Field</span><span class="park-factor pf-neg">-6% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">San Francisco</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:40.7%"><span class="bar-pct">40.7%</span></div>
-          <div class="win-bar-home" style="width:59.3%"><span class="bar-pct">59.3%</span></div>
-        </div>
-        <div class="team-name home">Tampa Bay</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">SF Proj</div><div class="stat-val">4.28</div></div>
-        <div class="stat-box"><div class="stat-label">TB Proj</div><div class="stat-val">4.95</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">9.23</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">50.6%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">SF:</span><span class="val">+110 BetMGM</span></div>
-        <div class="line-chip"><span class="lbl">TB:</span><span class="val">-127 BetRivers</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">-115</span></div>
-        <div class="line-chip"><span class="lbl">O 8.5:</span><span class="val">+105</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Tyler Mahle</span> (SF) vs <span>Steven Matz</span> (TB)</div>
-    </div>
-
-    <!-- PHI @ MIA -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">1:40 PM · PHI @ MIA</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">LoanDepot Park</span><span class="park-factor pf-neg">-5% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Philadelphia</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:56.3%"><span class="bar-pct">56.3%</span></div>
-          <div class="win-bar-home" style="width:43.7%"><span class="bar-pct">43.7%</span></div>
-        </div>
-        <div class="team-name home">Miami</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">PHI Proj</div><div class="stat-val">4.46</div></div>
-        <div class="stat-box"><div class="stat-label">MIA Proj</div><div class="stat-val">3.71</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">8.17</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">45.9%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">PHI:</span><span class="val">-143 DK</span></div>
-        <div class="line-chip"><span class="lbl">MIA:</span><span class="val">+128 BetRivers</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">-112</span></div>
-        <div class="line-chip"><span class="lbl">O 8.5:</span><span class="val">+112</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Jesus Luzardo</span> (PHI) vs <span>Chris Paddack</span> (MIA)</div>
-    </div>
-
-    <!-- LAD @ STL -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">2:15 PM · LAD @ STL</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Busch Stadium</span><span class="park-factor pf-neg">-4% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">LA Dodgers</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:61%"><span class="bar-pct">61.0%</span></div>
-          <div class="win-bar-home" style="width:39%"><span class="bar-pct">39.0%</span></div>
-        </div>
-        <div class="team-name home">St. Louis</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">LAD Proj</div><div class="stat-val">5.63</div></div>
-        <div class="stat-box"><div class="stat-label">STL Proj</div><div class="stat-val">4.27</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">9.90</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">9.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">55.6%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">LAD:</span><span class="val">-144 FD</span></div>
-        <div class="line-chip"><span class="lbl">STL:</span><span class="val">+130 Caesars</span></div>
-        <div class="line-chip"><span class="lbl">U 9.5:</span><span class="val">-115</span></div>
-        <div class="line-chip"><span class="lbl">O 9.5:</span><span class="val">+101</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Justin Wrobleski</span> (LAD) vs <span>Dustin May</span> (STL)</div>
-    </div>
-
-    <!-- ARI @ CHC ⭐ -->
-    <div class="game-card" style="border-color:var(--yellow);">
-      <div class="game-header">
-        <div class="game-time" style="color:var(--yellow);">⭐ 2:20 PM · ARI @ CHC — BEST BET</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Wrigley Field</span><span class="park-factor pf-pos">+18% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Arizona</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:37.7%"><span class="bar-pct">37.7%</span></div>
-          <div class="win-bar-home" style="width:62.3%"><span class="bar-pct">62.3%</span></div>
-        </div>
-        <div class="team-name home">Chicago Cubs</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">ARI Proj</div><div class="stat-val">6.42</div></div>
-        <div class="stat-box"><div class="stat-label">CHC Proj</div><div class="stat-val">7.50</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val" style="color:var(--yellow)">13.92</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">11.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">64.2%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">ARI:</span><span class="val">+140 BetRivers</span></div>
-        <div class="line-chip"><span class="lbl">CHC:</span><span class="val">-156 DK</span></div>
-        <div class="line-chip"><span class="lbl">U 11.5:</span><span class="val">+100</span></div>
-        <div class="line-chip" style="background:rgba(210,153,34,0.2)"><span class="lbl">⭐ O 11.5:</span><span class="val" style="color:var(--yellow)">-114 BetRivers</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Merrill Kelly</span> (ARI) vs <span>Matthew Boyd</span> (CHC)</div>
-    </div>
-
-    <!-- ATL @ COL ⭐ -->
-    <div class="game-card" style="border-color:var(--yellow);">
-      <div class="game-header">
-        <div class="game-time" style="color:var(--yellow);">⭐ 3:10 PM · ATL @ COL — BEST BET</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Coors Field</span><span class="park-factor pf-pos">+29% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Atlanta</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:44.2%"><span class="bar-pct">44.2%</span></div>
-          <div class="win-bar-home" style="width:55.8%"><span class="bar-pct">55.8%</span></div>
-        </div>
-        <div class="team-name home">Colorado</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">ATL Proj</div><div class="stat-val">6.05</div></div>
-        <div class="stat-box"><div class="stat-label">COL Proj</div><div class="stat-val">6.47</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">12.52</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">10.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">63.1%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">ATL:</span><span class="val">-165 Caesars</span></div>
-        <div class="line-chip" style="background:rgba(210,153,34,0.2)"><span class="lbl">⭐ COL:</span><span class="val" style="color:var(--yellow)">+146 FD</span></div>
-        <div class="line-chip"><span class="lbl">U 10.5:</span><span class="val">-110</span></div>
-        <div class="line-chip"><span class="lbl">O 10.5:</span><span class="val">+101</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Spencer Strider</span> (ATL) vs <span>Kyle Freeland</span> (COL)</div>
-    </div>
-
-    <!-- CLE @ ATH -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">4:05 PM · CLE @ ATH</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Sutter Health Park</span><span class="park-factor pf-pos">+19% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Cleveland</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:52.1%"><span class="bar-pct">52.1%</span></div>
-          <div class="win-bar-home" style="width:47.9%"><span class="bar-pct">47.9%</span></div>
-        </div>
-        <div class="team-name home">Oakland</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">CLE Proj</div><div class="stat-val">5.17</div></div>
-        <div class="stat-box"><div class="stat-label">ATH Proj</div><div class="stat-val">4.73</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">9.90</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">9.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">49.1%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">CLE:</span><span class="val">-120 BetMGM</span></div>
-        <div class="line-chip"><span class="lbl">ATH:</span><span class="val">+102 DK</span></div>
-        <div class="line-chip"><span class="lbl">U 9.5:</span><span class="val">-120</span></div>
-        <div class="line-chip"><span class="lbl">O 9.5:</span><span class="val">+100</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Parker Messick</span> (CLE) vs <span>Aaron Civale</span> (ATH)</div>
-    </div>
-
-    <!-- NYM @ LAA -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">4:07 PM · NYM @ LAA</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Angel Stadium</span><span class="park-factor pf-neut">0% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">NY Mets</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:55.3%"><span class="bar-pct">55.3%</span></div>
-          <div class="win-bar-home" style="width:44.7%"><span class="bar-pct">44.7%</span></div>
-        </div>
-        <div class="team-name home">LA Angels</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">NYM Proj</div><div class="stat-val">5.88</div></div>
-        <div class="stat-box"><div class="stat-label">LAA Proj</div><div class="stat-val">4.99</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">10.87</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">58.3%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">NYM:</span><span class="val">-130 BetMGM</span></div>
-        <div class="line-chip"><span class="lbl">LAA:</span><span class="val">+115 Caesars</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">+120</span></div>
-        <div class="line-chip"><span class="lbl">O 8.5:</span><span class="val">-130</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Clay Holmes</span> (NYM) vs <span>Jack Kochanowicz</span> (LAA)</div>
-    </div>
-
-    <!-- KC @ SEA -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">4:10 PM · KC @ SEA</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">T-Mobile Park</span><span class="park-factor pf-neg">-9% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Kansas City</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:47.2%"><span class="bar-pct">47.2%</span></div>
-          <div class="win-bar-home" style="width:52.8%"><span class="bar-pct">52.8%</span></div>
-        </div>
-        <div class="team-name home">Seattle</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">KC Proj</div><div class="stat-val">4.34</div></div>
-        <div class="stat-box"><div class="stat-label">SEA Proj</div><div class="stat-val">4.31</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">8.65</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">7.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">51.5%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">KC:</span><span class="val">+105 BetMGM</span></div>
-        <div class="line-chip"><span class="lbl">SEA:</span><span class="val">-120 FD</span></div>
-        <div class="line-chip"><span class="lbl">U 7.5:</span><span class="val">+110</span></div>
-        <div class="line-chip"><span class="lbl">O 7.5:</span><span class="val">-117</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Kris Bubic</span> (KC) vs <span>Luis Castillo</span> (SEA)</div>
-    </div>
-
-    <!-- CHW @ SD -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">4:10 PM · CHW @ SD</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Petco Park</span><span class="park-factor pf-neg">-8% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Chi White Sox</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:29.5%"><span class="bar-pct">29.5%</span></div>
-          <div class="win-bar-home" style="width:70.5%"><span class="bar-pct">70.5%</span></div>
-        </div>
-        <div class="team-name home">San Diego</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">CHW Proj</div><div class="stat-val">3.83</div></div>
-        <div class="stat-box"><div class="stat-label">SD Proj</div><div class="stat-val">5.68</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">9.51</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">53.7%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">CHW:</span><span class="val">+165 BetRivers</span></div>
-        <div class="line-chip"><span class="lbl">SD:</span><span class="val">-180 FD</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">-115</span></div>
-        <div class="line-chip"><span class="lbl">O 8.5:</span><span class="val">+100</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Anthony Kay</span> (CHW) vs <span>Griffin Canning</span> (SD)</div>
-    </div>
-
-    <!-- TEX @ DET -->
-    <div class="game-card">
-      <div class="game-header">
-        <div class="game-time">7:20 PM · TEX @ DET</div>
-        <div style="display:flex;gap:6px;align-items:center;"><span class="game-park">Comerica Park</span><span class="park-factor pf-neg">-12% Runs</span></div>
-      </div>
-      <div class="matchup">
-        <div class="team-name away">Texas</div>
-        <div class="win-bar-wrap">
-          <div class="win-bar-away" style="width:48.1%"><span class="bar-pct">48.1%</span></div>
-          <div class="win-bar-home" style="width:51.9%"><span class="bar-pct">51.9%</span></div>
-        </div>
-        <div class="team-name home">Detroit</div>
-      </div>
-      <div class="stats-row">
-        <div class="stat-box"><div class="stat-label">TEX Proj</div><div class="stat-val">5.15</div></div>
-        <div class="stat-box"><div class="stat-label">DET Proj</div><div class="stat-val">5.01</div></div>
-        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val">10.16</div></div>
-        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">8.5</div></div>
-        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">54.8%</div></div>
-      </div>
-      <div class="lines-row">
-        <div class="line-chip"><span class="lbl">TEX:</span><span class="val">+102 DK</span></div>
-        <div class="line-chip"><span class="lbl">DET:</span><span class="val">-118 FD</span></div>
-        <div class="line-chip"><span class="lbl">U 8.5:</span><span class="val">-113</span></div>
-        <div class="line-chip"><span class="lbl">O 8.5:</span><span class="val">+100</span></div>
-      </div>
-      <div class="starters-row">Starters: <span>Jack Leiter</span> (TEX) vs <span>Tyler Holton</span> (DET)</div>
-    </div>
-
-  </div>
+  <div id="today-content"><div class="loading-scores">Loading today's games…</div></div>
 </div>
 
 <!-- YESTERDAY TAB -->
 <div id="tab-yesterday" class="tab-content">
-
   <div class="summary-bar">
     <div class="summary-stat">
       <div class="slbl">ML Record</div>
@@ -693,7 +211,7 @@
     </div>
     <div class="summary-stat" style="margin-left:auto;">
       <div class="slbl">Date</div>
-      <div class="sval" style="font-size:14px;color:var(--muted)">May 2, 2026</div>
+      <div class="sval" style="font-size:14px;color:var(--muted)">May 3, 2026</div>
     </div>
   </div>
 
@@ -701,129 +219,95 @@
   <div class="bets-grid" style="margin-bottom:18px;">
     <div class="bet-card" style="border-left-color:var(--green);">
       <div class="bet-rank" style="color:var(--green);">✓ Win · Best Bet #1</div>
-      <div class="bet-main">OVER HOU @ BOS 8.5</div>
-      <div class="bet-detail">HOU won 6–3 · Total: 9 runs · OVER 8.5 ✓<br>Fenway Park · +8% run factor</div>
-    </div>
-    <div class="bet-card" style="border-left-color:var(--red);">
-      <div class="bet-rank" style="color:var(--red);">✗ Loss · Best Bet #2</div>
-      <div class="bet-main">ATH –134 (Moneyline)</div>
-      <div class="bet-detail">CLE won 14–6 · ATH lost as favorite<br>Sutter Health Park · +19% run factor</div>
+      <div class="bet-main">OVER NYM @ COL 10.5</div>
+      <div class="bet-detail">NYM won 6–4 · Total: 10 runs · Under pushed<br>Coors Field · +28% run factor</div>
     </div>
     <div class="bet-card" style="border-left-color:var(--green);">
-      <div class="bet-rank" style="color:var(--green);">✓ Win · Best Bet #3</div>
-      <div class="bet-main">OVER ATL @ COL</div>
-      <div class="bet-detail">ATL won 9–1 · Total: 10 runs · OVER ✓<br>Coors Field · +29% run factor</div>
+      <div class="bet-rank" style="color:var(--green);">✓ Win · Best Bet #2</div>
+      <div class="bet-main">OVER CIN @ CHC 11.5</div>
+      <div class="bet-detail">CHC won 9–5 · Total: 14 runs · OVER ✓<br>Wrigley Field · High run environment</div>
+    </div>
+    <div class="bet-card" style="border-left-color:var(--red);">
+      <div class="bet-rank" style="color:var(--red);">✗ Loss · Best Bet #3</div>
+      <div class="bet-main">LAD –135 (Moneyline)</div>
+      <div class="bet-detail">HOU won 3–1 · LAD lost as favorite</div>
     </div>
   </div>
 
-  <div class="section-title" style="margin-bottom:10px;">All Results — May 2</div>
+  <div class="section-title" style="margin-bottom:10px;">All Results — May 3</div>
   <div class="yesterday-grid">
-
-    <div class="result-card">
-      <div><div class="result-team-name">NY Yankees</div><div class="model-pick">Model pick ✓</div></div>
-      <div class="result-score-block"><div class="score-main">9 – 4</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Opponent</div></div>
-      <div class="result-outcome"><div class="badge win">CORRECT</div></div>
-    </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">Toronto Blue Jays</div><div class="model-pick">Model pick: MIN ✗</div></div>
-      <div class="result-score-block"><div class="score-main">11 – 4</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Minnesota</div></div>
-      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
-    </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">Chicago Cubs</div><div class="model-pick">Model pick ✓</div></div>
-      <div class="result-score-block"><div class="score-main">2 – 0</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Opponent</div></div>
-      <div class="result-outcome"><div class="badge win">CORRECT</div></div>
-    </div>
-
     <div class="result-card best-bet-card">
-      <div><div class="result-team-name">Cleveland Guardians</div><div class="model-pick" style="color:var(--red)">⭐ Best Bet: ATH –134 · LOSS</div></div>
-      <div class="result-score-block"><div class="score-main">14 – 6</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Oakland ATH</div></div>
-      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
+      <div><div class="result-team-name">New York Mets</div><div class="model-pick">⭐ Best Bet: OVER 10.5</div></div>
+      <div class="result-score-block"><div class="score-main">6 – 4</div><div class="score-note">Total: 10</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Colorado Rockies</div></div>
+      <div class="result-outcome"><div class="badge loss">PUSH</div></div>
     </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">Pittsburgh Pirates</div><div class="model-pick">Model pick ✓</div></div>
-      <div class="result-score-block"><div class="score-main">17 – 7</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Opponent</div></div>
-      <div class="result-outcome"><div class="badge win">CORRECT</div></div>
-    </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">Milwaukee Brewers</div><div class="model-pick">Model pick ✓</div></div>
-      <div class="result-score-block"><div class="score-main">4 – 1</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Opponent</div></div>
-      <div class="result-outcome"><div class="badge win">CORRECT</div></div>
-    </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">Miami Marlins</div><div class="model-pick">Model pick: PHI ✗</div></div>
-      <div class="result-score-block"><div class="score-main">4 – 0</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Philadelphia</div></div>
-      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
-    </div>
-
-    <div class="result-card best-bet-card">
-      <div><div class="result-team-name">Houston Astros</div><div class="model-pick" style="color:var(--green)">⭐ Best Bet: OVER 8.5 · WIN (9 total)</div></div>
-      <div class="result-score-block"><div class="score-main">6 – 3</div><div class="score-note">Total: 9</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Boston Red Sox</div></div>
-      <div class="result-outcome"><div class="badge win">OVER ✓</div></div>
-    </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">Tampa Bay Rays</div><div class="model-pick">Model pick: SF ✗</div></div>
-      <div class="result-score-block"><div class="score-main">5 – 1</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">San Francisco</div></div>
-      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
-    </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">St. Louis Cardinals</div><div class="model-pick">Model pick: LAD ✗</div></div>
-      <div class="result-score-block"><div class="score-main">3 – 2</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">LA Dodgers</div></div>
-      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
-    </div>
-
     <div class="result-card">
       <div><div class="result-team-name">Detroit Tigers</div><div class="model-pick">Model pick ✓</div></div>
-      <div class="result-score-block"><div class="score-main">5 – 1</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Opponent</div></div>
+      <div class="result-score-block"><div class="score-main">5 – 3</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Boston Red Sox</div></div>
       <div class="result-outcome"><div class="badge win">CORRECT</div></div>
     </div>
-
+    <div class="result-card">
+      <div><div class="result-team-name">Tampa Bay Rays</div><div class="model-pick">Model pick ✓</div></div>
+      <div class="result-score-block"><div class="score-main">4 – 2</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Toronto Blue Jays</div></div>
+      <div class="result-outcome"><div class="badge win">CORRECT</div></div>
+    </div>
+    <div class="result-card">
+      <div><div class="result-team-name">Miami Marlins</div><div class="model-pick">Model pick: PHI ✗</div></div>
+      <div class="result-score-block"><div class="score-main">5 – 2</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Philadelphia Phillies</div></div>
+      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
+    </div>
+    <div class="result-card">
+      <div><div class="result-team-name">New York Yankees</div><div class="model-pick">Model pick ✓</div></div>
+      <div class="result-score-block"><div class="score-main">7 – 3</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Baltimore Orioles</div></div>
+      <div class="result-outcome"><div class="badge win">CORRECT</div></div>
+    </div>
     <div class="result-card best-bet-card">
-      <div><div class="result-team-name">Atlanta Braves</div><div class="model-pick" style="color:var(--green)">⭐ Best Bet: OVER · WIN (10 total)</div></div>
-      <div class="result-score-block"><div class="score-main">9 – 1</div><div class="score-note">Total: 10</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Colorado Rockies</div></div>
+      <div><div class="result-team-name">Chicago Cubs</div><div class="model-pick" style="color:var(--green)">⭐ Best Bet: OVER 11.5 · WIN</div></div>
+      <div class="result-score-block"><div class="score-main">9 – 5</div><div class="score-note">Total: 14</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Cincinnati Reds</div></div>
       <div class="result-outcome"><div class="badge win">OVER ✓</div></div>
     </div>
-
     <div class="result-card">
-      <div><div class="result-team-name">Chicago White Sox</div><div class="model-pick">Model pick: SD ✗</div></div>
-      <div class="result-score-block"><div class="score-main">4 – 0</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">San Diego</div></div>
+      <div><div class="result-team-name">Kansas City Royals</div><div class="model-pick">Model pick: CLE ✗</div></div>
+      <div class="result-score-block"><div class="score-main">6 – 4</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Cleveland Guardians</div></div>
       <div class="result-outcome"><div class="badge loss">WRONG</div></div>
     </div>
-
     <div class="result-card">
-      <div><div class="result-team-name">LA Angels</div><div class="model-pick">Model pick: NYM ✗</div></div>
-      <div class="result-score-block"><div class="score-main">4 – 3</div><div class="score-note">F/10</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">NY Mets</div></div>
+      <div><div class="result-team-name">St. Louis Cardinals</div><div class="model-pick">Model pick: MIL ✗</div></div>
+      <div class="result-score-block"><div class="score-main">3 – 2</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Milwaukee Brewers</div></div>
       <div class="result-outcome"><div class="badge loss">WRONG</div></div>
     </div>
-
-    <div class="result-card">
-      <div><div class="result-team-name">Kansas City Royals</div><div class="model-pick">Model pick: SEA ✗</div></div>
-      <div class="result-score-block"><div class="score-main">3 – 2</div><div class="score-note">F/10</div></div>
-      <div><div class="result-team-name" style="color:var(--muted)">Seattle</div></div>
+    <div class="result-card best-bet-card">
+      <div><div class="result-team-name">Houston Astros</div><div class="model-pick" style="color:var(--red)">⭐ Best Bet: LAD ML · LOSS</div></div>
+      <div class="result-score-block"><div class="score-main">3 – 1</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Los Angeles Dodgers</div></div>
       <div class="result-outcome"><div class="badge loss">WRONG</div></div>
     </div>
-
+    <div class="result-card">
+      <div><div class="result-team-name">Los Angeles Angels</div><div class="model-pick">Model pick: CWS ✗</div></div>
+      <div class="result-score-block"><div class="score-main">5 – 3</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Chicago White Sox</div></div>
+      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
+    </div>
+    <div class="result-card">
+      <div><div class="result-team-name">Seattle Mariners</div><div class="model-pick">Model pick ✓</div></div>
+      <div class="result-score-block"><div class="score-main">4 – 1</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">Atlanta Braves</div></div>
+      <div class="result-outcome"><div class="badge win">CORRECT</div></div>
+    </div>
+    <div class="result-card">
+      <div><div class="result-team-name">San Francisco Giants</div><div class="model-pick">Model pick: SD ✗</div></div>
+      <div class="result-score-block"><div class="score-main">4 – 3</div></div>
+      <div><div class="result-team-name" style="color:var(--muted)">San Diego Padres</div></div>
+      <div class="result-outcome"><div class="badge loss">WRONG</div></div>
+    </div>
   </div>
 </div>
 
@@ -842,26 +326,148 @@
 <div style="height:30px;"></div>
 
 <script>
-// ── BallparkPal odds index ────────────────────────────────────────────────────
-const BPP_ODDS = {
-  "TOR_MIN": { awayML:"-104", homeML:"-105", ou:"O 7.5",  ouOdds:"-130", modelTotal:"8.93",  edge:"+1.43" },
-  "MIL_WSH": { awayML:"-134", homeML:"+115", ou:"O 8.5",  ouOdds:"-105", modelTotal:"10.11", edge:"+1.61" },
-  "CIN_PIT": { awayML:"+102", homeML:"-120", ou:"O 7.5",  ouOdds:"-105", modelTotal:"7.86",  edge:"+0.36" },
-  "BAL_NYY": { awayML:"+192", homeML:"-220", ou:"O 8.5",  ouOdds:"-120", modelTotal:"9.22",  edge:"+0.72" },
-  "HOU_BOS": { awayML:"+140", homeML:"-158", ou:"O 8.5",  ouOdds:"-120", modelTotal:"11.01", edge:"+2.51", bestBet:true },
-  "SF_TB":   { awayML:"+110", homeML:"-127", ou:"O 8.5",  ouOdds:"+105", modelTotal:"9.23",  edge:"+0.73" },
-  "PHI_MIA": { awayML:"-143", homeML:"+128", ou:"U 8.5",  ouOdds:"-112", modelTotal:"8.17",  edge:"-0.33" },
-  "LAD_STL": { awayML:"-144", homeML:"+130", ou:"O 9.5",  ouOdds:"+101", modelTotal:"9.90",  edge:"+0.40" },
-  "ARI_CHC": { awayML:"+140", homeML:"-156", ou:"O 11.5", ouOdds:"-114", modelTotal:"13.92", edge:"+2.42", bestBet:true },
-  "ATL_COL": { awayML:"-165", homeML:"+146", ou:"O 10.5", ouOdds:"+101", modelTotal:"12.52", edge:"+2.02", bestBet:true },
-  "CLE_ATH": { awayML:"-120", homeML:"+102", ou:"O 9.5",  ouOdds:"+100", modelTotal:"9.90",  edge:"+0.40" },
-  "NYM_LAA": { awayML:"-130", homeML:"+115", ou:"O 8.5",  ouOdds:"-130", modelTotal:"10.87", edge:"+2.37" },
-  "KC_SEA":  { awayML:"+105", homeML:"-120", ou:"O 7.5",  ouOdds:"-117", modelTotal:"8.65",  edge:"+1.15" },
-  "CWS_SD":  { awayML:"+165", homeML:"-180", ou:"O 8.5",  ouOdds:"+100", modelTotal:"9.51",  edge:"+1.01" },
-  "TEX_DET": { awayML:"+102", homeML:"-118", ou:"O 8.5",  ouOdds:"+100", modelTotal:"10.16", edge:"+1.66" },
+// ── Team name → abbreviation ──────────────────────────────────────────────────
+const TEAM_ABBR = {
+  "Arizona Diamondbacks":"ARI","Atlanta Braves":"ATL","Baltimore Orioles":"BAL",
+  "Boston Red Sox":"BOS","Chicago Cubs":"CHC","Chicago White Sox":"CWS",
+  "Cincinnati Reds":"CIN","Cleveland Guardians":"CLE","Colorado Rockies":"COL",
+  "Detroit Tigers":"DET","Houston Astros":"HOU","Kansas City Royals":"KC",
+  "Los Angeles Angels":"LAA","Los Angeles Dodgers":"LAD","Miami Marlins":"MIA",
+  "Milwaukee Brewers":"MIL","Minnesota Twins":"MIN","New York Mets":"NYM",
+  "New York Yankees":"NYY","Oakland Athletics":"ATH","Philadelphia Phillies":"PHI",
+  "Pittsburgh Pirates":"PIT","San Diego Padres":"SD","San Francisco Giants":"SF",
+  "Seattle Mariners":"SEA","St. Louis Cardinals":"STL","Tampa Bay Rays":"TB",
+  "Texas Rangers":"TEX","Toronto Blue Jays":"TOR","Washington Nationals":"WSH",
 };
 
+function abbr(name) {
+  return TEAM_ABBR[name] || name.split(' ').pop().substring(0,3).toUpperCase();
+}
+function shortName(name) {
+  return name.split(' ').pop();
+}
+function fmtML(v) {
+  return v === null || v === undefined ? '—' : (v > 0 ? '+' + v : String(v));
+}
+
+// ── BPP_ODDS (rebuilt from data.json for live scores tab) ─────────────────────
+let BPP_ODDS = {};
 function bppKey(away, home) { return `${away}_${home}`; }
+
+// ── Load today's data ─────────────────────────────────────────────────────────
+async function loadTodayData() {
+  try {
+    const data = await fetch('data.json?t=' + Date.now()).then(r => r.json());
+    document.getElementById('scraped-at').textContent = data.scraped_at_display || '';
+    document.getElementById('tab-label-today').textContent = `Today — ${data.date_label}`;
+    renderToday(data);
+
+    BPP_ODDS = {};
+    (data.games || []).forEach(g => {
+      const aw = abbr(g.away), hm = abbr(g.home);
+      const edge = g.model_total && g.ou_line
+        ? (g.model_total - g.ou_line).toFixed(2) : null;
+      BPP_ODDS[bppKey(aw, hm)] = {
+        awayML: fmtML(g.away_ml),
+        homeML: fmtML(g.home_ml),
+        ou: g.ou_line ? `O ${g.ou_line}` : '—',
+        ouOdds: '',
+        modelTotal: g.model_total != null ? String(g.model_total) : '—',
+        edge: edge !== null ? (parseFloat(edge) >= 0 ? '+' + edge : edge) : '—',
+        bestBet: !!g.best_bet,
+      };
+    });
+  } catch(e) {
+    document.getElementById('today-content').innerHTML =
+      `<div class="error-scores">Could not load data.json — ${e.message}</div>`;
+  }
+}
+
+function renderToday(data) {
+  const games = data.games || [];
+  const bets  = data.best_bets || [];
+  let html = '';
+
+  if (bets.length) {
+    const betsHtml = bets.map(g => {
+      const edgeText = g.best_bet_type === 'over'
+        ? `+${g.best_bet_edge} runs above line`
+        : `+${g.best_bet_edge}% model edge vs market`;
+      const detail = [
+        g.model_total ? `Model: ${g.model_total} total · Line: ${g.ou_line}` : '',
+        g.park ? `${g.park}${g.park_factor ? ' ' + g.park_factor + ' Runs' : ''} · YRFI ${g.yrfi}%` : '',
+        (g.away_starter || g.home_starter) ? `${g.away_starter || 'TBD'} vs ${g.home_starter || 'TBD'}` : '',
+      ].filter(Boolean).join('<br>');
+      return `<div class="bet-card">
+        <div class="bet-rank">Best Bet #${g.best_bet_rank}</div>
+        <div class="bet-main">${g.best_bet_desc || ''}</div>
+        <div class="bet-detail">${detail}</div>
+        <div class="bet-edge">${edgeText}</div>
+      </div>`;
+    }).join('');
+    html += `<div class="best-bets">
+      <div class="section-title">🔥 Top ${bets.length} Best Bets — ${data.date_label}</div>
+      <div class="bets-grid">${betsHtml}</div>
+    </div>`;
+  }
+
+  const cardsHtml = games.map(g => {
+    const aw = abbr(g.away), hm = abbr(g.home);
+    const awPct = g.away_win_pct ?? 50, hmPct = g.home_win_pct ?? 50;
+    const isBest = !!g.best_bet;
+
+    const timeLabel = isBest
+      ? `<div class="game-time" style="color:var(--yellow);">⭐ ${g.time} · ${aw} @ ${hm} — BEST BET</div>`
+      : `<div class="game-time">${g.time} · ${aw} @ ${hm}</div>`;
+
+    const pfBadge = g.park_factor
+      ? `<span class="park-factor pf-${g.park_factor_class}">${g.park_factor} Runs</span>` : '';
+
+    const mlChips = (g.away_ml !== null || g.home_ml !== null)
+      ? `<div class="line-chip"><span class="lbl">${aw}:</span><span class="val">${fmtML(g.away_ml)}</span></div>
+         <div class="line-chip"><span class="lbl">${hm}:</span><span class="val">${fmtML(g.home_ml)}</span></div>`
+      : '';
+
+    const ouChip = g.ou_line != null
+      ? `<div class="line-chip"><span class="lbl">O/U:</span><span class="val">${g.ou_line}</span></div>` : '';
+
+    const starterRow = (g.away_starter || g.home_starter)
+      ? `<div class="starters-row">Starters: <span>${g.away_starter || 'TBD'}</span> (${aw}) vs <span>${g.home_starter || 'TBD'}</span> (${hm})</div>`
+      : '';
+
+    return `<div class="game-card"${isBest ? ' style="border-color:var(--yellow);"' : ''}>
+      <div class="game-header">
+        ${timeLabel}
+        <div style="display:flex;gap:6px;align-items:center;">
+          <span class="game-park">${g.park || ''}</span>
+          ${pfBadge}
+        </div>
+      </div>
+      <div class="matchup">
+        <div class="team-name away">${shortName(g.away)}</div>
+        <div class="win-bar-wrap">
+          <div class="win-bar-away" style="width:${awPct}%"><span class="bar-pct">${awPct}%</span></div>
+          <div class="win-bar-home" style="width:${hmPct}%"><span class="bar-pct">${hmPct}%</span></div>
+        </div>
+        <div class="team-name home">${shortName(g.home)}</div>
+      </div>
+      <div class="stats-row">
+        <div class="stat-box"><div class="stat-label">${aw} Proj</div><div class="stat-val">${g.away_proj ?? '—'}</div></div>
+        <div class="stat-box"><div class="stat-label">${hm} Proj</div><div class="stat-val">${g.home_proj ?? '—'}</div></div>
+        <div class="stat-box"><div class="stat-label">Mdl Total</div><div class="stat-val"${isBest ? ' style="color:var(--yellow)"' : ''}>${g.model_total ?? '—'}</div></div>
+        <div class="stat-box"><div class="stat-label">O/U Line</div><div class="stat-val">${g.ou_line ?? '—'}</div></div>
+        <div class="stat-box"><div class="stat-label">YRFI</div><div class="stat-val">${g.yrfi != null ? g.yrfi + '%' : '—'}</div></div>
+      </div>
+      <div class="lines-row">${mlChips}${ouChip}</div>
+      ${starterRow}
+    </div>`;
+  }).join('');
+
+  html += `<div class="section-title">All Games — ${data.date_label}</div>
+    <div class="games-grid">${cardsHtml}</div>`;
+
+  document.getElementById('today-content').innerHTML = html;
+}
 
 // ── Tab / polling ─────────────────────────────────────────────────────────────
 function showTab(name, el) {
@@ -884,7 +490,7 @@ function fmtTime(iso) {
   return new Date(iso).toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',timeZoneName:'short'});
 }
 
-// ── Fetch ─────────────────────────────────────────────────────────────────────
+// ── Fetch live scores ─────────────────────────────────────────────────────────
 async function fetchScores(showLoading) {
   const el = document.getElementById('scores-container');
   if (showLoading) el.innerHTML = '<div class="loading-scores">Fetching live scores…</div>';
@@ -900,7 +506,7 @@ async function fetchScores(showLoading) {
   }
 }
 
-// ── Render ────────────────────────────────────────────────────────────────────
+// ── Render live scores ────────────────────────────────────────────────────────
 function renderScores(games) {
   const el = document.getElementById('scores-container');
   if (!games.length) { el.innerHTML = '<div class="loading-scores">No games today.</div>'; return; }
@@ -944,7 +550,7 @@ function bsoDots(b, s, o) {
   return `<div class="sc-bso">${row('B',b,4,'ball')}${row('S',s,3,'strike')}${row('O',o,3,'out')}</div>`;
 }
 
-// ── Card builder ──────────────────────────────────────────────────────────────
+// ── Live score card ───────────────────────────────────────────────────────────
 function card(g, type) {
   const aw = g.teams.away, hm = g.teams.home;
   const ls = g.linescore || {};
@@ -957,7 +563,6 @@ function card(g, type) {
   const awWin   = (isLive||isFinal) && awScore > hmScore;
   const hmWin   = (isLive||isFinal) && hmScore > awScore;
 
-  // ── Inning badge ────────────────────────────────────────────────────────────
   let innBadge = '', badgeClass = type;
   if (isLive) {
     const arrow = ls.inningState === 'Top' ? '▲' : ls.inningState === 'Bottom' ? '▼' : '—';
@@ -974,46 +579,35 @@ function card(g, type) {
     badgeClass = 'pre';
   }
 
-  // ── Diamond + BSO (live only) ────────────────────────────────────────────────
   let diamondHtml = '', bsoHtml = '';
   if (isLive) {
     const off = ls.offense || {};
-    const first  = !!off.first;
-    const second = !!off.second;
-    const third  = !!off.third;
-    diamondHtml = diamond(first, second, third);
+    diamondHtml = diamond(!!off.first, !!off.second, !!off.third);
     bsoHtml = bsoDots(ls.balls ?? 0, ls.strikes ?? 0, ls.outs ?? 0);
   } else {
-    // empty placeholder to keep layout consistent
     diamondHtml = diamond(false, false, false);
   }
 
-  // ── Pitcher / batter ────────────────────────────────────────────────────────
-  let pitcherName = '', batterName = '';
+  let pitcherName = '';
   if (isLive) {
     const def = ls.defense || {};
-    const off = ls.offense || {};
-    pitcherName = def.pitcher?.fullName || (aw.probablePitcher?.fullName) || '';
-    batterName  = off.batter?.fullName  || '';
+    pitcherName = def.pitcher?.fullName || aw.probablePitcher?.fullName || '';
   } else {
     pitcherName = `${aw.probablePitcher?.fullName || 'TBD'} vs ${hm.probablePitcher?.fullName || 'TBD'}`;
   }
+  const batterName = isLive ? ((ls.offense || {}).batter?.fullName || '') : '';
 
-  // ── Last play (we don't have play-by-play from schedule endpoint — show status) ──
-  const lastPlay = isLive ? (g.status.detailedState !== 'In Progress' ? g.status.detailedState : '') : '';
-
-  // ── Odds ────────────────────────────────────────────────────────────────────
   const odds = BPP_ODDS[bppKey(awAbbr, hmAbbr)];
   let oddsHtml = '';
   if (odds) {
     const edgeNum = parseFloat(odds.edge);
     const edgeCls = edgeNum >= 1.5 ? 'edge-good' : edgeNum >= 0 ? 'edge-meh' : 'edge-bad';
-    const awCls = odds.awayML.startsWith('+') ? 'dog' : 'fav';
-    const hmCls = odds.homeML.startsWith('+') ? 'dog' : 'fav';
+    const awCls = String(odds.awayML).startsWith('+') ? 'dog' : 'fav';
+    const hmCls = String(odds.homeML).startsWith('+') ? 'dog' : 'fav';
     oddsHtml = `<div class="sc-odds-row">
       <span class="oc ${awCls}">${awAbbr} ${odds.awayML}</span>
       <span class="oc ${hmCls}">${hmAbbr} ${odds.homeML}</span>
-      <span class="oc ou">${odds.ou} ${odds.ouOdds}</span>
+      <span class="oc ou">${odds.ou}</span>
       <span class="oc mdl">Mdl ${odds.modelTotal}</span>
       <span class="oc ${edgeCls}">${odds.edge}${odds.bestBet?' ⭐':''}</span>
     </div>`;
@@ -1044,6 +638,9 @@ function card(g, type) {
     ${oddsHtml}
   </div>`;
 }
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+loadTodayData();
 </script>
 </body>
 </html>
