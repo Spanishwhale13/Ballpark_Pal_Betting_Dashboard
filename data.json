@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-05T23:41:18.416772+00:00",
-  "scraped_at_display": "Scraped May 5, 2026 \u00b7 7:41 PM ET",
+  "scraped_at": "2026-05-06T02:10:07.445130+00:00",
+  "scraped_at_display": "Scraped May 5, 2026 \u00b7 10:10 PM ET",
   "date_label": "May 5, 2026",
   "games": [
     {
@@ -42,7 +42,7 @@
       "home_win_pct": 67.3,
       "away_ml": 180,
       "home_ml": -200,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -170,7 +170,7 @@
       "home_ml": -166,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cincinnati Reds @ Chicago Cubs 8.5",
       "best_bet_edge": 1.53
@@ -192,7 +192,7 @@
       "away_win_pct": 59.7,
       "home_win_pct": 40.3,
       "away_ml": -220,
-      "home_ml": 195,
+      "home_ml": 184,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -212,14 +212,10 @@
       "model_total": 10.05,
       "away_win_pct": 53.7,
       "home_win_pct": 46.3,
-      "away_ml": 100,
+      "away_ml": -102,
       "home_ml": -110,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Chicago White Sox @ Los Angeles Angels 8.5",
-      "best_bet_edge": 1.55
+      "ou_line": 9.5,
+      "best_bet": false
     },
     {
       "gamepk": "823142",
@@ -273,20 +269,16 @@
       "park": "Oracle Park",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 50.1,
-      "away_proj": 4.62,
-      "home_proj": 4.41,
-      "model_total": 9.03,
-      "away_win_pct": 51.3,
-      "home_win_pct": 48.7,
-      "away_ml": 120,
+      "yrfi": 51.0,
+      "away_proj": 4.59,
+      "home_proj": 4.26,
+      "model_total": 8.85,
+      "away_win_pct": 52.7,
+      "home_win_pct": 47.3,
+      "away_ml": 123,
       "home_ml": -140,
       "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER San Diego Padres @ San Francisco Giants 7.5",
-      "best_bet_edge": 1.53
+      "best_bet": false
     }
   ],
   "best_bets": [
@@ -310,59 +302,9 @@
       "home_ml": -166,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Cincinnati Reds @ Chicago Cubs 8.5",
-      "best_bet_edge": 1.53
-    },
-    {
-      "gamepk": "824040",
-      "time": "9:38",
-      "away": "Chicago White Sox",
-      "home": "Los Angeles Angels",
-      "away_starter": "Erick Fedde",
-      "home_starter": "Samuel Aldegheri",
-      "park": "Angel Stadium",
-      "park_factor": "-2%",
-      "park_factor_class": "neut",
-      "yrfi": 55.1,
-      "away_proj": 5.28,
-      "home_proj": 4.77,
-      "model_total": 10.05,
-      "away_win_pct": 53.7,
-      "home_win_pct": 46.3,
-      "away_ml": 100,
-      "home_ml": -110,
-      "ou_line": 8.5,
-      "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER Chicago White Sox @ Los Angeles Angels 8.5",
-      "best_bet_edge": 1.55
-    },
-    {
-      "gamepk": "823227",
-      "time": "9:45",
-      "away": "San Diego Padres",
-      "home": "San Francisco Giants",
-      "away_starter": "Walker Buehler",
-      "home_starter": "Logan Webb",
-      "park": "Oracle Park",
-      "park_factor": "-6%",
-      "park_factor_class": "neg",
-      "yrfi": 50.1,
-      "away_proj": 4.62,
-      "home_proj": 4.41,
-      "model_total": 9.03,
-      "away_win_pct": 51.3,
-      "home_win_pct": 48.7,
-      "away_ml": 120,
-      "home_ml": -140,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER San Diego Padres @ San Francisco Giants 7.5",
+      "best_bet_desc": "OVER Cincinnati Reds @ Chicago Cubs 8.5",
       "best_bet_edge": 1.53
     }
   ]
