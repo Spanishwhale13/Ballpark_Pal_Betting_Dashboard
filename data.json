@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-06T23:42:27.981486+00:00",
-  "scraped_at_display": "Scraped May 6, 2026 \u00b7 7:42 PM ET",
+  "scraped_at": "2026-05-07T02:12:04.995864+00:00",
+  "scraped_at_display": "Scraped May 6, 2026 \u00b7 10:12 PM ET",
   "date_label": "May 6, 2026",
   "games": [
     {
@@ -322,7 +322,7 @@
       "away_win_pct": 57.7,
       "home_win_pct": 42.3,
       "away_ml": -130,
-      "home_ml": 118,
+      "home_ml": 115,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
@@ -399,7 +399,7 @@
       "away_win_pct": 57.7,
       "home_win_pct": 42.3,
       "away_ml": -130,
-      "home_ml": 118,
+      "home_ml": 115,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
