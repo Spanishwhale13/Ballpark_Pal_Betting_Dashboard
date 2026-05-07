@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-07T21:48:33.516614+00:00",
-  "scraped_at_display": "Scraped May 7, 2026 \u00b7 5:48 PM ET",
+  "scraped_at": "2026-05-07T22:54:36.747989+00:00",
+  "scraped_at_display": "Scraped May 7, 2026 \u00b7 6:54 PM ET",
   "date_label": "May 7, 2026",
   "games": [
     {
@@ -110,11 +110,7 @@
       "away_ml": -145,
       "home_ml": 125,
       "ou_line": 10.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Colorado Rockies 10.5",
-      "best_bet_edge": 1.61
+      "best_bet": false
     },
     {
       "gamepk": "825090",
@@ -153,10 +149,14 @@
       "model_total": 10.31,
       "away_win_pct": 50.8,
       "home_win_pct": 49.2,
-      "away_ml": 114,
-      "home_ml": -130,
-      "ou_line": 9.5,
-      "best_bet": false
+      "away_ml": 115,
+      "home_ml": -126,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Oakland Athletics @ Philadelphia Phillies 8.5",
+      "best_bet_edge": 1.81
     },
     {
       "gamepk": "823870",
@@ -175,7 +175,7 @@
       "away_win_pct": 45.5,
       "home_win_pct": 54.5,
       "away_ml": 110,
-      "home_ml": -124,
+      "home_ml": -126,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -196,10 +196,10 @@
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
       "away_ml": 100,
-      "home_ml": -115,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 1.7
@@ -220,8 +220,8 @@
       "model_total": 9.29,
       "away_win_pct": 36.1,
       "home_win_pct": 63.9,
-      "away_ml": 148,
-      "home_ml": -165,
+      "away_ml": 144,
+      "home_ml": -160,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -253,29 +253,29 @@
       "best_bet_edge": 1.89
     },
     {
-      "gamepk": "824362",
-      "time": "3:10",
-      "away": "New York Mets",
-      "home": "Colorado Rockies",
-      "away_starter": "Christian Scott",
-      "home_starter": "Jose Quintana",
-      "park": "Coors Field",
-      "park_factor": "+31%",
-      "park_factor_class": "pos",
-      "yrfi": 60.6,
-      "away_proj": 6.23,
-      "home_proj": 5.88,
-      "model_total": 12.11,
-      "away_win_pct": 51.5,
-      "home_win_pct": 48.5,
-      "away_ml": -145,
-      "home_ml": 125,
-      "ou_line": 10.5,
+      "gamepk": "823467",
+      "time": "6:40",
+      "away": "Oakland Athletics",
+      "home": "Philadelphia Phillies",
+      "away_starter": "J.T. Ginn",
+      "home_starter": "Andrew Painter",
+      "park": "Citizens Bank Park",
+      "park_factor": "+2%",
+      "park_factor_class": "neut",
+      "yrfi": 54.2,
+      "away_proj": 5.31,
+      "home_proj": 5.0,
+      "model_total": 10.31,
+      "away_win_pct": 50.8,
+      "home_win_pct": 49.2,
+      "away_ml": 115,
+      "home_ml": -126,
+      "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Colorado Rockies 10.5",
-      "best_bet_edge": 1.61
+      "best_bet_desc": "OVER Oakland Athletics @ Philadelphia Phillies 8.5",
+      "best_bet_edge": 1.81
     },
     {
       "gamepk": "824767",
@@ -294,10 +294,10 @@
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
       "away_ml": 100,
-      "home_ml": -115,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 1.7
