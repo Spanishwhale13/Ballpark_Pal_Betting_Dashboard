@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-07T20:46:19.294263+00:00",
-  "scraped_at_display": "Scraped May 7, 2026 \u00b7 4:46 PM ET",
+  "scraped_at": "2026-05-07T21:48:33.516614+00:00",
+  "scraped_at_display": "Scraped May 7, 2026 \u00b7 5:48 PM ET",
   "date_label": "May 7, 2026",
   "games": [
     {
@@ -110,7 +110,11 @@
       "away_ml": -145,
       "home_ml": 125,
       "ou_line": 10.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 3,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Mets @ Colorado Rockies 10.5",
+      "best_bet_edge": 1.61
     },
     {
       "gamepk": "825090",
@@ -171,7 +175,7 @@
       "away_win_pct": 45.5,
       "home_win_pct": 54.5,
       "away_ml": 110,
-      "home_ml": -121,
+      "home_ml": -124,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -191,11 +195,11 @@
       "model_total": 10.2,
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
-      "away_ml": -102,
+      "away_ml": 100,
       "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 1.7
@@ -210,20 +214,16 @@
       "park": "Petco Park",
       "park_factor": "-15%",
       "park_factor_class": "neg",
-      "yrfi": 54.5,
-      "away_proj": 4.09,
-      "home_proj": 5.12,
-      "model_total": 9.21,
-      "away_win_pct": 37.0,
-      "home_win_pct": 63.0,
+      "yrfi": 53.8,
+      "away_proj": 4.12,
+      "home_proj": 5.17,
+      "model_total": 9.29,
+      "away_win_pct": 36.1,
+      "home_win_pct": 63.9,
       "away_ml": 148,
       "home_ml": -165,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER St. Louis Cardinals @ San Diego Padres 7.5",
-      "best_bet_edge": 1.71
+      "ou_line": 8.5,
+      "best_bet": false
     }
   ],
   "best_bets": [
@@ -253,6 +253,31 @@
       "best_bet_edge": 1.89
     },
     {
+      "gamepk": "824362",
+      "time": "3:10",
+      "away": "New York Mets",
+      "home": "Colorado Rockies",
+      "away_starter": "Christian Scott",
+      "home_starter": "Jose Quintana",
+      "park": "Coors Field",
+      "park_factor": "+31%",
+      "park_factor_class": "pos",
+      "yrfi": 60.6,
+      "away_proj": 6.23,
+      "home_proj": 5.88,
+      "model_total": 12.11,
+      "away_win_pct": 51.5,
+      "home_win_pct": 48.5,
+      "away_ml": -145,
+      "home_ml": 125,
+      "ou_line": 10.5,
+      "best_bet": true,
+      "best_bet_rank": 3,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Mets @ Colorado Rockies 10.5",
+      "best_bet_edge": 1.61
+    },
+    {
       "gamepk": "824767",
       "time": "7:10",
       "away": "Tampa Bay Rays",
@@ -268,39 +293,14 @@
       "model_total": 10.2,
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
-      "away_ml": -102,
+      "away_ml": 100,
       "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 1.7
-    },
-    {
-      "gamepk": "823306",
-      "time": "10:10",
-      "away": "St. Louis Cardinals",
-      "home": "San Diego Padres",
-      "away_starter": "Matthew Liberatore",
-      "home_starter": "Michael King",
-      "park": "Petco Park",
-      "park_factor": "-15%",
-      "park_factor_class": "neg",
-      "yrfi": 54.5,
-      "away_proj": 4.09,
-      "home_proj": 5.12,
-      "model_total": 9.21,
-      "away_win_pct": 37.0,
-      "home_win_pct": 63.0,
-      "away_ml": 148,
-      "home_ml": -165,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER St. Louis Cardinals @ San Diego Padres 7.5",
-      "best_bet_edge": 1.71
     }
   ]
 }
