@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T21:36:22.000387+00:00",
-  "scraped_at_display": "Scraped May 9, 2026 \u00b7 5:36 PM ET",
+  "scraped_at": "2026-05-09T22:35:11.996577+00:00",
+  "scraped_at_display": "Scraped May 9, 2026 \u00b7 6:35 PM ET",
   "date_label": "May 9, 2026",
   "games": [
     {
@@ -104,7 +104,7 @@
       "away_win_pct": 33.9,
       "home_win_pct": 66.1,
       "away_ml": 165,
-      "home_ml": -178,
+      "home_ml": -184,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -124,10 +124,14 @@
       "model_total": 9.62,
       "away_win_pct": 45.2,
       "home_win_pct": 54.8,
-      "away_ml": 102,
+      "away_ml": 105,
       "home_ml": -118,
-      "ou_line": 8.5,
-      "best_bet": false
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Minnesota Twins @ Cleveland Guardians 7.5",
+      "best_bet_edge": 2.12
     },
     {
       "gamepk": "822905",
@@ -146,7 +150,7 @@
       "away_win_pct": 48.5,
       "home_win_pct": 51.5,
       "away_ml": -130,
-      "home_ml": 122,
+      "home_ml": 118,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -166,7 +170,7 @@
       "model_total": 8.44,
       "away_win_pct": 58.5,
       "home_win_pct": 41.5,
-      "away_ml": -135,
+      "away_ml": -129,
       "home_ml": 116,
       "ou_line": 7.5,
       "best_bet": false
@@ -250,7 +254,7 @@
       "model_total": 8.75,
       "away_win_pct": 31.0,
       "home_win_pct": 69.0,
-      "away_ml": 123,
+      "away_ml": 125,
       "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": true,
@@ -296,13 +300,38 @@
       "model_total": 8.75,
       "away_win_pct": 30.6,
       "home_win_pct": 69.4,
-      "away_ml": 154,
+      "away_ml": 153,
       "home_ml": -175,
       "ou_line": 8.5,
       "best_bet": false
     }
   ],
   "best_bets": [
+    {
+      "gamepk": "824444",
+      "time": "6:10",
+      "away": "Minnesota Twins",
+      "home": "Cleveland Guardians",
+      "away_starter": "Joe Ryan",
+      "home_starter": "Tanner Bibee",
+      "park": "Progressive Field",
+      "park_factor": "+6%",
+      "park_factor_class": "pos",
+      "yrfi": 49.3,
+      "away_proj": 4.74,
+      "home_proj": 4.88,
+      "model_total": 9.62,
+      "away_win_pct": 45.2,
+      "home_win_pct": 54.8,
+      "away_ml": 105,
+      "home_ml": -118,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Minnesota Twins @ Cleveland Guardians 7.5",
+      "best_bet_edge": 2.12
+    },
     {
       "gamepk": "823304",
       "time": "7:15",
@@ -319,7 +348,7 @@
       "model_total": 8.75,
       "away_win_pct": 31.0,
       "home_win_pct": 69.0,
-      "away_ml": 123,
+      "away_ml": 125,
       "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": true,
