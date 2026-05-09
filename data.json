@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T22:35:11.996577+00:00",
-  "scraped_at_display": "Scraped May 9, 2026 \u00b7 6:35 PM ET",
+  "scraped_at": "2026-05-09T23:39:14.551902+00:00",
+  "scraped_at_display": "Scraped May 9, 2026 \u00b7 7:39 PM ET",
   "date_label": "May 9, 2026",
   "games": [
     {
@@ -170,8 +170,8 @@
       "model_total": 8.44,
       "away_win_pct": 58.5,
       "home_win_pct": 41.5,
-      "away_ml": -129,
-      "home_ml": 116,
+      "away_ml": -134,
+      "home_ml": 115,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -212,7 +212,7 @@
       "model_total": 10.91,
       "away_win_pct": 52.8,
       "home_win_pct": 47.2,
-      "away_ml": -125,
+      "away_ml": -124,
       "home_ml": 114,
       "ou_line": 9.5,
       "best_bet": false
@@ -233,7 +233,7 @@
       "model_total": 10.42,
       "away_win_pct": 52.1,
       "home_win_pct": 47.9,
-      "away_ml": -108,
+      "away_ml": -105,
       "home_ml": -108,
       "ou_line": 9.5,
       "best_bet": false
@@ -255,13 +255,13 @@
       "away_win_pct": 31.0,
       "home_win_pct": 69.0,
       "away_ml": 125,
-      "home_ml": -140,
+      "home_ml": -135,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "San Diego Padres +-140",
-      "best_bet_edge": 10.67
+      "best_bet_desc": "San Diego Padres +-135",
+      "best_bet_edge": 11.55
     },
     {
       "gamepk": "823224",
@@ -273,13 +273,13 @@
       "park": "Oracle Park",
       "park_factor": "-2%",
       "park_factor_class": "neut",
-      "yrfi": 41.3,
-      "away_proj": 4.33,
-      "home_proj": 3.83,
-      "model_total": 8.16,
-      "away_win_pct": 53.4,
-      "home_win_pct": 46.6,
-      "away_ml": -109,
+      "yrfi": 39.9,
+      "away_proj": 4.14,
+      "home_proj": 3.7,
+      "model_total": 7.84,
+      "away_win_pct": 51.9,
+      "home_win_pct": 48.1,
+      "away_ml": -110,
       "home_ml": -106,
       "ou_line": 7.5,
       "best_bet": false
@@ -294,14 +294,14 @@
       "park": "Dodger Stadium",
       "park_factor": "-8%",
       "park_factor_class": "neg",
-      "yrfi": 53.0,
-      "away_proj": 3.52,
-      "home_proj": 5.23,
-      "model_total": 8.75,
-      "away_win_pct": 30.6,
-      "home_win_pct": 69.4,
-      "away_ml": 153,
-      "home_ml": -175,
+      "yrfi": 52.6,
+      "away_proj": 3.36,
+      "home_proj": 4.99,
+      "model_total": 8.35,
+      "away_win_pct": 30.7,
+      "home_win_pct": 69.3,
+      "away_ml": 158,
+      "home_ml": -177,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -349,13 +349,13 @@
       "away_win_pct": 31.0,
       "home_win_pct": 69.0,
       "away_ml": 125,
-      "home_ml": -140,
+      "home_ml": -135,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "San Diego Padres +-140",
-      "best_bet_edge": 10.67
+      "best_bet_desc": "San Diego Padres +-135",
+      "best_bet_edge": 11.55
     }
   ]
 }
