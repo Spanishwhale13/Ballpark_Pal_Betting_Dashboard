@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-08T23:49:33.388920+00:00",
-  "scraped_at_display": "Scraped May 8, 2026 \u00b7 7:49 PM ET",
+  "scraped_at": "2026-05-09T02:13:01.015395+00:00",
+  "scraped_at_display": "Scraped May 8, 2026 \u00b7 10:13 PM ET",
   "date_label": "May 8, 2026",
   "games": [
     {
@@ -167,7 +167,7 @@
       "away_win_pct": 54.1,
       "home_win_pct": 45.9,
       "away_ml": -135,
-      "home_ml": 120,
+      "home_ml": 118,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -208,7 +208,7 @@
       "model_total": 8.14,
       "away_win_pct": 48.7,
       "home_win_pct": 51.3,
-      "away_ml": -120,
+      "away_ml": -115,
       "home_ml": 107,
       "ou_line": 7.5,
       "best_bet": false
@@ -230,7 +230,7 @@
       "away_win_pct": 50.7,
       "home_win_pct": 49.3,
       "away_ml": -130,
-      "home_ml": 117,
+      "home_ml": 114,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -244,20 +244,16 @@
       "park": "Chase Field",
       "park_factor": "+8%",
       "park_factor_class": "pos",
-      "yrfi": 53.3,
-      "away_proj": 5.57,
-      "home_proj": 4.81,
-      "model_total": 10.38,
-      "away_win_pct": 55.1,
-      "home_win_pct": 44.9,
-      "away_ml": -130,
+      "yrfi": 53.1,
+      "away_proj": 5.41,
+      "home_proj": 4.5,
+      "model_total": 9.91,
+      "away_win_pct": 57.1,
+      "home_win_pct": 42.9,
+      "away_ml": -125,
       "home_ml": 110,
       "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Arizona Diamondbacks 8.5",
-      "best_bet_edge": 1.88
+      "best_bet": false
     },
     {
       "gamepk": "823303",
@@ -276,7 +272,7 @@
       "away_win_pct": 34.7,
       "home_win_pct": 65.3,
       "away_ml": 130,
-      "home_ml": -145,
+      "home_ml": -143,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -297,7 +293,7 @@
       "away_win_pct": 45.5,
       "home_win_pct": 54.5,
       "away_ml": 102,
-      "home_ml": -120,
+      "home_ml": -110,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -317,37 +313,11 @@
       "model_total": 8.61,
       "away_win_pct": 46.3,
       "home_win_pct": 53.7,
-      "away_ml": -108,
+      "away_ml": -107,
       "home_ml": -108,
       "ou_line": 7.5,
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "825088",
-      "time": "9:40",
-      "away": "New York Mets",
-      "home": "Arizona Diamondbacks",
-      "away_starter": "Nolan McLean",
-      "home_starter": "Ryne Nelson",
-      "park": "Chase Field",
-      "park_factor": "+8%",
-      "park_factor_class": "pos",
-      "yrfi": 53.3,
-      "away_proj": 5.57,
-      "home_proj": 4.81,
-      "model_total": 10.38,
-      "away_win_pct": 55.1,
-      "home_win_pct": 44.9,
-      "away_ml": -130,
-      "home_ml": 110,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Arizona Diamondbacks 8.5",
-      "best_bet_edge": 1.88
-    }
-  ]
+  "best_bets": []
 }
