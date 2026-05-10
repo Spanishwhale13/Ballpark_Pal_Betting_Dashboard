@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-10T20:39:48.145423+00:00",
-  "scraped_at_display": "Scraped May 10, 2026 \u00b7 4:39 PM ET",
+  "scraped_at": "2026-05-10T21:40:24.511077+00:00",
+  "scraped_at_display": "Scraped May 10, 2026 \u00b7 5:40 PM ET",
   "date_label": "May 10, 2026",
   "games": [
     {
@@ -317,7 +317,7 @@
       "model_total": 9.36,
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
-      "away_ml": 110,
+      "away_ml": 112,
       "home_ml": -122,
       "ou_line": 8.5,
       "best_bet": false
