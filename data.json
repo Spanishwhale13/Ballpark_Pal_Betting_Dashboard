@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-10T19:54:34.519412+00:00",
-  "scraped_at_display": "Scraped May 10, 2026 \u00b7 3:54 PM ET",
+  "scraped_at": "2026-05-10T20:39:48.145423+00:00",
+  "scraped_at_display": "Scraped May 10, 2026 \u00b7 4:39 PM ET",
   "date_label": "May 10, 2026",
   "games": [
     {
@@ -229,7 +229,7 @@
       "model_total": 8.59,
       "away_win_pct": 52.7,
       "home_win_pct": 47.3,
-      "away_ml": 110,
+      "away_ml": 106,
       "home_ml": -124,
       "ou_line": 8.5,
       "best_bet": false
@@ -250,7 +250,7 @@
       "model_total": 9.0,
       "away_win_pct": 41.4,
       "home_win_pct": 58.6,
-      "away_ml": 115,
+      "away_ml": 114,
       "home_ml": -130,
       "ou_line": 8.5,
       "best_bet": false
@@ -271,7 +271,7 @@
       "model_total": 9.26,
       "away_win_pct": 44.6,
       "home_win_pct": 55.4,
-      "away_ml": 119,
+      "away_ml": 123,
       "home_ml": -136,
       "ou_line": 9.5,
       "best_bet": false
@@ -311,13 +311,13 @@
       "park": "Kauffman Stadium",
       "park_factor": "-2%",
       "park_factor_class": "neut",
-      "yrfi": 50.9,
-      "away_proj": 4.33,
-      "home_proj": 4.51,
-      "model_total": 8.84,
-      "away_win_pct": 45.4,
-      "home_win_pct": 54.6,
-      "away_ml": 108,
+      "yrfi": 52.9,
+      "away_proj": 4.51,
+      "home_proj": 4.85,
+      "model_total": 9.36,
+      "away_win_pct": 44.5,
+      "home_win_pct": 55.5,
+      "away_ml": 110,
       "home_ml": -122,
       "ou_line": 8.5,
       "best_bet": false
