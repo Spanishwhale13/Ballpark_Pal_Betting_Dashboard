@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-10T16:30:05.520494+00:00",
-  "scraped_at_display": "Scraped May 10, 2026 \u00b7 12:30 PM ET",
+  "scraped_at": "2026-05-10T17:30:09.285676+00:00",
+  "scraped_at_display": "Scraped May 10, 2026 \u00b7 1:30 PM ET",
   "date_label": "May 10, 2026",
   "games": [
     {
@@ -40,7 +40,7 @@
       "model_total": 9.38,
       "away_win_pct": 23.2,
       "home_win_pct": 76.8,
-      "away_ml": 255,
+      "away_ml": 250,
       "home_ml": -300,
       "ou_line": 8.5,
       "best_bet": false
@@ -61,8 +61,8 @@
       "model_total": 9.77,
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
-      "away_ml": 123,
-      "home_ml": -140,
+      "away_ml": 130,
+      "home_ml": -148,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -83,7 +83,7 @@
       "away_win_pct": 45.9,
       "home_win_pct": 54.1,
       "away_ml": -102,
-      "home_ml": -105,
+      "home_ml": -102,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -125,7 +125,7 @@
       "away_win_pct": 37.4,
       "home_win_pct": 62.6,
       "away_ml": 140,
-      "home_ml": -158,
+      "home_ml": -162,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -188,7 +188,7 @@
       "away_win_pct": 49.1,
       "home_win_pct": 50.9,
       "away_ml": 100,
-      "home_ml": -112,
+      "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -208,7 +208,7 @@
       "model_total": 7.75,
       "away_win_pct": 45.1,
       "home_win_pct": 54.9,
-      "away_ml": 112,
+      "away_ml": 105,
       "home_ml": -120,
       "ou_line": 7.5,
       "best_bet": false
@@ -252,8 +252,12 @@
       "home_win_pct": 60.9,
       "away_ml": 116,
       "home_ml": -130,
-      "ou_line": 8.5,
-      "best_bet": false
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER St. Louis Cardinals @ San Diego Padres 7.5",
+      "best_bet_edge": 1.92
     },
     {
       "gamepk": "823954",
@@ -286,20 +290,20 @@
       "park": "Chase Field",
       "park_factor": "+1%",
       "park_factor_class": "neut",
-      "yrfi": 54.6,
-      "away_proj": 4.97,
-      "home_proj": 5.71,
-      "model_total": 10.68,
-      "away_win_pct": 41.3,
-      "home_win_pct": 58.7,
+      "yrfi": 52.5,
+      "away_proj": 4.8,
+      "home_proj": 5.29,
+      "model_total": 10.09,
+      "away_win_pct": 42.3,
+      "home_win_pct": 57.7,
       "away_ml": -104,
       "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER New York Mets @ Arizona Diamondbacks 8.5",
-      "best_bet_edge": 2.18
+      "best_bet_edge": 1.59
     },
     {
       "gamepk": "824113",
@@ -325,6 +329,31 @@
   ],
   "best_bets": [
     {
+      "gamepk": "823305",
+      "time": "4:10",
+      "away": "St. Louis Cardinals",
+      "home": "San Diego Padres",
+      "away_starter": "Kyle Leahy",
+      "home_starter": "Walker Buehler",
+      "park": "Petco Park",
+      "park_factor": "-8%",
+      "park_factor_class": "neg",
+      "yrfi": 52.7,
+      "away_proj": 4.24,
+      "home_proj": 5.18,
+      "model_total": 9.42,
+      "away_win_pct": 39.1,
+      "home_win_pct": 60.9,
+      "away_ml": 116,
+      "home_ml": -130,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER St. Louis Cardinals @ San Diego Padres 7.5",
+      "best_bet_edge": 1.92
+    },
+    {
       "gamepk": "825085",
       "time": "4:10",
       "away": "New York Mets",
@@ -334,20 +363,20 @@
       "park": "Chase Field",
       "park_factor": "+1%",
       "park_factor_class": "neut",
-      "yrfi": 54.6,
-      "away_proj": 4.97,
-      "home_proj": 5.71,
-      "model_total": 10.68,
-      "away_win_pct": 41.3,
-      "home_win_pct": 58.7,
+      "yrfi": 52.5,
+      "away_proj": 4.8,
+      "home_proj": 5.29,
+      "model_total": 10.09,
+      "away_win_pct": 42.3,
+      "home_win_pct": 57.7,
       "away_ml": -104,
       "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER New York Mets @ Arizona Diamondbacks 8.5",
-      "best_bet_edge": 2.18
+      "best_bet_edge": 1.59
     }
   ]
 }
