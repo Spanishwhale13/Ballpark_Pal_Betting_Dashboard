@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T23:39:14.551902+00:00",
-  "scraped_at_display": "Scraped May 9, 2026 \u00b7 7:39 PM ET",
+  "scraped_at": "2026-05-10T02:15:09.000499+00:00",
+  "scraped_at_display": "Scraped May 9, 2026 \u00b7 10:15 PM ET",
   "date_label": "May 9, 2026",
   "games": [
     {
@@ -273,12 +273,12 @@
       "park": "Oracle Park",
       "park_factor": "-2%",
       "park_factor_class": "neut",
-      "yrfi": 39.9,
-      "away_proj": 4.14,
-      "home_proj": 3.7,
-      "model_total": 7.84,
-      "away_win_pct": 51.9,
-      "home_win_pct": 48.1,
+      "yrfi": 39.8,
+      "away_proj": 4.07,
+      "home_proj": 3.41,
+      "model_total": 7.48,
+      "away_win_pct": 53.3,
+      "home_win_pct": 46.7,
       "away_ml": -110,
       "home_ml": -106,
       "ou_line": 7.5,
@@ -301,7 +301,7 @@
       "away_win_pct": 30.7,
       "home_win_pct": 69.3,
       "away_ml": 158,
-      "home_ml": -177,
+      "home_ml": -178,
       "ou_line": 8.5,
       "best_bet": false
     }
