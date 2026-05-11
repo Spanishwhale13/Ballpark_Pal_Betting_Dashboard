@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-11T22:31:52.790377+00:00",
-  "scraped_at_display": "Scraped May 11, 2026 \u00b7 6:31 PM ET",
+  "scraped_at": "2026-05-11T23:51:08.575131+00:00",
+  "scraped_at_display": "Scraped May 11, 2026 \u00b7 7:51 PM ET",
   "date_label": "May 11, 2026",
   "games": [
     {
@@ -63,7 +63,7 @@
       "home_win_pct": 55.1,
       "away_ml": 108,
       "home_ml": -118,
-      "ou_line": null,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -83,7 +83,7 @@
       "away_win_pct": 48.9,
       "home_win_pct": 51.1,
       "away_ml": -105,
-      "home_ml": -110,
+      "home_ml": -108,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -103,8 +103,8 @@
       "model_total": 8.36,
       "away_win_pct": 60.5,
       "home_win_pct": 39.5,
-      "away_ml": -140,
-      "home_ml": 120,
+      "away_ml": -148,
+      "home_ml": 130,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -119,11 +119,11 @@
       "park_factor": "-9%",
       "park_factor_class": "neg",
       "yrfi": 46.2,
-      "away_proj": 3.77,
-      "home_proj": 4.31,
-      "model_total": 8.08,
-      "away_win_pct": 42.0,
-      "home_win_pct": 58.0,
+      "away_proj": 3.92,
+      "home_proj": 4.37,
+      "model_total": 8.29,
+      "away_win_pct": 42.8,
+      "home_win_pct": 57.2,
       "away_ml": 170,
       "home_ml": -184,
       "ou_line": 9.5,
