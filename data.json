@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-12T21:04:58.993606+00:00",
-  "scraped_at_display": "Scraped May 12, 2026 \u00b7 5:04 PM ET",
+  "scraped_at": "2026-05-12T22:39:34.715391+00:00",
+  "scraped_at_display": "Scraped May 12, 2026 \u00b7 6:39 PM ET",
   "date_label": "May 12, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 9.5,
       "away_win_pct": 50.3,
       "home_win_pct": 49.7,
-      "away_ml": 119,
-      "home_ml": -129,
+      "away_ml": 118,
+      "home_ml": -130,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -40,7 +40,7 @@
       "model_total": 9.72,
       "away_win_pct": 53.6,
       "home_win_pct": 46.4,
-      "away_ml": -140,
+      "away_ml": -137,
       "home_ml": 122,
       "ou_line": 8.5,
       "best_bet": false
@@ -83,7 +83,7 @@
       "away_win_pct": 27.7,
       "home_win_pct": 72.3,
       "away_ml": 250,
-      "home_ml": -275,
+      "home_ml": -290,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -104,7 +104,7 @@
       "away_win_pct": 63.4,
       "home_win_pct": 36.6,
       "away_ml": -140,
-      "home_ml": 130,
+      "home_ml": 125,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -125,7 +125,7 @@
       "away_win_pct": 52.2,
       "home_win_pct": 47.8,
       "away_ml": -115,
-      "home_ml": -102,
+      "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -145,7 +145,7 @@
       "model_total": 8.9,
       "away_win_pct": 39.0,
       "home_win_pct": 61.0,
-      "away_ml": 128,
+      "away_ml": 126,
       "home_ml": -145,
       "ou_line": 7.5,
       "best_bet": false
@@ -187,8 +187,8 @@
       "model_total": 10.55,
       "away_win_pct": 43.5,
       "home_win_pct": 56.5,
-      "away_ml": -103,
-      "home_ml": -108,
+      "away_ml": -106,
+      "home_ml": -110,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -208,7 +208,7 @@
       "model_total": 9.43,
       "away_win_pct": 51.3,
       "home_win_pct": 48.7,
-      "away_ml": 119,
+      "away_ml": 130,
       "home_ml": -136,
       "ou_line": 8.5,
       "best_bet": false
@@ -229,8 +229,8 @@
       "model_total": 9.64,
       "away_win_pct": 56.1,
       "home_win_pct": 43.9,
-      "away_ml": -122,
-      "home_ml": 106,
+      "away_ml": -118,
+      "home_ml": 102,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -250,10 +250,14 @@
       "model_total": 9.29,
       "away_win_pct": 51.2,
       "home_win_pct": 48.8,
-      "away_ml": 106,
+      "away_ml": 109,
       "home_ml": -124,
-      "ou_line": 8.5,
-      "best_bet": false
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Arizona Diamondbacks @ Texas Rangers 7.5",
+      "best_bet_edge": 1.79
     },
     {
       "gamepk": "824197",
@@ -271,8 +275,8 @@
       "model_total": 9.01,
       "away_win_pct": 60.2,
       "home_win_pct": 39.8,
-      "away_ml": -169,
-      "home_ml": 144,
+      "away_ml": -180,
+      "home_ml": 168,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -286,14 +290,14 @@
       "park": "Sutter Health Park",
       "park_factor": "+17%",
       "park_factor_class": "pos",
-      "yrfi": 53.4,
-      "away_proj": 4.42,
-      "home_proj": 5.61,
-      "model_total": 10.03,
-      "away_win_pct": 36.6,
-      "home_win_pct": 63.4,
+      "yrfi": 51.9,
+      "away_proj": 4.14,
+      "home_proj": 5.17,
+      "model_total": 9.31,
+      "away_win_pct": 37.3,
+      "home_win_pct": 62.7,
       "away_ml": 130,
-      "home_ml": -152,
+      "home_ml": -150,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -307,17 +311,43 @@
       "park": "Dodger Stadium",
       "park_factor": "-9%",
       "park_factor_class": "neg",
-      "yrfi": 48.5,
-      "away_proj": 3.61,
-      "home_proj": 5.05,
-      "model_total": 8.66,
-      "away_win_pct": 32.5,
-      "home_win_pct": 67.5,
-      "away_ml": 258,
-      "home_ml": -300,
+      "yrfi": 46.7,
+      "away_proj": 3.49,
+      "home_proj": 4.74,
+      "model_total": 8.23,
+      "away_win_pct": 33.2,
+      "home_win_pct": 66.8,
+      "away_ml": 260,
+      "home_ml": -310,
       "ou_line": 8.5,
       "best_bet": false
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "822903",
+      "time": "8:05",
+      "away": "Arizona Diamondbacks",
+      "home": "Texas Rangers",
+      "away_starter": "Zac Gallen",
+      "home_starter": "MacKenzie Gore",
+      "park": "Globe Life Field",
+      "park_factor": "-7%",
+      "park_factor_class": "neg",
+      "yrfi": 52.6,
+      "away_proj": 4.8,
+      "home_proj": 4.49,
+      "model_total": 9.29,
+      "away_win_pct": 51.2,
+      "home_win_pct": 48.8,
+      "away_ml": 109,
+      "home_ml": -124,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Arizona Diamondbacks @ Texas Rangers 7.5",
+      "best_bet_edge": 1.79
+    }
+  ]
 }
