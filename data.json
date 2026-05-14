@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-14T17:17:16.024824+00:00",
-  "scraped_at_display": "Scraped May 14, 2026 \u00b7 1:17 PM ET",
+  "scraped_at": "2026-05-14T19:15:57.926536+00:00",
+  "scraped_at_display": "Scraped May 14, 2026 \u00b7 3:15 PM ET",
   "date_label": "May 14, 2026",
   "games": [
     {
@@ -82,7 +82,7 @@
       "model_total": 9.22,
       "away_win_pct": 50.8,
       "home_win_pct": 49.2,
-      "away_ml": -108,
+      "away_ml": -110,
       "home_ml": -105,
       "ou_line": 8.5,
       "best_bet": false
@@ -104,7 +104,7 @@
       "away_win_pct": 42.1,
       "home_win_pct": 57.9,
       "away_ml": 126,
-      "home_ml": -134,
+      "home_ml": -135,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -145,8 +145,8 @@
       "model_total": 10.61,
       "away_win_pct": 45.1,
       "home_win_pct": 54.9,
-      "away_ml": 102,
-      "home_ml": -115,
+      "away_ml": 105,
+      "home_ml": -120,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -166,7 +166,7 @@
       "model_total": 8.09,
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
-      "away_ml": 100,
+      "away_ml": -108,
       "home_ml": -106,
       "ou_line": 7.5,
       "best_bet": false
@@ -187,7 +187,7 @@
       "model_total": 8.89,
       "away_win_pct": 42.5,
       "home_win_pct": 57.5,
-      "away_ml": 155,
+      "away_ml": 160,
       "home_ml": -178,
       "ou_line": 7.5,
       "best_bet": false
@@ -221,7 +221,7 @@
       "away_starter": "Landen Roupp",
       "home_starter": "Emmet Sheehan",
       "park": "Dodger Stadium",
-      "park_factor": "-6%",
+      "park_factor": "-9%",
       "park_factor_class": "neg",
       "yrfi": 47.7,
       "away_proj": 4.14,
@@ -231,7 +231,7 @@
       "home_win_pct": 56.1,
       "away_ml": 150,
       "home_ml": -175,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     }
   ],
