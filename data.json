@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-15T22:45:56.008883+00:00",
-  "scraped_at_display": "Scraped May 15, 2026 \u00b7 6:45 PM ET",
+  "scraped_at": "2026-05-15T23:47:47.523546+00:00",
+  "scraped_at_display": "Scraped May 15, 2026 \u00b7 7:47 PM ET",
   "date_label": "May 15, 2026",
   "games": [
     {
@@ -40,7 +40,7 @@
       "model_total": 10.47,
       "away_win_pct": 63.3,
       "home_win_pct": 36.7,
-      "away_ml": -134,
+      "away_ml": -137,
       "home_ml": 118,
       "ou_line": 9.5,
       "best_bet": false
@@ -83,13 +83,9 @@
       "away_win_pct": 37.6,
       "home_win_pct": 62.4,
       "away_ml": 122,
-      "home_ml": -136,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Cincinnati Reds @ Cleveland Guardians 7.5",
-      "best_bet_edge": 1.75
+      "home_ml": -130,
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "822983",
@@ -149,8 +145,8 @@
       "model_total": 7.21,
       "away_win_pct": 63.0,
       "home_win_pct": 37.0,
-      "away_ml": -144,
-      "home_ml": 128,
+      "away_ml": -140,
+      "home_ml": 130,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -191,8 +187,8 @@
       "model_total": 9.74,
       "away_win_pct": 53.6,
       "home_win_pct": 46.4,
-      "away_ml": -130,
-      "home_ml": 117,
+      "away_ml": -125,
+      "home_ml": 112,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -212,7 +208,7 @@
       "model_total": 8.57,
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
-      "away_ml": -106,
+      "away_ml": -108,
       "home_ml": -104,
       "ou_line": 8.5,
       "best_bet": false
@@ -254,8 +250,8 @@
       "model_total": 12.82,
       "away_win_pct": 49.0,
       "home_win_pct": 51.0,
-      "away_ml": -124,
-      "home_ml": 106,
+      "away_ml": -118,
+      "home_ml": 107,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -276,7 +272,7 @@
       "away_win_pct": 61.6,
       "home_win_pct": 38.4,
       "away_ml": -190,
-      "home_ml": 163,
+      "home_ml": 162,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -318,36 +314,10 @@
       "away_win_pct": 44.7,
       "home_win_pct": 55.3,
       "away_ml": 115,
-      "home_ml": -125,
+      "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "824439",
-      "time": "7:10",
-      "away": "Cincinnati Reds",
-      "home": "Cleveland Guardians",
-      "away_starter": "Andrew Abbott",
-      "home_starter": "Tanner Bibee",
-      "park": "Progressive Field",
-      "park_factor": "-6%",
-      "park_factor_class": "neg",
-      "yrfi": 52.1,
-      "away_proj": 4.21,
-      "home_proj": 5.04,
-      "model_total": 9.25,
-      "away_win_pct": 37.6,
-      "home_win_pct": 62.4,
-      "away_ml": 122,
-      "home_ml": -136,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Cincinnati Reds @ Cleveland Guardians 7.5",
-      "best_bet_edge": 1.75
-    }
-  ]
+  "best_bets": []
 }
