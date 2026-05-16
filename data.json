@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T18:53:32.936517+00:00",
-  "scraped_at_display": "Scraped May 16, 2026 \u00b7 2:53 PM ET",
+  "scraped_at": "2026-05-16T19:58:49.955559+00:00",
+  "scraped_at_display": "Scraped May 16, 2026 \u00b7 3:58 PM ET",
   "date_label": "May 16, 2026",
   "games": [
     {
@@ -84,12 +84,8 @@
       "home_win_pct": 53.2,
       "away_ml": -108,
       "home_ml": -105,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Baltimore Orioles @ Washington Nationals 8.5",
-      "best_bet_edge": 3.01
+      "ou_line": 10.5,
+      "best_bet": false
     },
     {
       "gamepk": "823382",
@@ -128,7 +124,7 @@
       "model_total": 7.78,
       "away_win_pct": 44.8,
       "home_win_pct": 55.2,
-      "away_ml": 120,
+      "away_ml": 117,
       "home_ml": -134,
       "ou_line": 7.5,
       "best_bet": false
@@ -153,7 +149,7 @@
       "home_ml": -155,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cincinnati Reds @ Cleveland Guardians 8.5",
       "best_bet_edge": 1.84
@@ -238,7 +234,7 @@
       "away_win_pct": 54.1,
       "home_win_pct": 45.9,
       "away_ml": -120,
-      "home_ml": 104,
+      "home_ml": 105,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -259,7 +255,7 @@
       "away_win_pct": 37.2,
       "home_win_pct": 62.8,
       "away_ml": 150,
-      "home_ml": -172,
+      "home_ml": -167,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -273,14 +269,14 @@
       "park": "Truist Park",
       "park_factor": "-3%",
       "park_factor_class": "neg",
-      "yrfi": 48.8,
-      "away_proj": 4.29,
+      "yrfi": 48.0,
+      "away_proj": 4.54,
       "home_proj": 4.24,
-      "model_total": 8.53,
-      "away_win_pct": 49.6,
-      "home_win_pct": 50.4,
-      "away_ml": 108,
-      "home_ml": -125,
+      "model_total": 8.78,
+      "away_win_pct": 51.0,
+      "home_win_pct": 49.0,
+      "away_ml": 109,
+      "home_ml": -120,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -329,31 +325,6 @@
   ],
   "best_bets": [
     {
-      "gamepk": "822737",
-      "time": "4:05",
-      "away": "Baltimore Orioles",
-      "home": "Washington Nationals",
-      "away_starter": "Chris Bassitt",
-      "home_starter": "Cade Cavalli",
-      "park": "Nationals Park",
-      "park_factor": "+12%",
-      "park_factor_class": "pos",
-      "yrfi": 60.3,
-      "away_proj": 5.72,
-      "home_proj": 5.79,
-      "model_total": 11.51,
-      "away_win_pct": 46.8,
-      "home_win_pct": 53.2,
-      "away_ml": -108,
-      "home_ml": -105,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Baltimore Orioles @ Washington Nationals 8.5",
-      "best_bet_edge": 3.01
-    },
-    {
       "gamepk": "824435",
       "time": "6:10",
       "away": "Cincinnati Reds",
@@ -373,7 +344,7 @@
       "home_ml": -155,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cincinnati Reds @ Cleveland Guardians 8.5",
       "best_bet_edge": 1.84
