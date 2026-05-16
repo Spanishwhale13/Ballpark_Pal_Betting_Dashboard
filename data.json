@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-15T23:47:47.523546+00:00",
-  "scraped_at_display": "Scraped May 15, 2026 \u00b7 7:47 PM ET",
+  "scraped_at": "2026-05-16T02:24:17.032748+00:00",
+  "scraped_at_display": "Scraped May 15, 2026 \u00b7 10:24 PM ET",
   "date_label": "May 15, 2026",
   "games": [
     {
@@ -188,7 +188,7 @@
       "away_win_pct": 53.6,
       "home_win_pct": 46.4,
       "away_ml": -125,
-      "home_ml": 112,
+      "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -208,7 +208,7 @@
       "model_total": 8.57,
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
-      "away_ml": -108,
+      "away_ml": -112,
       "home_ml": -104,
       "ou_line": 8.5,
       "best_bet": false
@@ -229,8 +229,8 @@
       "model_total": 8.71,
       "away_win_pct": 53.5,
       "home_win_pct": 46.5,
-      "away_ml": -106,
-      "home_ml": -105,
+      "away_ml": -108,
+      "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -251,7 +251,7 @@
       "away_win_pct": 49.0,
       "home_win_pct": 51.0,
       "away_ml": -118,
-      "home_ml": 107,
+      "home_ml": 104,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -292,8 +292,8 @@
       "model_total": 7.36,
       "away_win_pct": 46.4,
       "home_win_pct": 53.6,
-      "away_ml": 114,
-      "home_ml": -130,
+      "away_ml": 115,
+      "home_ml": -132,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -313,7 +313,7 @@
       "model_total": 10.02,
       "away_win_pct": 44.7,
       "home_win_pct": 55.3,
-      "away_ml": 115,
+      "away_ml": 118,
       "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": false
