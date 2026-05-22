@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-21T22:58:28.192694+00:00",
-  "scraped_at_display": "Scraped May 21, 2026 \u00b7 6:58 PM ET",
+  "scraped_at": "2026-05-22T00:03:54.289518+00:00",
+  "scraped_at_display": "Scraped May 21, 2026 \u00b7 8:03 PM ET",
   "date_label": "May 21, 2026",
   "games": [
     {
@@ -129,7 +129,7 @@
       "away_win_pct": 48.2,
       "home_win_pct": 51.8,
       "away_ml": 100,
-      "home_ml": -113,
+      "home_ml": -114,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -143,13 +143,13 @@
       "park": "Chase Field",
       "park_factor": "+2%",
       "park_factor_class": "neut",
-      "yrfi": 53.9,
-      "away_proj": 4.31,
-      "home_proj": 5.39,
-      "model_total": 9.7,
-      "away_win_pct": 36.7,
-      "home_win_pct": 63.3,
-      "away_ml": 180,
+      "yrfi": 54.9,
+      "away_proj": 4.05,
+      "home_proj": 5.46,
+      "model_total": 9.51,
+      "away_win_pct": 34.2,
+      "home_win_pct": 65.8,
+      "away_ml": 185,
       "home_ml": -205,
       "ou_line": 9.5,
       "best_bet": false
