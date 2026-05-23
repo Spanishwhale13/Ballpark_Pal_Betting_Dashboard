@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T19:03:33.767583+00:00",
-  "scraped_at_display": "Scraped May 23, 2026 \u00b7 3:03 PM ET",
+  "scraped_at": "2026-05-23T20:13:16.007865+00:00",
+  "scraped_at_display": "Scraped May 23, 2026 \u00b7 4:13 PM ET",
   "date_label": "May 23, 2026",
   "games": [
     {
@@ -82,7 +82,7 @@
       "model_total": 8.55,
       "away_win_pct": 53.8,
       "home_win_pct": 46.2,
-      "away_ml": -102,
+      "away_ml": -103,
       "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
@@ -103,8 +103,8 @@
       "model_total": 7.94,
       "away_win_pct": 36.0,
       "home_win_pct": 64.0,
-      "away_ml": 160,
-      "home_ml": -180,
+      "away_ml": 155,
+      "home_ml": -170,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -124,7 +124,7 @@
       "model_total": 7.8,
       "away_win_pct": 45.0,
       "home_win_pct": 55.0,
-      "away_ml": -104,
+      "away_ml": 100,
       "home_ml": -112,
       "ou_line": 7.5,
       "best_bet": false
@@ -146,7 +146,7 @@
       "away_win_pct": 51.3,
       "home_win_pct": 48.7,
       "away_ml": -125,
-      "home_ml": 112,
+      "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -187,7 +187,7 @@
       "model_total": 9.77,
       "away_win_pct": 34.6,
       "home_win_pct": 65.4,
-      "away_ml": 148,
+      "away_ml": 145,
       "home_ml": -165,
       "ou_line": 8.5,
       "best_bet": false
@@ -227,12 +227,12 @@
       "park": "American Family Field",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 55.5,
-      "away_proj": 5.32,
-      "home_proj": 4.66,
-      "model_total": 9.98,
-      "away_win_pct": 55.4,
-      "home_win_pct": 44.6,
+      "yrfi": 54.8,
+      "away_proj": 5.45,
+      "home_proj": 4.27,
+      "model_total": 9.72,
+      "away_win_pct": 58.3,
+      "home_win_pct": 41.7,
       "away_ml": -118,
       "home_ml": 104,
       "ou_line": 8.5,
@@ -267,7 +267,7 @@
       "away_starter": "Nathan Eovaldi",
       "home_starter": "Walbert Urena",
       "park": "Angel Stadium",
-      "park_factor": "-1%",
+      "park_factor": "+2%",
       "park_factor_class": "neut",
       "yrfi": 47.0,
       "away_proj": 4.15,
