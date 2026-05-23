@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-22T23:36:49.662642+00:00",
-  "scraped_at_display": "Scraped May 22, 2026 \u00b7 7:36 PM ET",
+  "scraped_at": "2026-05-23T02:28:31.541826+00:00",
+  "scraped_at_display": "Scraped May 22, 2026 \u00b7 10:28 PM ET",
   "date_label": "May 22, 2026",
   "games": [
     {
@@ -191,7 +191,7 @@
       "model_total": 8.71,
       "away_win_pct": 55.0,
       "home_win_pct": 45.0,
-      "away_ml": -114,
+      "away_ml": -112,
       "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
@@ -212,8 +212,8 @@
       "model_total": 8.94,
       "away_win_pct": 47.9,
       "home_win_pct": 52.1,
-      "away_ml": -105,
-      "home_ml": -108,
+      "away_ml": -104,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -233,8 +233,8 @@
       "model_total": 7.9,
       "away_win_pct": 49.1,
       "home_win_pct": 50.9,
-      "away_ml": -160,
-      "home_ml": 136,
+      "away_ml": -157,
+      "home_ml": 140,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -254,7 +254,7 @@
       "model_total": 7.57,
       "away_win_pct": 50.0,
       "home_win_pct": 50.0,
-      "away_ml": 110,
+      "away_ml": 107,
       "home_ml": -115,
       "ou_line": 7.5,
       "best_bet": false
@@ -269,15 +269,15 @@
       "park": "Chase Field",
       "park_factor": "-7%",
       "park_factor_class": "neg",
-      "yrfi": 49.1,
-      "away_proj": 3.86,
+      "yrfi": 50.1,
+      "away_proj": 3.58,
       "home_proj": 4.36,
-      "model_total": 8.22,
-      "away_win_pct": 42.0,
-      "home_win_pct": 58.0,
-      "away_ml": 185,
+      "model_total": 7.94,
+      "away_win_pct": 38.6,
+      "home_win_pct": 61.4,
+      "away_ml": 200,
       "home_ml": -220,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -290,14 +290,14 @@
       "park": "Oracle Park",
       "park_factor": "-9%",
       "park_factor_class": "neg",
-      "yrfi": 41.9,
-      "away_proj": 3.41,
-      "home_proj": 3.77,
-      "model_total": 7.18,
-      "away_win_pct": 42.9,
-      "home_win_pct": 57.1,
+      "yrfi": 42.6,
+      "away_proj": 3.44,
+      "home_proj": 3.71,
+      "model_total": 7.15,
+      "away_win_pct": 43.6,
+      "home_win_pct": 56.4,
       "away_ml": -112,
-      "home_ml": -104,
+      "home_ml": 100,
       "ou_line": 7.5,
       "best_bet": false
     }
