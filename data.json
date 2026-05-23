@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T20:13:16.007865+00:00",
-  "scraped_at_display": "Scraped May 23, 2026 \u00b7 4:13 PM ET",
+  "scraped_at": "2026-05-23T21:12:33.649478+00:00",
+  "scraped_at_display": "Scraped May 23, 2026 \u00b7 5:12 PM ET",
   "date_label": "May 23, 2026",
   "games": [
     {
@@ -124,8 +124,8 @@
       "model_total": 7.8,
       "away_win_pct": 45.0,
       "home_win_pct": 55.0,
-      "away_ml": 100,
-      "home_ml": -112,
+      "away_ml": -104,
+      "home_ml": -110,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -145,7 +145,7 @@
       "model_total": 7.31,
       "away_win_pct": 51.3,
       "home_win_pct": 48.7,
-      "away_ml": -125,
+      "away_ml": -124,
       "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
@@ -202,20 +202,16 @@
       "park": "Great American Ball Park",
       "park_factor": "+12%",
       "park_factor_class": "pos",
-      "yrfi": 55.4,
-      "away_proj": 4.58,
-      "home_proj": 5.69,
-      "model_total": 10.27,
-      "away_win_pct": 36.7,
-      "home_win_pct": 63.3,
-      "away_ml": -110,
+      "yrfi": 56.8,
+      "away_proj": 4.75,
+      "home_proj": 5.47,
+      "model_total": 10.22,
+      "away_win_pct": 40.5,
+      "home_win_pct": 59.5,
+      "away_ml": -106,
       "home_ml": -106,
       "ou_line": 9.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "ml_home",
-      "best_bet_desc": "Cincinnati Reds +-106",
-      "best_bet_edge": 11.84
+      "best_bet": false
     },
     {
       "gamepk": "823787",
@@ -234,7 +230,7 @@
       "away_win_pct": 58.3,
       "home_win_pct": 41.7,
       "away_ml": -118,
-      "home_ml": 104,
+      "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -246,7 +242,7 @@
       "away_starter": "J.T. Ginn",
       "home_starter": "Lucas Giolito",
       "park": "Petco Park",
-      "park_factor": "-12%",
+      "park_factor": "-11%",
       "park_factor_class": "neg",
       "yrfi": 48.4,
       "away_proj": 4.39,
@@ -275,8 +271,8 @@
       "model_total": 8.06,
       "away_win_pct": 49.5,
       "home_win_pct": 50.5,
-      "away_ml": -136,
-      "home_ml": 123,
+      "away_ml": -137,
+      "home_ml": 122,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -302,31 +298,5 @@
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "824516",
-      "time": "7:15",
-      "away": "St. Louis Cardinals",
-      "home": "Cincinnati Reds",
-      "away_starter": "Kyle Leahy",
-      "home_starter": "Chase Petty",
-      "park": "Great American Ball Park",
-      "park_factor": "+12%",
-      "park_factor_class": "pos",
-      "yrfi": 55.4,
-      "away_proj": 4.58,
-      "home_proj": 5.69,
-      "model_total": 10.27,
-      "away_win_pct": 36.7,
-      "home_win_pct": 63.3,
-      "away_ml": -110,
-      "home_ml": -106,
-      "ou_line": 9.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "ml_home",
-      "best_bet_desc": "Cincinnati Reds +-106",
-      "best_bet_edge": 11.84
-    }
-  ]
+  "best_bets": []
 }
