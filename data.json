@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T17:56:26.088869+00:00",
-  "scraped_at_display": "Scraped May 23, 2026 \u00b7 1:56 PM ET",
+  "scraped_at": "2026-05-23T19:03:33.767583+00:00",
+  "scraped_at_display": "Scraped May 23, 2026 \u00b7 3:03 PM ET",
   "date_label": "May 23, 2026",
   "games": [
     {
@@ -40,8 +40,8 @@
       "model_total": 6.98,
       "away_win_pct": 42.8,
       "home_win_pct": 57.2,
-      "away_ml": 135,
-      "home_ml": -148,
+      "away_ml": 126,
+      "home_ml": -145,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -61,8 +61,8 @@
       "model_total": 7.15,
       "away_win_pct": 60.1,
       "home_win_pct": 39.9,
-      "away_ml": -154,
-      "home_ml": 135,
+      "away_ml": -140,
+      "home_ml": 128,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -83,7 +83,7 @@
       "away_win_pct": 53.8,
       "home_win_pct": 46.2,
       "away_ml": -102,
-      "home_ml": -114,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -105,7 +105,7 @@
       "home_win_pct": 64.0,
       "away_ml": 160,
       "home_ml": -180,
-      "ou_line": 7.5,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -187,7 +187,7 @@
       "model_total": 9.77,
       "away_win_pct": 34.6,
       "home_win_pct": 65.4,
-      "away_ml": 150,
+      "away_ml": 148,
       "home_ml": -165,
       "ou_line": 8.5,
       "best_bet": false
@@ -267,7 +267,7 @@
       "away_starter": "Nathan Eovaldi",
       "home_starter": "Walbert Urena",
       "park": "Angel Stadium",
-      "park_factor": "0%",
+      "park_factor": "-1%",
       "park_factor_class": "neut",
       "yrfi": 47.0,
       "away_proj": 4.15,
@@ -276,7 +276,7 @@
       "away_win_pct": 49.5,
       "home_win_pct": 50.5,
       "away_ml": -136,
-      "home_ml": 122,
+      "home_ml": 123,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -288,8 +288,8 @@
       "away_starter": "Michael Lorenzen",
       "home_starter": "Zac Gallen",
       "park": "Chase Field",
-      "park_factor": "+5%",
-      "park_factor_class": "pos",
+      "park_factor": "+2%",
+      "park_factor_class": "neut",
       "yrfi": 53.3,
       "away_proj": 4.01,
       "home_proj": 5.44,
@@ -297,7 +297,7 @@
       "away_win_pct": 33.8,
       "home_win_pct": 66.2,
       "away_ml": 158,
-      "home_ml": -178,
+      "home_ml": -184,
       "ou_line": 9.5,
       "best_bet": false
     }
