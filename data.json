@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-24T19:05:25.036204+00:00",
-  "scraped_at_display": "Scraped May 24, 2026 \u00b7 3:05 PM ET",
+  "scraped_at": "2026-05-24T20:29:47.698803+00:00",
+  "scraped_at_display": "Scraped May 24, 2026 \u00b7 4:29 PM ET",
   "date_label": "May 24, 2026",
   "games": [
     {
@@ -189,7 +189,7 @@
       "home_win_pct": 62.9,
       "away_ml": 150,
       "home_ml": -170,
-      "ou_line": 7.5,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -208,7 +208,7 @@
       "model_total": 8.13,
       "away_win_pct": 51.4,
       "home_win_pct": 48.6,
-      "away_ml": 110,
+      "away_ml": 106,
       "home_ml": -122,
       "ou_line": 7.5,
       "best_bet": false
@@ -230,7 +230,7 @@
       "away_win_pct": 37.6,
       "home_win_pct": 62.4,
       "away_ml": 150,
-      "home_ml": -178,
+      "home_ml": -170,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -250,8 +250,8 @@
       "model_total": 8.74,
       "away_win_pct": 42.2,
       "home_win_pct": 57.8,
-      "away_ml": 140,
-      "home_ml": -160,
+      "away_ml": 138,
+      "home_ml": -152,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -272,7 +272,7 @@
       "away_win_pct": 35.8,
       "home_win_pct": 64.2,
       "away_ml": 170,
-      "home_ml": -190,
+      "home_ml": -195,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -284,8 +284,8 @@
       "away_starter": "Troy Melton",
       "home_starter": "Trevor Rogers",
       "park": "Oriole Park at Camden Yards",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
+      "park_factor": "-2%",
+      "park_factor_class": "neut",
       "yrfi": 44.9,
       "away_proj": 4.07,
       "home_proj": 3.91,
@@ -293,7 +293,7 @@
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
       "away_ml": 106,
-      "home_ml": -122,
+      "home_ml": -124,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -313,9 +313,9 @@
       "model_total": 8.26,
       "away_win_pct": 41.8,
       "home_win_pct": 58.2,
-      "away_ml": 102,
+      "away_ml": 100,
       "home_ml": -118,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     }
   ],
