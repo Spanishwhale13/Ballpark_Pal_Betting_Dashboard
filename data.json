@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-24T22:50:19.094972+00:00",
-  "scraped_at_display": "Scraped May 24, 2026 \u00b7 6:50 PM ET",
+  "scraped_at": "2026-05-24T23:53:14.598333+00:00",
+  "scraped_at_display": "Scraped May 24, 2026 \u00b7 7:53 PM ET",
   "date_label": "May 24, 2026",
   "games": [
     {
@@ -189,7 +189,7 @@
       "home_win_pct": 62.9,
       "away_ml": 150,
       "home_ml": -170,
-      "ou_line": 6.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
