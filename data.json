@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-25T22:03:11.738919+00:00",
-  "scraped_at_display": "Scraped May 25, 2026 \u00b7 6:03 PM ET",
+  "scraped_at": "2026-05-25T23:36:18.922764+00:00",
+  "scraped_at_display": "Scraped May 25, 2026 \u00b7 7:36 PM ET",
   "date_label": "May 25, 2026",
   "games": [
     {
@@ -166,8 +166,8 @@
       "model_total": 7.86,
       "away_win_pct": 35.4,
       "home_win_pct": 64.6,
-      "away_ml": 150,
-      "home_ml": -175,
+      "away_ml": 152,
+      "home_ml": -170,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -187,8 +187,8 @@
       "model_total": 7.51,
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
-      "away_ml": -120,
-      "home_ml": 110,
+      "away_ml": -115,
+      "home_ml": 105,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -209,7 +209,7 @@
       "away_win_pct": 45.9,
       "home_win_pct": 54.1,
       "away_ml": 108,
-      "home_ml": -120,
+      "home_ml": -118,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -230,7 +230,7 @@
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
       "away_ml": 130,
-      "home_ml": -152,
+      "home_ml": -149,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -260,8 +260,8 @@
       "time": "9:40",
       "away": "Seattle Mariners",
       "home": "Oakland Athletics",
-      "away_starter": "",
-      "home_starter": "",
+      "away_starter": "Luis Castillo",
+      "home_starter": "Aaron Civale",
       "park": "Sutter Health Park",
       "park_factor": "+24%",
       "park_factor_class": "pos",
@@ -271,8 +271,8 @@
       "model_total": 11.34,
       "away_win_pct": 48.0,
       "home_win_pct": 52.0,
-      "away_ml": -114,
-      "home_ml": -102,
+      "away_ml": -115,
+      "home_ml": null,
       "ou_line": 10.5,
       "best_bet": false
     }
