@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-27T23:55:36.543099+00:00",
-  "scraped_at_display": "Scraped May 27, 2026 \u00b7 7:55 PM ET",
+  "scraped_at": "2026-05-28T02:33:10.287258+00:00",
+  "scraped_at_display": "Scraped May 27, 2026 \u00b7 10:33 PM ET",
   "date_label": "May 27, 2026",
   "games": [
     {
@@ -84,7 +84,7 @@
       "home_win_pct": 46.8,
       "away_ml": -120,
       "home_ml": 106,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -311,14 +311,14 @@
       "park": "Dodger Stadium",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 49.9,
-      "away_proj": 3.05,
-      "home_proj": 5.45,
-      "model_total": 8.5,
-      "away_win_pct": 23.0,
-      "home_win_pct": 77.0,
-      "away_ml": 336,
-      "home_ml": -420,
+      "yrfi": 50.6,
+      "away_proj": 3.08,
+      "home_proj": 5.41,
+      "model_total": 8.49,
+      "away_win_pct": 24.4,
+      "home_win_pct": 75.6,
+      "away_ml": 360,
+      "home_ml": -450,
       "ou_line": 8.5,
       "best_bet": false
     }
