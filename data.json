@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-28T21:51:13.316162+00:00",
-  "scraped_at_display": "Scraped May 28, 2026 \u00b7 5:51 PM ET",
+  "scraped_at": "2026-05-28T23:08:01.739578+00:00",
+  "scraped_at_display": "Scraped May 28, 2026 \u00b7 7:08 PM ET",
   "date_label": "May 28, 2026",
   "games": [
     {
@@ -86,7 +86,7 @@
       "model_total": 9.37,
       "away_win_pct": 45.6,
       "home_win_pct": 54.4,
-      "away_ml": 110,
+      "away_ml": 115,
       "home_ml": -126,
       "ou_line": 8.5,
       "best_bet": false
@@ -101,14 +101,14 @@
       "park": "PNC Park",
       "park_factor": "-3%",
       "park_factor_class": "neg",
-      "yrfi": 45.8,
+      "yrfi": 44.8,
       "away_proj": 3.38,
-      "home_proj": 4.62,
-      "model_total": 8.0,
-      "away_win_pct": 34.7,
-      "home_win_pct": 65.3,
-      "away_ml": 146,
-      "home_ml": -170,
+      "home_proj": 4.43,
+      "model_total": 7.81,
+      "away_win_pct": 35.5,
+      "home_win_pct": 64.5,
+      "away_ml": 150,
+      "home_ml": -174,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -129,7 +129,7 @@
       "away_win_pct": 33.5,
       "home_win_pct": 66.5,
       "away_ml": 125,
-      "home_ml": -137,
+      "home_ml": -142,
       "ou_line": 7.5,
       "best_bet": false
     }
