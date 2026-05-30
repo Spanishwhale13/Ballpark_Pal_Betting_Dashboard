@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30T20:31:56.211131+00:00",
-  "scraped_at_display": "Scraped May 30, 2026 \u00b7 4:31 PM ET",
+  "scraped_at": "2026-05-30T21:53:37.686538+00:00",
+  "scraped_at_display": "Scraped May 30, 2026 \u00b7 5:53 PM ET",
   "date_label": "May 30, 2026",
   "games": [
     {
@@ -168,7 +168,7 @@
       "home_win_pct": 54.2,
       "away_ml": 143,
       "home_ml": -162,
-      "ou_line": 6.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -202,14 +202,14 @@
       "park": "Great American Ball Park",
       "park_factor": "+6%",
       "park_factor_class": "pos",
-      "yrfi": 53.4,
-      "away_proj": 4.73,
-      "home_proj": 4.61,
-      "model_total": 9.34,
-      "away_win_pct": 51.2,
-      "home_win_pct": 48.8,
+      "yrfi": 49.6,
+      "away_proj": 4.83,
+      "home_proj": 4.46,
+      "model_total": 9.29,
+      "away_win_pct": 54.1,
+      "home_win_pct": 45.9,
       "away_ml": -120,
-      "home_ml": 115,
+      "home_ml": 110,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -223,15 +223,15 @@
       "park": "Busch Stadium",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 46.2,
-      "away_proj": 4.75,
-      "home_proj": 3.81,
-      "model_total": 8.56,
-      "away_win_pct": 58.1,
-      "home_win_pct": 41.9,
+      "yrfi": 48.5,
+      "away_proj": 4.78,
+      "home_proj": 3.91,
+      "model_total": 8.69,
+      "away_win_pct": 55.7,
+      "home_win_pct": 44.3,
       "away_ml": -130,
-      "home_ml": 117,
-      "ou_line": 8.5,
+      "home_ml": 113,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -242,7 +242,7 @@
       "away_starter": "Adrian Houser",
       "home_starter": "Ryan Feltner",
       "park": "Coors Field",
-      "park_factor": "+31%",
+      "park_factor": "+30%",
       "park_factor_class": "pos",
       "yrfi": 61.5,
       "away_proj": 6.13,
@@ -250,9 +250,9 @@
       "model_total": 11.71,
       "away_win_pct": 53.3,
       "home_win_pct": 46.7,
-      "away_ml": -110,
+      "away_ml": -112,
       "home_ml": -102,
-      "ou_line": null,
+      "ou_line": 11.5,
       "best_bet": false
     },
     {
@@ -271,7 +271,7 @@
       "model_total": 9.54,
       "away_win_pct": 58.8,
       "home_win_pct": 41.2,
-      "away_ml": -150,
+      "away_ml": -152,
       "home_ml": 130,
       "ou_line": 9.5,
       "best_bet": false
