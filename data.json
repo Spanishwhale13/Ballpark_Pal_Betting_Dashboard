@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30T19:20:59.570292+00:00",
-  "scraped_at_display": "Scraped May 30, 2026 \u00b7 3:20 PM ET",
+  "scraped_at": "2026-05-30T20:31:56.211131+00:00",
+  "scraped_at_display": "Scraped May 30, 2026 \u00b7 4:31 PM ET",
   "date_label": "May 30, 2026",
   "games": [
     {
@@ -82,7 +82,7 @@
       "model_total": 8.51,
       "away_win_pct": 43.1,
       "home_win_pct": 56.9,
-      "away_ml": 104,
+      "away_ml": 102,
       "home_ml": -118,
       "ou_line": 7.5,
       "best_bet": false
@@ -104,7 +104,7 @@
       "away_win_pct": 51.6,
       "home_win_pct": 48.4,
       "away_ml": 128,
-      "home_ml": -138,
+      "home_ml": -145,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -125,7 +125,7 @@
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
       "away_ml": 110,
-      "home_ml": -130,
+      "home_ml": -125,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -202,14 +202,14 @@
       "park": "Great American Ball Park",
       "park_factor": "+6%",
       "park_factor_class": "pos",
-      "yrfi": 52.3,
-      "away_proj": 5.1,
-      "home_proj": 4.75,
-      "model_total": 9.85,
-      "away_win_pct": 53.8,
-      "home_win_pct": 46.2,
-      "away_ml": -132,
-      "home_ml": 116,
+      "yrfi": 53.4,
+      "away_proj": 4.73,
+      "home_proj": 4.61,
+      "model_total": 9.34,
+      "away_win_pct": 51.2,
+      "home_win_pct": 48.8,
+      "away_ml": -120,
+      "home_ml": 115,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -229,7 +229,7 @@
       "model_total": 8.56,
       "away_win_pct": 58.1,
       "home_win_pct": 41.9,
-      "away_ml": -132,
+      "away_ml": -130,
       "home_ml": 117,
       "ou_line": 8.5,
       "best_bet": false
@@ -250,9 +250,9 @@
       "model_total": 11.71,
       "away_win_pct": 53.3,
       "home_win_pct": 46.7,
-      "away_ml": -114,
+      "away_ml": -110,
       "home_ml": -102,
-      "ou_line": 10.5,
+      "ou_line": null,
       "best_bet": false
     },
     {
