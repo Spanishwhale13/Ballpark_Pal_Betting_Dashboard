@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30T22:51:11.664595+00:00",
-  "scraped_at_display": "Scraped May 30, 2026 \u00b7 6:51 PM ET",
+  "scraped_at": "2026-05-30T23:54:56.393679+00:00",
+  "scraped_at_display": "Scraped May 30, 2026 \u00b7 7:54 PM ET",
   "date_label": "May 30, 2026",
   "games": [
     {
@@ -209,7 +209,7 @@
       "away_win_pct": 54.1,
       "home_win_pct": 45.9,
       "away_ml": -120,
-      "home_ml": 110,
+      "home_ml": 115,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -229,9 +229,9 @@
       "model_total": 8.69,
       "away_win_pct": 55.7,
       "home_win_pct": 44.3,
-      "away_ml": -132,
-      "home_ml": 115,
-      "ou_line": 7.5,
+      "away_ml": -130,
+      "home_ml": 114,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -250,10 +250,14 @@
       "model_total": 11.88,
       "away_win_pct": 50.5,
       "home_win_pct": 49.5,
-      "away_ml": -110,
-      "home_ml": -103,
-      "ou_line": 10.5,
-      "best_bet": false
+      "away_ml": -115,
+      "home_ml": -101,
+      "ou_line": 9.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Francisco Giants @ Colorado Rockies 9.5",
+      "best_bet_edge": 2.38
     },
     {
       "gamepk": "825000",
@@ -265,13 +269,13 @@
       "park": "Sutter Health Park",
       "park_factor": "+19%",
       "park_factor_class": "pos",
-      "yrfi": 50.3,
-      "away_proj": 5.58,
-      "home_proj": 4.25,
-      "model_total": 9.83,
-      "away_win_pct": 60.6,
-      "home_win_pct": 39.4,
-      "away_ml": -143,
+      "yrfi": 51.7,
+      "away_proj": 5.46,
+      "home_proj": 4.3,
+      "model_total": 9.76,
+      "away_win_pct": 58.9,
+      "home_win_pct": 41.1,
+      "away_ml": -148,
       "home_ml": 130,
       "ou_line": 9.5,
       "best_bet": false
@@ -293,7 +297,7 @@
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
       "away_ml": 108,
-      "home_ml": -124,
+      "home_ml": -125,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -319,5 +323,31 @@
       "best_bet": false
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "824352",
+      "time": "9:10",
+      "away": "San Francisco Giants",
+      "home": "Colorado Rockies",
+      "away_starter": "Adrian Houser",
+      "home_starter": "Ryan Feltner",
+      "park": "Coors Field",
+      "park_factor": "+30%",
+      "park_factor_class": "pos",
+      "yrfi": 63.6,
+      "away_proj": 6.13,
+      "home_proj": 5.75,
+      "model_total": 11.88,
+      "away_win_pct": 50.5,
+      "home_win_pct": 49.5,
+      "away_ml": -115,
+      "home_ml": -101,
+      "ou_line": 9.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Francisco Giants @ Colorado Rockies 9.5",
+      "best_bet_edge": 2.38
+    }
+  ]
 }
