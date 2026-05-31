@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31T16:58:43.068094+00:00",
-  "scraped_at_display": "Scraped May 31, 2026 \u00b7 12:58 PM ET",
+  "scraped_at": "2026-05-31T18:04:17.051276+00:00",
+  "scraped_at_display": "Scraped May 31, 2026 \u00b7 2:04 PM ET",
   "date_label": "May 31, 2026",
   "games": [
     {
@@ -55,14 +55,14 @@
       "park": "PNC Park",
       "park_factor": "-1%",
       "park_factor_class": "neut",
-      "yrfi": 44.6,
-      "away_proj": 3.42,
-      "home_proj": 4.35,
-      "model_total": 7.77,
-      "away_win_pct": 37.5,
-      "home_win_pct": 62.5,
-      "away_ml": 135,
-      "home_ml": -155,
+      "yrfi": 44.1,
+      "away_proj": 3.24,
+      "home_proj": 4.41,
+      "model_total": 7.65,
+      "away_win_pct": 34.6,
+      "home_win_pct": 65.4,
+      "away_ml": 143,
+      "home_ml": -166,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -82,7 +82,7 @@
       "model_total": 7.52,
       "away_win_pct": 44.1,
       "home_win_pct": 55.9,
-      "away_ml": 138,
+      "away_ml": 136,
       "home_ml": -155,
       "ou_line": 7.5,
       "best_bet": false
@@ -125,8 +125,8 @@
       "away_win_pct": 40.7,
       "home_win_pct": 59.3,
       "away_ml": 100,
-      "home_ml": -114,
-      "ou_line": 7.5,
+      "home_ml": -115,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -145,7 +145,7 @@
       "model_total": 8.88,
       "away_win_pct": 50.6,
       "home_win_pct": 49.4,
-      "away_ml": -125,
+      "away_ml": -124,
       "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
@@ -229,9 +229,9 @@
       "model_total": 11.45,
       "away_win_pct": 41.0,
       "home_win_pct": 59.0,
-      "away_ml": -110,
-      "home_ml": -104,
-      "ou_line": 10.5,
+      "away_ml": -112,
+      "home_ml": -103,
+      "ou_line": 11.5,
       "best_bet": false
     },
     {
@@ -244,16 +244,20 @@
       "park": "Sutter Health Park",
       "park_factor": "+22%",
       "park_factor_class": "pos",
-      "yrfi": 61.2,
-      "away_proj": 6.4,
-      "home_proj": 5.47,
-      "model_total": 11.87,
-      "away_win_pct": 56.7,
-      "home_win_pct": 43.3,
-      "away_ml": -172,
-      "home_ml": 152,
-      "ou_line": 10.5,
-      "best_bet": false
+      "yrfi": 58.9,
+      "away_proj": 6.51,
+      "home_proj": 5.4,
+      "model_total": 11.91,
+      "away_win_pct": 58.0,
+      "home_win_pct": 42.0,
+      "away_ml": -184,
+      "home_ml": 162,
+      "ou_line": 9.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Yankees @ Oakland Athletics 9.5",
+      "best_bet_edge": 2.41
     },
     {
       "gamepk": "823133",
@@ -271,7 +275,7 @@
       "model_total": 7.32,
       "away_win_pct": 33.1,
       "home_win_pct": 66.9,
-      "away_ml": 128,
+      "away_ml": 123,
       "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
@@ -286,15 +290,15 @@
       "park": "Dodger Stadium",
       "park_factor": "+8%",
       "park_factor_class": "pos",
-      "yrfi": 51.7,
-      "away_proj": 3.97,
-      "home_proj": 5.41,
-      "model_total": 9.38,
-      "away_win_pct": 33.3,
-      "home_win_pct": 66.7,
-      "away_ml": 194,
+      "yrfi": 54.9,
+      "away_proj": 4.05,
+      "home_proj": 5.24,
+      "model_total": 9.29,
+      "away_win_pct": 36.2,
+      "home_win_pct": 63.8,
+      "away_ml": 196,
       "home_ml": -235,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -314,10 +318,36 @@
       "away_win_pct": 55.0,
       "home_win_pct": 45.0,
       "away_ml": -102,
-      "home_ml": -107,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "825001",
+      "time": "4:05",
+      "away": "New York Yankees",
+      "home": "Oakland Athletics",
+      "away_starter": "Will Warren",
+      "home_starter": "Jacob Lopez",
+      "park": "Sutter Health Park",
+      "park_factor": "+22%",
+      "park_factor_class": "pos",
+      "yrfi": 58.9,
+      "away_proj": 6.51,
+      "home_proj": 5.4,
+      "model_total": 11.91,
+      "away_win_pct": 58.0,
+      "home_win_pct": 42.0,
+      "away_ml": -184,
+      "home_ml": 162,
+      "ou_line": 9.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Yankees @ Oakland Athletics 9.5",
+      "best_bet_edge": 2.41
+    }
+  ]
 }
