@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31T18:04:17.051276+00:00",
-  "scraped_at_display": "Scraped May 31, 2026 \u00b7 2:04 PM ET",
+  "scraped_at": "2026-05-31T19:47:31.706723+00:00",
+  "scraped_at_display": "Scraped May 31, 2026 \u00b7 3:47 PM ET",
   "date_label": "May 31, 2026",
   "games": [
     {
@@ -166,7 +166,7 @@
       "model_total": 7.82,
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
-      "away_ml": 115,
+      "away_ml": 114,
       "home_ml": -130,
       "ou_line": 7.5,
       "best_bet": false
@@ -187,8 +187,8 @@
       "model_total": 8.09,
       "away_win_pct": 68.6,
       "home_win_pct": 31.4,
-      "away_ml": -193,
-      "home_ml": 170,
+      "away_ml": -190,
+      "home_ml": 168,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -229,7 +229,7 @@
       "model_total": 11.45,
       "away_win_pct": 41.0,
       "home_win_pct": 59.0,
-      "away_ml": -112,
+      "away_ml": -110,
       "home_ml": -103,
       "ou_line": 11.5,
       "best_bet": false
@@ -250,8 +250,8 @@
       "model_total": 11.91,
       "away_win_pct": 58.0,
       "home_win_pct": 42.0,
-      "away_ml": -184,
-      "home_ml": 162,
+      "away_ml": -176,
+      "home_ml": 152,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -269,10 +269,10 @@
       "park": "T-Mobile Park",
       "park_factor": "-16%",
       "park_factor_class": "neg",
-      "yrfi": 46.2,
-      "away_proj": 3.02,
-      "home_proj": 4.3,
-      "model_total": 7.32,
+      "yrfi": 48.3,
+      "away_proj": 2.88,
+      "home_proj": 4.14,
+      "model_total": 7.02,
       "away_win_pct": 33.1,
       "home_win_pct": 66.9,
       "away_ml": 123,
@@ -318,7 +318,7 @@
       "away_win_pct": 55.0,
       "home_win_pct": 45.0,
       "away_ml": -102,
-      "home_ml": -110,
+      "home_ml": -113,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -340,8 +340,8 @@
       "model_total": 11.91,
       "away_win_pct": 58.0,
       "home_win_pct": 42.0,
-      "away_ml": -184,
-      "home_ml": 162,
+      "away_ml": -176,
+      "home_ml": 152,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
