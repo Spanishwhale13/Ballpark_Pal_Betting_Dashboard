@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31T20:51:33.283872+00:00",
-  "scraped_at_display": "Scraped May 31, 2026 \u00b7 4:51 PM ET",
+  "scraped_at": "2026-05-31T21:52:26.143010+00:00",
+  "scraped_at_display": "Scraped May 31, 2026 \u00b7 5:52 PM ET",
   "date_label": "May 31, 2026",
   "games": [
     {
@@ -311,13 +311,13 @@
       "park": "Busch Stadium",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 54.7,
-      "away_proj": 5.15,
-      "home_proj": 4.37,
-      "model_total": 9.52,
-      "away_win_pct": 55.0,
-      "home_win_pct": 45.0,
-      "away_ml": -102,
+      "yrfi": 52.7,
+      "away_proj": 4.83,
+      "home_proj": 4.4,
+      "model_total": 9.23,
+      "away_win_pct": 52.8,
+      "home_win_pct": 47.2,
+      "away_ml": 100,
       "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": false
