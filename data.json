@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-01T23:26:05.819211+00:00",
-  "scraped_at_display": "Scraped June 1, 2026 \u00b7 7:26 PM ET",
+  "scraped_at": "2026-06-02T01:43:54.692726+00:00",
+  "scraped_at_display": "Scraped June 1, 2026 \u00b7 9:43 PM ET",
   "date_label": "June 1, 2026",
   "games": [
     {
@@ -61,8 +61,8 @@
       "model_total": 8.74,
       "away_win_pct": 50.5,
       "home_win_pct": 49.5,
-      "away_ml": 112,
-      "home_ml": -126,
+      "away_ml": 110,
+      "home_ml": -125,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -139,20 +139,16 @@
       "park": "Angel Stadium",
       "park_factor": "+5%",
       "park_factor_class": "pos",
-      "yrfi": 54.4,
-      "away_proj": 3.81,
+      "yrfi": 54.3,
+      "away_proj": 3.73,
       "home_proj": 5.52,
-      "model_total": 9.33,
-      "away_win_pct": 30.4,
-      "home_win_pct": 69.6,
-      "away_ml": 175,
-      "home_ml": -200,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Colorado Rockies @ Los Angeles Angels 7.5",
-      "best_bet_edge": 1.83
+      "model_total": 9.25,
+      "away_win_pct": 30.1,
+      "home_win_pct": 69.9,
+      "away_ml": 180,
+      "home_ml": -195,
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "823131",
@@ -170,7 +166,7 @@
       "model_total": 7.45,
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
-      "away_ml": 110,
+      "away_ml": 115,
       "home_ml": -130,
       "ou_line": 7.5,
       "best_bet": false
@@ -192,36 +188,10 @@
       "away_win_pct": 60.5,
       "home_win_pct": 39.5,
       "away_ml": -162,
-      "home_ml": 140,
+      "home_ml": 145,
       "ou_line": 8.5,
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "824027",
-      "time": "9:38",
-      "away": "Colorado Rockies",
-      "home": "Los Angeles Angels",
-      "away_starter": "Kyle Freeland",
-      "home_starter": "Jose Soriano",
-      "park": "Angel Stadium",
-      "park_factor": "+5%",
-      "park_factor_class": "pos",
-      "yrfi": 54.4,
-      "away_proj": 3.81,
-      "home_proj": 5.52,
-      "model_total": 9.33,
-      "away_win_pct": 30.4,
-      "home_win_pct": 69.6,
-      "away_ml": 175,
-      "home_ml": -200,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Colorado Rockies @ Los Angeles Angels 7.5",
-      "best_bet_edge": 1.83
-    }
-  ]
+  "best_bets": []
 }
