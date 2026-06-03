@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-03T00:23:46.176195+00:00",
-  "scraped_at_display": "Scraped June 2, 2026 \u00b7 8:23 PM ET",
+  "scraped_at": "2026-06-03T03:29:14.642497+00:00",
+  "scraped_at_display": "Scraped June 2, 2026 \u00b7 11:29 PM ET",
   "date_label": "June 2, 2026",
   "games": [
     {
@@ -271,7 +271,7 @@
       "model_total": 9.11,
       "away_win_pct": 38.5,
       "home_win_pct": 61.5,
-      "away_ml": 140,
+      "away_ml": 138,
       "home_ml": -158,
       "ou_line": 8.5,
       "best_bet": false
@@ -281,7 +281,7 @@
       "time": "9:40",
       "away": "New York Mets",
       "home": "Seattle Mariners",
-      "away_starter": "Jonah Tong",
+      "away_starter": "Huascar Brazoban",
       "home_starter": "Logan Gilbert",
       "park": "T-Mobile Park",
       "park_factor": "-5%",
@@ -293,7 +293,7 @@
       "away_win_pct": 42.2,
       "home_win_pct": 57.8,
       "away_ml": 130,
-      "home_ml": -154,
+      "home_ml": -145,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -313,8 +313,8 @@
       "model_total": 8.72,
       "away_win_pct": 45.4,
       "home_win_pct": 54.6,
-      "away_ml": -116,
-      "home_ml": 105,
+      "away_ml": -115,
+      "home_ml": 102,
       "ou_line": 9.5,
       "best_bet": false
     }
