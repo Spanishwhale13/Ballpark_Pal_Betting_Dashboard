@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-04T22:16:49.957336+00:00",
-  "scraped_at_display": "Scraped June 4, 2026 \u00b7 6:16 PM ET",
+  "scraped_at": "2026-06-04T23:43:29.155193+00:00",
+  "scraped_at_display": "Scraped June 4, 2026 \u00b7 7:43 PM ET",
   "date_label": "June 4, 2026",
   "games": [
     {
@@ -126,8 +126,12 @@
       "home_win_pct": 49.5,
       "away_ml": -115,
       "home_ml": -102,
-      "ou_line": 9.5,
-      "best_bet": false
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Kansas City Royals @ Minnesota Twins 8.5",
+      "best_bet_edge": 1.6
     },
     {
       "gamepk": "824672",
@@ -147,7 +151,7 @@
       "home_win_pct": 54.7,
       "away_ml": 123,
       "home_ml": -140,
-      "ou_line": null,
+      "ou_line": 10.5,
       "best_bet": false
     },
     {
@@ -166,7 +170,7 @@
       "model_total": 8.0,
       "away_win_pct": 48.3,
       "home_win_pct": 51.7,
-      "away_ml": -105,
+      "away_ml": -102,
       "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
@@ -188,10 +192,36 @@
       "away_win_pct": 56.8,
       "home_win_pct": 43.2,
       "away_ml": -135,
-      "home_ml": 119,
+      "home_ml": 118,
       "ou_line": 8.5,
       "best_bet": false
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "823698",
+      "time": "7:40",
+      "away": "Kansas City Royals",
+      "home": "Minnesota Twins",
+      "away_starter": "Seth Lugo",
+      "home_starter": "Andrew Morris",
+      "park": "Target Field",
+      "park_factor": "+3%",
+      "park_factor_class": "pos",
+      "yrfi": 54.6,
+      "away_proj": 5.24,
+      "home_proj": 4.86,
+      "model_total": 10.1,
+      "away_win_pct": 50.5,
+      "home_win_pct": 49.5,
+      "away_ml": -115,
+      "home_ml": -102,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Kansas City Royals @ Minnesota Twins 8.5",
+      "best_bet_edge": 1.6
+    }
+  ]
 }
