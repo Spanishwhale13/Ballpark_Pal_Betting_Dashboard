@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-06T18:45:47.276061+00:00",
-  "scraped_at_display": "Scraped June 6, 2026 \u00b7 2:45 PM ET",
+  "scraped_at": "2026-06-06T20:04:57.553333+00:00",
+  "scraped_at_display": "Scraped June 6, 2026 \u00b7 4:04 PM ET",
   "date_label": "June 6, 2026",
   "games": [
     {
@@ -124,7 +124,7 @@
       "model_total": 9.6,
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
-      "away_ml": 117,
+      "away_ml": 122,
       "home_ml": -134,
       "ou_line": 9.5,
       "best_bet": false
@@ -168,7 +168,7 @@
       "home_win_pct": 48.3,
       "away_ml": -103,
       "home_ml": -110,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -188,7 +188,7 @@
       "away_win_pct": 41.1,
       "home_win_pct": 58.9,
       "away_ml": 133,
-      "home_ml": -152,
+      "home_ml": -154,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -208,9 +208,9 @@
       "model_total": 9.8,
       "away_win_pct": 47.2,
       "home_win_pct": 52.8,
-      "away_ml": null,
-      "home_ml": null,
-      "ou_line": null,
+      "away_ml": 110,
+      "home_ml": -124,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -250,7 +250,7 @@
       "model_total": 8.32,
       "away_win_pct": 50.6,
       "home_win_pct": 49.4,
-      "away_ml": 101,
+      "away_ml": 105,
       "home_ml": -118,
       "ou_line": 7.5,
       "best_bet": false
@@ -261,7 +261,7 @@
       "away": "Milwaukee Brewers",
       "home": "Colorado Rockies",
       "away_starter": "Jacob Misiorowski",
-      "home_starter": "Valente Bellozo",
+      "home_starter": "Zach Agnos",
       "park": "Coors Field",
       "park_factor": "+27%",
       "park_factor_class": "pos",
@@ -271,8 +271,8 @@
       "model_total": 10.73,
       "away_win_pct": 73.1,
       "home_win_pct": 26.9,
-      "away_ml": -260,
-      "home_ml": 230,
+      "away_ml": -267,
+      "home_ml": 225,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -313,7 +313,7 @@
       "model_total": 9.06,
       "away_win_pct": 28.5,
       "home_win_pct": 71.5,
-      "away_ml": 291,
+      "away_ml": 292,
       "home_ml": -360,
       "ou_line": 8.5,
       "best_bet": false
