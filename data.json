@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-06T22:56:43.658595+00:00",
-  "scraped_at_display": "Scraped June 6, 2026 \u00b7 6:56 PM ET",
+  "scraped_at": "2026-06-07T00:01:46.436033+00:00",
+  "scraped_at_display": "Scraped June 6, 2026 \u00b7 8:01 PM ET",
   "date_label": "June 6, 2026",
   "games": [
     {
@@ -230,7 +230,7 @@
       "away_win_pct": 38.0,
       "home_win_pct": 62.0,
       "away_ml": 102,
-      "home_ml": -115,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -271,8 +271,8 @@
       "model_total": 10.12,
       "away_win_pct": 68.8,
       "home_win_pct": 31.2,
-      "away_ml": -270,
-      "home_ml": 230,
+      "away_ml": -300,
+      "home_ml": 246,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -307,13 +307,13 @@
       "park": "Dodger Stadium",
       "park_factor": "-8%",
       "park_factor_class": "neg",
-      "yrfi": 51.3,
-      "away_proj": 3.54,
-      "home_proj": 5.52,
-      "model_total": 9.06,
-      "away_win_pct": 28.5,
-      "home_win_pct": 71.5,
-      "away_ml": 290,
+      "yrfi": 49.2,
+      "away_proj": 3.4,
+      "home_proj": 4.77,
+      "model_total": 8.17,
+      "away_win_pct": 33.2,
+      "home_win_pct": 66.8,
+      "away_ml": 285,
       "home_ml": -350,
       "ou_line": 8.5,
       "best_bet": false
