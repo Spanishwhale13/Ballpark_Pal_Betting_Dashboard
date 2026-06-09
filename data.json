@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-08T23:58:31.373183+00:00",
-  "scraped_at_display": "Scraped June 8, 2026 \u00b7 7:58 PM ET",
+  "scraped_at": "2026-06-09T02:32:09.461507+00:00",
+  "scraped_at_display": "Scraped June 8, 2026 \u00b7 10:32 PM ET",
   "date_label": "June 8, 2026",
   "games": [
     {
@@ -104,7 +104,7 @@
       "away_win_pct": 45.9,
       "home_win_pct": 54.1,
       "away_ml": -130,
-      "home_ml": 112,
+      "home_ml": 116,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -139,14 +139,14 @@
       "park": "Oracle Park",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 50.0,
-      "away_proj": 4.36,
-      "home_proj": 4.36,
+      "yrfi": 51.3,
+      "away_proj": 4.26,
+      "home_proj": 4.46,
       "model_total": 8.72,
-      "away_win_pct": 47.7,
-      "home_win_pct": 52.3,
+      "away_win_pct": 46.7,
+      "home_win_pct": 53.3,
       "away_ml": 130,
-      "home_ml": -148,
+      "home_ml": -154,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -166,8 +166,8 @@
       "model_total": 10.9,
       "away_win_pct": 62.9,
       "home_win_pct": 37.1,
-      "away_ml": -150,
-      "home_ml": 132,
+      "away_ml": -155,
+      "home_ml": 135,
       "ou_line": 10.5,
       "best_bet": false
     }
