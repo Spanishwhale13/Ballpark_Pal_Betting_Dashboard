@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-11T23:15:43.822068+00:00",
-  "scraped_at_display": "Scraped June 11, 2026 \u00b7 7:15 PM ET",
+  "scraped_at": "2026-06-12T01:42:33.747943+00:00",
+  "scraped_at_display": "Scraped June 11, 2026 \u00b7 9:42 PM ET",
   "date_label": "June 11, 2026",
   "games": [
     {
@@ -151,27 +151,6 @@
       "home_win_pct": 53.5,
       "away_ml": -115,
       "home_ml": 100,
-      "ou_line": 8.5,
-      "best_bet": false
-    },
-    {
-      "gamepk": "824589",
-      "time": "7:40",
-      "away": "Atlanta Braves",
-      "home": "Chicago White Sox",
-      "away_starter": "Martin Perez",
-      "home_starter": "Anthony Kay",
-      "park": "Rate Field",
-      "park_factor": "+5%",
-      "park_factor_class": "pos",
-      "yrfi": 55.9,
-      "away_proj": 5.25,
-      "home_proj": 4.26,
-      "model_total": 9.51,
-      "away_win_pct": 57.3,
-      "home_win_pct": 42.7,
-      "away_ml": -120,
-      "home_ml": 103,
       "ou_line": 8.5,
       "best_bet": false
     }
