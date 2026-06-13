@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-12T23:58:09.033125+00:00",
-  "scraped_at_display": "Scraped June 12, 2026 \u00b7 7:58 PM ET",
+  "scraped_at": "2026-06-13T02:44:41.033545+00:00",
+  "scraped_at_display": "Scraped June 12, 2026 \u00b7 10:44 PM ET",
   "date_label": "June 12, 2026",
   "games": [
     {
@@ -238,7 +238,7 @@
       "away_win_pct": 34.8,
       "home_win_pct": 65.2,
       "away_ml": 118,
-      "home_ml": -136,
+      "home_ml": -134,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 3,
@@ -262,8 +262,8 @@
       "model_total": 9.28,
       "away_win_pct": 42.0,
       "home_win_pct": 58.0,
-      "away_ml": -110,
-      "home_ml": -104,
+      "away_ml": -108,
+      "home_ml": -106,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -284,7 +284,7 @@
       "away_win_pct": 58.3,
       "home_win_pct": 41.7,
       "away_ml": -163,
-      "home_ml": 142,
+      "home_ml": 148,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -298,14 +298,14 @@
       "park": "Las Vegas Ballpark",
       "park_factor": "+53%",
       "park_factor_class": "pos",
-      "yrfi": 65.2,
-      "away_proj": 5.49,
-      "home_proj": 7.09,
-      "model_total": 12.58,
-      "away_win_pct": 33.2,
-      "home_win_pct": 66.8,
-      "away_ml": 185,
-      "home_ml": -210,
+      "yrfi": 61.2,
+      "away_proj": 5.19,
+      "home_proj": 7.01,
+      "model_total": 12.2,
+      "away_win_pct": 32.5,
+      "home_win_pct": 67.5,
+      "away_ml": 195,
+      "home_ml": -215,
       "ou_line": 13.5,
       "best_bet": false
     },
@@ -326,7 +326,7 @@
       "away_win_pct": 51.5,
       "home_win_pct": 48.5,
       "away_ml": 106,
-      "home_ml": -124,
+      "home_ml": -121,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -399,7 +399,7 @@
       "away_win_pct": 34.8,
       "home_win_pct": 65.2,
       "away_ml": 118,
-      "home_ml": -136,
+      "home_ml": -134,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 3,
