@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-14T20:04:12.709097+00:00",
-  "scraped_at_display": "Scraped June 14, 2026 \u00b7 4:04 PM ET",
+  "scraped_at": "2026-06-14T21:49:41.324818+00:00",
+  "scraped_at_display": "Scraped June 14, 2026 \u00b7 5:49 PM ET",
   "date_label": "June 14, 2026",
   "games": [
     {
@@ -271,8 +271,8 @@
       "model_total": 8.97,
       "away_win_pct": 49.0,
       "home_win_pct": 51.0,
-      "away_ml": -118,
-      "home_ml": 100,
+      "away_ml": -122,
+      "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -292,9 +292,9 @@
       "model_total": 9.72,
       "away_win_pct": 47.6,
       "home_win_pct": 52.4,
-      "away_ml": 104,
-      "home_ml": -115,
-      "ou_line": 8.5,
+      "away_ml": 100,
+      "home_ml": -116,
+      "ou_line": 9.5,
       "best_bet": false
     }
   ],
