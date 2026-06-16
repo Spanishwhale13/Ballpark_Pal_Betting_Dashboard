@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-15T22:58:38.520094+00:00",
-  "scraped_at_display": "Scraped June 15, 2026 \u00b7 6:58 PM ET",
+  "scraped_at": "2026-06-16T01:41:15.004416+00:00",
+  "scraped_at_display": "Scraped June 15, 2026 \u00b7 9:41 PM ET",
   "date_label": "June 15, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 8.48,
       "away_win_pct": 37.6,
       "home_win_pct": 62.4,
-      "away_ml": 165,
-      "home_ml": -190,
+      "away_ml": 176,
+      "home_ml": -195,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -40,8 +40,8 @@
       "model_total": 9.57,
       "away_win_pct": 43.4,
       "home_win_pct": 56.6,
-      "away_ml": 115,
-      "home_ml": -132,
+      "away_ml": 118,
+      "home_ml": -135,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -61,8 +61,8 @@
       "model_total": 8.79,
       "away_win_pct": 47.2,
       "home_win_pct": 52.8,
-      "away_ml": 119,
-      "home_ml": -136,
+      "away_ml": 116,
+      "home_ml": -135,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -103,7 +103,7 @@
       "model_total": 10.89,
       "away_win_pct": 39.4,
       "home_win_pct": 60.6,
-      "away_ml": 192,
+      "away_ml": 194,
       "home_ml": -220,
       "ou_line": 9.5,
       "best_bet": false
@@ -125,7 +125,7 @@
       "away_win_pct": 41.8,
       "home_win_pct": 58.2,
       "away_ml": 130,
-      "home_ml": -154,
+      "home_ml": -145,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -145,8 +145,8 @@
       "model_total": 8.82,
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
-      "away_ml": 104,
-      "home_ml": -120,
+      "away_ml": 106,
+      "home_ml": -121,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -167,7 +167,7 @@
       "away_win_pct": 43.4,
       "home_win_pct": 56.6,
       "away_ml": 105,
-      "home_ml": -120,
+      "home_ml": -122,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -187,8 +187,8 @@
       "model_total": 8.83,
       "away_win_pct": 39.4,
       "home_win_pct": 60.6,
-      "away_ml": 114,
-      "home_ml": -130,
+      "away_ml": 122,
+      "home_ml": -137,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -202,14 +202,14 @@
       "park": "Dodger Stadium",
       "park_factor": "-8%",
       "park_factor_class": "neg",
-      "yrfi": 56.9,
-      "away_proj": 4.29,
-      "home_proj": 5.11,
-      "model_total": 9.4,
-      "away_win_pct": 40.5,
-      "home_win_pct": 59.5,
-      "away_ml": 158,
-      "home_ml": -178,
+      "yrfi": 57.0,
+      "away_proj": 4.34,
+      "home_proj": 4.98,
+      "model_total": 9.32,
+      "away_win_pct": 41.3,
+      "home_win_pct": 58.7,
+      "away_ml": 160,
+      "home_ml": -186,
       "ou_line": 9.5,
       "best_bet": false
     }
