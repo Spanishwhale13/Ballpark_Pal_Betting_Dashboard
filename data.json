@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-18T16:22:22.828025+00:00",
-  "scraped_at_display": "Scraped June 18, 2026 \u00b7 12:22 PM ET",
+  "scraped_at": "2026-06-18T18:39:43.944988+00:00",
+  "scraped_at_display": "Scraped June 18, 2026 \u00b7 2:39 PM ET",
   "date_label": "June 18, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 10.24,
       "away_win_pct": 51.0,
       "home_win_pct": 49.0,
-      "away_ml": 115,
-      "home_ml": -124,
+      "away_ml": 125,
+      "home_ml": -132,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -40,8 +40,8 @@
       "model_total": 7.28,
       "away_win_pct": 38.6,
       "home_win_pct": 61.4,
-      "away_ml": 130,
-      "home_ml": -148,
+      "away_ml": 128,
+      "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -61,8 +61,8 @@
       "model_total": 8.09,
       "away_win_pct": 56.3,
       "home_win_pct": 43.7,
-      "away_ml": -124,
-      "home_ml": 106,
+      "away_ml": -120,
+      "home_ml": 105,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -74,16 +74,16 @@
       "away_starter": "Shane Baz",
       "home_starter": "Bryan Woo",
       "park": "T-Mobile Park",
-      "park_factor": "-10%",
+      "park_factor": "-9%",
       "park_factor_class": "neg",
-      "yrfi": 49.2,
-      "away_proj": 3.51,
-      "home_proj": 4.7,
-      "model_total": 8.21,
-      "away_win_pct": 34.8,
-      "home_win_pct": 65.2,
-      "away_ml": 133,
-      "home_ml": -145,
+      "yrfi": 49.4,
+      "away_proj": 3.48,
+      "home_proj": 4.56,
+      "model_total": 8.04,
+      "away_win_pct": 36.5,
+      "home_win_pct": 63.5,
+      "away_ml": 127,
+      "home_ml": -142,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -124,30 +124,9 @@
       "model_total": 8.62,
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
-      "away_ml": 135,
-      "home_ml": -155,
+      "away_ml": 143,
+      "home_ml": -157,
       "ou_line": 9.5,
-      "best_bet": false
-    },
-    {
-      "gamepk": "824911",
-      "time": "7:15",
-      "away": "San Francisco Giants",
-      "home": "Atlanta Braves",
-      "away_starter": "Landen Roupp",
-      "home_starter": "Martin Perez",
-      "park": "Truist Park",
-      "park_factor": "-6%",
-      "park_factor_class": "neg",
-      "yrfi": 46.5,
-      "away_proj": 3.94,
-      "home_proj": 4.32,
-      "model_total": 8.26,
-      "away_win_pct": 42.8,
-      "home_win_pct": 57.2,
-      "away_ml": 120,
-      "home_ml": -138,
-      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -167,13 +146,13 @@
       "away_win_pct": 36.4,
       "home_win_pct": 63.6,
       "away_ml": 100,
-      "home_ml": -115,
+      "home_ml": -114,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Kansas City Royals +-115",
-      "best_bet_edge": 10.11
+      "best_bet_desc": "Kansas City Royals +-114",
+      "best_bet_edge": 10.33
     },
     {
       "gamepk": "824989",
@@ -183,7 +162,7 @@
       "away_starter": "Jose Soriano",
       "home_starter": "Gage Jump",
       "park": "Sutter Health Park",
-      "park_factor": "+27%",
+      "park_factor": "+25%",
       "park_factor_class": "pos",
       "yrfi": 54.3,
       "away_proj": 4.32,
@@ -191,9 +170,9 @@
       "model_total": 10.27,
       "away_win_pct": 32.7,
       "home_win_pct": 67.3,
-      "away_ml": 118,
-      "home_ml": -136,
-      "ou_line": 10.5,
+      "away_ml": 140,
+      "home_ml": -159,
+      "ou_line": 9.5,
       "best_bet": false
     }
   ],
@@ -215,13 +194,13 @@
       "away_win_pct": 36.4,
       "home_win_pct": 63.6,
       "away_ml": 100,
-      "home_ml": -115,
+      "home_ml": -114,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Kansas City Royals +-115",
-      "best_bet_edge": 10.11
+      "best_bet_desc": "Kansas City Royals +-114",
+      "best_bet_edge": 10.33
     }
   ]
 }
