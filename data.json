@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-18T23:15:06.741588+00:00",
-  "scraped_at_display": "Scraped June 18, 2026 \u00b7 7:15 PM ET",
+  "scraped_at": "2026-06-19T02:13:13.466177+00:00",
+  "scraped_at_display": "Scraped June 18, 2026 \u00b7 10:13 PM ET",
   "date_label": "June 18, 2026",
   "games": [
     {
@@ -146,33 +146,33 @@
       "away_win_pct": 35.5,
       "home_win_pct": 64.5,
       "away_ml": -102,
-      "home_ml": -114,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Kansas City Royals +-114",
-      "best_bet_edge": 11.23
+      "best_bet_desc": "Kansas City Royals +-110",
+      "best_bet_edge": 12.12
     },
     {
       "gamepk": "824989",
       "time": "9:40",
       "away": "Los Angeles Angels",
       "home": "Oakland Athletics",
-      "away_starter": "Jose Soriano",
+      "away_starter": "Ryan Johnson",
       "home_starter": "Gage Jump",
       "park": "Sutter Health Park",
       "park_factor": "+26%",
       "park_factor_class": "pos",
-      "yrfi": 54.4,
-      "away_proj": 4.28,
-      "home_proj": 5.9,
-      "model_total": 10.18,
-      "away_win_pct": 32.3,
-      "home_win_pct": 67.7,
-      "away_ml": 154,
-      "home_ml": -167,
-      "ou_line": 9.5,
+      "yrfi": 58.8,
+      "away_proj": 3.98,
+      "home_proj": 6.5,
+      "model_total": 10.48,
+      "away_win_pct": 25.9,
+      "home_win_pct": 74.1,
+      "away_ml": 165,
+      "home_ml": -188,
+      "ou_line": 10.5,
       "best_bet": false
     }
   ],
@@ -194,13 +194,13 @@
       "away_win_pct": 35.5,
       "home_win_pct": 64.5,
       "away_ml": -102,
-      "home_ml": -114,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Kansas City Royals +-114",
-      "best_bet_edge": 11.23
+      "best_bet_desc": "Kansas City Royals +-110",
+      "best_bet_edge": 12.12
     }
   ]
 }
