@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T18:21:04.434210+00:00",
-  "scraped_at_display": "Scraped June 21, 2026 \u00b7 2:21 PM ET",
+  "scraped_at": "2026-06-21T20:10:21.959473+00:00",
+  "scraped_at_display": "Scraped June 21, 2026 \u00b7 4:10 PM ET",
   "date_label": "June 21, 2026",
   "games": [
     {
@@ -188,7 +188,7 @@
       "away_win_pct": 57.7,
       "home_win_pct": 42.3,
       "away_ml": -144,
-      "home_ml": 125,
+      "home_ml": 128,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -230,7 +230,7 @@
       "away_win_pct": 47.6,
       "home_win_pct": 52.4,
       "away_ml": 115,
-      "home_ml": -126,
+      "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -251,7 +251,7 @@
       "away_win_pct": 36.3,
       "home_win_pct": 63.7,
       "away_ml": 113,
-      "home_ml": -130,
+      "home_ml": -126,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -286,13 +286,13 @@
       "park": "Citizens Bank Park",
       "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 53.6,
-      "away_proj": 4.26,
-      "home_proj": 5.35,
-      "model_total": 9.61,
-      "away_win_pct": 36.3,
-      "home_win_pct": 63.7,
-      "away_ml": 163,
+      "yrfi": 55.4,
+      "away_proj": 4.39,
+      "home_proj": 5.41,
+      "model_total": 9.8,
+      "away_win_pct": 37.2,
+      "home_win_pct": 62.8,
+      "away_ml": 158,
       "home_ml": -184,
       "ou_line": 8.5,
       "best_bet": false
