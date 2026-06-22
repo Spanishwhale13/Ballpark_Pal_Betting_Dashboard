@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T23:02:47.481238+00:00",
-  "scraped_at_display": "Scraped June 21, 2026 \u00b7 7:02 PM ET",
+  "scraped_at": "2026-06-22T01:59:22.335221+00:00",
+  "scraped_at_display": "Scraped June 21, 2026 \u00b7 9:59 PM ET",
   "date_label": "June 21, 2026",
   "games": [
     {
@@ -293,7 +293,7 @@
       "away_win_pct": 37.2,
       "home_win_pct": 62.8,
       "away_ml": 158,
-      "home_ml": -186,
+      "home_ml": -178,
       "ou_line": 8.5,
       "best_bet": false
     }
