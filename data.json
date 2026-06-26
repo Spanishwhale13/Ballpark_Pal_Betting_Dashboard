@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26T22:41:57.704646+00:00",
-  "scraped_at_display": "Scraped June 26, 2026 \u00b7 6:41 PM ET",
+  "scraped_at": "2026-06-26T23:57:08.870681+00:00",
+  "scraped_at_display": "Scraped June 26, 2026 \u00b7 7:57 PM ET",
   "date_label": "June 26, 2026",
   "games": [
     {
@@ -20,7 +20,7 @@
       "away_win_pct": 38.7,
       "home_win_pct": 61.3,
       "away_ml": 158,
-      "home_ml": -184,
+      "home_ml": -181,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -67,12 +67,12 @@
       "home_win_pct": 53.3,
       "away_ml": 118,
       "home_ml": -135,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER Washington Nationals @ Baltimore Orioles 9.5",
-      "best_bet_edge": 1.72
+      "best_bet_desc": "OVER Washington Nationals @ Baltimore Orioles 8.5",
+      "best_bet_edge": 2.72
     },
     {
       "gamepk": "822796",
@@ -91,7 +91,7 @@
       "away_win_pct": 47.0,
       "home_win_pct": 53.0,
       "away_ml": -105,
-      "home_ml": -108,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -111,8 +111,8 @@
       "model_total": 9.33,
       "away_win_pct": 51.2,
       "home_win_pct": 48.8,
-      "away_ml": 118,
-      "home_ml": -136,
+      "away_ml": 116,
+      "home_ml": -135,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -132,8 +132,8 @@
       "model_total": 9.2,
       "away_win_pct": 55.5,
       "home_win_pct": 44.5,
-      "away_ml": -156,
-      "home_ml": 143,
+      "away_ml": -154,
+      "home_ml": 140,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -174,8 +174,8 @@
       "model_total": 9.53,
       "away_win_pct": 47.6,
       "home_win_pct": 52.4,
-      "away_ml": -108,
-      "home_ml": -108,
+      "away_ml": 105,
+      "home_ml": -118,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -216,8 +216,8 @@
       "model_total": 7.45,
       "away_win_pct": 26.8,
       "home_win_pct": 73.2,
-      "away_ml": 220,
-      "home_ml": -246,
+      "away_ml": 205,
+      "home_ml": -245,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -238,7 +238,7 @@
       "away_win_pct": 38.2,
       "home_win_pct": 61.8,
       "away_ml": 150,
-      "home_ml": -168,
+      "home_ml": -172,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -273,13 +273,13 @@
       "park": "Angel Stadium",
       "park_factor": "+6%",
       "park_factor_class": "pos",
-      "yrfi": 49.9,
-      "away_proj": 4.88,
-      "home_proj": 4.62,
-      "model_total": 9.5,
-      "away_win_pct": 49.5,
-      "home_win_pct": 50.5,
-      "away_ml": -114,
+      "yrfi": 48.7,
+      "away_proj": 4.66,
+      "home_proj": 4.57,
+      "model_total": 9.23,
+      "away_win_pct": 48.2,
+      "home_win_pct": 51.8,
+      "away_ml": -110,
       "home_ml": -102,
       "ou_line": 8.5,
       "best_bet": false
@@ -300,8 +300,8 @@
       "model_total": 8.32,
       "away_win_pct": 58.5,
       "home_win_pct": 41.5,
-      "away_ml": -144,
-      "home_ml": 128,
+      "away_ml": -148,
+      "home_ml": 130,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -315,13 +315,13 @@
       "park": "Oracle Park",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 51.6,
-      "away_proj": 5.11,
-      "home_proj": 4.51,
-      "model_total": 9.62,
-      "away_win_pct": 52.9,
-      "home_win_pct": 47.1,
-      "away_ml": -116,
+      "yrfi": 50.9,
+      "away_proj": 5.06,
+      "home_proj": 4.21,
+      "model_total": 9.27,
+      "away_win_pct": 57.0,
+      "home_win_pct": 43.0,
+      "away_ml": -114,
       "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
@@ -371,12 +371,12 @@
       "home_win_pct": 53.3,
       "away_ml": 118,
       "home_ml": -135,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER Washington Nationals @ Baltimore Orioles 9.5",
-      "best_bet_edge": 1.72
+      "best_bet_desc": "OVER Washington Nationals @ Baltimore Orioles 8.5",
+      "best_bet_edge": 2.72
     }
   ]
 }
