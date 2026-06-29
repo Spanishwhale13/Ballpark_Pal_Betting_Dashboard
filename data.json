@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29T16:33:41.721351+00:00",
-  "scraped_at_display": "Scraped June 29, 2026 \u00b7 12:33 PM ET",
+  "scraped_at": "2026-06-29T18:59:01.239541+00:00",
+  "scraped_at_display": "Scraped June 29, 2026 \u00b7 2:59 PM ET",
   "date_label": "June 29, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 10.29,
       "away_win_pct": 39.1,
       "home_win_pct": 60.9,
-      "away_ml": 117,
-      "home_ml": -134,
+      "away_ml": 118,
+      "home_ml": -136,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -40,7 +40,7 @@
       "model_total": 8.23,
       "away_win_pct": 46.8,
       "home_win_pct": 53.2,
-      "away_ml": 102,
+      "away_ml": -106,
       "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
@@ -53,7 +53,7 @@
       "away_starter": "Casey Mize",
       "home_starter": "Ryan Weathers",
       "park": "Yankee Stadium",
-      "park_factor": "-7%",
+      "park_factor": "-10%",
       "park_factor_class": "neg",
       "yrfi": 44.0,
       "away_proj": 4.17,
@@ -61,8 +61,8 @@
       "model_total": 7.78,
       "away_win_pct": 53.0,
       "home_win_pct": 47.0,
-      "away_ml": 118,
-      "home_ml": -134,
+      "away_ml": 123,
+      "home_ml": -132,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -82,7 +82,7 @@
       "model_total": 8.84,
       "away_win_pct": 41.5,
       "home_win_pct": 58.5,
-      "away_ml": 106,
+      "away_ml": 108,
       "home_ml": -124,
       "ou_line": 8.5,
       "best_bet": false
@@ -150,7 +150,7 @@
       "away_win_pct": 48.2,
       "home_win_pct": 51.8,
       "away_ml": 125,
-      "home_ml": -140,
+      "home_ml": -135,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -170,14 +170,14 @@
       "model_total": 13.47,
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
-      "away_ml": 135,
+      "away_ml": 130,
       "home_ml": -154,
-      "ou_line": 10.5,
+      "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 2,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER San Diego Padres @ Chicago Cubs 10.5",
-      "best_bet_edge": 2.97
+      "best_bet_desc": "OVER San Diego Padres @ Chicago Cubs 11.5",
+      "best_bet_edge": 1.97
     },
     {
       "gamepk": "824176",
@@ -208,7 +208,7 @@
       "away_starter": "Sandy Alcantara",
       "home_starter": "Sean Sullivan",
       "park": "Coors Field",
-      "park_factor": "+40%",
+      "park_factor": "+38%",
       "park_factor_class": "pos",
       "yrfi": 65.4,
       "away_proj": 6.02,
@@ -331,14 +331,14 @@
       "model_total": 13.47,
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
-      "away_ml": 135,
+      "away_ml": 130,
       "home_ml": -154,
-      "ou_line": 10.5,
+      "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 2,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER San Diego Padres @ Chicago Cubs 10.5",
-      "best_bet_edge": 2.97
+      "best_bet_desc": "OVER San Diego Padres @ Chicago Cubs 11.5",
+      "best_bet_edge": 1.97
     },
     {
       "gamepk": "824339",
@@ -348,7 +348,7 @@
       "away_starter": "Sandy Alcantara",
       "home_starter": "Sean Sullivan",
       "park": "Coors Field",
-      "park_factor": "+40%",
+      "park_factor": "+38%",
       "park_factor_class": "pos",
       "yrfi": 65.4,
       "away_proj": 6.02,
