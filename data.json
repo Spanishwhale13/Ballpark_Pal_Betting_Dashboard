@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T22:48:17.227427+00:00",
-  "scraped_at_display": "Scraped June 30, 2026 \u00b7 6:48 PM ET",
+  "scraped_at": "2026-06-30T23:59:49.568221+00:00",
+  "scraped_at_display": "Scraped June 30, 2026 \u00b7 7:59 PM ET",
   "date_label": "June 30, 2026",
   "games": [
     {
@@ -83,7 +83,7 @@
       "away_win_pct": 48.8,
       "home_win_pct": 51.2,
       "away_ml": 100,
-      "home_ml": -110,
+      "home_ml": -115,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -103,7 +103,7 @@
       "model_total": 8.36,
       "away_win_pct": 50.1,
       "home_win_pct": 49.9,
-      "away_ml": -109,
+      "away_ml": -110,
       "home_ml": 100,
       "ou_line": 7.5,
       "best_bet": false
@@ -125,7 +125,7 @@
       "away_win_pct": 48.1,
       "home_win_pct": 51.9,
       "away_ml": 117,
-      "home_ml": -134,
+      "home_ml": -129,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -145,14 +145,10 @@
       "model_total": 10.11,
       "away_win_pct": 37.4,
       "home_win_pct": 62.6,
-      "away_ml": 125,
+      "away_ml": 130,
       "home_ml": -144,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER St. Louis Cardinals @ Atlanta Braves 8.5",
-      "best_bet_edge": 1.61
+      "ou_line": 9.5,
+      "best_bet": false
     },
     {
       "gamepk": "823768",
@@ -172,12 +168,8 @@
       "home_win_pct": 62.2,
       "away_ml": 145,
       "home_ml": -170,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Cincinnati Reds @ Milwaukee Brewers 8.5",
-      "best_bet_edge": 2.24
+      "ou_line": 9.5,
+      "best_bet": false
     },
     {
       "gamepk": "824096",
@@ -195,7 +187,7 @@
       "model_total": 10.88,
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
-      "away_ml": -118,
+      "away_ml": -112,
       "home_ml": 100,
       "ou_line": 9.5,
       "best_bet": false
@@ -217,7 +209,7 @@
       "away_win_pct": 48.6,
       "home_win_pct": 51.4,
       "away_ml": 135,
-      "home_ml": -148,
+      "home_ml": -154,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -260,7 +252,7 @@
       "home_win_pct": 50.5,
       "away_ml": -135,
       "home_ml": 117,
-      "ou_line": null,
+      "ou_line": 11.5,
       "best_bet": false
     },
     {
@@ -300,7 +292,7 @@
       "model_total": 11.07,
       "away_win_pct": 60.4,
       "home_win_pct": 39.6,
-      "away_ml": -168,
+      "away_ml": -172,
       "home_ml": 150,
       "ou_line": 11.5,
       "best_bet": false
@@ -321,67 +313,17 @@
       "model_total": 10.25,
       "away_win_pct": 44.6,
       "home_win_pct": 55.4,
-      "away_ml": -105,
-      "home_ml": -108,
-      "ou_line": 7.5,
+      "away_ml": -101,
+      "home_ml": -112,
+      "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 7.5",
-      "best_bet_edge": 2.75
+      "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.75
     }
   ],
   "best_bets": [
-    {
-      "gamepk": "824907",
-      "time": "7:15",
-      "away": "St. Louis Cardinals",
-      "home": "Atlanta Braves",
-      "away_starter": "Matthew Liberatore",
-      "home_starter": "Martin Perez",
-      "park": "Truist Park",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
-      "yrfi": 57.6,
-      "away_proj": 4.58,
-      "home_proj": 5.53,
-      "model_total": 10.11,
-      "away_win_pct": 37.4,
-      "home_win_pct": 62.6,
-      "away_ml": 125,
-      "home_ml": -144,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER St. Louis Cardinals @ Atlanta Braves 8.5",
-      "best_bet_edge": 1.61
-    },
-    {
-      "gamepk": "823768",
-      "time": "7:40",
-      "away": "Cincinnati Reds",
-      "home": "Milwaukee Brewers",
-      "away_starter": "Rhett Lowder",
-      "home_starter": "Brandon Sproat",
-      "park": "American Family Field",
-      "park_factor": "+7%",
-      "park_factor_class": "pos",
-      "yrfi": 57.3,
-      "away_proj": 4.84,
-      "home_proj": 5.9,
-      "model_total": 10.74,
-      "away_win_pct": 37.8,
-      "home_win_pct": 62.2,
-      "away_ml": 145,
-      "home_ml": -170,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Cincinnati Reds @ Milwaukee Brewers 8.5",
-      "best_bet_edge": 2.24
-    },
     {
       "gamepk": "825066",
       "time": "9:40",
@@ -398,14 +340,14 @@
       "model_total": 10.25,
       "away_win_pct": 44.6,
       "home_win_pct": 55.4,
-      "away_ml": -105,
-      "home_ml": -108,
-      "ou_line": 7.5,
+      "away_ml": -101,
+      "home_ml": -112,
+      "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 7.5",
-      "best_bet_edge": 2.75
+      "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.75
     }
   ]
 }
