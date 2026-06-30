@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T15:23:19.692244+00:00",
-  "scraped_at_display": "Scraped June 30, 2026 \u00b7 11:23 AM ET",
+  "scraped_at": "2026-06-30T17:21:27.210123+00:00",
+  "scraped_at_display": "Scraped June 30, 2026 \u00b7 1:21 PM ET",
   "date_label": "June 30, 2026",
   "games": [
     {
@@ -40,7 +40,7 @@
       "model_total": 8.44,
       "away_win_pct": 33.7,
       "home_win_pct": 66.3,
-      "away_ml": 195,
+      "away_ml": 188,
       "home_ml": -225,
       "ou_line": 8.5,
       "best_bet": false
@@ -62,10 +62,10 @@
       "away_win_pct": 63.7,
       "home_win_pct": 36.3,
       "away_ml": -120,
-      "home_ml": 102,
+      "home_ml": 105,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Texas Rangers @ Cleveland Guardians 7.5",
       "best_bet_edge": 1.89
@@ -86,9 +86,9 @@
       "model_total": 8.11,
       "away_win_pct": 43.8,
       "home_win_pct": 56.2,
-      "away_ml": 108,
-      "home_ml": -125,
-      "ou_line": 7.5,
+      "away_ml": 102,
+      "home_ml": -115,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -129,7 +129,7 @@
       "away_win_pct": 47.0,
       "home_win_pct": 53.0,
       "away_ml": 117,
-      "home_ml": -134,
+      "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -149,7 +149,7 @@
       "model_total": 10.54,
       "away_win_pct": 38.4,
       "home_win_pct": 61.6,
-      "away_ml": 124,
+      "away_ml": 123,
       "home_ml": -142,
       "ou_line": 9.5,
       "best_bet": false
@@ -170,7 +170,7 @@
       "model_total": 10.91,
       "away_win_pct": 39.8,
       "home_win_pct": 60.2,
-      "away_ml": 145,
+      "away_ml": 148,
       "home_ml": -170,
       "ou_line": 8.5,
       "best_bet": true,
@@ -258,8 +258,8 @@
       "model_total": 11.69,
       "away_win_pct": 54.6,
       "home_win_pct": 45.4,
-      "away_ml": -136,
-      "home_ml": 123,
+      "away_ml": -134,
+      "home_ml": 118,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -280,7 +280,7 @@
       "away_win_pct": 34.7,
       "home_win_pct": 65.3,
       "away_ml": 158,
-      "home_ml": -182,
+      "home_ml": -188,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -300,9 +300,9 @@
       "model_total": 11.35,
       "away_win_pct": 60.7,
       "home_win_pct": 39.3,
-      "away_ml": -158,
+      "away_ml": -162,
       "home_ml": 141,
-      "ou_line": null,
+      "ou_line": 11.5,
       "best_bet": false
     },
     {
@@ -323,8 +323,12 @@
       "home_win_pct": 55.3,
       "away_ml": -108,
       "home_ml": -108,
-      "ou_line": 9.5,
-      "best_bet": false
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.9
     }
   ],
   "best_bets": [
@@ -345,10 +349,10 @@
       "away_win_pct": 63.7,
       "home_win_pct": 36.3,
       "away_ml": -120,
-      "home_ml": 102,
+      "home_ml": 105,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Texas Rangers @ Cleveland Guardians 7.5",
       "best_bet_edge": 1.89
@@ -369,7 +373,7 @@
       "model_total": 10.91,
       "away_win_pct": 39.8,
       "home_win_pct": 60.2,
-      "away_ml": 145,
+      "away_ml": 148,
       "home_ml": -170,
       "ou_line": 8.5,
       "best_bet": true,
@@ -377,6 +381,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cincinnati Reds @ Milwaukee Brewers 8.5",
       "best_bet_edge": 2.41
+    },
+    {
+      "gamepk": "825066",
+      "time": "9:40",
+      "away": "San Francisco Giants",
+      "home": "Arizona Diamondbacks",
+      "away_starter": "Landen Roupp",
+      "home_starter": "Brandon Pfaadt",
+      "park": "Chase Field",
+      "park_factor": "+0%",
+      "park_factor_class": "neut",
+      "yrfi": 51.5,
+      "away_proj": 5.16,
+      "home_proj": 5.24,
+      "model_total": 10.4,
+      "away_win_pct": 44.7,
+      "home_win_pct": 55.3,
+      "away_ml": -108,
+      "home_ml": -108,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.9
     }
   ]
 }
