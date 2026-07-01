@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-01T17:47:16.522349+00:00",
-  "scraped_at_display": "Scraped July 1, 2026 \u00b7 1:47 PM ET",
+  "scraped_at": "2026-07-01T19:41:35.539254+00:00",
+  "scraped_at_display": "Scraped July 1, 2026 \u00b7 3:41 PM ET",
   "date_label": "July 1, 2026",
   "games": [
     {
@@ -128,8 +128,8 @@
       "model_total": 8.22,
       "away_win_pct": 46.5,
       "home_win_pct": 53.5,
-      "away_ml": -105,
-      "home_ml": -110,
+      "away_ml": -102,
+      "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -141,7 +141,7 @@
       "away_starter": "Paul Skenes",
       "home_starter": "Zack Wheeler",
       "park": "Citizens Bank Park",
-      "park_factor": "+15%",
+      "park_factor": "+12%",
       "park_factor_class": "pos",
       "yrfi": 49.3,
       "away_proj": 4.14,
@@ -191,8 +191,8 @@
       "model_total": 11.23,
       "away_win_pct": 56.5,
       "home_win_pct": 43.5,
-      "away_ml": -130,
-      "home_ml": 115,
+      "away_ml": -134,
+      "home_ml": 118,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -212,8 +212,8 @@
       "model_total": 9.95,
       "away_win_pct": 52.2,
       "home_win_pct": 47.8,
-      "away_ml": 115,
-      "home_ml": -134,
+      "away_ml": 120,
+      "home_ml": -138,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -254,7 +254,7 @@
       "model_total": 11.47,
       "away_win_pct": 56.8,
       "home_win_pct": 43.2,
-      "away_ml": -145,
+      "away_ml": -154,
       "home_ml": 135,
       "ou_line": 10.5,
       "best_bet": false
@@ -267,7 +267,7 @@
       "away_starter": "Charlie Barnes",
       "home_starter": "J.T. Ginn",
       "park": "Sutter Health Park",
-      "park_factor": "+24%",
+      "park_factor": "+25%",
       "park_factor_class": "pos",
       "yrfi": 58.6,
       "away_proj": 5.1,
@@ -277,7 +277,7 @@
       "home_win_pct": 50.0,
       "away_ml": -162,
       "home_ml": 143,
-      "ou_line": 10.5,
+      "ou_line": 12.5,
       "best_bet": false
     },
     {
@@ -297,7 +297,7 @@
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
       "away_ml": 110,
-      "home_ml": -122,
+      "home_ml": -125,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -349,7 +349,7 @@
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
       "away_ml": 110,
-      "home_ml": -122,
+      "home_ml": -125,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
