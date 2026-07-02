@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T18:54:46.927162+00:00",
-  "scraped_at_display": "Scraped July 2, 2026 \u00b7 2:54 PM ET",
+  "scraped_at": "2026-07-02T20:14:12.346726+00:00",
+  "scraped_at_display": "Scraped July 2, 2026 \u00b7 4:14 PM ET",
   "date_label": "July 2, 2026",
   "games": [
     {
@@ -61,7 +61,7 @@
       "model_total": 11.39,
       "away_win_pct": 51.1,
       "home_win_pct": 48.9,
-      "away_ml": -134,
+      "away_ml": -135,
       "home_ml": 118,
       "ou_line": 12.5,
       "best_bet": false
@@ -76,13 +76,13 @@
       "park": "Progressive Field",
       "park_factor": "0%",
       "park_factor_class": "neut",
-      "yrfi": 54.5,
-      "away_proj": 4.68,
-      "home_proj": 4.56,
-      "model_total": 9.24,
-      "away_win_pct": 47.8,
-      "home_win_pct": 52.2,
-      "away_ml": -107,
+      "yrfi": 48.1,
+      "away_proj": 4.1,
+      "home_proj": 4.02,
+      "model_total": 8.12,
+      "away_win_pct": 48.0,
+      "home_win_pct": 52.0,
+      "away_ml": -105,
       "home_ml": -108,
       "ou_line": 8.5,
       "best_bet": false
@@ -145,7 +145,7 @@
       "model_total": 8.26,
       "away_win_pct": 47.0,
       "home_win_pct": 53.0,
-      "away_ml": -104,
+      "away_ml": -106,
       "home_ml": -105,
       "ou_line": 7.5,
       "best_bet": false
@@ -189,7 +189,7 @@
       "home_win_pct": 68.1,
       "away_ml": 166,
       "home_ml": -195,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     }
   ],
