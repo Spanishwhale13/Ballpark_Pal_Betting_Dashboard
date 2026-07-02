@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T17:08:38.281201+00:00",
-  "scraped_at_display": "Scraped July 2, 2026 \u00b7 1:08 PM ET",
+  "scraped_at": "2026-07-02T18:54:46.927162+00:00",
+  "scraped_at_display": "Scraped July 2, 2026 \u00b7 2:54 PM ET",
   "date_label": "July 2, 2026",
   "games": [
     {
@@ -61,9 +61,9 @@
       "model_total": 11.39,
       "away_win_pct": 51.1,
       "home_win_pct": 48.9,
-      "away_ml": -135,
-      "home_ml": 119,
-      "ou_line": 11.5,
+      "away_ml": -134,
+      "home_ml": 118,
+      "ou_line": 12.5,
       "best_bet": false
     },
     {
@@ -74,7 +74,7 @@
       "away_starter": "Davis Martin",
       "home_starter": "Slade Cecconi",
       "park": "Progressive Field",
-      "park_factor": "+0%",
+      "park_factor": "0%",
       "park_factor_class": "neut",
       "yrfi": 54.5,
       "away_proj": 4.68,
@@ -82,8 +82,8 @@
       "model_total": 9.24,
       "away_win_pct": 47.8,
       "home_win_pct": 52.2,
-      "away_ml": -108,
-      "home_ml": -106,
+      "away_ml": -107,
+      "home_ml": -108,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -103,8 +103,8 @@
       "model_total": 8.68,
       "away_win_pct": 42.2,
       "home_win_pct": 57.8,
-      "away_ml": -104,
-      "home_ml": -112,
+      "away_ml": -102,
+      "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -124,8 +124,8 @@
       "model_total": 10.47,
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
-      "away_ml": -123,
-      "home_ml": 107,
+      "away_ml": -124,
+      "home_ml": 110,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -145,8 +145,8 @@
       "model_total": 8.26,
       "away_win_pct": 47.0,
       "home_win_pct": 53.0,
-      "away_ml": -102,
-      "home_ml": -110,
+      "away_ml": -104,
+      "home_ml": -105,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -179,8 +179,8 @@
       "away_starter": "Randy Vasquez",
       "home_starter": "Roki Sasaki",
       "park": "Dodger Stadium",
-      "park_factor": "-2%",
-      "park_factor_class": "neut",
+      "park_factor": "-8%",
+      "park_factor_class": "neg",
       "yrfi": 54.9,
       "away_proj": 3.9,
       "home_proj": 5.58,
@@ -189,7 +189,7 @@
       "home_win_pct": 68.1,
       "away_ml": 166,
       "home_ml": -195,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     }
   ],
