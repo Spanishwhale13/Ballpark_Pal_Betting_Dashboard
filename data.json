@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-01T22:45:02.068123+00:00",
-  "scraped_at_display": "Scraped July 1, 2026 \u00b7 6:45 PM ET",
+  "scraped_at": "2026-07-02T00:01:47.566653+00:00",
+  "scraped_at_display": "Scraped July 1, 2026 \u00b7 8:01 PM ET",
   "date_label": "July 1, 2026",
   "games": [
     {
@@ -86,7 +86,7 @@
       "home_ml": -145,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Washington Nationals @ Boston Red Sox 9.5",
       "best_bet_edge": 1.56
@@ -150,7 +150,7 @@
       "away_win_pct": 40.4,
       "home_win_pct": 59.6,
       "away_ml": 126,
-      "home_ml": -142,
+      "home_ml": -144,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -172,12 +172,8 @@
       "home_win_pct": 62.2,
       "away_ml": 118,
       "home_ml": -134,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER St. Louis Cardinals @ Atlanta Braves 8.5",
-      "best_bet_edge": 1.91
+      "ou_line": 9.5,
+      "best_bet": false
     },
     {
       "gamepk": "824094",
@@ -216,8 +212,8 @@
       "model_total": 9.7,
       "away_win_pct": 49.1,
       "home_win_pct": 50.9,
-      "away_ml": 122,
-      "home_ml": -140,
+      "away_ml": 135,
+      "home_ml": -144,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -260,7 +256,7 @@
       "home_win_pct": 45.5,
       "away_ml": -144,
       "home_ml": 125,
-      "ou_line": null,
+      "ou_line": 11.5,
       "best_bet": false
     },
     {
@@ -273,15 +269,15 @@
       "park": "Sutter Health Park",
       "park_factor": "+24%",
       "park_factor_class": "pos",
-      "yrfi": 60.8,
-      "away_proj": 5.06,
-      "home_proj": 4.86,
-      "model_total": 9.92,
-      "away_win_pct": 49.3,
-      "home_win_pct": 50.7,
+      "yrfi": 51.4,
+      "away_proj": 5.09,
+      "home_proj": 4.65,
+      "model_total": 9.74,
+      "away_win_pct": 53.8,
+      "home_win_pct": 46.2,
       "away_ml": -164,
       "home_ml": 143,
-      "ou_line": 9.5,
+      "ou_line": 10.5,
       "best_bet": false
     },
     {
@@ -294,20 +290,20 @@
       "park": "Chase Field",
       "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 61.8,
-      "away_proj": 5.68,
-      "home_proj": 6.06,
-      "model_total": 11.74,
-      "away_win_pct": 43.6,
-      "home_win_pct": 56.4,
-      "away_ml": 110,
-      "home_ml": -129,
+      "yrfi": 61.1,
+      "away_proj": 5.27,
+      "home_proj": 5.88,
+      "model_total": 11.15,
+      "away_win_pct": 41.7,
+      "home_win_pct": 58.3,
+      "away_ml": 115,
+      "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 9.5",
-      "best_bet_edge": 2.24
+      "best_bet_edge": 1.65
     }
   ],
   "best_bets": [
@@ -331,35 +327,10 @@
       "home_ml": -145,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Washington Nationals @ Boston Red Sox 9.5",
       "best_bet_edge": 1.56
-    },
-    {
-      "gamepk": "824905",
-      "time": "7:15",
-      "away": "St. Louis Cardinals",
-      "home": "Atlanta Braves",
-      "away_starter": "Michael McGreevy",
-      "home_starter": "Reynaldo Lopez",
-      "park": "Truist Park",
-      "park_factor": "+4%",
-      "park_factor_class": "pos",
-      "yrfi": 57.9,
-      "away_proj": 4.77,
-      "home_proj": 5.64,
-      "model_total": 10.41,
-      "away_win_pct": 37.8,
-      "home_win_pct": 62.2,
-      "away_ml": 118,
-      "home_ml": -134,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER St. Louis Cardinals @ Atlanta Braves 8.5",
-      "best_bet_edge": 1.91
     },
     {
       "gamepk": "825064",
@@ -371,20 +342,20 @@
       "park": "Chase Field",
       "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 61.8,
-      "away_proj": 5.68,
-      "home_proj": 6.06,
-      "model_total": 11.74,
-      "away_win_pct": 43.6,
-      "home_win_pct": 56.4,
-      "away_ml": 110,
-      "home_ml": -129,
+      "yrfi": 61.1,
+      "away_proj": 5.27,
+      "home_proj": 5.88,
+      "model_total": 11.15,
+      "away_win_pct": 41.7,
+      "home_win_pct": 58.3,
+      "away_ml": 115,
+      "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 9.5",
-      "best_bet_edge": 2.24
+      "best_bet_edge": 1.65
     }
   ]
 }
