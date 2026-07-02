@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T00:01:47.566653+00:00",
-  "scraped_at_display": "Scraped July 1, 2026 \u00b7 8:01 PM ET",
+  "scraped_at": "2026-07-02T02:38:18.078632+00:00",
+  "scraped_at_display": "Scraped July 1, 2026 \u00b7 10:38 PM ET",
   "date_label": "July 1, 2026",
   "games": [
     {
@@ -86,7 +86,7 @@
       "home_ml": -145,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Washington Nationals @ Boston Red Sox 9.5",
       "best_bet_edge": 1.56
@@ -213,7 +213,7 @@
       "away_win_pct": 49.1,
       "home_win_pct": 50.9,
       "away_ml": 135,
-      "home_ml": -144,
+      "home_ml": -148,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -235,7 +235,7 @@
       "home_win_pct": 67.5,
       "away_ml": 136,
       "home_ml": -160,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -269,16 +269,20 @@
       "park": "Sutter Health Park",
       "park_factor": "+24%",
       "park_factor_class": "pos",
-      "yrfi": 51.4,
-      "away_proj": 5.09,
-      "home_proj": 4.65,
-      "model_total": 9.74,
-      "away_win_pct": 53.8,
-      "home_win_pct": 46.2,
-      "away_ml": -164,
-      "home_ml": 143,
+      "yrfi": 52.7,
+      "away_proj": 4.95,
+      "home_proj": 5.4,
+      "model_total": 10.35,
+      "away_win_pct": 44.0,
+      "home_win_pct": 56.0,
+      "away_ml": -160,
+      "home_ml": 140,
       "ou_line": 10.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "ml_home",
+      "best_bet_desc": "Oakland Athletics +140",
+      "best_bet_edge": 14.33
     },
     {
       "gamepk": "825064",
@@ -300,7 +304,7 @@
       "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 9.5",
       "best_bet_edge": 1.65
@@ -327,10 +331,35 @@
       "home_ml": -145,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Washington Nationals @ Boston Red Sox 9.5",
       "best_bet_edge": 1.56
+    },
+    {
+      "gamepk": "824985",
+      "time": "9:40",
+      "away": "Los Angeles Dodgers",
+      "home": "Oakland Athletics",
+      "away_starter": "Jack Dreyer",
+      "home_starter": "J.T. Ginn",
+      "park": "Sutter Health Park",
+      "park_factor": "+24%",
+      "park_factor_class": "pos",
+      "yrfi": 52.7,
+      "away_proj": 4.95,
+      "home_proj": 5.4,
+      "model_total": 10.35,
+      "away_win_pct": 44.0,
+      "home_win_pct": 56.0,
+      "away_ml": -160,
+      "home_ml": 140,
+      "ou_line": 10.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "ml_home",
+      "best_bet_desc": "Oakland Athletics +140",
+      "best_bet_edge": 14.33
     },
     {
       "gamepk": "825064",
@@ -352,7 +381,7 @@
       "home_ml": -130,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER San Francisco Giants @ Arizona Diamondbacks 9.5",
       "best_bet_edge": 1.65
