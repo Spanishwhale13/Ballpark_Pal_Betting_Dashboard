@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T15:39:24.062229+00:00",
-  "scraped_at_display": "Scraped July 4, 2026 \u00b7 11:39 AM ET",
+  "scraped_at": "2026-07-04T16:55:50.807646+00:00",
+  "scraped_at_display": "Scraped July 4, 2026 \u00b7 12:55 PM ET",
   "date_label": "July 4, 2026",
   "games": [
     {
@@ -40,8 +40,8 @@
       "model_total": 10.38,
       "away_win_pct": 42.5,
       "home_win_pct": 57.5,
-      "away_ml": 138,
-      "home_ml": -154,
+      "away_ml": 130,
+      "home_ml": -148,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -51,7 +51,7 @@
       "away": "Detroit Tigers",
       "home": "Texas Rangers",
       "away_starter": "Jack Flaherty",
-      "home_starter": "Kumar Rocker",
+      "home_starter": "Cal Quantrill",
       "park": "Globe Life Field",
       "park_factor": "-8%",
       "park_factor_class": "neg",
@@ -62,7 +62,7 @@
       "away_win_pct": 46.3,
       "home_win_pct": 53.7,
       "away_ml": -112,
-      "home_ml": 100,
+      "home_ml": 105,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -82,8 +82,8 @@
       "model_total": 7.62,
       "away_win_pct": 36.7,
       "home_win_pct": 63.3,
-      "away_ml": 140,
-      "home_ml": -159,
+      "away_ml": 145,
+      "home_ml": -167,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -103,7 +103,7 @@
       "model_total": 7.74,
       "away_win_pct": 51.8,
       "home_win_pct": 48.2,
-      "away_ml": -105,
+      "away_ml": -108,
       "home_ml": -108,
       "ou_line": 7.5,
       "best_bet": false
@@ -124,7 +124,7 @@
       "model_total": 8.91,
       "away_win_pct": 42.7,
       "home_win_pct": 57.3,
-      "away_ml": 125,
+      "away_ml": 123,
       "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
@@ -146,7 +146,7 @@
       "away_win_pct": 45.8,
       "home_win_pct": 54.2,
       "away_ml": 110,
-      "home_ml": -122,
+      "home_ml": -124,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -167,7 +167,7 @@
       "away_win_pct": 40.6,
       "home_win_pct": 59.4,
       "away_ml": 135,
-      "home_ml": -157,
+      "home_ml": -158,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -179,8 +179,8 @@
       "away_starter": "Sean Manaea",
       "home_starter": "Chris Sale",
       "park": "Truist Park",
-      "park_factor": "-1%",
-      "park_factor_class": "neut",
+      "park_factor": "-4%",
+      "park_factor_class": "neg",
       "yrfi": 53.0,
       "away_proj": 4.31,
       "home_proj": 4.82,
@@ -200,7 +200,7 @@
       "away_starter": "Robbie Ray",
       "home_starter": "Sean Sullivan",
       "park": "Coors Field",
-      "park_factor": "+44%",
+      "park_factor": "+33%",
       "park_factor_class": "pos",
       "yrfi": 65.6,
       "away_proj": 6.58,
@@ -208,14 +208,14 @@
       "model_total": 13.43,
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
-      "away_ml": -130,
-      "home_ml": 115,
+      "away_ml": -136,
+      "home_ml": 125,
       "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER San Francisco Giants @ Colorado Rockies 11.5",
-      "best_bet_edge": 1.93
+      "best_bet_type": "ml_home",
+      "best_bet_desc": "Colorado Rockies +125",
+      "best_bet_edge": 11.26
     },
     {
       "gamepk": "824092",
@@ -225,7 +225,7 @@
       "away_starter": "Jesus Luzardo",
       "home_starter": "Michael Wacha",
       "park": "Kauffman Stadium",
-      "park_factor": "+12%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 51.3,
       "away_proj": 5.11,
@@ -234,8 +234,8 @@
       "away_win_pct": 54.1,
       "home_win_pct": 45.9,
       "away_ml": -155,
-      "home_ml": 133,
-      "ou_line": 8.5,
+      "home_ml": 132,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -254,7 +254,7 @@
       "model_total": 9.49,
       "away_win_pct": 62.5,
       "home_win_pct": 37.5,
-      "away_ml": -164,
+      "away_ml": -162,
       "home_ml": 141,
       "ou_line": 8.5,
       "best_bet": false
@@ -276,7 +276,7 @@
       "away_win_pct": 45.3,
       "home_win_pct": 54.7,
       "away_ml": -124,
-      "home_ml": 110,
+      "home_ml": 115,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -306,7 +306,7 @@
       "time": "10:10",
       "away": "San Diego Padres",
       "home": "Los Angeles Dodgers",
-      "away_starter": "Griffin Canning",
+      "away_starter": "Wandy Peralta",
       "home_starter": "Yoshinobu Yamamoto",
       "park": "Dodger Stadium",
       "park_factor": "-2%",
@@ -332,7 +332,7 @@
       "away_starter": "Robbie Ray",
       "home_starter": "Sean Sullivan",
       "park": "Coors Field",
-      "park_factor": "+44%",
+      "park_factor": "+33%",
       "park_factor_class": "pos",
       "yrfi": 65.6,
       "away_proj": 6.58,
@@ -340,14 +340,14 @@
       "model_total": 13.43,
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
-      "away_ml": -130,
-      "home_ml": 115,
+      "away_ml": -136,
+      "home_ml": 125,
       "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER San Francisco Giants @ Colorado Rockies 11.5",
-      "best_bet_edge": 1.93
+      "best_bet_type": "ml_home",
+      "best_bet_desc": "Colorado Rockies +125",
+      "best_bet_edge": 11.26
     }
   ]
 }
