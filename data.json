@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T20:27:40.688974+00:00",
-  "scraped_at_display": "Scraped July 4, 2026 \u00b7 4:27 PM ET",
+  "scraped_at": "2026-07-04T21:27:19.389650+00:00",
+  "scraped_at_display": "Scraped July 4, 2026 \u00b7 5:27 PM ET",
   "date_label": "July 4, 2026",
   "games": [
     {
@@ -83,7 +83,7 @@
       "away_win_pct": 38.2,
       "home_win_pct": 61.8,
       "away_ml": 140,
-      "home_ml": -164,
+      "home_ml": -160,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -103,9 +103,9 @@
       "model_total": 7.47,
       "away_win_pct": 49.5,
       "home_win_pct": 50.5,
-      "away_ml": -104,
+      "away_ml": -102,
       "home_ml": -112,
-      "ou_line": 6.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -146,7 +146,7 @@
       "away_win_pct": 44.0,
       "home_win_pct": 56.0,
       "away_ml": 110,
-      "home_ml": -125,
+      "home_ml": -126,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -187,8 +187,8 @@
       "model_total": 9.13,
       "away_win_pct": 41.2,
       "home_win_pct": 58.8,
-      "away_ml": 143,
-      "home_ml": -166,
+      "away_ml": 148,
+      "home_ml": -162,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
@@ -213,13 +213,13 @@
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
       "away_ml": -134,
-      "home_ml": 120,
-      "ou_line": 10.5,
+      "home_ml": 118,
+      "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 1,
-      "best_bet_type": "ml_home",
-      "best_bet_desc": "Colorado Rockies +120",
-      "best_bet_edge": 10.25
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Francisco Giants @ Colorado Rockies 11.5",
+      "best_bet_edge": 1.93
     },
     {
       "gamepk": "824092",
@@ -231,15 +231,15 @@
       "park": "Kauffman Stadium",
       "park_factor": "+5%",
       "park_factor_class": "pos",
-      "yrfi": 51.3,
-      "away_proj": 5.11,
-      "home_proj": 4.54,
-      "model_total": 9.65,
-      "away_win_pct": 54.1,
-      "home_win_pct": 45.9,
-      "away_ml": -155,
-      "home_ml": 132,
-      "ou_line": 9.5,
+      "yrfi": 49.1,
+      "away_proj": 4.72,
+      "home_proj": 4.09,
+      "model_total": 8.81,
+      "away_win_pct": 54.3,
+      "home_win_pct": 45.7,
+      "away_ml": -156,
+      "home_ml": 135,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -271,7 +271,7 @@
       "away_starter": "Sandy Alcantara",
       "home_starter": "Aaron Civale",
       "park": "Sutter Health Park",
-      "park_factor": "+28%",
+      "park_factor": "+29%",
       "park_factor_class": "pos",
       "yrfi": 63.9,
       "away_proj": 5.84,
@@ -279,9 +279,9 @@
       "model_total": 11.93,
       "away_win_pct": 45.3,
       "home_win_pct": 54.7,
-      "away_ml": -125,
-      "home_ml": 118,
-      "ou_line": 10.5,
+      "away_ml": -134,
+      "home_ml": 115,
+      "ou_line": 11.5,
       "best_bet": false
     },
     {
@@ -344,8 +344,8 @@
       "model_total": 9.13,
       "away_win_pct": 41.2,
       "home_win_pct": 58.8,
-      "away_ml": 143,
-      "home_ml": -166,
+      "away_ml": 148,
+      "home_ml": -162,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
@@ -370,13 +370,13 @@
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
       "away_ml": -134,
-      "home_ml": 120,
-      "ou_line": 10.5,
+      "home_ml": 118,
+      "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 1,
-      "best_bet_type": "ml_home",
-      "best_bet_desc": "Colorado Rockies +120",
-      "best_bet_edge": 10.25
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Francisco Giants @ Colorado Rockies 11.5",
+      "best_bet_edge": 1.93
     }
   ]
 }
