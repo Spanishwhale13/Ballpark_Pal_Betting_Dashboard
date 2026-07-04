@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T17:58:56.000502+00:00",
-  "scraped_at_display": "Scraped July 4, 2026 \u00b7 1:58 PM ET",
+  "scraped_at": "2026-07-04T19:16:58.982992+00:00",
+  "scraped_at_display": "Scraped July 4, 2026 \u00b7 3:16 PM ET",
   "date_label": "July 4, 2026",
   "games": [
     {
@@ -62,7 +62,7 @@
       "away_win_pct": 48.3,
       "home_win_pct": 51.7,
       "away_ml": -118,
-      "home_ml": 107,
+      "home_ml": 105,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -82,8 +82,8 @@
       "model_total": 7.33,
       "away_win_pct": 38.2,
       "home_win_pct": 61.8,
-      "away_ml": 145,
-      "home_ml": -167,
+      "away_ml": 140,
+      "home_ml": -162,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -104,7 +104,7 @@
       "away_win_pct": 51.8,
       "home_win_pct": 48.2,
       "away_ml": -108,
-      "home_ml": -108,
+      "home_ml": -105,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -124,7 +124,7 @@
       "model_total": 8.91,
       "away_win_pct": 42.7,
       "home_win_pct": 57.3,
-      "away_ml": 125,
+      "away_ml": 123,
       "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
@@ -146,7 +146,7 @@
       "away_win_pct": 45.8,
       "home_win_pct": 54.2,
       "away_ml": 110,
-      "home_ml": -125,
+      "home_ml": -126,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -235,7 +235,7 @@
       "home_win_pct": 45.9,
       "away_ml": -155,
       "home_ml": 132,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -275,7 +275,7 @@
       "model_total": 11.93,
       "away_win_pct": 45.3,
       "home_win_pct": 54.7,
-      "away_ml": -126,
+      "away_ml": -125,
       "home_ml": 115,
       "ou_line": 10.5,
       "best_bet": false
@@ -296,7 +296,7 @@
       "model_total": 9.67,
       "away_win_pct": 59.6,
       "home_win_pct": 40.4,
-      "away_ml": -148,
+      "away_ml": -154,
       "home_ml": 130,
       "ou_line": 9.5,
       "best_bet": false
@@ -309,8 +309,8 @@
       "away_starter": "Wandy Peralta",
       "home_starter": "Yoshinobu Yamamoto",
       "park": "Dodger Stadium",
-      "park_factor": "-2%",
-      "park_factor_class": "neut",
+      "park_factor": "-6%",
+      "park_factor_class": "neg",
       "yrfi": 48.7,
       "away_proj": 3.5,
       "home_proj": 4.95,
