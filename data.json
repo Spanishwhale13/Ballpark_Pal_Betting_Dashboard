@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T16:55:50.807646+00:00",
-  "scraped_at_display": "Scraped July 4, 2026 \u00b7 12:55 PM ET",
+  "scraped_at": "2026-07-04T17:58:56.000502+00:00",
+  "scraped_at_display": "Scraped July 4, 2026 \u00b7 1:58 PM ET",
   "date_label": "July 4, 2026",
   "games": [
     {
@@ -55,15 +55,15 @@
       "park": "Globe Life Field",
       "park_factor": "-8%",
       "park_factor_class": "neg",
-      "yrfi": 48.2,
-      "away_proj": 4.35,
-      "home_proj": 4.42,
-      "model_total": 8.77,
-      "away_win_pct": 46.3,
-      "home_win_pct": 53.7,
-      "away_ml": -112,
-      "home_ml": 105,
-      "ou_line": 7.5,
+      "yrfi": 52.9,
+      "away_proj": 4.58,
+      "home_proj": 4.5,
+      "model_total": 9.08,
+      "away_win_pct": 48.3,
+      "home_win_pct": 51.7,
+      "away_ml": -118,
+      "home_ml": 107,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -76,12 +76,12 @@
       "park": "T-Mobile Park",
       "park_factor": "-10%",
       "park_factor_class": "neg",
-      "yrfi": 44.2,
-      "away_proj": 3.31,
-      "home_proj": 4.31,
-      "model_total": 7.62,
-      "away_win_pct": 36.7,
-      "home_win_pct": 63.3,
+      "yrfi": 45.4,
+      "away_proj": 3.19,
+      "home_proj": 4.14,
+      "model_total": 7.33,
+      "away_win_pct": 38.2,
+      "home_win_pct": 61.8,
       "away_ml": 145,
       "home_ml": -167,
       "ou_line": 7.5,
@@ -105,7 +105,7 @@
       "home_win_pct": 48.2,
       "away_ml": -108,
       "home_ml": -108,
-      "ou_line": 7.5,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -124,7 +124,7 @@
       "model_total": 8.91,
       "away_win_pct": 42.7,
       "home_win_pct": 57.3,
-      "away_ml": 123,
+      "away_ml": 125,
       "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
@@ -146,7 +146,7 @@
       "away_win_pct": 45.8,
       "home_win_pct": 54.2,
       "away_ml": 110,
-      "home_ml": -124,
+      "home_ml": -125,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -158,7 +158,7 @@
       "away_starter": "Kyle Leahy",
       "home_starter": "Shota Imanaga",
       "park": "Wrigley Field",
-      "park_factor": "-18%",
+      "park_factor": "-25%",
       "park_factor_class": "neg",
       "yrfi": 50.0,
       "away_proj": 4.22,
@@ -209,13 +209,13 @@
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
       "away_ml": -136,
-      "home_ml": 125,
+      "home_ml": 126,
       "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Colorado Rockies +125",
-      "best_bet_edge": 11.26
+      "best_bet_desc": "Colorado Rockies +126",
+      "best_bet_edge": 11.45
     },
     {
       "gamepk": "824092",
@@ -235,7 +235,7 @@
       "home_win_pct": 45.9,
       "away_ml": -155,
       "home_ml": 132,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -246,7 +246,7 @@
       "away_starter": "Sonny Gray",
       "home_starter": "Samuel Aldegheri",
       "park": "Angel Stadium",
-      "park_factor": "+4%",
+      "park_factor": "+6%",
       "park_factor_class": "pos",
       "yrfi": 50.7,
       "away_proj": 5.5,
@@ -254,8 +254,8 @@
       "model_total": 9.49,
       "away_win_pct": 62.5,
       "home_win_pct": 37.5,
-      "away_ml": -162,
-      "home_ml": 141,
+      "away_ml": -164,
+      "home_ml": 143,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -267,7 +267,7 @@
       "away_starter": "Sandy Alcantara",
       "home_starter": "Aaron Civale",
       "park": "Sutter Health Park",
-      "park_factor": "+31%",
+      "park_factor": "+28%",
       "park_factor_class": "pos",
       "yrfi": 63.9,
       "away_proj": 5.84,
@@ -275,9 +275,9 @@
       "model_total": 11.93,
       "away_win_pct": 45.3,
       "home_win_pct": 54.7,
-      "away_ml": -124,
+      "away_ml": -126,
       "home_ml": 115,
-      "ou_line": 11.5,
+      "ou_line": 10.5,
       "best_bet": false
     },
     {
@@ -311,13 +311,13 @@
       "park": "Dodger Stadium",
       "park_factor": "-2%",
       "park_factor_class": "neut",
-      "yrfi": 48.5,
-      "away_proj": 3.37,
-      "home_proj": 4.73,
-      "model_total": 8.1,
-      "away_win_pct": 34.2,
-      "home_win_pct": 65.8,
-      "away_ml": 210,
+      "yrfi": 48.7,
+      "away_proj": 3.5,
+      "home_proj": 4.95,
+      "model_total": 8.45,
+      "away_win_pct": 32.4,
+      "home_win_pct": 67.6,
+      "away_ml": 220,
       "home_ml": -250,
       "ou_line": 8.5,
       "best_bet": false
@@ -341,13 +341,13 @@
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
       "away_ml": -136,
-      "home_ml": 125,
+      "home_ml": 126,
       "ou_line": 11.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Colorado Rockies +125",
-      "best_bet_edge": 11.26
+      "best_bet_desc": "Colorado Rockies +126",
+      "best_bet_edge": 11.45
     }
   ]
 }
