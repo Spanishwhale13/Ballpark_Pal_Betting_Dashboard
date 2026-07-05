@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-05T18:04:35.572280+00:00",
-  "scraped_at_display": "Scraped July 5, 2026 \u00b7 2:04 PM ET",
+  "scraped_at": "2026-07-05T19:48:31.358161+00:00",
+  "scraped_at_display": "Scraped July 5, 2026 \u00b7 3:48 PM ET",
   "date_label": "July 5, 2026",
   "games": [
     {
@@ -129,7 +129,7 @@
       "away_win_pct": 44.1,
       "home_win_pct": 55.9,
       "away_ml": 125,
-      "home_ml": -145,
+      "home_ml": -142,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -172,7 +172,7 @@
       "home_win_pct": 56.5,
       "away_ml": 100,
       "home_ml": -116,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -191,7 +191,7 @@
       "model_total": 7.64,
       "away_win_pct": 59.8,
       "home_win_pct": 40.2,
-      "away_ml": -122,
+      "away_ml": -115,
       "home_ml": 108,
       "ou_line": 7.5,
       "best_bet": false
@@ -212,7 +212,7 @@
       "model_total": 12.97,
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
-      "away_ml": -115,
+      "away_ml": -118,
       "home_ml": 107,
       "ou_line": 12.5,
       "best_bet": false
@@ -227,16 +227,20 @@
       "park": "Chase Field",
       "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 55.4,
-      "away_proj": 4.79,
-      "home_proj": 4.93,
-      "model_total": 9.72,
-      "away_win_pct": 47.2,
-      "home_win_pct": 52.8,
+      "yrfi": 54.4,
+      "away_proj": 5.17,
+      "home_proj": 5.04,
+      "model_total": 10.21,
+      "away_win_pct": 51.1,
+      "home_win_pct": 48.9,
       "away_ml": -120,
-      "home_ml": 105,
+      "home_ml": 102,
       "ou_line": 8.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Milwaukee Brewers @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.71
     },
     {
       "gamepk": "824980",
@@ -254,7 +258,7 @@
       "model_total": 8.65,
       "away_win_pct": 47.4,
       "home_win_pct": 52.6,
-      "away_ml": 104,
+      "away_ml": 105,
       "home_ml": -118,
       "ou_line": 9.5,
       "best_bet": false
@@ -269,14 +273,14 @@
       "park": "T-Mobile Park",
       "park_factor": "-8%",
       "park_factor_class": "neg",
-      "yrfi": 48.9,
-      "away_proj": 3.98,
-      "home_proj": 3.8,
-      "model_total": 7.78,
-      "away_win_pct": 50.0,
-      "home_win_pct": 50.0,
-      "away_ml": 112,
-      "home_ml": -130,
+      "yrfi": 46.6,
+      "away_proj": 4.08,
+      "home_proj": 3.72,
+      "model_total": 7.8,
+      "away_win_pct": 51.0,
+      "home_win_pct": 49.0,
+      "away_ml": 102,
+      "home_ml": -118,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -296,8 +300,8 @@
       "model_total": 9.77,
       "away_win_pct": 41.8,
       "home_win_pct": 58.2,
-      "away_ml": 180,
-      "home_ml": -210,
+      "away_ml": 192,
+      "home_ml": -220,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -317,7 +321,7 @@
       "model_total": 8.92,
       "away_win_pct": 51.2,
       "home_win_pct": 48.8,
-      "away_ml": -160,
+      "away_ml": -154,
       "home_ml": 140,
       "ou_line": 8.5,
       "best_bet": false
@@ -348,6 +352,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER New York Mets @ Atlanta Braves 8.5",
       "best_bet_edge": 1.73
+    },
+    {
+      "gamepk": "825061",
+      "time": "4:00",
+      "away": "Milwaukee Brewers",
+      "home": "Arizona Diamondbacks",
+      "away_starter": "Brandon Sproat",
+      "home_starter": "Eduardo Rodriguez",
+      "park": "Chase Field",
+      "park_factor": "+0%",
+      "park_factor_class": "neut",
+      "yrfi": 54.4,
+      "away_proj": 5.17,
+      "home_proj": 5.04,
+      "model_total": 10.21,
+      "away_win_pct": 51.1,
+      "home_win_pct": 48.9,
+      "away_ml": -120,
+      "home_ml": 102,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Milwaukee Brewers @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.71
     }
   ]
 }
