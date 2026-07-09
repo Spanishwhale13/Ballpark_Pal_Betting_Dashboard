@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-09T00:02:02.079374+00:00",
-  "scraped_at_display": "Scraped July 8, 2026 \u00b7 8:02 PM ET",
+  "scraped_at": "2026-07-09T02:13:59.252516+00:00",
+  "scraped_at_display": "Scraped July 8, 2026 \u00b7 10:13 PM ET",
   "date_label": "July 8, 2026",
   "games": [
     {
@@ -134,8 +134,8 @@
       "time": "6:45",
       "away": "Houston Astros",
       "home": "Washington Nationals",
-      "away_starter": "Spencer Arrighetti",
-      "home_starter": "Foster Griffin",
+      "away_starter": "",
+      "home_starter": "",
       "park": "Nationals Park",
       "park_factor": "+15%",
       "park_factor_class": "pos",
@@ -210,12 +210,8 @@
       "home_win_pct": 43.9,
       "away_ml": -103,
       "home_ml": -106,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Boston Red Sox @ Chicago White Sox 7.5",
-      "best_bet_edge": 1.62
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "823684",
@@ -321,38 +317,13 @@
       "model_total": 9.08,
       "away_win_pct": 35.0,
       "home_win_pct": 65.0,
-      "away_ml": 220,
-      "home_ml": -255,
+      "away_ml": 225,
+      "home_ml": -250,
       "ou_line": 9.5,
       "best_bet": false
     }
   ],
   "best_bets": [
-    {
-      "gamepk": "824578",
-      "time": "7:40",
-      "away": "Boston Red Sox",
-      "home": "Chicago White Sox",
-      "away_starter": "Jake Bennett",
-      "home_starter": "Davis Martin",
-      "park": "Rate Field",
-      "park_factor": "+9%",
-      "park_factor_class": "pos",
-      "yrfi": 51.5,
-      "away_proj": 5.0,
-      "home_proj": 4.12,
-      "model_total": 9.12,
-      "away_win_pct": 56.1,
-      "home_win_pct": 43.9,
-      "away_ml": -103,
-      "home_ml": -106,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Boston Red Sox @ Chicago White Sox 7.5",
-      "best_bet_edge": 1.62
-    },
     {
       "gamepk": "823684",
       "time": "7:40",
