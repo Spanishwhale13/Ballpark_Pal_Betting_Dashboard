@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-10T17:16:44.005745+00:00",
-  "scraped_at_display": "Scraped July 10, 2026 \u00b7 1:16 PM ET",
+  "scraped_at": "2026-07-10T18:55:39.851250+00:00",
+  "scraped_at_display": "Scraped July 10, 2026 \u00b7 2:55 PM ET",
   "date_label": "July 10, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Brandon Sproat",
       "home_starter": "Braxton Ashcraft",
       "park": "PNC Park",
-      "park_factor": "+4%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 46.1,
       "away_proj": 4.21,
@@ -41,7 +41,7 @@
       "away_win_pct": 48.8,
       "home_win_pct": 51.2,
       "away_ml": 102,
-      "home_ml": -118,
+      "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -74,7 +74,7 @@
       "away_starter": "Luinder Avila",
       "home_starter": "Brandon Young",
       "park": "Oriole Park at Camden Yards",
-      "park_factor": "+14%",
+      "park_factor": "+9%",
       "park_factor_class": "pos",
       "yrfi": 55.8,
       "away_proj": 5.14,
@@ -95,7 +95,7 @@
       "away_starter": "Shota Imanaga",
       "home_starter": "Hunter Greene",
       "park": "Great American Ball Park",
-      "park_factor": "+18%",
+      "park_factor": "+15%",
       "park_factor_class": "pos",
       "yrfi": 55.5,
       "away_proj": 4.94,
@@ -125,8 +125,8 @@
       "away_win_pct": 54.5,
       "home_win_pct": 45.5,
       "away_ml": 100,
-      "home_ml": -115,
-      "ou_line": 7.5,
+      "home_ml": -116,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -158,7 +158,7 @@
       "away_starter": "Sonny Gray",
       "home_starter": "Nolan McLean",
       "park": "Citi Field",
-      "park_factor": "-5%",
+      "park_factor": "-8%",
       "park_factor_class": "neg",
       "yrfi": 44.6,
       "away_proj": 3.92,
@@ -179,7 +179,7 @@
       "away_starter": "Jacob Lopez",
       "home_starter": "Sean Burke",
       "park": "Rate Field",
-      "park_factor": "+5%",
+      "park_factor": "+4%",
       "park_factor_class": "pos",
       "yrfi": 54.6,
       "away_proj": 4.38,
@@ -189,8 +189,12 @@
       "home_win_pct": 62.3,
       "away_ml": 135,
       "home_ml": -154,
-      "ou_line": 8.5,
-      "best_bet": false
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Oakland Athletics @ Chicago White Sox 7.5",
+      "best_bet_edge": 2.27
     },
     {
       "gamepk": "822878",
@@ -284,8 +288,8 @@
       "away_starter": "Eduardo Rodriguez",
       "home_starter": "Shohei Ohtani",
       "park": "Dodger Stadium",
-      "park_factor": "0%",
-      "park_factor_class": "neut",
+      "park_factor": "-5%",
+      "park_factor_class": "neg",
       "yrfi": 53.0,
       "away_proj": 3.82,
       "home_proj": 5.25,
@@ -305,7 +309,7 @@
       "away_starter": "Tanner Gordon",
       "home_starter": "Robbie Ray",
       "park": "Oracle Park",
-      "park_factor": "-5%",
+      "park_factor": "-4%",
       "park_factor_class": "neg",
       "yrfi": 54.3,
       "away_proj": 4.63,
@@ -319,5 +323,31 @@
       "best_bet": false
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "824575",
+      "time": "7:40",
+      "away": "Oakland Athletics",
+      "home": "Chicago White Sox",
+      "away_starter": "Jacob Lopez",
+      "home_starter": "Sean Burke",
+      "park": "Rate Field",
+      "park_factor": "+4%",
+      "park_factor_class": "pos",
+      "yrfi": 54.6,
+      "away_proj": 4.38,
+      "home_proj": 5.39,
+      "model_total": 9.77,
+      "away_win_pct": 37.7,
+      "home_win_pct": 62.3,
+      "away_ml": 135,
+      "home_ml": -154,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Oakland Athletics @ Chicago White Sox 7.5",
+      "best_bet_edge": 2.27
+    }
+  ]
 }
