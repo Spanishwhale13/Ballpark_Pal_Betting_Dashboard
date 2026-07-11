@@ -1,29 +1,8 @@
 {
-  "scraped_at": "2026-07-10T23:51:48.610937+00:00",
-  "scraped_at_display": "Scraped July 10, 2026 \u00b7 7:51 PM ET",
+  "scraped_at": "2026-07-11T01:59:40.110558+00:00",
+  "scraped_at_display": "Scraped July 10, 2026 \u00b7 9:59 PM ET",
   "date_label": "July 10, 2026",
   "games": [
-    {
-      "gamepk": "823357",
-      "time": "6:40",
-      "away": "Milwaukee Brewers",
-      "home": "Pittsburgh Pirates",
-      "away_starter": "Brandon Sproat",
-      "home_starter": "Braxton Ashcraft",
-      "park": "PNC Park",
-      "park_factor": "+5%",
-      "park_factor_class": "pos",
-      "yrfi": 46.6,
-      "away_proj": 4.03,
-      "home_proj": 4.48,
-      "model_total": 8.51,
-      "away_win_pct": 43.6,
-      "home_win_pct": 56.4,
-      "away_ml": 110,
-      "home_ml": -125,
-      "ou_line": 8.5,
-      "best_bet": false
-    },
     {
       "gamepk": "824252",
       "time": "6:40",
@@ -208,8 +187,8 @@
       "model_total": 9.22,
       "away_win_pct": 49.8,
       "home_win_pct": 50.2,
-      "away_ml": -140,
-      "home_ml": 120,
+      "away_ml": -135,
+      "home_ml": 118,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -252,7 +231,7 @@
       "home_win_pct": 44.9,
       "away_ml": -160,
       "home_ml": 140,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -272,7 +251,7 @@
       "away_win_pct": 50.0,
       "home_win_pct": 50.0,
       "away_ml": 110,
-      "home_ml": -118,
+      "home_ml": -120,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -313,8 +292,8 @@
       "model_total": 9.37,
       "away_win_pct": 44.9,
       "home_win_pct": 55.1,
-      "away_ml": 135,
-      "home_ml": -155,
+      "away_ml": 140,
+      "home_ml": -152,
       "ou_line": 8.5,
       "best_bet": false
     }
