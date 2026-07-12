@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-12T18:53:22.372842+00:00",
-  "scraped_at_display": "Scraped July 12, 2026 \u00b7 2:53 PM ET",
+  "scraped_at": "2026-07-12T20:02:25.925834+00:00",
+  "scraped_at_display": "Scraped July 12, 2026 \u00b7 4:02 PM ET",
   "date_label": "July 12, 2026",
   "games": [
     {
@@ -44,7 +44,7 @@
       "home_ml": -113,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER New York Yankees @ Washington Nationals 9.5",
       "best_bet_edge": 1.59
@@ -197,8 +197,12 @@
       "home_win_pct": 61.2,
       "away_ml": 115,
       "home_ml": -132,
-      "ou_line": 9.5,
-      "best_bet": false
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Los Angeles Angels @ Minnesota Twins 8.5",
+      "best_bet_edge": 1.64
     },
     {
       "gamepk": "824574",
@@ -300,8 +304,8 @@
       "model_total": 8.52,
       "away_win_pct": 49.1,
       "home_win_pct": 50.9,
-      "away_ml": -126,
-      "home_ml": 115,
+      "away_ml": -125,
+      "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -348,7 +352,7 @@
       "home_ml": -113,
       "ou_line": 9.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER New York Yankees @ Washington Nationals 9.5",
       "best_bet_edge": 1.59
@@ -377,6 +381,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Kansas City Royals @ Baltimore Orioles 9.5",
       "best_bet_edge": 1.9
+    },
+    {
+      "gamepk": "823681",
+      "time": "2:10",
+      "away": "Los Angeles Angels",
+      "home": "Minnesota Twins",
+      "away_starter": "Jose Soriano",
+      "home_starter": "Taj Bradley",
+      "park": "Target Field",
+      "park_factor": "+4%",
+      "park_factor_class": "pos",
+      "yrfi": 52.5,
+      "away_proj": 4.62,
+      "home_proj": 5.52,
+      "model_total": 10.14,
+      "away_win_pct": 38.8,
+      "home_win_pct": 61.2,
+      "away_ml": 115,
+      "home_ml": -132,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Los Angeles Angels @ Minnesota Twins 8.5",
+      "best_bet_edge": 1.64
     }
   ]
 }
