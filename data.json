@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15T22:29:01.039536+00:00",
-  "scraped_at_display": "Scraped July 15, 2026 \u00b7 6:29 PM ET",
+  "scraped_at": "2026-07-15T23:29:36.070227+00:00",
+  "scraped_at_display": "Scraped July 15, 2026 \u00b7 7:29 PM ET",
   "date_label": "July 15, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Christian Scott",
       "home_starter": "Aaron Nola",
       "park": "Citizens Bank Park",
-      "park_factor": "+12%",
+      "park_factor": "+11%",
       "park_factor_class": "pos",
       "yrfi": 57.8,
       "away_proj": 5.43,
@@ -38,7 +38,7 @@
       "away_starter": "Christian Scott",
       "home_starter": "Aaron Nola",
       "park": "Citizens Bank Park",
-      "park_factor": "+12%",
+      "park_factor": "+11%",
       "park_factor_class": "pos",
       "yrfi": 57.8,
       "away_proj": 5.43,
