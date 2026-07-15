@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-15T01:47:22.771577+00:00",
-  "scraped_at_display": "Scraped July 14, 2026 \u00b7 9:47 PM ET",
-  "date_label": "July 14, 2026",
+  "scraped_at": "2026-07-15T04:45:02.130834+00:00",
+  "scraped_at_display": "Scraped July 15, 2026 \u00b7 12:45 AM ET",
+  "date_label": "July 15, 2026",
   "games": [
     {
       "gamepk": "823440",
@@ -13,15 +13,15 @@
       "park": "Citizens Bank Park",
       "park_factor": "+13%",
       "park_factor_class": "pos",
-      "yrfi": 58.6,
-      "away_proj": 5.71,
-      "home_proj": 5.82,
-      "model_total": 11.53,
-      "away_win_pct": 45.1,
-      "home_win_pct": 54.9,
+      "yrfi": 57.4,
+      "away_proj": 5.64,
+      "home_proj": 5.76,
+      "model_total": 11.4,
+      "away_win_pct": 45.4,
+      "home_win_pct": 54.6,
       "away_ml": null,
       "home_ml": null,
-      "ou_line": null,
+      "ou_line": 10.5,
       "best_bet": false
     }
   ],
