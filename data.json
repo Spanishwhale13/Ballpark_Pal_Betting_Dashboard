@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15T14:42:42.405207+00:00",
-  "scraped_at_display": "Scraped July 15, 2026 \u00b7 10:42 AM ET",
+  "scraped_at": "2026-07-15T16:14:19.668178+00:00",
+  "scraped_at_display": "Scraped July 15, 2026 \u00b7 12:14 PM ET",
   "date_label": "July 15, 2026",
   "games": [
     {
@@ -11,16 +11,16 @@
       "away_starter": "Christian Scott",
       "home_starter": "Aaron Nola",
       "park": "Citizens Bank Park",
-      "park_factor": "+13%",
+      "park_factor": "+12%",
       "park_factor_class": "pos",
-      "yrfi": 57.4,
-      "away_proj": 5.64,
-      "home_proj": 5.76,
-      "model_total": 11.4,
-      "away_win_pct": 45.4,
-      "home_win_pct": 54.6,
+      "yrfi": 57.8,
+      "away_proj": 5.43,
+      "home_proj": 5.73,
+      "model_total": 11.16,
+      "away_win_pct": 44.1,
+      "home_win_pct": 55.9,
       "away_ml": 122,
-      "home_ml": -126,
+      "home_ml": -132,
       "ou_line": 10.5,
       "best_bet": false
     }
