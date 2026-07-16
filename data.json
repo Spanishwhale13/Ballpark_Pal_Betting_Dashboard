@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-07-16T20:02:34.605409+00:00",
-  "scraped_at_display": "Scraped July 16, 2026 \u00b7 4:02 PM ET",
+  "scraped_at": "2026-07-16T21:29:56.977721+00:00",
+  "scraped_at_display": "Scraped July 16, 2026 \u00b7 5:29 PM ET",
   "date_label": "July 16, 2026",
   "games": [
     {
       "gamepk": "823440",
-      "time": "7:10",
+      "time": "6:10",
       "away": "New York Mets",
       "home": "Philadelphia Phillies",
       "away_starter": "Christian Scott",
@@ -20,7 +20,7 @@
       "away_win_pct": 43.2,
       "home_win_pct": 56.8,
       "away_ml": 112,
-      "home_ml": -127,
+      "home_ml": -125,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -32,7 +32,7 @@
   "best_bets": [
     {
       "gamepk": "823440",
-      "time": "7:10",
+      "time": "6:10",
       "away": "New York Mets",
       "home": "Philadelphia Phillies",
       "away_starter": "Christian Scott",
@@ -47,7 +47,7 @@
       "away_win_pct": 43.2,
       "home_win_pct": 56.8,
       "away_ml": 112,
-      "home_ml": -127,
+      "home_ml": -125,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
