@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-16T05:11:29.114284+00:00",
-  "scraped_at_display": "Scraped July 16, 2026 \u00b7 1:11 AM ET",
+  "scraped_at": "2026-07-16T14:52:47.701772+00:00",
+  "scraped_at_display": "Scraped July 16, 2026 \u00b7 10:52 AM ET",
   "date_label": "July 16, 2026",
   "games": [
     {
@@ -11,49 +11,19 @@
       "away_starter": "Christian Scott",
       "home_starter": "Aaron Nola",
       "park": "Citizens Bank Park",
-      "park_factor": "+11%",
+      "park_factor": "+14%",
       "park_factor_class": "pos",
-      "yrfi": 57.7,
-      "away_proj": 5.5,
-      "home_proj": 5.64,
-      "model_total": 11.14,
-      "away_win_pct": 45.1,
-      "home_win_pct": 54.9,
-      "away_ml": 112,
-      "home_ml": -124,
+      "yrfi": 56.3,
+      "away_proj": 5.32,
+      "home_proj": 5.43,
+      "model_total": 10.75,
+      "away_win_pct": 46.0,
+      "home_win_pct": 54.0,
+      "away_ml": 115,
+      "home_ml": -127,
       "ou_line": 9.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Philadelphia Phillies 9.5",
-      "best_bet_edge": 1.64
+      "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "823440",
-      "time": "7:10",
-      "away": "New York Mets",
-      "home": "Philadelphia Phillies",
-      "away_starter": "Christian Scott",
-      "home_starter": "Aaron Nola",
-      "park": "Citizens Bank Park",
-      "park_factor": "+11%",
-      "park_factor_class": "pos",
-      "yrfi": 57.7,
-      "away_proj": 5.5,
-      "home_proj": 5.64,
-      "model_total": 11.14,
-      "away_win_pct": 45.1,
-      "home_win_pct": 54.9,
-      "away_ml": 112,
-      "home_ml": -124,
-      "ou_line": 9.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Philadelphia Phillies 9.5",
-      "best_bet_edge": 1.64
-    }
-  ]
+  "best_bets": []
 }
