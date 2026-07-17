@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-17T22:45:48.832144+00:00",
-  "scraped_at_display": "Scraped July 17, 2026 \u00b7 6:45 PM ET",
+  "scraped_at": "2026-07-17T23:44:05.483954+00:00",
+  "scraped_at_display": "Scraped July 17, 2026 \u00b7 7:44 PM ET",
   "date_label": "July 17, 2026",
   "games": [
     {
@@ -23,7 +23,7 @@
       "home_ml": -112,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 2.0
@@ -67,7 +67,7 @@
       "home_win_pct": 54.9,
       "away_ml": 112,
       "home_ml": -126,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -87,7 +87,7 @@
       "away_win_pct": 35.5,
       "home_win_pct": 64.5,
       "away_ml": 115,
-      "home_ml": -124,
+      "home_ml": -129,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -130,12 +130,8 @@
       "home_win_pct": 56.1,
       "away_ml": 132,
       "home_ml": -150,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Miami Marlins @ Milwaukee Brewers 7.5",
-      "best_bet_edge": 2.49
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "824655",
@@ -155,7 +151,7 @@
       "home_win_pct": 53.6,
       "away_ml": 130,
       "home_ml": -141,
-      "ou_line": 10.5,
+      "ou_line": 11.5,
       "best_bet": false
     },
     {
@@ -217,7 +213,7 @@
       "away_win_pct": 41.1,
       "home_win_pct": 58.9,
       "away_ml": -102,
-      "home_ml": -104,
+      "home_ml": -110,
       "ou_line": 12.5,
       "best_bet": false
     },
@@ -238,7 +234,7 @@
       "away_win_pct": 48.9,
       "home_win_pct": 51.1,
       "away_ml": -106,
-      "home_ml": -104,
+      "home_ml": -105,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -258,7 +254,7 @@
       "model_total": 10.62,
       "away_win_pct": 48.8,
       "home_win_pct": 51.2,
-      "away_ml": -132,
+      "away_ml": -130,
       "home_ml": 116,
       "ou_line": 10.5,
       "best_bet": false
@@ -280,10 +276,10 @@
       "away_win_pct": 45.4,
       "home_win_pct": 54.6,
       "away_ml": -104,
-      "home_ml": -112,
+      "home_ml": -109,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER St. Louis Cardinals @ Arizona Diamondbacks 8.5",
       "best_bet_edge": 1.89
@@ -304,8 +300,8 @@
       "model_total": 6.78,
       "away_win_pct": 45.1,
       "home_win_pct": 54.9,
-      "away_ml": 170,
-      "home_ml": -184,
+      "away_ml": 158,
+      "home_ml": -177,
       "ou_line": null,
       "best_bet": false
     }
@@ -331,35 +327,10 @@
       "home_ml": -112,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 2.0
-    },
-    {
-      "gamepk": "823766",
-      "time": "7:40",
-      "away": "Miami Marlins",
-      "home": "Milwaukee Brewers",
-      "away_starter": "Sandy Alcantara",
-      "home_starter": "Logan Henderson",
-      "park": "American Family Field",
-      "park_factor": "+12%",
-      "park_factor_class": "pos",
-      "yrfi": 51.2,
-      "away_proj": 4.89,
-      "home_proj": 5.1,
-      "model_total": 9.99,
-      "away_win_pct": 43.9,
-      "home_win_pct": 56.1,
-      "away_ml": 132,
-      "home_ml": -150,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Miami Marlins @ Milwaukee Brewers 7.5",
-      "best_bet_edge": 2.49
     },
     {
       "gamepk": "825060",
@@ -378,10 +349,10 @@
       "away_win_pct": 45.4,
       "home_win_pct": 54.6,
       "away_ml": -104,
-      "home_ml": -112,
+      "home_ml": -109,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER St. Louis Cardinals @ Arizona Diamondbacks 8.5",
       "best_bet_edge": 1.89
