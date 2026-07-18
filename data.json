@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-17T23:44:05.483954+00:00",
-  "scraped_at_display": "Scraped July 17, 2026 \u00b7 7:44 PM ET",
+  "scraped_at": "2026-07-18T01:50:24.267543+00:00",
+  "scraped_at_display": "Scraped July 17, 2026 \u00b7 9:50 PM ET",
   "date_label": "July 17, 2026",
   "games": [
     {
@@ -23,7 +23,7 @@
       "home_ml": -112,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 2.0
@@ -149,9 +149,9 @@
       "model_total": 11.4,
       "away_win_pct": 46.4,
       "home_win_pct": 53.6,
-      "away_ml": 130,
-      "home_ml": -141,
-      "ou_line": 11.5,
+      "away_ml": 132,
+      "home_ml": -146,
+      "ou_line": 10.5,
       "best_bet": false
     },
     {
@@ -172,8 +172,12 @@
       "home_win_pct": 41.5,
       "away_ml": -117,
       "home_ml": 105,
-      "ou_line": 10.5,
-      "best_bet": false
+      "ou_line": 9.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Diego Padres @ Kansas City Royals 9.5",
+      "best_bet_edge": 2.34
     },
     {
       "gamepk": "824170",
@@ -192,7 +196,7 @@
       "away_win_pct": 47.1,
       "home_win_pct": 52.9,
       "away_ml": 100,
-      "home_ml": -112,
+      "home_ml": -114,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -213,7 +217,7 @@
       "away_win_pct": 41.1,
       "home_win_pct": 58.9,
       "away_ml": -102,
-      "home_ml": -110,
+      "home_ml": -109,
       "ou_line": 12.5,
       "best_bet": false
     },
@@ -233,8 +237,8 @@
       "model_total": 8.46,
       "away_win_pct": 48.9,
       "home_win_pct": 51.1,
-      "away_ml": -106,
-      "home_ml": -105,
+      "away_ml": -108,
+      "home_ml": -102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -275,11 +279,11 @@
       "model_total": 10.39,
       "away_win_pct": 45.4,
       "home_win_pct": 54.6,
-      "away_ml": -104,
-      "home_ml": -109,
+      "away_ml": -103,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER St. Louis Cardinals @ Arizona Diamondbacks 8.5",
       "best_bet_edge": 1.89
@@ -300,9 +304,9 @@
       "model_total": 6.78,
       "away_win_pct": 45.1,
       "home_win_pct": 54.9,
-      "away_ml": 158,
-      "home_ml": -177,
-      "ou_line": null,
+      "away_ml": 160,
+      "home_ml": -182,
+      "ou_line": 7.5,
       "best_bet": false
     }
   ],
@@ -327,10 +331,35 @@
       "home_ml": -112,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Boston Red Sox 8.5",
       "best_bet_edge": 2.0
+    },
+    {
+      "gamepk": "824090",
+      "time": "8:10",
+      "away": "San Diego Padres",
+      "home": "Kansas City Royals",
+      "away_starter": "Michael King",
+      "home_starter": "Seth Lugo",
+      "park": "Kauffman Stadium",
+      "park_factor": "+14%",
+      "park_factor_class": "pos",
+      "yrfi": 59.7,
+      "away_proj": 6.49,
+      "home_proj": 5.35,
+      "model_total": 11.84,
+      "away_win_pct": 58.5,
+      "home_win_pct": 41.5,
+      "away_ml": -117,
+      "home_ml": 105,
+      "ou_line": 9.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER San Diego Padres @ Kansas City Royals 9.5",
+      "best_bet_edge": 2.34
     },
     {
       "gamepk": "825060",
@@ -348,11 +377,11 @@
       "model_total": 10.39,
       "away_win_pct": 45.4,
       "home_win_pct": 54.6,
-      "away_ml": -104,
-      "home_ml": -109,
+      "away_ml": -103,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER St. Louis Cardinals @ Arizona Diamondbacks 8.5",
       "best_bet_edge": 1.89
