@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18T18:26:43.267234+00:00",
-  "scraped_at_display": "Scraped July 18, 2026 \u00b7 2:26 PM ET",
+  "scraped_at": "2026-07-18T19:40:22.957467+00:00",
+  "scraped_at_display": "Scraped July 18, 2026 \u00b7 3:40 PM ET",
   "date_label": "July 18, 2026",
   "games": [
     {
@@ -66,7 +66,7 @@
       "away_win_pct": 37.2,
       "home_win_pct": 62.8,
       "away_ml": 150,
-      "home_ml": -167,
+      "home_ml": -162,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -90,8 +90,8 @@
       "model_total": 9.4,
       "away_win_pct": 45.5,
       "home_win_pct": 54.5,
-      "away_ml": 100,
-      "home_ml": -108,
+      "away_ml": -105,
+      "home_ml": -103,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -153,7 +153,7 @@
       "model_total": 10.17,
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
-      "away_ml": -105,
+      "away_ml": 100,
       "home_ml": -109,
       "ou_line": 9.5,
       "best_bet": false
@@ -174,9 +174,9 @@
       "model_total": 9.75,
       "away_win_pct": 43.2,
       "home_win_pct": 56.8,
-      "away_ml": 102,
+      "away_ml": 105,
       "home_ml": -112,
-      "ou_line": 8.5,
+      "ou_line": null,
       "best_bet": false
     },
     {
@@ -189,15 +189,15 @@
       "park": "American Family Field",
       "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 45.0,
-      "away_proj": 4.1,
-      "home_proj": 4.4,
-      "model_total": 8.5,
-      "away_win_pct": 44.0,
-      "home_win_pct": 56.0,
-      "away_ml": 126,
-      "home_ml": -134,
-      "ou_line": 7.5,
+      "yrfi": 48.4,
+      "away_proj": 4.08,
+      "home_proj": 4.25,
+      "model_total": 8.33,
+      "away_win_pct": 45.8,
+      "home_win_pct": 54.2,
+      "away_ml": 122,
+      "home_ml": -136,
+      "ou_line": null,
       "best_bet": false
     },
     {
@@ -216,9 +216,9 @@
       "model_total": 11.73,
       "away_win_pct": 60.7,
       "home_win_pct": 39.3,
-      "away_ml": -108,
-      "home_ml": -105,
-      "ou_line": 10.5,
+      "away_ml": -106,
+      "home_ml": -106,
+      "ou_line": null,
       "best_bet": false
     },
     {
@@ -237,8 +237,8 @@
       "model_total": 9.95,
       "away_win_pct": 53.6,
       "home_win_pct": 46.4,
-      "away_ml": -106,
-      "home_ml": -108,
+      "away_ml": -108,
+      "home_ml": -106,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -281,7 +281,7 @@
       "home_win_pct": 52.9,
       "away_ml": 135,
       "home_ml": -150,
-      "ou_line": 6.5,
+      "ou_line": null,
       "best_bet": false
     },
     {
@@ -301,13 +301,9 @@
       "away_win_pct": 52.0,
       "home_win_pct": 48.0,
       "away_ml": -105,
-      "home_ml": -107,
+      "home_ml": -105,
       "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Los Angeles Dodgers @ New York Yankees 8.5",
-      "best_bet_edge": 1.71
+      "best_bet": false
     },
     {
       "gamepk": "824979",
@@ -325,8 +321,8 @@
       "model_total": 10.43,
       "away_win_pct": 49.7,
       "home_win_pct": 50.3,
-      "away_ml": -110,
-      "home_ml": -104,
+      "away_ml": -107,
+      "home_ml": -103,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -346,10 +342,14 @@
       "model_total": 9.38,
       "away_win_pct": 61.3,
       "home_win_pct": 38.7,
-      "away_ml": -195,
+      "away_ml": -190,
       "home_ml": 170,
-      "ou_line": 8.5,
-      "best_bet": false
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 3,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Detroit Tigers @ Los Angeles Angels 7.5",
+      "best_bet_edge": 1.88
     }
   ],
   "best_bets": [
@@ -395,7 +395,7 @@
       "away_win_pct": 37.2,
       "home_win_pct": 62.8,
       "away_ml": 150,
-      "home_ml": -167,
+      "home_ml": -162,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -404,29 +404,29 @@
       "best_bet_edge": 3.15
     },
     {
-      "gamepk": "823523",
-      "time": "8:08",
-      "away": "Los Angeles Dodgers",
-      "home": "New York Yankees",
-      "away_starter": "Emmet Sheehan",
-      "home_starter": "Ryan Weathers",
-      "park": "Yankee Stadium",
+      "gamepk": "824008",
+      "time": "10:07",
+      "away": "Detroit Tigers",
+      "home": "Los Angeles Angels",
+      "away_starter": "Tarik Skubal",
+      "home_starter": "Grayson Rodriguez",
+      "park": "Angel Stadium",
       "park_factor": "+6%",
       "park_factor_class": "pos",
-      "yrfi": 54.9,
-      "away_proj": 5.39,
-      "home_proj": 4.82,
-      "model_total": 10.21,
-      "away_win_pct": 52.0,
-      "home_win_pct": 48.0,
-      "away_ml": -105,
-      "home_ml": -107,
-      "ou_line": 8.5,
+      "yrfi": 49.6,
+      "away_proj": 5.45,
+      "home_proj": 3.93,
+      "model_total": 9.38,
+      "away_win_pct": 61.3,
+      "home_win_pct": 38.7,
+      "away_ml": -190,
+      "home_ml": 170,
+      "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 3,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER Los Angeles Dodgers @ New York Yankees 8.5",
-      "best_bet_edge": 1.71
+      "best_bet_desc": "OVER Detroit Tigers @ Los Angeles Angels 7.5",
+      "best_bet_edge": 1.88
     }
   ]
 }
