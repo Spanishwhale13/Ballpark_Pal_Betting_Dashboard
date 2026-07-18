@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18T19:40:22.957467+00:00",
-  "scraped_at_display": "Scraped July 18, 2026 \u00b7 3:40 PM ET",
+  "scraped_at": "2026-07-18T20:38:18.232882+00:00",
+  "scraped_at_display": "Scraped July 18, 2026 \u00b7 4:38 PM ET",
   "date_label": "July 18, 2026",
   "games": [
     {
@@ -133,7 +133,7 @@
       "away_win_pct": 50.3,
       "home_win_pct": 49.7,
       "away_ml": 100,
-      "home_ml": -113,
+      "home_ml": -114,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -174,9 +174,9 @@
       "model_total": 9.75,
       "away_win_pct": 43.2,
       "home_win_pct": 56.8,
-      "away_ml": 105,
-      "home_ml": -112,
-      "ou_line": null,
+      "away_ml": 106,
+      "home_ml": -115,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -195,9 +195,9 @@
       "model_total": 8.33,
       "away_win_pct": 45.8,
       "home_win_pct": 54.2,
-      "away_ml": 122,
-      "home_ml": -136,
-      "ou_line": null,
+      "away_ml": 120,
+      "home_ml": -134,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -218,7 +218,7 @@
       "home_win_pct": 39.3,
       "away_ml": -106,
       "home_ml": -106,
-      "ou_line": null,
+      "ou_line": 10.5,
       "best_bet": false
     },
     {
@@ -271,16 +271,16 @@
       "away_starter": "Logan Webb",
       "home_starter": "Bryan Woo",
       "park": "T-Mobile Park",
-      "park_factor": "-13%",
+      "park_factor": "-12%",
       "park_factor_class": "neg",
-      "yrfi": 41.6,
-      "away_proj": 3.6,
-      "home_proj": 3.5,
-      "model_total": 7.1,
-      "away_win_pct": 47.1,
-      "home_win_pct": 52.9,
-      "away_ml": 135,
-      "home_ml": -150,
+      "yrfi": 42.0,
+      "away_proj": 3.62,
+      "home_proj": 3.55,
+      "model_total": 7.17,
+      "away_win_pct": 48.1,
+      "home_win_pct": 51.9,
+      "away_ml": 140,
+      "home_ml": -152,
       "ou_line": null,
       "best_bet": false
     },
@@ -303,7 +303,11 @@
       "away_ml": -105,
       "home_ml": -105,
       "ou_line": 8.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 3,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Los Angeles Dodgers @ New York Yankees 8.5",
+      "best_bet_edge": 1.71
     },
     {
       "gamepk": "824979",
@@ -342,14 +346,10 @@
       "model_total": 9.38,
       "away_win_pct": 61.3,
       "home_win_pct": 38.7,
-      "away_ml": -190,
-      "home_ml": 170,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Detroit Tigers @ Los Angeles Angels 7.5",
-      "best_bet_edge": 1.88
+      "away_ml": -195,
+      "home_ml": 175,
+      "ou_line": null,
+      "best_bet": false
     }
   ],
   "best_bets": [
@@ -404,29 +404,29 @@
       "best_bet_edge": 3.15
     },
     {
-      "gamepk": "824008",
-      "time": "10:07",
-      "away": "Detroit Tigers",
-      "home": "Los Angeles Angels",
-      "away_starter": "Tarik Skubal",
-      "home_starter": "Grayson Rodriguez",
-      "park": "Angel Stadium",
+      "gamepk": "823523",
+      "time": "8:08",
+      "away": "Los Angeles Dodgers",
+      "home": "New York Yankees",
+      "away_starter": "Emmet Sheehan",
+      "home_starter": "Ryan Weathers",
+      "park": "Yankee Stadium",
       "park_factor": "+6%",
       "park_factor_class": "pos",
-      "yrfi": 49.6,
-      "away_proj": 5.45,
-      "home_proj": 3.93,
-      "model_total": 9.38,
-      "away_win_pct": 61.3,
-      "home_win_pct": 38.7,
-      "away_ml": -190,
-      "home_ml": 170,
-      "ou_line": 7.5,
+      "yrfi": 54.9,
+      "away_proj": 5.39,
+      "home_proj": 4.82,
+      "model_total": 10.21,
+      "away_win_pct": 52.0,
+      "home_win_pct": 48.0,
+      "away_ml": -105,
+      "home_ml": -105,
+      "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 3,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER Detroit Tigers @ Los Angeles Angels 7.5",
-      "best_bet_edge": 1.88
+      "best_bet_desc": "OVER Los Angeles Dodgers @ New York Yankees 8.5",
+      "best_bet_edge": 1.71
     }
   ]
 }
