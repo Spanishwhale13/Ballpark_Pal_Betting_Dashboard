@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19T20:03:52.154786+00:00",
-  "scraped_at_display": "Scraped July 19, 2026 \u00b7 4:03 PM ET",
+  "scraped_at": "2026-07-19T21:12:39.148475+00:00",
+  "scraped_at_display": "Scraped July 19, 2026 \u00b7 5:12 PM ET",
   "date_label": "July 19, 2026",
   "games": [
     {
@@ -255,7 +255,7 @@
       "away_win_pct": 61.3,
       "home_win_pct": 38.7,
       "away_ml": -146,
-      "home_ml": 132,
+      "home_ml": 135,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -275,7 +275,7 @@
       "model_total": 9.58,
       "away_win_pct": 51.1,
       "home_win_pct": 48.9,
-      "away_ml": -138,
+      "away_ml": -142,
       "home_ml": 130,
       "ou_line": 9.5,
       "best_bet": false
@@ -296,8 +296,8 @@
       "model_total": 7.68,
       "away_win_pct": 36.1,
       "home_win_pct": 63.9,
-      "away_ml": 170,
-      "home_ml": -195,
+      "away_ml": 165,
+      "home_ml": -186,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -319,15 +319,19 @@
       "home_win_pct": 49.6,
       "away_ml": 108,
       "home_ml": -124,
-      "ou_line": 9.5,
-      "best_bet": false
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER St. Louis Cardinals @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.51
     },
     {
       "gamepk": "823521",
       "time": "7:20",
       "away": "Los Angeles Dodgers",
       "home": "New York Yankees",
-      "away_starter": "Emmet Sheehan",
+      "away_starter": "Will Klein",
       "home_starter": "Ryan Weathers",
       "park": "Yankee Stadium",
       "park_factor": "-6%",
@@ -339,7 +343,7 @@
       "away_win_pct": 50.6,
       "home_win_pct": 49.4,
       "away_ml": -124,
-      "home_ml": 110,
+      "home_ml": 115,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -369,6 +373,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Minnesota Twins @ Chicago Cubs 7.5",
       "best_bet_edge": 1.79
+    },
+    {
+      "gamepk": "825057",
+      "time": "4:10",
+      "away": "St. Louis Cardinals",
+      "home": "Arizona Diamondbacks",
+      "away_starter": "Andre Pallante",
+      "home_starter": "Eduardo Rodriguez",
+      "park": "Chase Field",
+      "park_factor": "+1%",
+      "park_factor_class": "neut",
+      "yrfi": 52.8,
+      "away_proj": 5.2,
+      "home_proj": 4.81,
+      "model_total": 10.01,
+      "away_win_pct": 50.4,
+      "home_win_pct": 49.6,
+      "away_ml": 108,
+      "home_ml": -124,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER St. Louis Cardinals @ Arizona Diamondbacks 8.5",
+      "best_bet_edge": 1.51
     }
   ]
 }
