@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-20T23:50:11.575852+00:00",
-  "scraped_at_display": "Scraped July 20, 2026 \u00b7 7:50 PM ET",
+  "scraped_at": "2026-07-21T02:00:12.496483+00:00",
+  "scraped_at_display": "Scraped July 20, 2026 \u00b7 10:00 PM ET",
   "date_label": "July 20, 2026",
   "games": [
     {
@@ -171,7 +171,7 @@
       "away_win_pct": 46.6,
       "home_win_pct": 53.4,
       "away_ml": 105,
-      "home_ml": -114,
+      "home_ml": -118,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -213,7 +213,7 @@
       "away_win_pct": 32.2,
       "home_win_pct": 67.8,
       "away_ml": 148,
-      "home_ml": -165,
+      "home_ml": -167,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -234,7 +234,7 @@
       "away_win_pct": 47.8,
       "home_win_pct": 52.2,
       "away_ml": 108,
-      "home_ml": -120,
+      "home_ml": -121,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -269,14 +269,14 @@
       "park": "T-Mobile Park",
       "park_factor": "-7%",
       "park_factor_class": "neg",
-      "yrfi": 48.9,
-      "away_proj": 3.75,
-      "home_proj": 4.39,
-      "model_total": 8.14,
-      "away_win_pct": 40.0,
-      "home_win_pct": 60.0,
-      "away_ml": 125,
-      "home_ml": -139,
+      "yrfi": 48.7,
+      "away_proj": 3.8,
+      "home_proj": 4.13,
+      "model_total": 7.93,
+      "away_win_pct": 42.2,
+      "home_win_pct": 57.8,
+      "away_ml": 129,
+      "home_ml": -145,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -296,9 +296,9 @@
       "model_total": 9.42,
       "away_win_pct": 42.8,
       "home_win_pct": 57.2,
-      "away_ml": 125,
+      "away_ml": 126,
       "home_ml": -134,
-      "ou_line": 9.5,
+      "ou_line": 10.5,
       "best_bet": false
     },
     {
@@ -317,7 +317,7 @@
       "model_total": 10.0,
       "away_win_pct": 44.6,
       "home_win_pct": 55.4,
-      "away_ml": -104,
+      "away_ml": 100,
       "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
