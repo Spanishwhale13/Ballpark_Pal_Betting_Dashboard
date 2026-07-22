@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-22T21:34:33.373371+00:00",
-  "scraped_at_display": "Scraped July 22, 2026 \u00b7 5:34 PM ET",
+  "scraped_at": "2026-07-22T22:54:34.475694+00:00",
+  "scraped_at_display": "Scraped July 22, 2026 \u00b7 6:54 PM ET",
   "date_label": "July 22, 2026",
   "games": [
     {
@@ -128,7 +128,7 @@
       "home_ml": -136,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Oakland Athletics @ Arizona Diamondbacks 8.5",
       "best_bet_edge": 1.58
@@ -192,7 +192,7 @@
       "away_win_pct": 46.8,
       "home_win_pct": 53.2,
       "away_ml": -120,
-      "home_ml": 110,
+      "home_ml": 108,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -231,12 +231,12 @@
       "park": "Yankee Stadium",
       "park_factor": "-4%",
       "park_factor_class": "neg",
-      "yrfi": 44.2,
-      "away_proj": 3.84,
-      "home_proj": 4.53,
-      "model_total": 8.37,
-      "away_win_pct": 39.7,
-      "home_win_pct": 60.3,
+      "yrfi": 42.6,
+      "away_proj": 3.72,
+      "home_proj": 4.33,
+      "model_total": 8.05,
+      "away_win_pct": 39.5,
+      "home_win_pct": 60.5,
       "away_ml": 160,
       "home_ml": -184,
       "ou_line": 9.5,
@@ -258,8 +258,8 @@
       "model_total": 8.52,
       "away_win_pct": 39.0,
       "home_win_pct": 61.0,
-      "away_ml": -104,
-      "home_ml": -110,
+      "away_ml": -107,
+      "home_ml": -107,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -273,16 +273,20 @@
       "park": "Fenway Park",
       "park_factor": "+19%",
       "park_factor_class": "pos",
-      "yrfi": 53.6,
-      "away_proj": 5.22,
-      "home_proj": 4.72,
-      "model_total": 9.94,
-      "away_win_pct": 51.0,
-      "home_win_pct": 49.0,
+      "yrfi": 52.6,
+      "away_proj": 5.26,
+      "home_proj": 4.89,
+      "model_total": 10.15,
+      "away_win_pct": 51.1,
+      "home_win_pct": 48.9,
       "away_ml": 110,
-      "home_ml": -118,
+      "home_ml": -122,
       "ou_line": 8.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Baltimore Orioles @ Boston Red Sox 8.5",
+      "best_bet_edge": 1.65
     },
     {
       "gamepk": "824896",
@@ -301,7 +305,7 @@
       "away_win_pct": 46.3,
       "home_win_pct": 53.7,
       "away_ml": 102,
-      "home_ml": -115,
+      "home_ml": -114,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -322,7 +326,7 @@
       "away_win_pct": 43.2,
       "home_win_pct": 56.8,
       "away_ml": -120,
-      "home_ml": 105,
+      "home_ml": 108,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -342,7 +346,7 @@
       "model_total": 8.78,
       "away_win_pct": 50.2,
       "home_win_pct": 49.8,
-      "away_ml": 107,
+      "away_ml": 110,
       "home_ml": -120,
       "ou_line": 8.5,
       "best_bet": false
@@ -390,7 +394,7 @@
       "home_ml": -136,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 3,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Oakland Athletics @ Arizona Diamondbacks 8.5",
       "best_bet_edge": 1.58
@@ -419,6 +423,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Minnesota Twins @ Cleveland Guardians 7.5",
       "best_bet_edge": 1.89
+    },
+    {
+      "gamepk": "824732",
+      "time": "7:10",
+      "away": "Baltimore Orioles",
+      "home": "Boston Red Sox",
+      "away_starter": "Kyle Bradish",
+      "home_starter": "Eduardo Rivera",
+      "park": "Fenway Park",
+      "park_factor": "+19%",
+      "park_factor_class": "pos",
+      "yrfi": 52.6,
+      "away_proj": 5.26,
+      "home_proj": 4.89,
+      "model_total": 10.15,
+      "away_win_pct": 51.1,
+      "home_win_pct": 48.9,
+      "away_ml": 110,
+      "home_ml": -122,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Baltimore Orioles @ Boston Red Sox 8.5",
+      "best_bet_edge": 1.65
     }
   ]
 }
