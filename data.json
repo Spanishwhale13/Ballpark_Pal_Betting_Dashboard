@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-22T23:55:26.938351+00:00",
-  "scraped_at_display": "Scraped July 22, 2026 \u00b7 7:55 PM ET",
+  "scraped_at": "2026-07-23T02:06:20.997829+00:00",
+  "scraped_at_display": "Scraped July 22, 2026 \u00b7 10:06 PM ET",
   "date_label": "July 22, 2026",
   "games": [
     {
@@ -335,8 +335,8 @@
       "time": "8:10",
       "away": "Detroit Tigers",
       "home": "Chicago Cubs",
-      "away_starter": "Keider Montero",
-      "home_starter": "Colin Rea",
+      "away_starter": "",
+      "home_starter": "",
       "park": "Wrigley Field",
       "park_factor": "-14%",
       "park_factor_class": "neg",
@@ -348,7 +348,7 @@
       "home_win_pct": 49.8,
       "away_ml": 110,
       "home_ml": -124,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
