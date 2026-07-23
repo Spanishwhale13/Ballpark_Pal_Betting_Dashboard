@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-23T20:52:58.876913+00:00",
-  "scraped_at_display": "Scraped July 23, 2026 \u00b7 4:52 PM ET",
+  "scraped_at": "2026-07-23T21:58:23.781712+00:00",
+  "scraped_at_display": "Scraped July 23, 2026 \u00b7 5:58 PM ET",
   "date_label": "July 23, 2026",
   "games": [
     {
@@ -82,8 +82,8 @@
       "model_total": 7.95,
       "away_win_pct": 56.5,
       "home_win_pct": 43.5,
-      "away_ml": -103,
-      "home_ml": -112,
+      "away_ml": 110,
+      "home_ml": -122,
       "ou_line": 7.5,
       "best_bet": false
     },
