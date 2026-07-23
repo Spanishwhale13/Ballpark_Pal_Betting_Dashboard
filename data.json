@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-23T16:54:08.125201+00:00",
-  "scraped_at_display": "Scraped July 23, 2026 \u00b7 12:54 PM ET",
+  "scraped_at": "2026-07-23T18:08:09.131253+00:00",
+  "scraped_at_display": "Scraped July 23, 2026 \u00b7 2:08 PM ET",
   "date_label": "July 23, 2026",
   "games": [
     {
@@ -40,7 +40,7 @@
       "model_total": 8.37,
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
-      "away_ml": 135,
+      "away_ml": 125,
       "home_ml": -144,
       "ou_line": 7.5,
       "best_bet": false
@@ -61,8 +61,8 @@
       "model_total": 9.25,
       "away_win_pct": 48.6,
       "home_win_pct": 51.4,
-      "away_ml": -110,
-      "home_ml": 100,
+      "away_ml": -115,
+      "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -74,7 +74,7 @@
       "away_starter": "Brandon Pfaadt",
       "home_starter": "Michael McGreevy",
       "park": "Busch Stadium",
-      "park_factor": "-10%",
+      "park_factor": "-13%",
       "park_factor_class": "neg",
       "yrfi": 49.2,
       "away_proj": 4.62,
@@ -95,7 +95,7 @@
       "away_starter": "Randy Dobnak",
       "home_starter": "Troy Melton",
       "park": "Comerica Park",
-      "park_factor": "-7%",
+      "park_factor": "-9%",
       "park_factor_class": "neg",
       "yrfi": 49.5,
       "away_proj": 3.57,
@@ -103,8 +103,8 @@
       "model_total": 9.09,
       "away_win_pct": 29.3,
       "home_win_pct": 70.7,
-      "away_ml": 188,
-      "home_ml": -220,
+      "away_ml": 195,
+      "home_ml": -225,
       "ou_line": 8.5,
       "best_bet": false
     }
