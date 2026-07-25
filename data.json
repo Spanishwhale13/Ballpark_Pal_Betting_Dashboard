@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T22:23:41.978928+00:00",
-  "scraped_at_display": "Scraped July 25, 2026 \u00b7 6:23 PM ET",
+  "scraped_at": "2026-07-25T23:27:18.009619+00:00",
+  "scraped_at_display": "Scraped July 25, 2026 \u00b7 7:27 PM ET",
   "date_label": "July 25, 2026",
   "games": [
     {
@@ -86,7 +86,7 @@
       "home_ml": -110,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Toronto Blue Jays @ Boston Red Sox 7.5",
       "best_bet_edge": 1.52
@@ -130,7 +130,7 @@
       "home_win_pct": 49.3,
       "away_ml": -120,
       "home_ml": 108,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -191,8 +191,8 @@
       "model_total": 10.04,
       "away_win_pct": 47.1,
       "home_win_pct": 52.9,
-      "away_ml": -102,
-      "home_ml": -108,
+      "away_ml": -104,
+      "home_ml": -110,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -235,12 +235,8 @@
       "home_win_pct": 55.6,
       "away_ml": 125,
       "home_ml": -145,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Minnesota Twins 8.5",
-      "best_bet_edge": 2.65
+      "ou_line": 10.5,
+      "best_bet": false
     },
     {
       "gamepk": "823758",
@@ -259,13 +255,9 @@
       "away_win_pct": 34.7,
       "home_win_pct": 65.3,
       "away_ml": 205,
-      "home_ml": -230,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Colorado Rockies @ Milwaukee Brewers 8.5",
-      "best_bet_edge": 1.8
+      "home_ml": -225,
+      "ou_line": 9.5,
+      "best_bet": false
     },
     {
       "gamepk": "823600",
@@ -284,7 +276,7 @@
       "away_win_pct": 58.4,
       "home_win_pct": 41.6,
       "away_ml": -154,
-      "home_ml": 140,
+      "home_ml": 143,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -352,60 +344,10 @@
       "home_ml": -110,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Toronto Blue Jays @ Boston Red Sox 7.5",
       "best_bet_edge": 1.52
-    },
-    {
-      "gamepk": "823679",
-      "time": "7:10",
-      "away": "Oakland Athletics",
-      "home": "Minnesota Twins",
-      "away_starter": "Brady Basso",
-      "home_starter": "Mike Paredes",
-      "park": "Target Field",
-      "park_factor": "+5%",
-      "park_factor_class": "pos",
-      "yrfi": 56.3,
-      "away_proj": 5.39,
-      "home_proj": 5.76,
-      "model_total": 11.15,
-      "away_win_pct": 44.4,
-      "home_win_pct": 55.6,
-      "away_ml": 125,
-      "home_ml": -145,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Minnesota Twins 8.5",
-      "best_bet_edge": 2.65
-    },
-    {
-      "gamepk": "823758",
-      "time": "7:10",
-      "away": "Colorado Rockies",
-      "home": "Milwaukee Brewers",
-      "away_starter": "Ryan Feltner",
-      "home_starter": "Robert Gasser",
-      "park": "American Family Field",
-      "park_factor": "+8%",
-      "park_factor_class": "pos",
-      "yrfi": 57.2,
-      "away_proj": 4.51,
-      "home_proj": 5.79,
-      "model_total": 10.3,
-      "away_win_pct": 34.7,
-      "home_win_pct": 65.3,
-      "away_ml": 205,
-      "home_ml": -230,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Colorado Rockies @ Milwaukee Brewers 8.5",
-      "best_bet_edge": 1.8
     }
   ]
 }
