@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T14:26:47.405500+00:00",
-  "scraped_at_display": "Scraped July 25, 2026 \u00b7 10:26 AM ET",
+  "scraped_at": "2026-07-25T15:37:25.552151+00:00",
+  "scraped_at_display": "Scraped July 25, 2026 \u00b7 11:37 AM ET",
   "date_label": "July 25, 2026",
   "games": [
     {
@@ -19,9 +19,9 @@
       "model_total": 8.58,
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
-      "away_ml": 158,
-      "home_ml": -178,
-      "ou_line": 8.5,
+      "away_ml": 138,
+      "home_ml": -158,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -62,8 +62,8 @@
       "away_win_pct": 46.0,
       "home_win_pct": 54.0,
       "away_ml": 112,
-      "home_ml": -130,
-      "ou_line": 8.5,
+      "home_ml": -125,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -92,7 +92,7 @@
       "time": "4:10",
       "away": "San Diego Padres",
       "home": "Miami Marlins",
-      "away_starter": "JP Sears",
+      "away_starter": "Randy Vasquez",
       "home_starter": "Eury Perez",
       "park": "LoanDepot Park",
       "park_factor": "-5%",
@@ -104,7 +104,7 @@
       "away_win_pct": 47.1,
       "home_win_pct": 52.9,
       "away_ml": 118,
-      "home_ml": -134,
+      "home_ml": -132,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -146,7 +146,7 @@
       "away_win_pct": 51.6,
       "home_win_pct": 48.4,
       "away_ml": 110,
-      "home_ml": -120,
+      "home_ml": -119,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -166,8 +166,8 @@
       "model_total": 9.2,
       "away_win_pct": 49.0,
       "home_win_pct": 51.0,
-      "away_ml": 117,
-      "home_ml": -130,
+      "away_ml": 107,
+      "home_ml": -120,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -193,7 +193,7 @@
       "home_win_pct": 52.1,
       "away_ml": -102,
       "home_ml": -113,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -212,7 +212,7 @@
       "model_total": 9.25,
       "away_win_pct": 45.3,
       "home_win_pct": 54.7,
-      "away_ml": 110,
+      "away_ml": 107,
       "home_ml": -120,
       "ou_line": 8.5,
       "best_bet": false
@@ -234,7 +234,7 @@
       "away_win_pct": 42.7,
       "home_win_pct": 57.3,
       "away_ml": 140,
-      "home_ml": -162,
+      "home_ml": -157,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -254,7 +254,7 @@
       "model_total": 10.07,
       "away_win_pct": 34.4,
       "home_win_pct": 65.6,
-      "away_ml": 210,
+      "away_ml": 205,
       "home_ml": -220,
       "ou_line": 8.5,
       "best_bet": true,
@@ -279,8 +279,8 @@
       "model_total": 7.44,
       "away_win_pct": 57.7,
       "home_win_pct": 42.3,
-      "away_ml": -154,
-      "home_ml": 140,
+      "away_ml": -150,
+      "home_ml": 135,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -321,8 +321,8 @@
       "model_total": 8.18,
       "away_win_pct": 51.4,
       "home_win_pct": 48.6,
-      "away_ml": -110,
-      "home_ml": -104,
+      "away_ml": -112,
+      "home_ml": 100,
       "ou_line": 7.5,
       "best_bet": false
     }
@@ -344,8 +344,8 @@
       "model_total": 9.2,
       "away_win_pct": 49.0,
       "home_win_pct": 51.0,
-      "away_ml": 117,
-      "home_ml": -130,
+      "away_ml": 107,
+      "home_ml": -120,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -369,7 +369,7 @@
       "model_total": 10.07,
       "away_win_pct": 34.4,
       "home_win_pct": 65.6,
-      "away_ml": 210,
+      "away_ml": 205,
       "home_ml": -220,
       "ou_line": 8.5,
       "best_bet": true,
