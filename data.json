@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T21:22:24.524585+00:00",
-  "scraped_at_display": "Scraped July 25, 2026 \u00b7 5:22 PM ET",
+  "scraped_at": "2026-07-25T22:23:41.978928+00:00",
+  "scraped_at_display": "Scraped July 25, 2026 \u00b7 6:23 PM ET",
   "date_label": "July 25, 2026",
   "games": [
     {
@@ -130,7 +130,7 @@
       "home_win_pct": 49.3,
       "away_ml": -120,
       "home_ml": 108,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -149,7 +149,7 @@
       "model_total": 8.68,
       "away_win_pct": 52.7,
       "home_win_pct": 47.3,
-      "away_ml": 106,
+      "away_ml": 105,
       "home_ml": -112,
       "ou_line": 7.5,
       "best_bet": false
@@ -170,7 +170,7 @@
       "model_total": 8.86,
       "away_win_pct": 49.4,
       "home_win_pct": 50.6,
-      "away_ml": 105,
+      "away_ml": 107,
       "home_ml": -120,
       "ou_line": 7.5,
       "best_bet": false
@@ -212,7 +212,7 @@
       "model_total": 9.51,
       "away_win_pct": 43.4,
       "home_win_pct": 56.6,
-      "away_ml": 112,
+      "away_ml": 106,
       "home_ml": -120,
       "ou_line": 8.5,
       "best_bet": false
@@ -235,12 +235,12 @@
       "home_win_pct": 55.6,
       "away_ml": 125,
       "home_ml": -145,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Minnesota Twins 9.5",
-      "best_bet_edge": 1.65
+      "best_bet_desc": "OVER Oakland Athletics @ Minnesota Twins 8.5",
+      "best_bet_edge": 2.65
     },
     {
       "gamepk": "823758",
@@ -262,7 +262,7 @@
       "home_ml": -230,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Colorado Rockies @ Milwaukee Brewers 8.5",
       "best_bet_edge": 1.8
@@ -284,7 +284,7 @@
       "away_win_pct": 58.4,
       "home_win_pct": 41.6,
       "away_ml": -154,
-      "home_ml": 143,
+      "home_ml": 140,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -305,8 +305,8 @@
       "away_win_pct": 51.9,
       "home_win_pct": 48.1,
       "away_ml": -104,
-      "home_ml": -110,
-      "ou_line": 7.5,
+      "home_ml": -107,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -326,7 +326,7 @@
       "away_win_pct": 51.8,
       "home_win_pct": 48.2,
       "away_ml": -110,
-      "home_ml": -104,
+      "home_ml": -103,
       "ou_line": 7.5,
       "best_bet": false
     }
@@ -375,12 +375,12 @@
       "home_win_pct": 55.6,
       "away_ml": 125,
       "home_ml": -145,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Minnesota Twins 9.5",
-      "best_bet_edge": 1.65
+      "best_bet_desc": "OVER Oakland Athletics @ Minnesota Twins 8.5",
+      "best_bet_edge": 2.65
     },
     {
       "gamepk": "823758",
@@ -402,7 +402,7 @@
       "home_ml": -230,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Colorado Rockies @ Milwaukee Brewers 8.5",
       "best_bet_edge": 1.8
