@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T23:27:18.009619+00:00",
-  "scraped_at_display": "Scraped July 25, 2026 \u00b7 7:27 PM ET",
+  "scraped_at": "2026-07-26T01:05:50.554513+00:00",
+  "scraped_at_display": "Scraped July 25, 2026 \u00b7 9:05 PM ET",
   "date_label": "July 25, 2026",
   "games": [
     {
@@ -223,7 +223,7 @@
       "away": "Oakland Athletics",
       "home": "Minnesota Twins",
       "away_starter": "Brady Basso",
-      "home_starter": "Mike Paredes",
+      "home_starter": "Kendry Rojas",
       "park": "Target Field",
       "park_factor": "+5%",
       "park_factor_class": "pos",
