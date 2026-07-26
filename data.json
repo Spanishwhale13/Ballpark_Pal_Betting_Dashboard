@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-26T17:55:48.312495+00:00",
-  "scraped_at_display": "Scraped July 26, 2026 \u00b7 1:55 PM ET",
+  "scraped_at": "2026-07-26T19:01:16.718286+00:00",
+  "scraped_at_display": "Scraped July 26, 2026 \u00b7 3:01 PM ET",
   "date_label": "July 26, 2026",
   "games": [
     {
@@ -237,8 +237,8 @@
       "model_total": 9.7,
       "away_win_pct": 57.0,
       "home_win_pct": 43.0,
-      "away_ml": -105,
-      "home_ml": -106,
+      "away_ml": 102,
+      "home_ml": -112,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -280,7 +280,7 @@
       "away_win_pct": 47.2,
       "home_win_pct": 52.8,
       "away_ml": -103,
-      "home_ml": -104,
+      "home_ml": -107,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -301,7 +301,7 @@
       "away_win_pct": 51.6,
       "home_win_pct": 48.4,
       "away_ml": -112,
-      "home_ml": -104,
+      "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -321,14 +321,10 @@
       "model_total": 9.65,
       "away_win_pct": 38.0,
       "home_win_pct": 62.0,
-      "away_ml": 165,
+      "away_ml": 170,
       "home_ml": -184,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Yankees @ Philadelphia Phillies 7.5",
-      "best_bet_edge": 2.15
+      "ou_line": null,
+      "best_bet": false
     }
   ],
   "best_bets": [
@@ -381,31 +377,6 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Kansas City Royals @ Detroit Tigers 8.5",
       "best_bet_edge": 2.43
-    },
-    {
-      "gamepk": "823433",
-      "time": "7:20",
-      "away": "New York Yankees",
-      "home": "Philadelphia Phillies",
-      "away_starter": "Will Warren",
-      "home_starter": "Cristopher Sanchez",
-      "park": "Citizens Bank Park",
-      "park_factor": "+7%",
-      "park_factor_class": "pos",
-      "yrfi": 54.6,
-      "away_proj": 4.36,
-      "home_proj": 5.29,
-      "model_total": 9.65,
-      "away_win_pct": 38.0,
-      "home_win_pct": 62.0,
-      "away_ml": 165,
-      "home_ml": -184,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 3,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Yankees @ Philadelphia Phillies 7.5",
-      "best_bet_edge": 2.15
     }
   ]
 }
