@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-26T20:27:38.415136+00:00",
-  "scraped_at_display": "Scraped July 26, 2026 \u00b7 4:27 PM ET",
+  "scraped_at": "2026-07-26T21:25:55.038467+00:00",
+  "scraped_at_display": "Scraped July 26, 2026 \u00b7 5:25 PM ET",
   "date_label": "July 26, 2026",
   "games": [
     {
@@ -315,16 +315,20 @@
       "park": "Citizens Bank Park",
       "park_factor": "+7%",
       "park_factor_class": "pos",
-      "yrfi": 54.6,
-      "away_proj": 4.36,
-      "home_proj": 5.29,
-      "model_total": 9.65,
-      "away_win_pct": 38.0,
-      "home_win_pct": 62.0,
-      "away_ml": 175,
-      "home_ml": -184,
-      "ou_line": 8.5,
-      "best_bet": false
+      "yrfi": 56.2,
+      "away_proj": 4.24,
+      "home_proj": 5.31,
+      "model_total": 9.55,
+      "away_win_pct": 37.5,
+      "home_win_pct": 62.5,
+      "away_ml": 177,
+      "home_ml": -195,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 3,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Yankees @ Philadelphia Phillies 7.5",
+      "best_bet_edge": 2.05
     }
   ],
   "best_bets": [
@@ -377,6 +381,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Kansas City Royals @ Detroit Tigers 8.5",
       "best_bet_edge": 2.43
+    },
+    {
+      "gamepk": "823433",
+      "time": "7:20",
+      "away": "New York Yankees",
+      "home": "Philadelphia Phillies",
+      "away_starter": "Will Warren",
+      "home_starter": "Cristopher Sanchez",
+      "park": "Citizens Bank Park",
+      "park_factor": "+7%",
+      "park_factor_class": "pos",
+      "yrfi": 56.2,
+      "away_proj": 4.24,
+      "home_proj": 5.31,
+      "model_total": 9.55,
+      "away_win_pct": 37.5,
+      "home_win_pct": 62.5,
+      "away_ml": 177,
+      "home_ml": -195,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 3,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Yankees @ Philadelphia Phillies 7.5",
+      "best_bet_edge": 2.05
     }
   ]
 }
