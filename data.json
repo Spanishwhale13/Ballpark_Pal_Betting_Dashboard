@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-28T15:12:50.981193+00:00",
-  "scraped_at_display": "Scraped July 28, 2026 \u00b7 11:12 AM ET",
+  "scraped_at": "2026-07-28T16:55:50.974894+00:00",
+  "scraped_at_display": "Scraped July 28, 2026 \u00b7 12:55 PM ET",
   "date_label": "July 28, 2026",
   "games": [
     {
@@ -19,9 +19,9 @@
       "model_total": 9.07,
       "away_win_pct": 40.9,
       "home_win_pct": 59.1,
-      "away_ml": 138,
-      "home_ml": -158,
-      "ou_line": 10.5,
+      "away_ml": 145,
+      "home_ml": -162,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -32,7 +32,7 @@
       "away_starter": "Dean Kremer",
       "home_starter": "Troy Melton",
       "park": "Comerica Park",
-      "park_factor": "+9%",
+      "park_factor": "+6%",
       "park_factor_class": "pos",
       "yrfi": 50.7,
       "away_proj": 4.48,
@@ -40,7 +40,7 @@
       "model_total": 9.69,
       "away_win_pct": 41.3,
       "home_win_pct": 58.7,
-      "away_ml": 123,
+      "away_ml": 122,
       "home_ml": -140,
       "ou_line": 9.5,
       "best_bet": false
@@ -61,8 +61,8 @@
       "model_total": 8.43,
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
-      "away_ml": 150,
-      "home_ml": -178,
+      "away_ml": 152,
+      "home_ml": -177,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -116,8 +116,8 @@
       "away_starter": "Shane Bieber",
       "home_starter": "Cade Cavalli",
       "park": "Nationals Park",
-      "park_factor": "+2%",
-      "park_factor_class": "neut",
+      "park_factor": "+8%",
+      "park_factor_class": "pos",
       "yrfi": 49.0,
       "away_proj": 4.42,
       "home_proj": 4.96,
@@ -162,7 +162,7 @@
       "away_starter": "Gavin Williams",
       "home_starter": "Brady Singer",
       "park": "Great American Ball Park",
-      "park_factor": "+13%",
+      "park_factor": "+10%",
       "park_factor_class": "pos",
       "yrfi": 49.7,
       "away_proj": 4.86,
@@ -172,7 +172,7 @@
       "home_win_pct": 43.1,
       "away_ml": -125,
       "home_ml": 110,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -191,10 +191,14 @@
       "model_total": 9.62,
       "away_win_pct": 54.2,
       "home_win_pct": 45.8,
-      "away_ml": -130,
-      "home_ml": 115,
-      "ou_line": 8.5,
-      "best_bet": false
+      "away_ml": -124,
+      "home_ml": 110,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Yankees @ Chicago White Sox 7.5",
+      "best_bet_edge": 2.12
     },
     {
       "gamepk": "823676",
@@ -212,8 +216,8 @@
       "model_total": 9.81,
       "away_win_pct": 28.6,
       "home_win_pct": 71.4,
-      "away_ml": 138,
-      "home_ml": -160,
+      "away_ml": 143,
+      "home_ml": -167,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -275,7 +279,7 @@
       "model_total": 9.92,
       "away_win_pct": 58.5,
       "home_win_pct": 41.5,
-      "away_ml": -144,
+      "away_ml": -146,
       "home_ml": 130,
       "ou_line": 9.5,
       "best_bet": false
@@ -296,8 +300,8 @@
       "model_total": 9.27,
       "away_win_pct": 41.9,
       "home_win_pct": 58.1,
-      "away_ml": 175,
-      "home_ml": -188,
+      "away_ml": 180,
+      "home_ml": -200,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -339,7 +343,7 @@
       "away_win_pct": 44.7,
       "home_win_pct": 55.3,
       "away_ml": 163,
-      "home_ml": -190,
+      "home_ml": -188,
       "ou_line": 9.5,
       "best_bet": false
     }
@@ -369,6 +373,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Atlanta Braves @ New York Mets 7.5",
       "best_bet_edge": 2.2
+    },
+    {
+      "gamepk": "824569",
+      "time": "7:40",
+      "away": "New York Yankees",
+      "home": "Chicago White Sox",
+      "away_starter": "Gerrit Cole",
+      "home_starter": "Anthony Kay",
+      "park": "Rate Field",
+      "park_factor": "+0%",
+      "park_factor_class": "neut",
+      "yrfi": 54.8,
+      "away_proj": 5.18,
+      "home_proj": 4.44,
+      "model_total": 9.62,
+      "away_win_pct": 54.2,
+      "home_win_pct": 45.8,
+      "away_ml": -124,
+      "home_ml": 110,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Yankees @ Chicago White Sox 7.5",
+      "best_bet_edge": 2.12
     }
   ]
 }
