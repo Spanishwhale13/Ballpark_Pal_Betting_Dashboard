@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-02T17:55:21.800866+00:00",
-  "scraped_at_display": "Scraped August 2, 2026 \u00b7 1:55 PM ET",
+  "scraped_at": "2026-08-02T18:57:48.956348+00:00",
+  "scraped_at_display": "Scraped August 2, 2026 \u00b7 2:57 PM ET",
   "date_label": "August 2, 2026",
   "games": [
     {
@@ -191,8 +191,8 @@
       "model_total": 7.28,
       "away_win_pct": 51.5,
       "home_win_pct": 48.5,
-      "away_ml": -116,
-      "home_ml": 106,
+      "away_ml": -110,
+      "home_ml": 105,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -233,8 +233,8 @@
       "model_total": 6.98,
       "away_win_pct": 67.4,
       "home_win_pct": 32.6,
-      "away_ml": -205,
-      "home_ml": 195,
+      "away_ml": -210,
+      "home_ml": 194,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -255,7 +255,7 @@
       "away_win_pct": 48.2,
       "home_win_pct": 51.8,
       "away_ml": -114,
-      "home_ml": 105,
+      "home_ml": 108,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -275,8 +275,8 @@
       "model_total": 7.02,
       "away_win_pct": 49.9,
       "home_win_pct": 50.1,
-      "away_ml": 125,
-      "home_ml": -134,
+      "away_ml": 124,
+      "home_ml": -132,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -290,14 +290,14 @@
       "park": "Petco Park",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 49.7,
-      "away_proj": 4.21,
-      "home_proj": 4.42,
-      "model_total": 8.63,
-      "away_win_pct": 45.3,
-      "home_win_pct": 54.7,
+      "yrfi": 45.3,
+      "away_proj": 4.28,
+      "home_proj": 4.18,
+      "model_total": 8.46,
+      "away_win_pct": 48.3,
+      "home_win_pct": 51.7,
       "away_ml": 110,
-      "home_ml": -114,
+      "home_ml": -118,
       "ou_line": 8.5,
       "best_bet": false
     },
