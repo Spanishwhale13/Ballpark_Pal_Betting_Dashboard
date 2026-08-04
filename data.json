@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-04T00:57:24.594717+00:00",
-  "scraped_at_display": "Scraped August 3, 2026 \u00b7 8:57 PM ET",
+  "scraped_at": "2026-08-04T01:52:05.357086+00:00",
+  "scraped_at_display": "Scraped August 3, 2026 \u00b7 9:52 PM ET",
   "date_label": "August 3, 2026",
   "games": [
     {
@@ -84,7 +84,7 @@
       "home_win_pct": 51.3,
       "away_ml": -122,
       "home_ml": 117,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -166,11 +166,41 @@
       "model_total": 8.84,
       "away_win_pct": 38.9,
       "home_win_pct": 61.1,
-      "away_ml": 100,
-      "home_ml": -110,
+      "away_ml": -106,
+      "home_ml": 102,
       "ou_line": 8.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "ml_home",
+      "best_bet_desc": "Arizona Diamondbacks +102",
+      "best_bet_edge": 11.6
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "825095",
+      "time": "9:40",
+      "away": "San Diego Padres",
+      "home": "Arizona Diamondbacks",
+      "away_starter": "Michael King",
+      "home_starter": "Brandon Pfaadt",
+      "park": "Chase Field",
+      "park_factor": "+1%",
+      "park_factor_class": "neut",
+      "yrfi": 52.3,
+      "away_proj": 3.91,
+      "home_proj": 4.93,
+      "model_total": 8.84,
+      "away_win_pct": 38.9,
+      "home_win_pct": 61.1,
+      "away_ml": -106,
+      "home_ml": 102,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "ml_home",
+      "best_bet_desc": "Arizona Diamondbacks +102",
+      "best_bet_edge": 11.6
+    }
+  ]
 }
