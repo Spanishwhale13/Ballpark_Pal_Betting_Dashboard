@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-04T23:30:35.832135+00:00",
-  "scraped_at_display": "Scraped August 4, 2026 \u00b7 7:30 PM ET",
+  "scraped_at": "2026-08-05T01:52:24.188295+00:00",
+  "scraped_at_display": "Scraped August 4, 2026 \u00b7 9:52 PM ET",
   "date_label": "August 4, 2026",
   "games": [
     {
@@ -171,7 +171,7 @@
       "away_win_pct": 45.5,
       "home_win_pct": 54.5,
       "away_ml": 132,
-      "home_ml": -140,
+      "home_ml": -139,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -191,8 +191,8 @@
       "model_total": 9.85,
       "away_win_pct": 58.1,
       "home_win_pct": 41.9,
-      "away_ml": -140,
-      "home_ml": 131,
+      "away_ml": -139,
+      "home_ml": 135,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -213,8 +213,8 @@
       "away_win_pct": 56.1,
       "home_win_pct": 43.9,
       "away_ml": -183,
-      "home_ml": 176,
-      "ou_line": 9.5,
+      "home_ml": 180,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -233,8 +233,8 @@
       "model_total": 7.92,
       "away_win_pct": 31.9,
       "home_win_pct": 68.1,
-      "away_ml": 185,
-      "home_ml": -190,
+      "away_ml": 176,
+      "home_ml": -187,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -254,7 +254,7 @@
       "model_total": 8.27,
       "away_win_pct": 49.6,
       "home_win_pct": 50.4,
-      "away_ml": 132,
+      "away_ml": 131,
       "home_ml": -130,
       "ou_line": 8.5,
       "best_bet": false
@@ -275,14 +275,14 @@
       "model_total": 9.97,
       "away_win_pct": 49.7,
       "home_win_pct": 50.3,
-      "away_ml": -165,
-      "home_ml": 160,
+      "away_ml": -166,
+      "home_ml": 159,
       "ou_line": 10.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Colorado Rockies +160",
-      "best_bet_edge": 11.84
+      "best_bet_desc": "Colorado Rockies +159",
+      "best_bet_edge": 11.69
     },
     {
       "gamepk": "823108",
@@ -301,7 +301,7 @@
       "away_win_pct": 53.0,
       "home_win_pct": 47.0,
       "away_ml": 112,
-      "home_ml": -118,
+      "home_ml": -115,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -321,8 +321,8 @@
       "model_total": 8.76,
       "away_win_pct": 43.1,
       "home_win_pct": 56.9,
-      "away_ml": 108,
-      "home_ml": -112,
+      "away_ml": 112,
+      "home_ml": -117,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -369,14 +369,14 @@
       "model_total": 9.97,
       "away_win_pct": 49.7,
       "home_win_pct": 50.3,
-      "away_ml": -165,
-      "home_ml": 160,
+      "away_ml": -166,
+      "home_ml": 159,
       "ou_line": 10.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Colorado Rockies +160",
-      "best_bet_edge": 11.84
+      "best_bet_desc": "Colorado Rockies +159",
+      "best_bet_edge": 11.69
     }
   ]
 }
