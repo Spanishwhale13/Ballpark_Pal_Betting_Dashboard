@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-07T18:08:27.315926+00:00",
-  "scraped_at_display": "Scraped August 7, 2026 \u00b7 2:08 PM ET",
+  "scraped_at": "2026-08-07T19:26:17.219863+00:00",
+  "scraped_at_display": "Scraped August 7, 2026 \u00b7 3:26 PM ET",
   "date_label": "August 7, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Zach Thornton",
       "home_starter": "Carmen Mlodzinski",
       "park": "PNC Park",
-      "park_factor": "+5%",
+      "park_factor": "+4%",
       "park_factor_class": "pos",
       "yrfi": 49.0,
       "away_proj": 4.16,
@@ -32,7 +32,7 @@
       "away_starter": "Jose Soriano",
       "home_starter": "Zack Wheeler",
       "park": "Citizens Bank Park",
-      "park_factor": "+13%",
+      "park_factor": "+15%",
       "park_factor_class": "pos",
       "yrfi": 48.0,
       "away_proj": 4.1,
@@ -103,7 +103,7 @@
       "model_total": 8.44,
       "away_win_pct": 44.9,
       "home_win_pct": 55.1,
-      "away_ml": 138,
+      "away_ml": 135,
       "home_ml": -142,
       "ou_line": 8.5,
       "best_bet": false
@@ -124,7 +124,7 @@
       "model_total": 9.13,
       "away_win_pct": 37.1,
       "home_win_pct": 62.9,
-      "away_ml": 240,
+      "away_ml": 241,
       "home_ml": -260,
       "ou_line": 8.5,
       "best_bet": false
@@ -262,7 +262,7 @@
       "model_total": 8.69,
       "away_win_pct": 49.5,
       "home_win_pct": 50.5,
-      "away_ml": 106,
+      "away_ml": 102,
       "home_ml": -108,
       "ou_line": 8.5,
       "best_bet": false
