@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T14:55:44.588138+00:00",
-  "scraped_at_display": "Scraped August 8, 2026 \u00b7 10:55 AM ET",
+  "scraped_at": "2026-08-08T15:22:34.311201+00:00",
+  "scraped_at_display": "Scraped August 8, 2026 \u00b7 11:22 AM ET",
   "date_label": "August 8, 2026",
   "games": [
     {
@@ -61,9 +61,9 @@
       "model_total": 9.65,
       "away_win_pct": 34.3,
       "home_win_pct": 65.7,
-      "away_ml": 234,
-      "home_ml": -240,
-      "ou_line": 9.5,
+      "away_ml": 225,
+      "home_ml": -237,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -103,8 +103,8 @@
       "model_total": 9.14,
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
-      "away_ml": 118,
-      "home_ml": -121,
+      "away_ml": 114,
+      "home_ml": -120,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -137,7 +137,7 @@
       "away_starter": "Clay Holmes",
       "home_starter": "Seth Lugo",
       "park": "Kauffman Stadium",
-      "park_factor": "+12%",
+      "park_factor": "+10%",
       "park_factor_class": "pos",
       "yrfi": 57.7,
       "away_proj": 5.66,
@@ -145,8 +145,8 @@
       "model_total": 10.11,
       "away_win_pct": 58.3,
       "home_win_pct": 41.7,
-      "away_ml": -153,
-      "home_ml": 150,
+      "away_ml": -158,
+      "home_ml": 151,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -158,8 +158,8 @@
       "away_starter": "Taj Bradley",
       "home_starter": "Robert Gasser",
       "park": "American Family Field",
-      "park_factor": "-2%",
-      "park_factor_class": "neut",
+      "park_factor": "-4%",
+      "park_factor_class": "neg",
       "yrfi": 48.4,
       "away_proj": 4.61,
       "home_proj": 4.26,
@@ -167,7 +167,7 @@
       "away_win_pct": 49.8,
       "home_win_pct": 50.2,
       "away_ml": 126,
-      "home_ml": -130,
+      "home_ml": -132,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -179,7 +179,7 @@
       "away_starter": "Gavin Williams",
       "home_starter": "Anthony Kay",
       "park": "Rate Field",
-      "park_factor": "+1%",
+      "park_factor": "0%",
       "park_factor_class": "neut",
       "yrfi": 45.9,
       "away_proj": 5.07,
@@ -188,7 +188,7 @@
       "away_win_pct": 66.5,
       "home_win_pct": 33.5,
       "away_ml": -124,
-      "home_ml": 120,
+      "home_ml": 116,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -208,8 +208,8 @@
       "model_total": 6.88,
       "away_win_pct": 42.1,
       "home_win_pct": 57.9,
-      "away_ml": 138,
-      "home_ml": -145,
+      "away_ml": 136,
+      "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -242,8 +242,8 @@
       "away_starter": "Jackson Jobe",
       "home_starter": "Landen Roupp",
       "park": "Oracle Park",
-      "park_factor": "+1%",
-      "park_factor_class": "neut",
+      "park_factor": "-3%",
+      "park_factor_class": "neg",
       "yrfi": 45.4,
       "away_proj": 4.21,
       "home_proj": 3.95,
@@ -252,7 +252,7 @@
       "home_win_pct": 50.1,
       "away_ml": -112,
       "home_ml": 105,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -263,7 +263,7 @@
       "away_starter": "Peter Lambert",
       "home_starter": "Michael King",
       "park": "Petco Park",
-      "park_factor": "-7%",
+      "park_factor": "-5%",
       "park_factor_class": "neg",
       "yrfi": 50.7,
       "away_proj": 4.91,
@@ -318,7 +318,7 @@
       "away_win_pct": 42.1,
       "home_win_pct": 57.9,
       "away_ml": 108,
-      "home_ml": -115,
+      "home_ml": -112,
       "ou_line": 6.5,
       "best_bet": false
     }
