@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T22:54:28.316754+00:00",
-  "scraped_at_display": "Scraped August 8, 2026 \u00b7 6:54 PM ET",
+  "scraped_at": "2026-08-08T23:20:01.991558+00:00",
+  "scraped_at_display": "Scraped August 8, 2026 \u00b7 7:20 PM ET",
   "date_label": "August 8, 2026",
   "games": [
     {
@@ -63,12 +63,8 @@
       "home_win_pct": 66.7,
       "away_ml": 250,
       "home_ml": -250,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Boston Red Sox 7.5",
-      "best_bet_edge": 2.23
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "823426",
@@ -107,8 +103,8 @@
       "model_total": 9.55,
       "away_win_pct": 37.2,
       "home_win_pct": 62.8,
-      "away_ml": 106,
-      "home_ml": -113,
+      "away_ml": 117,
+      "home_ml": -114,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -129,7 +125,7 @@
       "away_win_pct": 54.1,
       "home_win_pct": 45.9,
       "away_ml": -130,
-      "home_ml": 122,
+      "home_ml": 125,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -170,8 +166,8 @@
       "model_total": 8.55,
       "away_win_pct": 49.1,
       "home_win_pct": 50.9,
-      "away_ml": 135,
-      "home_ml": -136,
+      "away_ml": 131,
+      "home_ml": -140,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -191,7 +187,7 @@
       "model_total": 7.73,
       "away_win_pct": 61.7,
       "home_win_pct": 38.3,
-      "away_ml": -122,
+      "away_ml": -125,
       "home_ml": 117,
       "ou_line": 7.5,
       "best_bet": false
@@ -234,7 +230,7 @@
       "away_win_pct": 48.3,
       "home_win_pct": 51.7,
       "away_ml": 143,
-      "home_ml": -148,
+      "home_ml": -153,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -296,14 +292,14 @@
       "model_total": 7.77,
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
-      "away_ml": -178,
-      "home_ml": 172,
+      "away_ml": -184,
+      "home_ml": 178,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +172",
-      "best_bet_edge": 11.54
+      "best_bet_desc": "Arizona Diamondbacks +178",
+      "best_bet_edge": 12.33
     },
     {
       "gamepk": "823102",
@@ -321,38 +317,13 @@
       "model_total": 6.97,
       "away_win_pct": 42.8,
       "home_win_pct": 57.2,
-      "away_ml": 107,
+      "away_ml": 106,
       "home_ml": -112,
       "ou_line": 6.5,
       "best_bet": false
     }
   ],
   "best_bets": [
-    {
-      "gamepk": "824726",
-      "time": "4:10",
-      "away": "Oakland Athletics",
-      "home": "Boston Red Sox",
-      "away_starter": "Gage Jump",
-      "home_starter": "Jake Bennett",
-      "park": "Fenway Park",
-      "park_factor": "+17%",
-      "park_factor_class": "pos",
-      "yrfi": 53.3,
-      "away_proj": 4.23,
-      "home_proj": 5.5,
-      "model_total": 9.73,
-      "away_win_pct": 33.3,
-      "home_win_pct": 66.7,
-      "away_ml": 250,
-      "home_ml": -250,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Boston Red Sox 7.5",
-      "best_bet_edge": 2.23
-    },
     {
       "gamepk": "825049",
       "time": "8:10",
@@ -369,14 +340,14 @@
       "model_total": 7.77,
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
-      "away_ml": -178,
-      "home_ml": 172,
+      "away_ml": -184,
+      "home_ml": 178,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +172",
-      "best_bet_edge": 11.54
+      "best_bet_desc": "Arizona Diamondbacks +178",
+      "best_bet_edge": 12.33
     }
   ]
 }
