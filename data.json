@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T20:19:01.331190+00:00",
-  "scraped_at_display": "Scraped August 8, 2026 \u00b7 4:19 PM ET",
+  "scraped_at": "2026-08-08T20:55:52.529538+00:00",
+  "scraped_at_display": "Scraped August 8, 2026 \u00b7 4:55 PM ET",
   "date_label": "August 8, 2026",
   "games": [
     {
@@ -63,7 +63,7 @@
       "home_win_pct": 66.7,
       "away_ml": 250,
       "home_ml": -250,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -76,13 +76,13 @@
       "park": "Citizens Bank Park",
       "park_factor": "+11%",
       "park_factor_class": "pos",
-      "yrfi": 50.0,
-      "away_proj": 4.1,
-      "home_proj": 4.96,
-      "model_total": 9.06,
-      "away_win_pct": 39.2,
-      "home_win_pct": 60.8,
-      "away_ml": 155,
+      "yrfi": 51.1,
+      "away_proj": 3.85,
+      "home_proj": 4.98,
+      "model_total": 8.83,
+      "away_win_pct": 37.5,
+      "home_win_pct": 62.5,
+      "away_ml": 163,
       "home_ml": -160,
       "ou_line": 9.5,
       "best_bet": false
@@ -139,14 +139,14 @@
       "park": "Kauffman Stadium",
       "park_factor": "+10%",
       "park_factor_class": "pos",
-      "yrfi": 57.7,
-      "away_proj": 5.66,
-      "home_proj": 4.45,
-      "model_total": 10.11,
-      "away_win_pct": 58.3,
-      "home_win_pct": 41.7,
+      "yrfi": 56.6,
+      "away_proj": 6.11,
+      "home_proj": 4.61,
+      "model_total": 10.72,
+      "away_win_pct": 61.4,
+      "home_win_pct": 38.6,
       "away_ml": -154,
-      "home_ml": 147,
+      "home_ml": 150,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -166,7 +166,7 @@
       "model_total": 8.55,
       "away_win_pct": 49.1,
       "home_win_pct": 50.9,
-      "away_ml": 131,
+      "away_ml": 133,
       "home_ml": -135,
       "ou_line": 7.5,
       "best_bet": false
@@ -187,8 +187,8 @@
       "model_total": 7.73,
       "away_win_pct": 61.7,
       "home_win_pct": 38.3,
-      "away_ml": -132,
-      "home_ml": 125,
+      "away_ml": -122,
+      "home_ml": 117,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -252,7 +252,7 @@
       "home_win_pct": 51.0,
       "away_ml": -112,
       "home_ml": 106,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -265,15 +265,15 @@
       "park": "Petco Park",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 50.7,
-      "away_proj": 4.91,
-      "home_proj": 4.08,
-      "model_total": 8.99,
-      "away_win_pct": 55.4,
-      "home_win_pct": 44.6,
+      "yrfi": 49.6,
+      "away_proj": 4.8,
+      "home_proj": 4.03,
+      "model_total": 8.83,
+      "away_win_pct": 55.8,
+      "home_win_pct": 44.2,
       "away_ml": 110,
       "home_ml": -115,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -319,7 +319,7 @@
       "home_win_pct": 57.9,
       "away_ml": 106,
       "home_ml": -112,
-      "ou_line": 6.5,
+      "ou_line": 7.5,
       "best_bet": false
     }
   ],
