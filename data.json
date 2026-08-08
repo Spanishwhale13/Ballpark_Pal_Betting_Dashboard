@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-07T23:55:41.800182+00:00",
-  "scraped_at_display": "Scraped August 7, 2026 \u00b7 7:55 PM ET",
+  "scraped_at": "2026-08-08T01:04:15.005617+00:00",
+  "scraped_at_display": "Scraped August 7, 2026 \u00b7 9:04 PM ET",
   "date_label": "August 7, 2026",
   "games": [
     {
@@ -167,7 +167,7 @@
       "away_win_pct": 39.7,
       "home_win_pct": 60.3,
       "away_ml": 161,
-      "home_ml": -168,
+      "home_ml": -170,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
@@ -192,13 +192,13 @@
       "away_win_pct": 50.0,
       "home_win_pct": 50.0,
       "away_ml": -163,
-      "home_ml": 160,
+      "home_ml": 163,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Kansas City Royals +160",
-      "best_bet_edge": 11.54
+      "best_bet_desc": "Kansas City Royals +163",
+      "best_bet_edge": 11.98
     },
     {
       "gamepk": "822863",
@@ -216,7 +216,7 @@
       "model_total": 7.18,
       "away_win_pct": 41.6,
       "home_win_pct": 58.4,
-      "away_ml": 129,
+      "away_ml": 130,
       "home_ml": -137,
       "ou_line": 7.5,
       "best_bet": false
@@ -279,8 +279,8 @@
       "model_total": 9.91,
       "away_win_pct": 52.6,
       "home_win_pct": 47.4,
-      "away_ml": -170,
-      "home_ml": 158,
+      "away_ml": -172,
+      "home_ml": 167,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -301,8 +301,8 @@
       "away_win_pct": 46.9,
       "home_win_pct": 53.1,
       "away_ml": 106,
-      "home_ml": -111,
-      "ou_line": 7.5,
+      "home_ml": -112,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -321,7 +321,7 @@
       "model_total": 7.84,
       "away_win_pct": 57.6,
       "home_win_pct": 42.4,
-      "away_ml": -130,
+      "away_ml": -132,
       "home_ml": 125,
       "ou_line": 8.5,
       "best_bet": false
@@ -345,7 +345,7 @@
       "away_win_pct": 39.7,
       "home_win_pct": 60.3,
       "away_ml": 161,
-      "home_ml": -168,
+      "home_ml": -170,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
@@ -370,13 +370,13 @@
       "away_win_pct": 50.0,
       "home_win_pct": 50.0,
       "away_ml": -163,
-      "home_ml": 160,
+      "home_ml": 163,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Kansas City Royals +160",
-      "best_bet_edge": 11.54
+      "best_bet_desc": "Kansas City Royals +163",
+      "best_bet_edge": 11.98
     }
   ]
 }
