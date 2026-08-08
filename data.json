@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T20:55:52.529538+00:00",
-  "scraped_at_display": "Scraped August 8, 2026 \u00b7 4:55 PM ET",
+  "scraped_at": "2026-08-08T21:23:05.099090+00:00",
+  "scraped_at_display": "Scraped August 8, 2026 \u00b7 5:23 PM ET",
   "date_label": "August 8, 2026",
   "games": [
     {
@@ -63,7 +63,7 @@
       "home_win_pct": 66.7,
       "away_ml": 250,
       "home_ml": -250,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -252,7 +252,7 @@
       "home_win_pct": 51.0,
       "away_ml": -112,
       "home_ml": 106,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -273,7 +273,7 @@
       "home_win_pct": 44.2,
       "away_ml": 110,
       "home_ml": -115,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -286,12 +286,12 @@
       "park": "Chase Field",
       "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 45.3,
-      "away_proj": 4.14,
-      "home_proj": 3.88,
-      "model_total": 8.02,
-      "away_win_pct": 50.3,
-      "home_win_pct": 49.7,
+      "yrfi": 45.5,
+      "away_proj": 4.11,
+      "home_proj": 3.66,
+      "model_total": 7.77,
+      "away_win_pct": 51.7,
+      "home_win_pct": 48.3,
       "away_ml": -186,
       "home_ml": 183,
       "ou_line": 8.5,
@@ -299,7 +299,7 @@
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
       "best_bet_desc": "Arizona Diamondbacks +183",
-      "best_bet_edge": 14.36
+      "best_bet_edge": 12.96
     },
     {
       "gamepk": "823102",
@@ -319,7 +319,7 @@
       "home_win_pct": 57.9,
       "away_ml": 106,
       "home_ml": -112,
-      "ou_line": 7.5,
+      "ou_line": 6.5,
       "best_bet": false
     }
   ],
@@ -334,12 +334,12 @@
       "park": "Chase Field",
       "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 45.3,
-      "away_proj": 4.14,
-      "home_proj": 3.88,
-      "model_total": 8.02,
-      "away_win_pct": 50.3,
-      "home_win_pct": 49.7,
+      "yrfi": 45.5,
+      "away_proj": 4.11,
+      "home_proj": 3.66,
+      "model_total": 7.77,
+      "away_win_pct": 51.7,
+      "home_win_pct": 48.3,
       "away_ml": -186,
       "home_ml": 183,
       "ou_line": 8.5,
@@ -347,7 +347,7 @@
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
       "best_bet_desc": "Arizona Diamondbacks +183",
-      "best_bet_edge": 14.36
+      "best_bet_edge": 12.96
     }
   ]
 }
