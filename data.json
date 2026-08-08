@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T21:53:42.248993+00:00",
-  "scraped_at_display": "Scraped August 8, 2026 \u00b7 5:53 PM ET",
+  "scraped_at": "2026-08-08T22:19:20.454590+00:00",
+  "scraped_at_display": "Scraped August 8, 2026 \u00b7 6:19 PM ET",
   "date_label": "August 8, 2026",
   "games": [
     {
@@ -83,7 +83,7 @@
       "away_win_pct": 37.5,
       "home_win_pct": 62.5,
       "away_ml": 160,
-      "home_ml": -168,
+      "home_ml": -166,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -105,7 +105,7 @@
       "home_win_pct": 62.8,
       "away_ml": 112,
       "home_ml": -119,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -125,7 +125,7 @@
       "away_win_pct": 54.1,
       "home_win_pct": 45.9,
       "away_ml": -130,
-      "home_ml": 125,
+      "home_ml": 122,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -145,10 +145,14 @@
       "model_total": 10.72,
       "away_win_pct": 61.4,
       "home_win_pct": 38.6,
-      "away_ml": -153,
-      "home_ml": 146,
-      "ou_line": 9.5,
-      "best_bet": false
+      "away_ml": -146,
+      "home_ml": 143,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Chicago Cubs @ Kansas City Royals 8.5",
+      "best_bet_edge": 2.22
     },
     {
       "gamepk": "823752",
@@ -229,7 +233,7 @@
       "model_total": 7.96,
       "away_win_pct": 48.3,
       "home_win_pct": 51.7,
-      "away_ml": 148,
+      "away_ml": 143,
       "home_ml": -148,
       "ou_line": 8.5,
       "best_bet": false
@@ -292,14 +296,14 @@
       "model_total": 7.77,
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
-      "away_ml": -186,
-      "home_ml": 183,
+      "away_ml": -178,
+      "home_ml": 170,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +183",
-      "best_bet_edge": 12.96
+      "best_bet_desc": "Arizona Diamondbacks +170",
+      "best_bet_edge": 11.26
     },
     {
       "gamepk": "823102",
@@ -325,6 +329,31 @@
   ],
   "best_bets": [
     {
+      "gamepk": "824079",
+      "time": "7:10",
+      "away": "Chicago Cubs",
+      "home": "Kansas City Royals",
+      "away_starter": "Clay Holmes",
+      "home_starter": "Seth Lugo",
+      "park": "Kauffman Stadium",
+      "park_factor": "+10%",
+      "park_factor_class": "pos",
+      "yrfi": 56.6,
+      "away_proj": 6.11,
+      "home_proj": 4.61,
+      "model_total": 10.72,
+      "away_win_pct": 61.4,
+      "home_win_pct": 38.6,
+      "away_ml": -146,
+      "home_ml": 143,
+      "ou_line": 8.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Chicago Cubs @ Kansas City Royals 8.5",
+      "best_bet_edge": 2.22
+    },
+    {
       "gamepk": "825049",
       "time": "8:10",
       "away": "Los Angeles Dodgers",
@@ -340,14 +369,14 @@
       "model_total": 7.77,
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
-      "away_ml": -186,
-      "home_ml": 183,
+      "away_ml": -178,
+      "home_ml": 170,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +183",
-      "best_bet_edge": 12.96
+      "best_bet_desc": "Arizona Diamondbacks +170",
+      "best_bet_edge": 11.26
     }
   ]
 }
