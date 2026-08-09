@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T16:23:54.944891+00:00",
-  "scraped_at_display": "Scraped August 9, 2026 \u00b7 12:23 PM ET",
+  "scraped_at": "2026-08-09T17:02:49.125727+00:00",
+  "scraped_at_display": "Scraped August 9, 2026 \u00b7 1:02 PM ET",
   "date_label": "August 9, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 10.01,
       "away_win_pct": 53.7,
       "home_win_pct": 46.3,
-      "away_ml": 101,
-      "home_ml": -104,
+      "away_ml": 105,
+      "home_ml": -106,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -61,7 +61,7 @@
       "model_total": 9.54,
       "away_win_pct": 27.2,
       "home_win_pct": 72.8,
-      "away_ml": 207,
+      "away_ml": 212,
       "home_ml": -220,
       "ou_line": 8.5,
       "best_bet": false
@@ -104,7 +104,7 @@
       "away_win_pct": 36.7,
       "home_win_pct": 63.3,
       "away_ml": 215,
-      "home_ml": -219,
+      "home_ml": -223,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -124,7 +124,7 @@
       "model_total": 7.94,
       "away_win_pct": 43.0,
       "home_win_pct": 57.0,
-      "away_ml": 138,
+      "away_ml": 131,
       "home_ml": -137,
       "ou_line": 8.5,
       "best_bet": false
@@ -137,7 +137,7 @@
       "away_starter": "Matthew Boyd",
       "home_starter": "Randy Dobnak",
       "park": "Kauffman Stadium",
-      "park_factor": "+25%",
+      "park_factor": "+24%",
       "park_factor_class": "pos",
       "yrfi": 62.1,
       "away_proj": 6.8,
@@ -288,7 +288,7 @@
       "away_starter": "Ian Seymour",
       "home_starter": "Emerson Hancock",
       "park": "T-Mobile Park",
-      "park_factor": "-6%",
+      "park_factor": "-4%",
       "park_factor_class": "neg",
       "yrfi": 50.2,
       "away_proj": 4.08,
@@ -317,7 +317,7 @@
       "model_total": 8.9,
       "away_win_pct": 44.7,
       "home_win_pct": 55.3,
-      "away_ml": 111,
+      "away_ml": 110,
       "home_ml": -116,
       "ou_line": 8.5,
       "best_bet": false
@@ -332,7 +332,7 @@
       "away_starter": "Matthew Boyd",
       "home_starter": "Randy Dobnak",
       "park": "Kauffman Stadium",
-      "park_factor": "+25%",
+      "park_factor": "+24%",
       "park_factor_class": "pos",
       "yrfi": 62.1,
       "away_proj": 6.8,
