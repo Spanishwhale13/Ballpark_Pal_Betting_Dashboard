@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T13:42:11.706168+00:00",
-  "scraped_at_display": "Scraped August 9, 2026 \u00b7 9:42 AM ET",
+  "scraped_at": "2026-08-09T14:25:39.742458+00:00",
+  "scraped_at_display": "Scraped August 9, 2026 \u00b7 10:25 AM ET",
   "date_label": "August 9, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 9.88,
       "away_win_pct": 55.1,
       "home_win_pct": 44.9,
-      "away_ml": -104,
-      "home_ml": 100,
+      "away_ml": -102,
+      "home_ml": -104,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -42,7 +42,7 @@
       "home_win_pct": 63.5,
       "away_ml": 132,
       "home_ml": -140,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -61,8 +61,8 @@
       "model_total": 10.03,
       "away_win_pct": 29.6,
       "home_win_pct": 70.4,
-      "away_ml": 189,
-      "home_ml": -198,
+      "away_ml": 182,
+      "home_ml": -194,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 2,
@@ -86,7 +86,7 @@
       "model_total": 8.71,
       "away_win_pct": 37.6,
       "home_win_pct": 62.4,
-      "away_ml": 134,
+      "away_ml": 132,
       "home_ml": -136,
       "ou_line": 8.5,
       "best_bet": false
@@ -97,7 +97,7 @@
       "away": "Oakland Athletics",
       "home": "Boston Red Sox",
       "away_starter": "J.T. Ginn",
-      "home_starter": "Brayan Bello",
+      "home_starter": "Erik Miller",
       "park": "Fenway Park",
       "park_factor": "+22%",
       "park_factor_class": "pos",
@@ -107,7 +107,7 @@
       "model_total": 10.33,
       "away_win_pct": 40.5,
       "home_win_pct": 59.5,
-      "away_ml": 224,
+      "away_ml": 220,
       "home_ml": -235,
       "ou_line": 9.5,
       "best_bet": false
@@ -174,8 +174,8 @@
       "model_total": 9.15,
       "away_win_pct": 56.8,
       "home_win_pct": 43.2,
-      "away_ml": -108,
-      "home_ml": 104,
+      "away_ml": -112,
+      "home_ml": 111,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -196,7 +196,7 @@
       "away_win_pct": 30.1,
       "home_win_pct": 69.9,
       "away_ml": 234,
-      "home_ml": -240,
+      "home_ml": -245,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -259,7 +259,7 @@
       "away_win_pct": 61.2,
       "home_win_pct": 38.8,
       "away_ml": -116,
-      "home_ml": 108,
+      "home_ml": 113,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -280,7 +280,7 @@
       "away_win_pct": 52.4,
       "home_win_pct": 47.6,
       "away_ml": -140,
-      "home_ml": 131,
+      "home_ml": 132,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -300,8 +300,8 @@
       "model_total": 8.63,
       "away_win_pct": 43.4,
       "home_win_pct": 56.6,
-      "away_ml": 106,
-      "home_ml": -106,
+      "away_ml": -102,
+      "home_ml": -104,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -322,7 +322,7 @@
       "away_win_pct": 44.7,
       "home_win_pct": 55.3,
       "away_ml": 111,
-      "home_ml": -114,
+      "home_ml": -116,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -344,8 +344,8 @@
       "model_total": 10.03,
       "away_win_pct": 29.6,
       "home_win_pct": 70.4,
-      "away_ml": 189,
-      "home_ml": -198,
+      "away_ml": 182,
+      "home_ml": -194,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 2,
