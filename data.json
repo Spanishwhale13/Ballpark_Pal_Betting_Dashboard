@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T23:52:07.471803+00:00",
-  "scraped_at_display": "Scraped August 8, 2026 \u00b7 7:52 PM ET",
+  "scraped_at": "2026-08-09T01:09:08.499256+00:00",
+  "scraped_at_display": "Scraped August 8, 2026 \u00b7 9:09 PM ET",
   "date_label": "August 8, 2026",
   "games": [
     {
@@ -63,7 +63,7 @@
       "home_win_pct": 66.7,
       "away_ml": 250,
       "home_ml": -250,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -293,32 +293,32 @@
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
       "away_ml": -184,
-      "home_ml": 178,
+      "home_ml": 183,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +178",
-      "best_bet_edge": 12.33
+      "best_bet_desc": "Arizona Diamondbacks +183",
+      "best_bet_edge": 12.96
     },
     {
       "gamepk": "823102",
       "time": "9:50",
       "away": "Tampa Bay Rays",
       "home": "Seattle Mariners",
-      "away_starter": "Griffin Jax",
+      "away_starter": "Casey Legumina",
       "home_starter": "George Kirby",
       "park": "T-Mobile Park",
       "park_factor": "-15%",
       "park_factor_class": "neg",
-      "yrfi": 43.3,
-      "away_proj": 3.25,
-      "home_proj": 3.72,
-      "model_total": 6.97,
-      "away_win_pct": 42.8,
-      "home_win_pct": 57.2,
-      "away_ml": 108,
-      "home_ml": -115,
+      "yrfi": 43.9,
+      "away_proj": 3.28,
+      "home_proj": 3.92,
+      "model_total": 7.2,
+      "away_win_pct": 41.7,
+      "home_win_pct": 58.3,
+      "away_ml": 120,
+      "home_ml": -118,
       "ou_line": 6.5,
       "best_bet": false
     }
@@ -341,13 +341,13 @@
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
       "away_ml": -184,
-      "home_ml": 178,
+      "home_ml": 183,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +178",
-      "best_bet_edge": 12.33
+      "best_bet_desc": "Arizona Diamondbacks +183",
+      "best_bet_edge": 12.96
     }
   ]
 }
