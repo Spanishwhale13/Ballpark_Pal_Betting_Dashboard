@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T20:59:56.188667+00:00",
-  "scraped_at_display": "Scraped August 9, 2026 \u00b7 4:59 PM ET",
+  "scraped_at": "2026-08-09T21:36:57.246748+00:00",
+  "scraped_at_display": "Scraped August 9, 2026 \u00b7 5:36 PM ET",
   "date_label": "August 9, 2026",
   "games": [
     {
@@ -309,7 +309,7 @@
       "away_starter": "Cristian Javier",
       "home_starter": "Randy Vasquez",
       "park": "Petco Park",
-      "park_factor": "-6%",
+      "park_factor": "-7%",
       "park_factor_class": "neg",
       "yrfi": 53.4,
       "away_proj": 4.28,
@@ -317,8 +317,8 @@
       "model_total": 8.9,
       "away_win_pct": 44.7,
       "home_win_pct": 55.3,
-      "away_ml": 110,
-      "home_ml": -116,
+      "away_ml": 107,
+      "home_ml": -113,
       "ou_line": 8.5,
       "best_bet": false
     }
