@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T17:55:43.535737+00:00",
-  "scraped_at_display": "Scraped August 9, 2026 \u00b7 1:55 PM ET",
+  "scraped_at": "2026-08-09T18:30:41.298738+00:00",
+  "scraped_at_display": "Scraped August 9, 2026 \u00b7 2:30 PM ET",
   "date_label": "August 9, 2026",
   "games": [
     {
@@ -146,7 +146,7 @@
       "away_win_pct": 56.9,
       "home_win_pct": 43.1,
       "away_ml": -154,
-      "home_ml": 150,
+      "home_ml": 154,
       "ou_line": 10.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -171,7 +171,7 @@
       "away_win_pct": 58.7,
       "home_win_pct": 41.3,
       "away_ml": -125,
-      "home_ml": 117,
+      "home_ml": 118,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -192,7 +192,7 @@
       "away_win_pct": 29.9,
       "home_win_pct": 70.1,
       "away_ml": 238,
-      "home_ml": -250,
+      "home_ml": -258,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -212,7 +212,7 @@
       "model_total": 9.06,
       "away_win_pct": 47.6,
       "home_win_pct": 52.4,
-      "away_ml": 149,
+      "away_ml": 151,
       "home_ml": -158,
       "ou_line": 9.5,
       "best_bet": false
@@ -254,8 +254,8 @@
       "model_total": 8.43,
       "away_win_pct": 61.0,
       "home_win_pct": 39.0,
-      "away_ml": -116,
-      "home_ml": 113,
+      "away_ml": -122,
+      "home_ml": 114,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -275,7 +275,7 @@
       "model_total": 9.28,
       "away_win_pct": 52.4,
       "home_win_pct": 47.6,
-      "away_ml": -141,
+      "away_ml": -136,
       "home_ml": 132,
       "ou_line": 8.5,
       "best_bet": false
@@ -297,7 +297,7 @@
       "away_win_pct": 43.4,
       "home_win_pct": 56.6,
       "away_ml": -102,
-      "home_ml": -103,
+      "home_ml": -104,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -341,7 +341,7 @@
       "away_win_pct": 56.9,
       "home_win_pct": 43.1,
       "away_ml": -154,
-      "home_ml": 150,
+      "home_ml": 154,
       "ou_line": 10.5,
       "best_bet": true,
       "best_bet_rank": 1,
