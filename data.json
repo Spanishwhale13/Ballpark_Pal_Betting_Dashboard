@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T21:09:26.410757+00:00",
-  "scraped_at_display": "Scraped August 10, 2026 \u00b7 5:09 PM ET",
+  "scraped_at": "2026-08-10T22:04:52.130232+00:00",
+  "scraped_at_display": "Scraped August 10, 2026 \u00b7 6:04 PM ET",
   "date_label": "August 10, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Sonny Gray",
       "home_starter": "Jameson Taillon",
       "park": "Rogers Centre",
-      "park_factor": "+12%",
+      "park_factor": "+11%",
       "park_factor_class": "pos",
       "yrfi": 50.3,
       "away_proj": 4.94,
@@ -19,8 +19,8 @@
       "model_total": 9.25,
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
-      "away_ml": -151,
-      "home_ml": 146,
+      "away_ml": -153,
+      "home_ml": 144,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -61,8 +61,8 @@
       "model_total": 8.3,
       "away_win_pct": 52.7,
       "home_win_pct": 47.3,
-      "away_ml": 101,
-      "home_ml": -104,
+      "away_ml": -103,
+      "home_ml": -103,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -84,7 +84,7 @@
       "home_win_pct": 48.3,
       "away_ml": -112,
       "home_ml": 108,
-      "ou_line": 9.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -104,8 +104,8 @@
       "away_win_pct": 50.3,
       "home_win_pct": 49.7,
       "away_ml": -106,
-      "home_ml": 103,
-      "ou_line": 8.5,
+      "home_ml": 100,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -125,7 +125,7 @@
       "away_win_pct": 48.1,
       "home_win_pct": 51.9,
       "away_ml": -114,
-      "home_ml": 107,
+      "home_ml": 108,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -137,7 +137,7 @@
       "away_starter": "Freddy Peralta",
       "home_starter": "Jacob Lopez",
       "park": "Sutter Health Park",
-      "park_factor": "+25%",
+      "park_factor": "+23%",
       "park_factor_class": "pos",
       "yrfi": 56.6,
       "away_proj": 5.58,
@@ -145,8 +145,8 @@
       "model_total": 10.85,
       "away_win_pct": 50.9,
       "home_win_pct": 49.1,
-      "away_ml": -155,
-      "home_ml": 144,
+      "away_ml": -153,
+      "home_ml": 145,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -160,13 +160,13 @@
       "park": "Chase Field",
       "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 46.5,
-      "away_proj": 3.76,
-      "home_proj": 4.54,
-      "model_total": 8.3,
-      "away_win_pct": 39.1,
-      "home_win_pct": 60.9,
-      "away_ml": 183,
+      "yrfi": 45.4,
+      "away_proj": 3.74,
+      "home_proj": 4.66,
+      "model_total": 8.4,
+      "away_win_pct": 39.0,
+      "home_win_pct": 61.0,
+      "away_ml": 189,
       "home_ml": -194,
       "ou_line": 8.5,
       "best_bet": false
@@ -179,7 +179,7 @@
       "away_starter": "Hayden Wesneski",
       "home_starter": "Blade Tidwell",
       "park": "Oracle Park",
-      "park_factor": "-7%",
+      "park_factor": "-6%",
       "park_factor_class": "neg",
       "yrfi": 48.7,
       "away_proj": 4.57,
