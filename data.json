@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T20:08:04.220811+00:00",
-  "scraped_at_display": "Scraped August 10, 2026 \u00b7 4:08 PM ET",
+  "scraped_at": "2026-08-10T21:09:26.410757+00:00",
+  "scraped_at_display": "Scraped August 10, 2026 \u00b7 5:09 PM ET",
   "date_label": "August 10, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 9.25,
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
-      "away_ml": -141,
-      "home_ml": 143,
+      "away_ml": -151,
+      "home_ml": 146,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -34,20 +34,16 @@
       "park": "Truist Park",
       "park_factor": "-3%",
       "park_factor_class": "neg",
-      "yrfi": 54.2,
-      "away_proj": 5.2,
-      "home_proj": 4.85,
-      "model_total": 10.05,
-      "away_win_pct": 49.9,
-      "home_win_pct": 50.1,
+      "yrfi": 54.6,
+      "away_proj": 5.24,
+      "home_proj": 4.66,
+      "model_total": 9.9,
+      "away_win_pct": 51.7,
+      "home_win_pct": 48.3,
       "away_ml": 131,
       "home_ml": -140,
       "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Atlanta Braves 8.5",
-      "best_bet_edge": 1.55
+      "best_bet": false
     },
     {
       "gamepk": "823675",
@@ -66,7 +62,7 @@
       "away_win_pct": 52.7,
       "home_win_pct": 47.3,
       "away_ml": 101,
-      "home_ml": 100,
+      "home_ml": -104,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -80,14 +76,14 @@
       "park": "Busch Stadium",
       "park_factor": "-2%",
       "park_factor_class": "neut",
-      "yrfi": 46.8,
-      "away_proj": 4.4,
-      "home_proj": 3.87,
-      "model_total": 8.27,
-      "away_win_pct": 53.2,
-      "home_win_pct": 46.8,
+      "yrfi": 48.4,
+      "away_proj": 4.07,
+      "home_proj": 3.77,
+      "model_total": 7.84,
+      "away_win_pct": 51.7,
+      "home_win_pct": 48.3,
       "away_ml": -112,
-      "home_ml": 107,
+      "home_ml": 108,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -99,7 +95,7 @@
       "away_starter": "MacKenzie Gore",
       "home_starter": "Reid Detmers",
       "park": "Angel Stadium",
-      "park_factor": "+0%",
+      "park_factor": "+1%",
       "park_factor_class": "neut",
       "yrfi": 45.5,
       "away_proj": 3.99,
@@ -109,7 +105,7 @@
       "home_win_pct": 49.7,
       "away_ml": -106,
       "home_ml": 103,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -128,7 +124,7 @@
       "model_total": 8.05,
       "away_win_pct": 48.1,
       "home_win_pct": 51.9,
-      "away_ml": -112,
+      "away_ml": -114,
       "home_ml": 107,
       "ou_line": 7.5,
       "best_bet": false
@@ -150,7 +146,7 @@
       "away_win_pct": 50.9,
       "home_win_pct": 49.1,
       "away_ml": -155,
-      "home_ml": 147,
+      "home_ml": 144,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -218,31 +214,5 @@
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "824887",
-      "time": "7:15",
-      "away": "New York Mets",
-      "home": "Atlanta Braves",
-      "away_starter": "Christian Scott",
-      "home_starter": "Bryce Elder",
-      "park": "Truist Park",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
-      "yrfi": 54.2,
-      "away_proj": 5.2,
-      "home_proj": 4.85,
-      "model_total": 10.05,
-      "away_win_pct": 49.9,
-      "home_win_pct": 50.1,
-      "away_ml": 131,
-      "home_ml": -140,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER New York Mets @ Atlanta Braves 8.5",
-      "best_bet_edge": 1.55
-    }
-  ]
+  "best_bets": []
 }
