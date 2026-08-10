@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T23:04:15.952545+00:00",
-  "scraped_at_display": "Scraped August 10, 2026 \u00b7 7:04 PM ET",
+  "scraped_at": "2026-08-10T23:58:00.230005+00:00",
+  "scraped_at_display": "Scraped August 10, 2026 \u00b7 7:58 PM ET",
   "date_label": "August 10, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 9.25,
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
-      "away_ml": -154,
-      "home_ml": 147,
+      "away_ml": -157,
+      "home_ml": 149,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -40,8 +40,8 @@
       "model_total": 9.9,
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
-      "away_ml": 131,
-      "home_ml": -140,
+      "away_ml": 130,
+      "home_ml": -136,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -62,7 +62,7 @@
       "away_win_pct": 52.7,
       "home_win_pct": 47.3,
       "away_ml": -103,
-      "home_ml": -103,
+      "home_ml": -102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -83,8 +83,8 @@
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
       "away_ml": -112,
-      "home_ml": 108,
-      "ou_line": 9.5,
+      "home_ml": 112,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -95,7 +95,7 @@
       "away_starter": "MacKenzie Gore",
       "home_starter": "Reid Detmers",
       "park": "Angel Stadium",
-      "park_factor": "+1%",
+      "park_factor": "-1%",
       "park_factor_class": "neut",
       "yrfi": 45.1,
       "away_proj": 3.94,
@@ -124,8 +124,8 @@
       "model_total": 7.55,
       "away_win_pct": 48.9,
       "home_win_pct": 51.1,
-      "away_ml": -114,
-      "home_ml": 111,
+      "away_ml": -120,
+      "home_ml": 113,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -137,7 +137,7 @@
       "away_starter": "Freddy Peralta",
       "home_starter": "Jacob Lopez",
       "park": "Sutter Health Park",
-      "park_factor": "+22%",
+      "park_factor": "+23%",
       "park_factor_class": "pos",
       "yrfi": 53.7,
       "away_proj": 5.01,
@@ -145,14 +145,14 @@
       "model_total": 10.08,
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
-      "away_ml": -154,
-      "home_ml": 145,
+      "away_ml": -152,
+      "home_ml": 147,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Oakland Athletics +145",
-      "best_bet_edge": 11.88
+      "best_bet_desc": "Oakland Athletics +147",
+      "best_bet_edge": 12.21
     },
     {
       "gamepk": "825048",
@@ -191,8 +191,8 @@
       "model_total": 7.99,
       "away_win_pct": 58.8,
       "home_win_pct": 41.2,
-      "away_ml": -140,
-      "home_ml": 133,
+      "away_ml": -142,
+      "home_ml": 138,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -212,7 +212,7 @@
       "model_total": 7.61,
       "away_win_pct": 35.0,
       "home_win_pct": 65.0,
-      "away_ml": 250,
+      "away_ml": 259,
       "home_ml": -270,
       "ou_line": 7.5,
       "best_bet": false
@@ -227,7 +227,7 @@
       "away_starter": "Freddy Peralta",
       "home_starter": "Jacob Lopez",
       "park": "Sutter Health Park",
-      "park_factor": "+22%",
+      "park_factor": "+23%",
       "park_factor_class": "pos",
       "yrfi": 53.7,
       "away_proj": 5.01,
@@ -235,14 +235,14 @@
       "model_total": 10.08,
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
-      "away_ml": -154,
-      "home_ml": 145,
+      "away_ml": -152,
+      "home_ml": 147,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Oakland Athletics +145",
-      "best_bet_edge": 11.88
+      "best_bet_desc": "Oakland Athletics +147",
+      "best_bet_edge": 12.21
     }
   ]
 }
