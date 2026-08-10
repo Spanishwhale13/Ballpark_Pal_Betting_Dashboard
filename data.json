@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T17:22:35.503384+00:00",
-  "scraped_at_display": "Scraped August 10, 2026 \u00b7 1:22 PM ET",
+  "scraped_at": "2026-08-10T18:11:04.726104+00:00",
+  "scraped_at_display": "Scraped August 10, 2026 \u00b7 2:11 PM ET",
   "date_label": "August 10, 2026",
   "games": [
     {
@@ -66,7 +66,7 @@
       "away_win_pct": 50.4,
       "home_win_pct": 49.6,
       "away_ml": -112,
-      "home_ml": 106,
+      "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -107,9 +107,9 @@
       "model_total": 7.65,
       "away_win_pct": 50.3,
       "home_win_pct": 49.7,
-      "away_ml": -111,
+      "away_ml": -112,
       "home_ml": 104,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -192,7 +192,7 @@
       "away_win_pct": 58.0,
       "home_win_pct": 42.0,
       "away_ml": -140,
-      "home_ml": 137,
+      "home_ml": 135,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -204,8 +204,8 @@
       "away_starter": "Noah Cameron",
       "home_starter": "Tarik Skubal",
       "park": "Dodger Stadium",
-      "park_factor": "+3%",
-      "park_factor_class": "pos",
+      "park_factor": "-4%",
+      "park_factor_class": "neg",
       "yrfi": 46.9,
       "away_proj": 3.43,
       "home_proj": 4.39,
