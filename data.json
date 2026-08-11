@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T23:58:00.230005+00:00",
-  "scraped_at_display": "Scraped August 10, 2026 \u00b7 7:58 PM ET",
+  "scraped_at": "2026-08-11T01:09:23.372709+00:00",
+  "scraped_at_display": "Scraped August 10, 2026 \u00b7 9:09 PM ET",
   "date_label": "August 10, 2026",
   "games": [
     {
@@ -95,7 +95,7 @@
       "away_starter": "MacKenzie Gore",
       "home_starter": "Reid Detmers",
       "park": "Angel Stadium",
-      "park_factor": "-1%",
+      "park_factor": "+0%",
       "park_factor_class": "neut",
       "yrfi": 45.1,
       "away_proj": 3.94,
@@ -137,7 +137,7 @@
       "away_starter": "Freddy Peralta",
       "home_starter": "Jacob Lopez",
       "park": "Sutter Health Park",
-      "park_factor": "+23%",
+      "park_factor": "+22%",
       "park_factor_class": "pos",
       "yrfi": 53.7,
       "away_proj": 5.01,
@@ -146,13 +146,13 @@
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
       "away_ml": -152,
-      "home_ml": 147,
+      "home_ml": 149,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Oakland Athletics +147",
-      "best_bet_edge": 12.21
+      "best_bet_desc": "Oakland Athletics +149",
+      "best_bet_edge": 12.54
     },
     {
       "gamepk": "825048",
@@ -171,7 +171,7 @@
       "away_win_pct": 39.0,
       "home_win_pct": 61.0,
       "away_ml": 189,
-      "home_ml": -194,
+      "home_ml": -204,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -191,8 +191,8 @@
       "model_total": 7.99,
       "away_win_pct": 58.8,
       "home_win_pct": 41.2,
-      "away_ml": -142,
-      "home_ml": 138,
+      "away_ml": -140,
+      "home_ml": 137,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -227,7 +227,7 @@
       "away_starter": "Freddy Peralta",
       "home_starter": "Jacob Lopez",
       "park": "Sutter Health Park",
-      "park_factor": "+23%",
+      "park_factor": "+22%",
       "park_factor_class": "pos",
       "yrfi": 53.7,
       "away_proj": 5.01,
@@ -236,13 +236,13 @@
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
       "away_ml": -152,
-      "home_ml": 147,
+      "home_ml": 149,
       "ou_line": 9.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Oakland Athletics +147",
-      "best_bet_edge": 12.21
+      "best_bet_desc": "Oakland Athletics +149",
+      "best_bet_edge": 12.54
     }
   ]
 }
