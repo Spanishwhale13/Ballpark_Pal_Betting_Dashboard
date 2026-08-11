@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11T15:26:50.947115+00:00",
-  "scraped_at_display": "Scraped August 11, 2026 \u00b7 11:26 AM ET",
+  "scraped_at": "2026-08-11T16:23:20.032336+00:00",
+  "scraped_at_display": "Scraped August 11, 2026 \u00b7 12:23 PM ET",
   "date_label": "August 11, 2026",
   "games": [
     {
@@ -19,7 +19,7 @@
       "model_total": 6.68,
       "away_win_pct": 42.4,
       "home_win_pct": 57.6,
-      "away_ml": -112,
+      "away_ml": -111,
       "home_ml": 105,
       "ou_line": 6.5,
       "best_bet": false
@@ -32,8 +32,8 @@
       "away_starter": "Tanner Bibee",
       "home_starter": "Drew Anderson",
       "park": "Comerica Park",
-      "park_factor": "+0%",
-      "park_factor_class": "neut",
+      "park_factor": "+6%",
+      "park_factor_class": "pos",
       "yrfi": 47.7,
       "away_proj": 4.23,
       "home_proj": 4.76,
@@ -63,8 +63,12 @@
       "home_win_pct": 40.9,
       "away_ml": -157,
       "home_ml": 155,
-      "ou_line": 9.5,
-      "best_bet": false
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Chicago Cubs @ Washington Nationals 7.5",
+      "best_bet_edge": 2.13
     },
     {
       "gamepk": "823512",
@@ -107,7 +111,7 @@
       "home_ml": -135,
       "ou_line": 6.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Boston Red Sox @ Toronto Blue Jays 6.5",
       "best_bet_edge": 1.66
@@ -128,8 +132,8 @@
       "model_total": 9.51,
       "away_win_pct": 45.0,
       "home_win_pct": 55.0,
-      "away_ml": 119,
-      "home_ml": -122,
+      "away_ml": 121,
+      "home_ml": -124,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -149,7 +153,7 @@
       "model_total": 8.2,
       "away_win_pct": 35.2,
       "home_win_pct": 64.8,
-      "away_ml": 145,
+      "away_ml": 143,
       "home_ml": -148,
       "ou_line": 7.5,
       "best_bet": false
@@ -170,7 +174,7 @@
       "model_total": 9.16,
       "away_win_pct": 45.7,
       "home_win_pct": 54.3,
-      "away_ml": 105,
+      "away_ml": 103,
       "home_ml": -110,
       "ou_line": 9.5,
       "best_bet": false
@@ -193,7 +197,7 @@
       "home_win_pct": 43.6,
       "away_ml": -160,
       "home_ml": 152,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -254,8 +258,8 @@
       "model_total": 10.49,
       "away_win_pct": 52.2,
       "home_win_pct": 47.8,
-      "away_ml": -160,
-      "home_ml": 153,
+      "away_ml": -167,
+      "home_ml": 162,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -296,7 +300,7 @@
       "model_total": 8.31,
       "away_win_pct": 69.6,
       "home_win_pct": 30.4,
-      "away_ml": -180,
+      "away_ml": -177,
       "home_ml": 170,
       "ou_line": 7.5,
       "best_bet": false
@@ -317,13 +321,38 @@
       "model_total": 9.03,
       "away_win_pct": 35.3,
       "home_win_pct": 64.7,
-      "away_ml": 234,
-      "home_ml": -250,
+      "away_ml": 243,
+      "home_ml": -260,
       "ou_line": 8.5,
       "best_bet": false
     }
   ],
   "best_bets": [
+    {
+      "gamepk": "822697",
+      "time": "6:45",
+      "away": "Chicago Cubs",
+      "home": "Washington Nationals",
+      "away_starter": "Shota Imanaga",
+      "home_starter": "Jake Irvin",
+      "park": "Nationals Park",
+      "park_factor": "+11%",
+      "park_factor_class": "pos",
+      "yrfi": 52.9,
+      "away_proj": 5.46,
+      "home_proj": 4.17,
+      "model_total": 9.63,
+      "away_win_pct": 59.1,
+      "home_win_pct": 40.9,
+      "away_ml": -157,
+      "home_ml": 155,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Chicago Cubs @ Washington Nationals 7.5",
+      "best_bet_edge": 2.13
+    },
     {
       "gamepk": "822778",
       "time": "7:07",
@@ -344,7 +373,7 @@
       "home_ml": -135,
       "ou_line": 6.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Boston Red Sox @ Toronto Blue Jays 6.5",
       "best_bet_edge": 1.66
