@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11T17:24:46.013585+00:00",
-  "scraped_at_display": "Scraped August 11, 2026 \u00b7 1:24 PM ET",
+  "scraped_at": "2026-08-11T18:13:14.265101+00:00",
+  "scraped_at_display": "Scraped August 11, 2026 \u00b7 2:13 PM ET",
   "date_label": "August 11, 2026",
   "games": [
     {
@@ -21,7 +21,7 @@
       "home_win_pct": 57.6,
       "away_ml": -111,
       "home_ml": 105,
-      "ou_line": 7.5,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -53,7 +53,7 @@
       "away_starter": "Shota Imanaga",
       "home_starter": "Jake Irvin",
       "park": "Nationals Park",
-      "park_factor": "+11%",
+      "park_factor": "+6%",
       "park_factor_class": "pos",
       "yrfi": 52.9,
       "away_proj": 5.46,
@@ -275,7 +275,7 @@
       "model_total": 9.41,
       "away_win_pct": 41.8,
       "home_win_pct": 58.2,
-      "away_ml": 160,
+      "away_ml": 165,
       "home_ml": -170,
       "ou_line": 9.5,
       "best_bet": false
@@ -298,7 +298,7 @@
       "home_win_pct": 30.4,
       "away_ml": -177,
       "home_ml": 170,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -309,8 +309,8 @@
       "away_starter": "Michael Wacha",
       "home_starter": "Blake Snell",
       "park": "Dodger Stadium",
-      "park_factor": "+3%",
-      "park_factor_class": "pos",
+      "park_factor": "-7%",
+      "park_factor_class": "neg",
       "yrfi": 49.1,
       "away_proj": 4.02,
       "home_proj": 5.01,
