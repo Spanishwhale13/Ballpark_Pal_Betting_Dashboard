@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11T23:31:21.111695+00:00",
-  "scraped_at_display": "Scraped August 11, 2026 \u00b7 7:31 PM ET",
+  "scraped_at": "2026-08-12T01:17:26.682443+00:00",
+  "scraped_at_display": "Scraped August 11, 2026 \u00b7 9:17 PM ET",
   "date_label": "August 11, 2026",
   "games": [
     {
@@ -63,7 +63,7 @@
       "home_win_pct": 39.1,
       "away_ml": -163,
       "home_ml": 162,
-      "ou_line": 8.5,
+      "ou_line": 9.5,
       "best_bet": false
     },
     {
@@ -86,7 +86,7 @@
       "home_ml": -126,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Seattle Mariners @ New York Yankees 7.5",
       "best_bet_edge": 1.57
@@ -128,10 +128,14 @@
       "model_total": 9.64,
       "away_win_pct": 43.7,
       "home_win_pct": 56.3,
-      "away_ml": 117,
-      "home_ml": -122,
-      "ou_line": 8.5,
-      "best_bet": false
+      "away_ml": 145,
+      "home_ml": -150,
+      "ou_line": 6.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Mets @ Atlanta Braves 6.5",
+      "best_bet_edge": 3.14
     },
     {
       "gamepk": "824563",
@@ -192,7 +196,7 @@
       "away_win_pct": 55.3,
       "home_win_pct": 44.7,
       "away_ml": -154,
-      "home_ml": 150,
+      "home_ml": 148,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -212,9 +216,9 @@
       "model_total": 9.73,
       "away_win_pct": 58.3,
       "home_win_pct": 41.7,
-      "away_ml": -142,
-      "home_ml": 138,
-      "ou_line": 9.5,
+      "away_ml": -140,
+      "home_ml": 135,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -233,7 +237,7 @@
       "model_total": 7.59,
       "away_win_pct": 49.7,
       "home_win_pct": 50.3,
-      "away_ml": -124,
+      "away_ml": -126,
       "home_ml": 118,
       "ou_line": 7.5,
       "best_bet": false
@@ -275,7 +279,7 @@
       "model_total": 9.38,
       "away_win_pct": 41.1,
       "home_win_pct": 58.9,
-      "away_ml": 160,
+      "away_ml": 163,
       "home_ml": -165,
       "ou_line": 9.5,
       "best_bet": false
@@ -296,8 +300,8 @@
       "model_total": 8.41,
       "away_win_pct": 69.4,
       "home_win_pct": 30.6,
-      "away_ml": -177,
-      "home_ml": 167,
+      "away_ml": -182,
+      "home_ml": 173,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -317,7 +321,7 @@
       "model_total": 7.83,
       "away_win_pct": 37.1,
       "home_win_pct": 62.9,
-      "away_ml": 249,
+      "away_ml": 245,
       "home_ml": -260,
       "ou_line": 8.5,
       "best_bet": false
@@ -344,10 +348,35 @@
       "home_ml": -126,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Seattle Mariners @ New York Yankees 7.5",
       "best_bet_edge": 1.57
+    },
+    {
+      "gamepk": "824886",
+      "time": "7:15",
+      "away": "New York Mets",
+      "home": "Atlanta Braves",
+      "away_starter": "Nolan McLean",
+      "home_starter": "Martin Perez",
+      "park": "Truist Park",
+      "park_factor": "-6%",
+      "park_factor_class": "neg",
+      "yrfi": 54.3,
+      "away_proj": 4.65,
+      "home_proj": 4.99,
+      "model_total": 9.64,
+      "away_win_pct": 43.7,
+      "home_win_pct": 56.3,
+      "away_ml": 145,
+      "home_ml": -150,
+      "ou_line": 6.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER New York Mets @ Atlanta Braves 6.5",
+      "best_bet_edge": 3.14
     }
   ]
 }
