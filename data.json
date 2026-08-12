@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12T22:31:35.255836+00:00",
-  "scraped_at_display": "Scraped August 12, 2026 \u00b7 6:31 PM ET",
+  "scraped_at": "2026-08-12T23:32:02.703365+00:00",
+  "scraped_at_display": "Scraped August 12, 2026 \u00b7 7:32 PM ET",
   "date_label": "August 12, 2026",
   "games": [
     {
@@ -149,8 +149,8 @@
       "model_total": 7.34,
       "away_win_pct": 53.7,
       "home_win_pct": 46.3,
-      "away_ml": 108,
-      "home_ml": -114,
+      "away_ml": 110,
+      "home_ml": -116,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -171,7 +171,7 @@
       "away_win_pct": 60.1,
       "home_win_pct": 39.9,
       "away_ml": 116,
-      "home_ml": -122,
+      "home_ml": -121,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -192,7 +192,7 @@
       "away_win_pct": 53.5,
       "home_win_pct": 46.5,
       "away_ml": -153,
-      "home_ml": 144,
+      "home_ml": 143,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -212,8 +212,8 @@
       "model_total": 9.1,
       "away_win_pct": 63.8,
       "home_win_pct": 36.2,
-      "away_ml": 120,
-      "home_ml": -127,
+      "away_ml": 122,
+      "home_ml": -130,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -276,7 +276,7 @@
       "away_win_pct": 49.5,
       "home_win_pct": 50.5,
       "away_ml": 135,
-      "home_ml": -137,
+      "home_ml": -142,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -296,8 +296,8 @@
       "model_total": 8.84,
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
-      "away_ml": 194,
-      "home_ml": -205,
+      "away_ml": 200,
+      "home_ml": -210,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -309,15 +309,15 @@
       "away_starter": "Cal Quantrill",
       "home_starter": "George Klassen",
       "park": "Angel Stadium",
-      "park_factor": "0%",
+      "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 51.9,
-      "away_proj": 5.18,
-      "home_proj": 3.87,
-      "model_total": 9.05,
-      "away_win_pct": 60.3,
-      "home_win_pct": 39.7,
-      "away_ml": -134,
+      "yrfi": 51.0,
+      "away_proj": 5.1,
+      "home_proj": 4.11,
+      "model_total": 9.21,
+      "away_win_pct": 57.8,
+      "home_win_pct": 42.2,
+      "away_ml": -135,
       "home_ml": 128,
       "ou_line": 8.5,
       "best_bet": false
