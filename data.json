@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T18:24:56.633060+00:00",
-  "scraped_at_display": "Scraped August 13, 2026 \u00b7 2:24 PM ET",
+  "scraped_at": "2026-08-13T19:32:52.110972+00:00",
+  "scraped_at_display": "Scraped August 13, 2026 \u00b7 3:32 PM ET",
   "date_label": "August 13, 2026",
   "games": [
     {
@@ -103,8 +103,8 @@
       "model_total": 8.41,
       "away_win_pct": 56.7,
       "home_win_pct": 43.3,
-      "away_ml": -138,
-      "home_ml": 132,
+      "away_ml": -134,
+      "home_ml": 142,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -118,14 +118,14 @@
       "park": "Nationals Park",
       "park_factor": "+8%",
       "park_factor_class": "pos",
-      "yrfi": 50.3,
-      "away_proj": 4.83,
-      "home_proj": 4.62,
-      "model_total": 9.45,
-      "away_win_pct": 50.6,
-      "home_win_pct": 49.4,
+      "yrfi": 52.8,
+      "away_proj": 4.61,
+      "home_proj": 4.41,
+      "model_total": 9.02,
+      "away_win_pct": 49.8,
+      "home_win_pct": 50.2,
       "away_ml": -141,
-      "home_ml": 138,
+      "home_ml": 135,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -146,7 +146,7 @@
       "away_win_pct": 49.4,
       "home_win_pct": 50.6,
       "away_ml": -102,
-      "home_ml": -102,
+      "home_ml": -104,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -166,8 +166,8 @@
       "model_total": 7.98,
       "away_win_pct": 60.9,
       "home_win_pct": 39.1,
-      "away_ml": -145,
-      "home_ml": 138,
+      "away_ml": -147,
+      "home_ml": 143,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -188,7 +188,7 @@
       "away_win_pct": 44.0,
       "home_win_pct": 56.0,
       "away_ml": 131,
-      "home_ml": -138,
+      "home_ml": -140,
       "ou_line": 8.5,
       "best_bet": false
     }
