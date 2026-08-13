@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T19:32:52.110972+00:00",
-  "scraped_at_display": "Scraped August 13, 2026 \u00b7 3:32 PM ET",
+  "scraped_at": "2026-08-13T20:32:24.306448+00:00",
+  "scraped_at_display": "Scraped August 13, 2026 \u00b7 4:32 PM ET",
   "date_label": "August 13, 2026",
   "games": [
     {
@@ -42,7 +42,7 @@
       "home_win_pct": 40.3,
       "away_ml": -103,
       "home_ml": 102,
-      "ou_line": 7.5,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -124,8 +124,8 @@
       "model_total": 9.02,
       "away_win_pct": 49.8,
       "home_win_pct": 50.2,
-      "away_ml": -141,
-      "home_ml": 135,
+      "away_ml": -144,
+      "home_ml": 136,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -139,12 +139,12 @@
       "park": "Field of Dreams",
       "park_factor": "-3%",
       "park_factor_class": "neg",
-      "yrfi": 44.7,
-      "away_proj": 3.96,
-      "home_proj": 3.84,
-      "model_total": 7.8,
-      "away_win_pct": 49.4,
-      "home_win_pct": 50.6,
+      "yrfi": 45.2,
+      "away_proj": 4.04,
+      "home_proj": 4.09,
+      "model_total": 8.13,
+      "away_win_pct": 47.3,
+      "home_win_pct": 52.7,
       "away_ml": -102,
       "home_ml": -104,
       "ou_line": 8.5,
