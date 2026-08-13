@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T22:32:22.886220+00:00",
-  "scraped_at_display": "Scraped August 13, 2026 \u00b7 6:32 PM ET",
+  "scraped_at": "2026-08-13T23:32:37.902562+00:00",
+  "scraped_at_display": "Scraped August 13, 2026 \u00b7 7:32 PM ET",
   "date_label": "August 13, 2026",
   "games": [
     {
@@ -145,7 +145,7 @@
       "model_total": 8.13,
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
-      "away_ml": -103,
+      "away_ml": 100,
       "home_ml": -104,
       "ou_line": 8.5,
       "best_bet": false
@@ -181,13 +181,13 @@
       "park": "Dodger Stadium",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 51.5,
-      "away_proj": 4.03,
-      "home_proj": 4.47,
-      "model_total": 8.5,
-      "away_win_pct": 43.9,
-      "home_win_pct": 56.1,
-      "away_ml": 133,
+      "yrfi": 49.5,
+      "away_proj": 4.13,
+      "home_proj": 4.44,
+      "model_total": 8.57,
+      "away_win_pct": 45.2,
+      "home_win_pct": 54.8,
+      "away_ml": 132,
       "home_ml": -140,
       "ou_line": 8.5,
       "best_bet": false
