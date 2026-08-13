@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T17:26:28.433410+00:00",
-  "scraped_at_display": "Scraped August 13, 2026 \u00b7 1:26 PM ET",
+  "scraped_at": "2026-08-13T18:24:56.633060+00:00",
+  "scraped_at_display": "Scraped August 13, 2026 \u00b7 2:24 PM ET",
   "date_label": "August 13, 2026",
   "games": [
     {
@@ -42,7 +42,7 @@
       "home_win_pct": 40.3,
       "away_ml": -103,
       "home_ml": 102,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -82,8 +82,8 @@
       "model_total": 7.77,
       "away_win_pct": 51.4,
       "home_win_pct": 48.6,
-      "away_ml": 147,
-      "home_ml": -156,
+      "away_ml": 152,
+      "home_ml": -157,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -104,7 +104,7 @@
       "away_win_pct": 56.7,
       "home_win_pct": 43.3,
       "away_ml": -138,
-      "home_ml": 130,
+      "home_ml": 132,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -124,8 +124,8 @@
       "model_total": 9.45,
       "away_win_pct": 50.6,
       "home_win_pct": 49.4,
-      "away_ml": -145,
-      "home_ml": 136,
+      "away_ml": -141,
+      "home_ml": 138,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -146,7 +146,7 @@
       "away_win_pct": 49.4,
       "home_win_pct": 50.6,
       "away_ml": -102,
-      "home_ml": -104,
+      "home_ml": -102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -158,16 +158,16 @@
       "away_starter": "Jacob deGrom",
       "home_starter": "Walbert Urena",
       "park": "Angel Stadium",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
+      "park_factor": "+0%",
+      "park_factor_class": "neut",
       "yrfi": 43.6,
       "away_proj": 4.59,
       "home_proj": 3.39,
       "model_total": 7.98,
       "away_win_pct": 60.9,
       "home_win_pct": 39.1,
-      "away_ml": -147,
-      "home_ml": 143,
+      "away_ml": -145,
+      "home_ml": 138,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -179,8 +179,8 @@
       "away_starter": "Shane Drohan",
       "home_starter": "Roki Sasaki",
       "park": "Dodger Stadium",
-      "park_factor": "-2%",
-      "park_factor_class": "neut",
+      "park_factor": "-7%",
+      "park_factor_class": "neg",
       "yrfi": 52.2,
       "away_proj": 4.31,
       "home_proj": 4.71,
