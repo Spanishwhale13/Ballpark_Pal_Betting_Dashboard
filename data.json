@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-14T17:24:17.649007+00:00",
-  "scraped_at_display": "Scraped August 14, 2026 \u00b7 1:24 PM ET",
+  "scraped_at": "2026-08-14T18:12:41.382180+00:00",
+  "scraped_at_display": "Scraped August 14, 2026 \u00b7 2:12 PM ET",
   "date_label": "August 14, 2026",
   "games": [
     {
@@ -138,7 +138,7 @@
       "time": "7:10",
       "away": "Baltimore Orioles",
       "home": "Tampa Bay Rays",
-      "away_starter": "Kyle Bradish",
+      "away_starter": "Chris Bassitt",
       "home_starter": "Steven Matz",
       "park": "Tropicana Field",
       "park_factor": "-6%",
