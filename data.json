@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-14T18:12:41.382180+00:00",
-  "scraped_at_display": "Scraped August 14, 2026 \u00b7 2:12 PM ET",
+  "scraped_at": "2026-08-14T19:25:44.368706+00:00",
+  "scraped_at_display": "Scraped August 14, 2026 \u00b7 3:25 PM ET",
   "date_label": "August 14, 2026",
   "games": [
     {
@@ -45,7 +45,7 @@
       "away_win_pct": 44.8,
       "home_win_pct": 55.2,
       "away_ml": 105,
-      "home_ml": -111,
+      "home_ml": -112,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -59,12 +59,12 @@
       "park": "PNC Park",
       "park_factor": "+1%",
       "park_factor_class": "neut",
-      "yrfi": 44.2,
-      "away_proj": 4.21,
-      "home_proj": 3.71,
-      "model_total": 7.92,
-      "away_win_pct": 51.6,
-      "home_win_pct": 48.4,
+      "yrfi": 43.2,
+      "away_proj": 4.23,
+      "home_proj": 3.6,
+      "model_total": 7.83,
+      "away_win_pct": 54.2,
+      "home_win_pct": 45.8,
       "away_ml": -116,
       "home_ml": 112,
       "ou_line": 7.5,
@@ -151,7 +151,7 @@
       "home_win_pct": 50.0,
       "away_ml": 150,
       "home_ml": -154,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -191,7 +191,7 @@
       "model_total": 8.27,
       "away_win_pct": 47.9,
       "home_win_pct": 52.1,
-      "away_ml": 173,
+      "away_ml": 175,
       "home_ml": -184,
       "ou_line": 7.5,
       "best_bet": false
@@ -246,7 +246,7 @@
       "away_starter": "Kumar Rocker",
       "home_starter": "Gage Jump",
       "park": "Sutter Health Park",
-      "park_factor": "+20%",
+      "park_factor": "+21%",
       "park_factor_class": "pos",
       "yrfi": 54.6,
       "away_proj": 5.07,
@@ -296,7 +296,7 @@
       "model_total": 7.56,
       "away_win_pct": 42.5,
       "home_win_pct": 57.5,
-      "away_ml": 118,
+      "away_ml": 116,
       "home_ml": -124,
       "ou_line": 7.5,
       "best_bet": false
