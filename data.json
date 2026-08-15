@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15T21:42:24.059148+00:00",
-  "scraped_at_display": "Scraped August 15, 2026 \u00b7 5:42 PM ET",
+  "scraped_at": "2026-08-15T22:11:48.777332+00:00",
+  "scraped_at_display": "Scraped August 15, 2026 \u00b7 6:11 PM ET",
   "date_label": "August 15, 2026",
   "games": [
     {
@@ -129,7 +129,7 @@
       "away_win_pct": 42.0,
       "home_win_pct": 58.0,
       "away_ml": 140,
-      "home_ml": -140,
+      "home_ml": -141,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -170,8 +170,8 @@
       "model_total": 9.05,
       "away_win_pct": 48.1,
       "home_win_pct": 51.9,
-      "away_ml": 110,
-      "home_ml": -118,
+      "away_ml": 111,
+      "home_ml": -119,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -234,7 +234,7 @@
       "away_win_pct": 59.8,
       "home_win_pct": 40.2,
       "away_ml": -119,
-      "home_ml": 116,
+      "home_ml": 115,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -290,16 +290,20 @@
       "park": "Angel Stadium",
       "park_factor": "-1%",
       "park_factor_class": "neut",
-      "yrfi": 49.4,
-      "away_proj": 4.13,
-      "home_proj": 4.82,
-      "model_total": 8.95,
+      "yrfi": 48.7,
+      "away_proj": 4.16,
+      "home_proj": 4.89,
+      "model_total": 9.05,
       "away_win_pct": 40.8,
       "home_win_pct": 59.2,
       "away_ml": 140,
       "home_ml": -146,
       "ou_line": 7.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Kansas City Royals @ Los Angeles Angels 7.5",
+      "best_bet_edge": 1.55
     },
     {
       "gamepk": "824966",
@@ -348,6 +352,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER St. Louis Cardinals @ Chicago Cubs 8.5",
       "best_bet_edge": 1.67
+    },
+    {
+      "gamepk": "823990",
+      "time": "9:38",
+      "away": "Kansas City Royals",
+      "home": "Los Angeles Angels",
+      "away_starter": "Randy Dobnak",
+      "home_starter": "Reid Detmers",
+      "park": "Angel Stadium",
+      "park_factor": "-1%",
+      "park_factor_class": "neut",
+      "yrfi": 48.7,
+      "away_proj": 4.16,
+      "home_proj": 4.89,
+      "model_total": 9.05,
+      "away_win_pct": 40.8,
+      "home_win_pct": 59.2,
+      "away_ml": 140,
+      "home_ml": -146,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Kansas City Royals @ Los Angeles Angels 7.5",
+      "best_bet_edge": 1.55
     }
   ]
 }
