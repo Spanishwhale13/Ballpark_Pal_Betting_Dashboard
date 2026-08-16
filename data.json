@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-16T22:12:34.551752+00:00",
-  "scraped_at_display": "Scraped August 16, 2026 \u00b7 6:12 PM ET",
+  "scraped_at": "2026-08-16T22:43:52.766995+00:00",
+  "scraped_at_display": "Scraped August 16, 2026 \u00b7 6:43 PM ET",
   "date_label": "August 16, 2026",
   "games": [
     {
@@ -309,7 +309,7 @@
       "away_starter": "Bryan Woo",
       "home_starter": "Hunter Brown",
       "park": "Daikin Park",
-      "park_factor": "-5%",
+      "park_factor": "-4%",
       "park_factor_class": "neg",
       "yrfi": 50.1,
       "away_proj": 4.17,
@@ -317,8 +317,8 @@
       "model_total": 8.41,
       "away_win_pct": 47.0,
       "home_win_pct": 53.0,
-      "away_ml": 114,
-      "home_ml": -118,
+      "away_ml": 116,
+      "home_ml": -119,
       "ou_line": 7.5,
       "best_bet": false
     }
