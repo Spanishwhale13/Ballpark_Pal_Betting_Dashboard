@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-16T21:12:11.667981+00:00",
-  "scraped_at_display": "Scraped August 16, 2026 \u00b7 5:12 PM ET",
+  "scraped_at": "2026-08-16T21:41:14.530922+00:00",
+  "scraped_at_display": "Scraped August 16, 2026 \u00b7 5:41 PM ET",
   "date_label": "August 16, 2026",
   "games": [
     {
@@ -311,12 +311,12 @@
       "park": "Daikin Park",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 48.1,
-      "away_proj": 4.26,
-      "home_proj": 4.17,
-      "model_total": 8.43,
-      "away_win_pct": 48.7,
-      "home_win_pct": 51.3,
+      "yrfi": 50.1,
+      "away_proj": 4.17,
+      "home_proj": 4.24,
+      "model_total": 8.41,
+      "away_win_pct": 47.0,
+      "home_win_pct": 53.0,
       "away_ml": 113,
       "home_ml": -118,
       "ou_line": 7.5,
