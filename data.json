@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-16T16:47:39.949353+00:00",
-  "scraped_at_display": "Scraped August 16, 2026 \u00b7 12:47 PM ET",
+  "scraped_at": "2026-08-16T17:12:09.493481+00:00",
+  "scraped_at_display": "Scraped August 16, 2026 \u00b7 1:12 PM ET",
   "date_label": "August 16, 2026",
   "games": [
     {
@@ -40,8 +40,8 @@
       "model_total": 8.38,
       "away_win_pct": 46.0,
       "home_win_pct": 54.0,
-      "away_ml": -109,
-      "home_ml": 103,
+      "away_ml": -105,
+      "home_ml": 102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -62,7 +62,7 @@
       "away_win_pct": 53.8,
       "home_win_pct": 46.2,
       "away_ml": 115,
-      "home_ml": -122,
+      "home_ml": -120,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -145,7 +145,7 @@
       "model_total": 8.73,
       "away_win_pct": 54.9,
       "home_win_pct": 45.1,
-      "away_ml": -117,
+      "away_ml": -118,
       "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
@@ -209,7 +209,7 @@
       "away_win_pct": 46.7,
       "home_win_pct": 53.3,
       "away_ml": 163,
-      "home_ml": -172,
+      "home_ml": -173,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -252,13 +252,13 @@
       "park": "Oracle Park",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 46.8,
-      "away_proj": 4.17,
-      "home_proj": 4.05,
-      "model_total": 8.22,
+      "yrfi": 47.7,
+      "away_proj": 3.95,
+      "home_proj": 3.79,
+      "model_total": 7.74,
       "away_win_pct": 48.2,
       "home_win_pct": 51.8,
-      "away_ml": 118,
+      "away_ml": 117,
       "home_ml": -124,
       "ou_line": 7.5,
       "best_bet": false
@@ -280,7 +280,7 @@
       "away_win_pct": 48.7,
       "home_win_pct": 51.3,
       "away_ml": -108,
-      "home_ml": 104,
+      "home_ml": 102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -345,7 +345,7 @@
       "away_win_pct": 46.7,
       "home_win_pct": 53.3,
       "away_ml": 163,
-      "home_ml": -172,
+      "home_ml": -173,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
