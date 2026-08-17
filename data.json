@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T15:46:57.870247+00:00",
-  "scraped_at_display": "Scraped August 17, 2026 \u00b7 11:46 AM ET",
+  "scraped_at": "2026-08-17T16:17:02.809155+00:00",
+  "scraped_at_display": "Scraped August 17, 2026 \u00b7 12:17 PM ET",
   "date_label": "August 17, 2026",
   "games": [
     {
@@ -13,14 +13,14 @@
       "park": "Great American Ball Park",
       "park_factor": "+15%",
       "park_factor_class": "pos",
-      "yrfi": 54.0,
-      "away_proj": 4.93,
-      "home_proj": 5.04,
-      "model_total": 9.97,
-      "away_win_pct": 46.3,
-      "home_win_pct": 53.7,
-      "away_ml": -108,
-      "home_ml": 101,
+      "yrfi": 53.7,
+      "away_proj": 4.82,
+      "home_proj": 5.11,
+      "model_total": 9.93,
+      "away_win_pct": 44.2,
+      "home_win_pct": 55.8,
+      "away_ml": -109,
+      "home_ml": 102,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -61,7 +61,7 @@
       "model_total": 9.16,
       "away_win_pct": 36.4,
       "home_win_pct": 63.6,
-      "away_ml": 228,
+      "away_ml": 225,
       "home_ml": -242,
       "ou_line": 8.5,
       "best_bet": false
@@ -104,7 +104,7 @@
       "away_win_pct": 43.6,
       "home_win_pct": 56.4,
       "away_ml": -105,
-      "home_ml": 101,
+      "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -125,7 +125,7 @@
       "away_win_pct": 48.6,
       "home_win_pct": 51.4,
       "away_ml": 111,
-      "home_ml": -116,
+      "home_ml": -119,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -145,7 +145,7 @@
       "model_total": 9.06,
       "away_win_pct": 44.2,
       "home_win_pct": 55.8,
-      "away_ml": 130,
+      "away_ml": 125,
       "home_ml": -130,
       "ou_line": 8.5,
       "best_bet": false
@@ -166,7 +166,7 @@
       "model_total": 10.42,
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
-      "away_ml": -121,
+      "away_ml": -122,
       "home_ml": 116,
       "ou_line": 9.5,
       "best_bet": false
@@ -188,7 +188,7 @@
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
       "away_ml": 165,
-      "home_ml": -174,
+      "home_ml": -177,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -233,7 +233,7 @@
       "model_total": 11.23,
       "away_win_pct": 67.3,
       "home_win_pct": 32.7,
-      "away_ml": -258,
+      "away_ml": -250,
       "home_ml": 239,
       "ou_line": 10.5,
       "best_bet": false
@@ -257,7 +257,7 @@
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
       "away_ml": 165,
-      "home_ml": -174,
+      "home_ml": -177,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
