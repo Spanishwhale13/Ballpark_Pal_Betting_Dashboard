@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T13:32:55.965641+00:00",
-  "scraped_at_display": "Scraped August 17, 2026 \u00b7 9:32 AM ET",
+  "scraped_at": "2026-08-17T14:19:16.933794+00:00",
+  "scraped_at_display": "Scraped August 17, 2026 \u00b7 10:19 AM ET",
   "date_label": "August 17, 2026",
   "games": [
     {
@@ -9,7 +9,7 @@
       "away": "St. Louis Cardinals",
       "home": "Cincinnati Reds",
       "away_starter": "Quinn Mathews",
-      "home_starter": "Chase Petty",
+      "home_starter": "Kent Emanuel",
       "park": "Great American Ball Park",
       "park_factor": "+15%",
       "park_factor_class": "pos",
@@ -19,7 +19,7 @@
       "model_total": 10.33,
       "away_win_pct": 48.2,
       "home_win_pct": 51.8,
-      "away_ml": -113,
+      "away_ml": -109,
       "home_ml": 106,
       "ou_line": 9.5,
       "best_bet": false
@@ -62,7 +62,7 @@
       "away_win_pct": 36.4,
       "home_win_pct": 63.6,
       "away_ml": 227,
-      "home_ml": -240,
+      "home_ml": -235,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -82,8 +82,8 @@
       "model_total": 10.28,
       "away_win_pct": 43.9,
       "home_win_pct": 56.1,
-      "away_ml": -119,
-      "home_ml": 114,
+      "away_ml": -116,
+      "home_ml": 111,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -103,7 +103,7 @@
       "model_total": 9.16,
       "away_win_pct": 43.6,
       "home_win_pct": 56.4,
-      "away_ml": -104,
+      "away_ml": -108,
       "home_ml": 102,
       "ou_line": 8.5,
       "best_bet": false
@@ -124,7 +124,7 @@
       "model_total": 7.97,
       "away_win_pct": 48.6,
       "home_win_pct": 51.4,
-      "away_ml": 108,
+      "away_ml": 109,
       "home_ml": -114,
       "ou_line": 8.5,
       "best_bet": false
@@ -213,7 +213,7 @@
       "away_win_pct": 38.6,
       "home_win_pct": 61.4,
       "away_ml": 150,
-      "home_ml": -160,
+      "home_ml": -157,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -234,7 +234,7 @@
       "away_win_pct": 67.3,
       "home_win_pct": 32.7,
       "away_ml": -254,
-      "home_ml": 240,
+      "home_ml": 239,
       "ou_line": 10.5,
       "best_bet": false
     }
