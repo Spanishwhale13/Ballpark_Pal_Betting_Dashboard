@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T23:14:45.003363+00:00",
-  "scraped_at_display": "Scraped August 17, 2026 \u00b7 7:14 PM ET",
+  "scraped_at": "2026-08-17T23:43:37.531539+00:00",
+  "scraped_at_display": "Scraped August 17, 2026 \u00b7 7:43 PM ET",
   "date_label": "August 17, 2026",
   "games": [
     {
@@ -139,12 +139,12 @@
       "park": "Fenway Park",
       "park_factor": "+0%",
       "park_factor_class": "neut",
-      "yrfi": 49.8,
-      "away_proj": 4.31,
-      "home_proj": 4.68,
-      "model_total": 8.99,
-      "away_win_pct": 44.4,
-      "home_win_pct": 55.6,
+      "yrfi": 48.2,
+      "away_proj": 3.97,
+      "home_proj": 4.75,
+      "model_total": 8.72,
+      "away_win_pct": 39.6,
+      "home_win_pct": 60.4,
       "away_ml": 121,
       "home_ml": -128,
       "ou_line": 8.5,
@@ -166,7 +166,7 @@
       "model_total": 10.53,
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
-      "away_ml": -127,
+      "away_ml": -126,
       "home_ml": 123,
       "ou_line": 9.5,
       "best_bet": false
@@ -187,14 +187,10 @@
       "model_total": 9.32,
       "away_win_pct": 38.2,
       "home_win_pct": 61.8,
-      "away_ml": 168,
-      "home_ml": -180,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Kansas City Royals 7.5",
-      "best_bet_edge": 1.82
+      "away_ml": 166,
+      "home_ml": -177,
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "824641",
@@ -213,7 +209,7 @@
       "away_win_pct": 40.5,
       "home_win_pct": 59.5,
       "away_ml": 145,
-      "home_ml": -150,
+      "home_ml": -152,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -234,36 +230,10 @@
       "away_win_pct": 67.1,
       "home_win_pct": 32.9,
       "away_ml": -257,
-      "home_ml": 245,
+      "home_ml": 260,
       "ou_line": 10.5,
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "824077",
-      "time": "7:40",
-      "away": "Oakland Athletics",
-      "home": "Kansas City Royals",
-      "away_starter": "Mason Barnett",
-      "home_starter": "Michael Wacha",
-      "park": "Kauffman Stadium",
-      "park_factor": "+1%",
-      "park_factor_class": "neut",
-      "yrfi": 51.6,
-      "away_proj": 4.18,
-      "home_proj": 5.14,
-      "model_total": 9.32,
-      "away_win_pct": 38.2,
-      "home_win_pct": 61.8,
-      "away_ml": 168,
-      "home_ml": -180,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Kansas City Royals 7.5",
-      "best_bet_edge": 1.82
-    }
-  ]
+  "best_bets": []
 }
