@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T18:24:47.664631+00:00",
-  "scraped_at_display": "Scraped August 18, 2026 \u00b7 2:24 PM ET",
+  "scraped_at": "2026-08-18T19:05:15.603839+00:00",
+  "scraped_at_display": "Scraped August 18, 2026 \u00b7 3:05 PM ET",
   "date_label": "August 18, 2026",
   "games": [
     {
@@ -34,12 +34,12 @@
       "park": "Progressive Field",
       "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 52.7,
-      "away_proj": 3.54,
-      "home_proj": 5.3,
-      "model_total": 8.84,
-      "away_win_pct": 29.8,
-      "home_win_pct": 70.2,
+      "yrfi": 50.7,
+      "away_proj": 3.41,
+      "home_proj": 5.29,
+      "model_total": 8.7,
+      "away_win_pct": 28.9,
+      "home_win_pct": 71.1,
       "away_ml": 170,
       "home_ml": -182,
       "ou_line": 8.5,
@@ -146,7 +146,7 @@
       "away_win_pct": 51.0,
       "home_win_pct": 49.0,
       "away_ml": -109,
-      "home_ml": 108,
+      "home_ml": 105,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -191,7 +191,7 @@
       "model_total": 9.56,
       "away_win_pct": 55.2,
       "home_win_pct": 44.8,
-      "away_ml": -120,
+      "away_ml": -121,
       "home_ml": 116,
       "ou_line": 8.5,
       "best_bet": false
@@ -233,7 +233,7 @@
       "model_total": 10.27,
       "away_win_pct": 43.1,
       "home_win_pct": 56.9,
-      "away_ml": 145,
+      "away_ml": 149,
       "home_ml": -152,
       "ou_line": 9.5,
       "best_bet": false
@@ -255,7 +255,7 @@
       "away_win_pct": 35.1,
       "home_win_pct": 64.9,
       "away_ml": 138,
-      "home_ml": -143,
+      "home_ml": -147,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -317,7 +317,7 @@
       "model_total": 12.64,
       "away_win_pct": 61.7,
       "home_win_pct": 38.3,
-      "away_ml": -182,
+      "away_ml": -181,
       "home_ml": 172,
       "ou_line": 11.5,
       "best_bet": false
