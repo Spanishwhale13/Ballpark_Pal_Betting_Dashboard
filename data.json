@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T17:19:36.963203+00:00",
-  "scraped_at_display": "Scraped August 18, 2026 \u00b7 1:19 PM ET",
+  "scraped_at": "2026-08-18T17:51:08.707555+00:00",
+  "scraped_at_display": "Scraped August 18, 2026 \u00b7 1:51 PM ET",
   "date_label": "August 18, 2026",
   "games": [
     {
@@ -20,7 +20,7 @@
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
       "away_ml": -108,
-      "home_ml": 105,
+      "home_ml": 102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -40,7 +40,7 @@
       "model_total": 8.84,
       "away_win_pct": 29.8,
       "home_win_pct": 70.2,
-      "away_ml": 175,
+      "away_ml": 170,
       "home_ml": -182,
       "ou_line": 8.5,
       "best_bet": false
@@ -145,8 +145,8 @@
       "model_total": 8.66,
       "away_win_pct": 51.0,
       "home_win_pct": 49.0,
-      "away_ml": -106,
-      "home_ml": 105,
+      "away_ml": -109,
+      "home_ml": 108,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -170,7 +170,7 @@
       "home_ml": -157,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Arizona Diamondbacks @ Boston Red Sox 7.5",
       "best_bet_edge": 1.69
@@ -191,8 +191,8 @@
       "model_total": 9.56,
       "away_win_pct": 55.2,
       "home_win_pct": 44.8,
-      "away_ml": -119,
-      "home_ml": 112,
+      "away_ml": -120,
+      "home_ml": 116,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -277,12 +277,8 @@
       "home_win_pct": 56.3,
       "away_ml": 158,
       "home_ml": -168,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Chicago White Sox @ Chicago Cubs 8.5",
-      "best_bet_edge": 1.73
+      "ou_line": 9.5,
+      "best_bet": false
     },
     {
       "gamepk": "824154",
@@ -348,35 +344,10 @@
       "home_ml": -157,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Arizona Diamondbacks @ Boston Red Sox 7.5",
       "best_bet_edge": 1.69
-    },
-    {
-      "gamepk": "824639",
-      "time": "8:05",
-      "away": "Chicago White Sox",
-      "home": "Chicago Cubs",
-      "away_starter": "Bryan Hudson",
-      "home_starter": "Kevin Gausman",
-      "park": "Wrigley Field",
-      "park_factor": "+5%",
-      "park_factor_class": "pos",
-      "yrfi": 56.2,
-      "away_proj": 4.89,
-      "home_proj": 5.34,
-      "model_total": 10.23,
-      "away_win_pct": 43.7,
-      "home_win_pct": 56.3,
-      "away_ml": 158,
-      "home_ml": -168,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Chicago White Sox @ Chicago Cubs 8.5",
-      "best_bet_edge": 1.73
     }
   ]
 }
