@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T22:13:39.616966+00:00",
-  "scraped_at_display": "Scraped August 18, 2026 \u00b7 6:13 PM ET",
+  "scraped_at": "2026-08-18T22:47:19.752530+00:00",
+  "scraped_at_display": "Scraped August 18, 2026 \u00b7 6:47 PM ET",
   "date_label": "August 18, 2026",
   "games": [
     {
@@ -62,10 +62,10 @@
       "away_win_pct": 55.8,
       "home_win_pct": 44.2,
       "away_ml": -112,
-      "home_ml": 105,
+      "home_ml": 106,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER St. Louis Cardinals @ Cincinnati Reds 8.5",
       "best_bet_edge": 1.6
@@ -86,7 +86,7 @@
       "model_total": 8.45,
       "away_win_pct": 44.1,
       "home_win_pct": 55.9,
-      "away_ml": 123,
+      "away_ml": 122,
       "home_ml": -126,
       "ou_line": 7.5,
       "best_bet": false
@@ -107,7 +107,7 @@
       "model_total": 7.89,
       "away_win_pct": 38.2,
       "home_win_pct": 61.8,
-      "away_ml": 143,
+      "away_ml": 142,
       "home_ml": -150,
       "ou_line": 7.5,
       "best_bet": false
@@ -149,8 +149,8 @@
       "model_total": 8.53,
       "away_win_pct": 49.4,
       "home_win_pct": 50.6,
-      "away_ml": -110,
-      "home_ml": 106,
+      "away_ml": -112,
+      "home_ml": 105,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -174,7 +174,7 @@
       "home_ml": -159,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Arizona Diamondbacks @ Boston Red Sox 7.5",
       "best_bet_edge": 1.51
@@ -196,7 +196,7 @@
       "away_win_pct": 57.2,
       "home_win_pct": 42.8,
       "away_ml": -136,
-      "home_ml": 130,
+      "home_ml": 133,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -217,7 +217,7 @@
       "away_win_pct": 46.2,
       "home_win_pct": 53.8,
       "away_ml": 156,
-      "home_ml": -164,
+      "home_ml": -165,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -239,12 +239,8 @@
       "home_win_pct": 59.7,
       "away_ml": 147,
       "home_ml": -155,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Kansas City Royals 8.5",
-      "best_bet_edge": 1.68
+      "ou_line": null,
+      "best_bet": false
     },
     {
       "gamepk": "822859",
@@ -262,8 +258,8 @@
       "model_total": 8.64,
       "away_win_pct": 33.8,
       "home_win_pct": 66.2,
-      "away_ml": 138,
-      "home_ml": -142,
+      "away_ml": 135,
+      "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -304,8 +300,8 @@
       "model_total": 8.76,
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
-      "away_ml": 148,
-      "home_ml": -156,
+      "away_ml": 152,
+      "home_ml": -157,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -325,7 +321,7 @@
       "model_total": 12.27,
       "away_win_pct": 65.9,
       "home_win_pct": 34.1,
-      "away_ml": -186,
+      "away_ml": -190,
       "home_ml": 180,
       "ou_line": 11.5,
       "best_bet": false
@@ -349,10 +345,10 @@
       "away_win_pct": 55.8,
       "home_win_pct": 44.2,
       "away_ml": -112,
-      "home_ml": 105,
+      "home_ml": 106,
       "ou_line": 8.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER St. Louis Cardinals @ Cincinnati Reds 8.5",
       "best_bet_edge": 1.6
@@ -377,35 +373,10 @@
       "home_ml": -159,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 3,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Arizona Diamondbacks @ Boston Red Sox 7.5",
       "best_bet_edge": 1.51
-    },
-    {
-      "gamepk": "824075",
-      "time": "7:40",
-      "away": "Oakland Athletics",
-      "home": "Kansas City Royals",
-      "away_starter": "Brady Basso",
-      "home_starter": "Daniel Lynch",
-      "park": "Kauffman Stadium",
-      "park_factor": "+9%",
-      "park_factor_class": "pos",
-      "yrfi": 47.7,
-      "away_proj": 4.77,
-      "home_proj": 5.41,
-      "model_total": 10.18,
-      "away_win_pct": 40.3,
-      "home_win_pct": 59.7,
-      "away_ml": 147,
-      "home_ml": -155,
-      "ou_line": 8.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Oakland Athletics @ Kansas City Royals 8.5",
-      "best_bet_edge": 1.68
     }
   ]
 }
