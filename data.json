@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T15:33:54.371853+00:00",
-  "scraped_at_display": "Scraped August 18, 2026 \u00b7 11:33 AM ET",
+  "scraped_at": "2026-08-18T16:21:03.472625+00:00",
+  "scraped_at_display": "Scraped August 18, 2026 \u00b7 12:21 PM ET",
   "date_label": "August 18, 2026",
   "games": [
     {
@@ -19,7 +19,7 @@
       "model_total": 9.09,
       "away_win_pct": 47.3,
       "home_win_pct": 52.7,
-      "away_ml": -106,
+      "away_ml": -108,
       "home_ml": 105,
       "ou_line": 8.5,
       "best_bet": false
@@ -82,7 +82,7 @@
       "model_total": 8.4,
       "away_win_pct": 44.8,
       "home_win_pct": 55.2,
-      "away_ml": 123,
+      "away_ml": 120,
       "home_ml": -126,
       "ou_line": 7.5,
       "best_bet": false
@@ -124,7 +124,7 @@
       "model_total": 9.89,
       "away_win_pct": 32.7,
       "home_win_pct": 67.3,
-      "away_ml": 198,
+      "away_ml": 195,
       "home_ml": -210,
       "ou_line": 8.5,
       "best_bet": false
@@ -145,8 +145,8 @@
       "model_total": 8.66,
       "away_win_pct": 51.0,
       "home_win_pct": 49.0,
-      "away_ml": -109,
-      "home_ml": 104,
+      "away_ml": -106,
+      "home_ml": 102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -168,8 +168,12 @@
       "home_win_pct": 59.3,
       "away_ml": 153,
       "home_ml": -160,
-      "ou_line": 8.5,
-      "best_bet": false
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Arizona Diamondbacks @ Boston Red Sox 7.5",
+      "best_bet_edge": 1.69
     },
     {
       "gamepk": "823667",
@@ -208,7 +212,7 @@
       "model_total": 8.21,
       "away_win_pct": 44.5,
       "home_win_pct": 55.5,
-      "away_ml": 163,
+      "away_ml": 162,
       "home_ml": -145,
       "ou_line": 7.5,
       "best_bet": false
@@ -230,7 +234,7 @@
       "away_win_pct": 43.1,
       "home_win_pct": 56.9,
       "away_ml": 145,
-      "home_ml": -153,
+      "home_ml": -150,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -250,9 +254,9 @@
       "model_total": 8.52,
       "away_win_pct": 35.1,
       "home_win_pct": 64.9,
-      "away_ml": 143,
+      "away_ml": 140,
       "home_ml": -146,
-      "ou_line": 8.5,
+      "ou_line": 7.5,
       "best_bet": false
     },
     {
@@ -296,7 +300,7 @@
       "model_total": 8.71,
       "away_win_pct": 39.9,
       "home_win_pct": 60.1,
-      "away_ml": 151,
+      "away_ml": 148,
       "home_ml": -156,
       "ou_line": 9.5,
       "best_bet": false
@@ -317,13 +321,38 @@
       "model_total": 12.64,
       "away_win_pct": 61.7,
       "home_win_pct": 38.3,
-      "away_ml": -180,
+      "away_ml": -181,
       "home_ml": 172,
       "ou_line": 11.5,
       "best_bet": false
     }
   ],
   "best_bets": [
+    {
+      "gamepk": "824723",
+      "time": "7:10",
+      "away": "Arizona Diamondbacks",
+      "home": "Boston Red Sox",
+      "away_starter": "Merrill Kelly",
+      "home_starter": "Ranger Suarez",
+      "park": "Fenway Park",
+      "park_factor": "-4%",
+      "park_factor_class": "neg",
+      "yrfi": 53.3,
+      "away_proj": 4.22,
+      "home_proj": 4.97,
+      "model_total": 9.19,
+      "away_win_pct": 40.7,
+      "home_win_pct": 59.3,
+      "away_ml": 153,
+      "home_ml": -160,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Arizona Diamondbacks @ Boston Red Sox 7.5",
+      "best_bet_edge": 1.69
+    },
     {
       "gamepk": "824639",
       "time": "8:05",
