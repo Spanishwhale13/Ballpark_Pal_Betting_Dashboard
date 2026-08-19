@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T13:37:13.257553+00:00",
-  "scraped_at_display": "Scraped August 19, 2026 \u00b7 9:37 AM ET",
+  "scraped_at": "2026-08-19T14:24:15.811232+00:00",
+  "scraped_at_display": "Scraped August 19, 2026 \u00b7 10:24 AM ET",
   "date_label": "August 19, 2026",
   "games": [
     {
@@ -13,12 +13,12 @@
       "park": "PNC Park",
       "park_factor": "+5%",
       "park_factor_class": "pos",
-      "yrfi": 54.5,
-      "away_proj": 4.54,
-      "home_proj": 4.8,
-      "model_total": 9.34,
-      "away_win_pct": 44.9,
-      "home_win_pct": 55.1,
+      "yrfi": 52.1,
+      "away_proj": 4.34,
+      "home_proj": 4.74,
+      "model_total": 9.08,
+      "away_win_pct": 42.5,
+      "home_win_pct": 57.5,
       "away_ml": 143,
       "home_ml": -153,
       "ou_line": 7.5,
@@ -26,7 +26,7 @@
       "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Detroit Tigers @ Pittsburgh Pirates 7.5",
-      "best_bet_edge": 1.84
+      "best_bet_edge": 1.58
     },
     {
       "gamepk": "823587",
@@ -44,7 +44,7 @@
       "model_total": 9.23,
       "away_win_pct": 55.4,
       "home_win_pct": 44.6,
-      "away_ml": -131,
+      "away_ml": -132,
       "home_ml": 126,
       "ou_line": 8.5,
       "best_bet": false
@@ -66,7 +66,7 @@
       "away_win_pct": 45.4,
       "home_win_pct": 54.6,
       "away_ml": -104,
-      "home_ml": 103,
+      "home_ml": 102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -86,8 +86,8 @@
       "model_total": 8.31,
       "away_win_pct": 43.1,
       "home_win_pct": 56.9,
-      "away_ml": 130,
-      "home_ml": -137,
+      "away_ml": 131,
+      "home_ml": -140,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -108,7 +108,7 @@
       "away_win_pct": 48.8,
       "home_win_pct": 51.2,
       "away_ml": 150,
-      "home_ml": -145,
+      "home_ml": -157,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -174,8 +174,8 @@
       "model_total": 7.97,
       "away_win_pct": 24.6,
       "home_win_pct": 75.4,
-      "away_ml": 193,
-      "home_ml": -194,
+      "away_ml": 200,
+      "home_ml": -210,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -195,7 +195,7 @@
       "model_total": 9.1,
       "away_win_pct": 36.6,
       "home_win_pct": 63.4,
-      "away_ml": 135,
+      "away_ml": 138,
       "home_ml": -141,
       "ou_line": 8.5,
       "best_bet": false
@@ -216,8 +216,8 @@
       "model_total": 7.8,
       "away_win_pct": 38.7,
       "home_win_pct": 61.3,
-      "away_ml": 189,
-      "home_ml": -198,
+      "away_ml": 185,
+      "home_ml": -194,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -237,7 +237,7 @@
       "model_total": 7.13,
       "away_win_pct": 54.0,
       "home_win_pct": 46.0,
-      "away_ml": 113,
+      "away_ml": 112,
       "home_ml": -118,
       "ou_line": 7.5,
       "best_bet": false
@@ -258,8 +258,8 @@
       "model_total": 9.55,
       "away_win_pct": 42.4,
       "home_win_pct": 57.6,
-      "away_ml": 130,
-      "home_ml": -127,
+      "away_ml": 132,
+      "home_ml": -140,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -279,7 +279,7 @@
       "model_total": 7.75,
       "away_win_pct": 46.8,
       "home_win_pct": 53.2,
-      "away_ml": 121,
+      "away_ml": 120,
       "home_ml": -128,
       "ou_line": 7.5,
       "best_bet": false
@@ -338,12 +338,12 @@
       "park": "PNC Park",
       "park_factor": "+5%",
       "park_factor_class": "pos",
-      "yrfi": 54.5,
-      "away_proj": 4.54,
-      "home_proj": 4.8,
-      "model_total": 9.34,
-      "away_win_pct": 44.9,
-      "home_win_pct": 55.1,
+      "yrfi": 52.1,
+      "away_proj": 4.34,
+      "home_proj": 4.74,
+      "model_total": 9.08,
+      "away_win_pct": 42.5,
+      "home_win_pct": 57.5,
       "away_ml": 143,
       "home_ml": -153,
       "ou_line": 7.5,
@@ -351,7 +351,7 @@
       "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Detroit Tigers @ Pittsburgh Pirates 7.5",
-      "best_bet_edge": 1.84
+      "best_bet_edge": 1.58
     },
     {
       "gamepk": "824801",
