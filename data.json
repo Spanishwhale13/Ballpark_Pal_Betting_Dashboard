@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T21:47:50.165337+00:00",
-  "scraped_at_display": "Scraped August 19, 2026 \u00b7 5:47 PM ET",
+  "scraped_at": "2026-08-19T22:15:47.504196+00:00",
+  "scraped_at_display": "Scraped August 19, 2026 \u00b7 6:15 PM ET",
   "date_label": "August 19, 2026",
   "games": [
     {
@@ -124,8 +124,8 @@
       "model_total": 9.18,
       "away_win_pct": 47.6,
       "home_win_pct": 52.4,
-      "away_ml": 126,
-      "home_ml": -125,
+      "away_ml": 134,
+      "home_ml": -137,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -170,8 +170,8 @@
       "model_total": 7.68,
       "away_win_pct": 25.0,
       "home_win_pct": 75.0,
-      "away_ml": 198,
-      "home_ml": -208,
+      "away_ml": 202,
+      "home_ml": -215,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -213,7 +213,7 @@
       "away_win_pct": 34.8,
       "home_win_pct": 65.2,
       "away_ml": 183,
-      "home_ml": -192,
+      "home_ml": -193,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -234,7 +234,7 @@
       "away_win_pct": 54.7,
       "home_win_pct": 45.3,
       "away_ml": 115,
-      "home_ml": -119,
+      "home_ml": -122,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -311,14 +311,14 @@
       "park": "Coors Field",
       "park_factor": "+35%",
       "park_factor_class": "pos",
-      "yrfi": 60.0,
-      "away_proj": 6.36,
-      "home_proj": 5.12,
-      "model_total": 11.48,
-      "away_win_pct": 58.9,
-      "home_win_pct": 41.1,
+      "yrfi": 56.8,
+      "away_proj": 6.43,
+      "home_proj": 4.92,
+      "model_total": 11.35,
+      "away_win_pct": 61.0,
+      "home_win_pct": 39.0,
       "away_ml": -188,
-      "home_ml": 177,
+      "home_ml": 179,
       "ou_line": 11.5,
       "best_bet": false
     }
