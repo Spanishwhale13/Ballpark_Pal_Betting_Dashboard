@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T17:47:43.447069+00:00",
-  "scraped_at_display": "Scraped August 19, 2026 \u00b7 1:47 PM ET",
+  "scraped_at": "2026-08-19T18:21:05.246545+00:00",
+  "scraped_at_display": "Scraped August 19, 2026 \u00b7 2:21 PM ET",
   "date_label": "August 19, 2026",
   "games": [
     {
@@ -83,7 +83,7 @@
       "away_win_pct": 43.2,
       "home_win_pct": 56.8,
       "away_ml": 135,
-      "home_ml": -140,
+      "home_ml": -139,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -104,7 +104,7 @@
       "away_win_pct": 48.8,
       "home_win_pct": 51.2,
       "away_ml": 147,
-      "home_ml": -157,
+      "home_ml": -156,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -124,8 +124,8 @@
       "model_total": 9.47,
       "away_win_pct": 45.7,
       "home_win_pct": 54.3,
-      "away_ml": 115,
-      "home_ml": -123,
+      "away_ml": 125,
+      "home_ml": -128,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -145,7 +145,7 @@
       "model_total": 11.99,
       "away_win_pct": 46.2,
       "home_win_pct": 53.8,
-      "away_ml": -116,
+      "away_ml": -115,
       "home_ml": 110,
       "ou_line": 9.5,
       "best_bet": true,
@@ -162,7 +162,7 @@
       "away_starter": "Matt Wilkinson",
       "home_starter": "Parker Messick",
       "park": "Progressive Field",
-      "park_factor": "-4%",
+      "park_factor": "-3%",
       "park_factor_class": "neg",
       "yrfi": 47.8,
       "away_proj": 2.93,
@@ -233,7 +233,7 @@
       "model_total": 7.13,
       "away_win_pct": 54.0,
       "home_win_pct": 46.0,
-      "away_ml": 112,
+      "away_ml": 110,
       "home_ml": -118,
       "ou_line": 7.5,
       "best_bet": false
@@ -317,7 +317,7 @@
       "model_total": 11.54,
       "away_win_pct": 60.9,
       "home_win_pct": 39.1,
-      "away_ml": -190,
+      "away_ml": -188,
       "home_ml": 185,
       "ou_line": 11.5,
       "best_bet": false
@@ -340,7 +340,7 @@
       "model_total": 11.99,
       "away_win_pct": 46.2,
       "home_win_pct": 53.8,
-      "away_ml": -116,
+      "away_ml": -115,
       "home_ml": 110,
       "ou_line": 9.5,
       "best_bet": true,
