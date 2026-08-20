@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T14:27:06.422255+00:00",
-  "scraped_at_display": "Scraped August 20, 2026 \u00b7 10:27 AM ET",
+  "scraped_at": "2026-08-20T15:04:00.570828+00:00",
+  "scraped_at_display": "Scraped August 20, 2026 \u00b7 11:04 AM ET",
   "date_label": "August 20, 2026",
   "games": [
     {
@@ -19,7 +19,7 @@
       "model_total": 9.06,
       "away_win_pct": 44.2,
       "home_win_pct": 55.8,
-      "away_ml": -106,
+      "away_ml": -105,
       "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": false
@@ -34,14 +34,14 @@
       "park": "Progressive Field",
       "park_factor": "-3%",
       "park_factor_class": "neg",
-      "yrfi": 41.2,
-      "away_proj": 2.88,
-      "home_proj": 4.47,
-      "model_total": 7.35,
-      "away_win_pct": 30.4,
-      "home_win_pct": 69.6,
-      "away_ml": 181,
-      "home_ml": -182,
+      "yrfi": 42.0,
+      "away_proj": 2.97,
+      "home_proj": 4.24,
+      "model_total": 7.21,
+      "away_win_pct": 34.1,
+      "home_win_pct": 65.9,
+      "away_ml": 180,
+      "home_ml": -184,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -55,20 +55,20 @@
       "park": "Tropicana Field",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 52.3,
-      "away_proj": 4.29,
-      "home_proj": 4.8,
-      "model_total": 9.09,
-      "away_win_pct": 40.9,
-      "home_win_pct": 59.1,
+      "yrfi": 53.4,
+      "away_proj": 4.51,
+      "home_proj": 4.87,
+      "model_total": 9.38,
+      "away_win_pct": 43.5,
+      "home_win_pct": 56.5,
       "away_ml": 150,
-      "home_ml": -158,
+      "home_ml": -145,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Toronto Blue Jays @ Tampa Bay Rays 7.5",
-      "best_bet_edge": 1.59
+      "best_bet_edge": 1.88
     },
     {
       "gamepk": "823747",
@@ -129,7 +129,7 @@
       "away_win_pct": 52.7,
       "home_win_pct": 47.3,
       "away_ml": -105,
-      "home_ml": 101,
+      "home_ml": -102,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -192,7 +192,7 @@
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
       "away_ml": 164,
-      "home_ml": -173,
+      "home_ml": -174,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -208,20 +208,20 @@
       "park": "Tropicana Field",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 52.3,
-      "away_proj": 4.29,
-      "home_proj": 4.8,
-      "model_total": 9.09,
-      "away_win_pct": 40.9,
-      "home_win_pct": 59.1,
+      "yrfi": 53.4,
+      "away_proj": 4.51,
+      "home_proj": 4.87,
+      "model_total": 9.38,
+      "away_win_pct": 43.5,
+      "home_win_pct": 56.5,
       "away_ml": 150,
-      "home_ml": -158,
+      "home_ml": -145,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Toronto Blue Jays @ Tampa Bay Rays 7.5",
-      "best_bet_edge": 1.59
+      "best_bet_edge": 1.88
     }
   ]
 }
