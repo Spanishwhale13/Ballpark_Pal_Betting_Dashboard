@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T19:53:05.468396+00:00",
-  "scraped_at_display": "Scraped August 20, 2026 \u00b7 3:53 PM ET",
+  "scraped_at": "2026-08-20T20:18:50.768108+00:00",
+  "scraped_at_display": "Scraped August 20, 2026 \u00b7 4:18 PM ET",
   "date_label": "August 20, 2026",
   "games": [
     {
@@ -143,13 +143,13 @@
       "park": "Oriole Park at Camden Yards",
       "park_factor": "+4%",
       "park_factor_class": "pos",
-      "yrfi": 47.5,
-      "away_proj": 4.55,
-      "home_proj": 4.17,
-      "model_total": 8.72,
-      "away_win_pct": 51.4,
-      "home_win_pct": 48.6,
-      "away_ml": -104,
+      "yrfi": 48.2,
+      "away_proj": 4.53,
+      "home_proj": 4.1,
+      "model_total": 8.63,
+      "away_win_pct": 51.9,
+      "home_win_pct": 48.1,
+      "away_ml": -105,
       "home_ml": -102,
       "ou_line": 7.5,
       "best_bet": false
@@ -192,7 +192,7 @@
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
       "away_ml": 165,
-      "home_ml": -175,
+      "home_ml": -176,
       "ou_line": 8.5,
       "best_bet": false
     }
