@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T20:18:50.768108+00:00",
-  "scraped_at_display": "Scraped August 20, 2026 \u00b7 4:18 PM ET",
+  "scraped_at": "2026-08-20T20:53:30.613302+00:00",
+  "scraped_at_display": "Scraped August 20, 2026 \u00b7 4:53 PM ET",
   "date_label": "August 20, 2026",
   "games": [
     {
@@ -149,7 +149,7 @@
       "model_total": 8.63,
       "away_win_pct": 51.9,
       "home_win_pct": 48.1,
-      "away_ml": -105,
+      "away_ml": -104,
       "home_ml": -102,
       "ou_line": 7.5,
       "best_bet": false
@@ -164,13 +164,13 @@
       "park": "Globe Life Field",
       "park_factor": "-8%",
       "park_factor_class": "neg",
-      "yrfi": 42.2,
-      "away_proj": 3.26,
-      "home_proj": 4.32,
-      "model_total": 7.58,
-      "away_win_pct": 35.1,
-      "home_win_pct": 64.9,
-      "away_ml": 160,
+      "yrfi": 40.6,
+      "away_proj": 2.93,
+      "home_proj": 4.42,
+      "model_total": 7.35,
+      "away_win_pct": 30.4,
+      "home_win_pct": 69.6,
+      "away_ml": 162,
       "home_ml": -167,
       "ou_line": 7.5,
       "best_bet": false
