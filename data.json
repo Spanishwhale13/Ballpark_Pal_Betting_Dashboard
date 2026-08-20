@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T15:56:38.172878+00:00",
-  "scraped_at_display": "Scraped August 20, 2026 \u00b7 11:56 AM ET",
+  "scraped_at": "2026-08-20T16:29:29.180306+00:00",
+  "scraped_at_display": "Scraped August 20, 2026 \u00b7 12:29 PM ET",
   "date_label": "August 20, 2026",
   "games": [
     {
@@ -20,7 +20,7 @@
       "away_win_pct": 44.2,
       "home_win_pct": 55.8,
       "away_ml": -106,
-      "home_ml": 100,
+      "home_ml": 103,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -41,7 +41,7 @@
       "away_win_pct": 34.1,
       "home_win_pct": 65.9,
       "away_ml": 190,
-      "home_ml": -186,
+      "home_ml": -196,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -61,8 +61,8 @@
       "model_total": 9.38,
       "away_win_pct": 43.5,
       "home_win_pct": 56.5,
-      "away_ml": 150,
-      "home_ml": -160,
+      "away_ml": 148,
+      "home_ml": -157,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -87,7 +87,7 @@
       "away_win_pct": 51.7,
       "home_win_pct": 48.3,
       "away_ml": 120,
-      "home_ml": -124,
+      "home_ml": -121,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -99,7 +99,7 @@
       "away_starter": "Gage Jump",
       "home_starter": "Randy Dobnak",
       "park": "Kauffman Stadium",
-      "park_factor": "+1%",
+      "park_factor": "+0%",
       "park_factor_class": "neut",
       "yrfi": 52.4,
       "away_proj": 4.45,
@@ -149,8 +149,8 @@
       "model_total": 8.72,
       "away_win_pct": 51.4,
       "home_win_pct": 48.6,
-      "away_ml": -116,
-      "home_ml": 111,
+      "away_ml": -108,
+      "home_ml": 105,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -170,8 +170,8 @@
       "model_total": 7.58,
       "away_win_pct": 35.1,
       "home_win_pct": 64.9,
-      "away_ml": 152,
-      "home_ml": -157,
+      "away_ml": 158,
+      "home_ml": -158,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -192,7 +192,7 @@
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
       "away_ml": 165,
-      "home_ml": -176,
+      "home_ml": -177,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -214,8 +214,8 @@
       "model_total": 9.38,
       "away_win_pct": 43.5,
       "home_win_pct": 56.5,
-      "away_ml": 150,
-      "home_ml": -160,
+      "away_ml": 148,
+      "home_ml": -157,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
