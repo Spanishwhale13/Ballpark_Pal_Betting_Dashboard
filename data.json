@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21T16:25:01.927048+00:00",
-  "scraped_at_display": "Scraped August 21, 2026 \u00b7 12:25 PM ET",
+  "scraped_at": "2026-08-21T16:59:03.007484+00:00",
+  "scraped_at_display": "Scraped August 21, 2026 \u00b7 12:59 PM ET",
   "date_label": "August 21, 2026",
   "games": [
     {
@@ -20,7 +20,7 @@
       "away_win_pct": 39.2,
       "home_win_pct": 60.8,
       "away_ml": 127,
-      "home_ml": -135,
+      "home_ml": -130,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -40,8 +40,8 @@
       "model_total": 8.47,
       "away_win_pct": 30.1,
       "home_win_pct": 69.9,
-      "away_ml": 230,
-      "home_ml": -247,
+      "away_ml": 240,
+      "home_ml": -250,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -125,13 +125,9 @@
       "away_win_pct": 45.0,
       "home_win_pct": 55.0,
       "away_ml": 116,
-      "home_ml": -124,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Tampa Bay Rays @ Baltimore Orioles 7.5",
-      "best_bet_edge": 1.93
+      "home_ml": -119,
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "824559",
@@ -254,7 +250,7 @@
       "model_total": 8.66,
       "away_win_pct": 44.4,
       "home_win_pct": 55.6,
-      "away_ml": 113,
+      "away_ml": 108,
       "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": false
@@ -323,31 +319,5 @@
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "824800",
-      "time": "7:15",
-      "away": "Tampa Bay Rays",
-      "home": "Baltimore Orioles",
-      "away_starter": "Freddy Peralta",
-      "home_starter": "Trevor Rogers",
-      "park": "Oriole Park at Camden Yards",
-      "park_factor": "+3%",
-      "park_factor_class": "pos",
-      "yrfi": 50.4,
-      "away_proj": 4.55,
-      "home_proj": 4.88,
-      "model_total": 9.43,
-      "away_win_pct": 45.0,
-      "home_win_pct": 55.0,
-      "away_ml": 116,
-      "home_ml": -124,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Tampa Bay Rays @ Baltimore Orioles 7.5",
-      "best_bet_edge": 1.93
-    }
-  ]
+  "best_bets": []
 }
