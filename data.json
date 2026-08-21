@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21T21:45:54.800237+00:00",
-  "scraped_at_display": "Scraped August 21, 2026 \u00b7 5:45 PM ET",
+  "scraped_at": "2026-08-21T22:14:44.485624+00:00",
+  "scraped_at_display": "Scraped August 21, 2026 \u00b7 6:14 PM ET",
   "date_label": "August 21, 2026",
   "games": [
     {
@@ -41,7 +41,7 @@
       "away_win_pct": 30.2,
       "home_win_pct": 69.8,
       "away_ml": 240,
-      "home_ml": -245,
+      "home_ml": -246,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -61,8 +61,8 @@
       "model_total": 7.35,
       "away_win_pct": 39.5,
       "home_win_pct": 60.5,
-      "away_ml": 185,
-      "home_ml": -193,
+      "away_ml": 180,
+      "home_ml": -190,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -104,7 +104,7 @@
       "away_win_pct": 39.7,
       "home_win_pct": 60.3,
       "away_ml": 163,
-      "home_ml": -168,
+      "home_ml": -172,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -125,7 +125,7 @@
       "away_win_pct": 42.0,
       "home_win_pct": 58.0,
       "away_ml": 115,
-      "home_ml": -115,
+      "home_ml": -114,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 3,
@@ -149,8 +149,8 @@
       "model_total": 8.71,
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
-      "away_ml": 131,
-      "home_ml": -140,
+      "away_ml": 128,
+      "home_ml": -124,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -229,7 +229,7 @@
       "away_starter": "Joey Cantillo",
       "home_starter": "Tanner Gordon",
       "park": "Coors Field",
-      "park_factor": "+32%",
+      "park_factor": "+31%",
       "park_factor_class": "pos",
       "yrfi": 56.2,
       "away_proj": 5.81,
@@ -237,8 +237,8 @@
       "model_total": 10.72,
       "away_win_pct": 56.0,
       "home_win_pct": 44.0,
-      "away_ml": -146,
-      "home_ml": 143,
+      "away_ml": -145,
+      "home_ml": 140,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -258,7 +258,7 @@
       "model_total": 8.92,
       "away_win_pct": 44.1,
       "home_win_pct": 55.9,
-      "away_ml": 107,
+      "away_ml": 110,
       "home_ml": -115,
       "ou_line": 8.5,
       "best_bet": false
@@ -279,8 +279,8 @@
       "model_total": 8.71,
       "away_win_pct": 44.3,
       "home_win_pct": 55.7,
-      "away_ml": 132,
-      "home_ml": -140,
+      "away_ml": 135,
+      "home_ml": -141,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -349,7 +349,7 @@
       "away_win_pct": 42.0,
       "home_win_pct": 58.0,
       "away_ml": 115,
-      "home_ml": -115,
+      "home_ml": -114,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 3,
