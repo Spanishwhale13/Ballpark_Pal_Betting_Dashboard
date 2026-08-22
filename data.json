@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T17:43:01.114234+00:00",
-  "scraped_at_display": "Scraped August 22, 2026 \u00b7 1:43 PM ET",
+  "scraped_at": "2026-08-22T18:16:47.177207+00:00",
+  "scraped_at_display": "Scraped August 22, 2026 \u00b7 2:16 PM ET",
   "date_label": "August 22, 2026",
   "games": [
     {
@@ -41,7 +41,7 @@
       "away_win_pct": 35.1,
       "home_win_pct": 64.9,
       "away_ml": 147,
-      "home_ml": -155,
+      "home_ml": -148,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -53,7 +53,7 @@
       "away_starter": "Jake Irvin",
       "home_starter": "Eury Perez",
       "park": "LoanDepot Park",
-      "park_factor": "-6%",
+      "park_factor": "-5%",
       "park_factor_class": "neg",
       "yrfi": 41.6,
       "away_proj": 3.08,
@@ -83,7 +83,7 @@
       "away_win_pct": 40.0,
       "home_win_pct": 60.0,
       "away_ml": 138,
-      "home_ml": -143,
+      "home_ml": -144,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -170,8 +170,8 @@
       "model_total": 9.79,
       "away_win_pct": 50.1,
       "home_win_pct": 49.9,
-      "away_ml": 104,
-      "home_ml": -106,
+      "away_ml": 102,
+      "home_ml": -108,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -192,7 +192,7 @@
       "away_win_pct": 34.4,
       "home_win_pct": 65.6,
       "away_ml": 190,
-      "home_ml": -195,
+      "home_ml": -203,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -234,7 +234,7 @@
       "away_win_pct": 36.3,
       "home_win_pct": 63.7,
       "away_ml": 241,
-      "home_ml": -245,
+      "home_ml": -250,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -296,7 +296,7 @@
       "model_total": 8.75,
       "away_win_pct": 36.8,
       "home_win_pct": 63.2,
-      "away_ml": 157,
+      "away_ml": 162,
       "home_ml": -164,
       "ou_line": 8.5,
       "best_bet": false
@@ -318,7 +318,7 @@
       "away_win_pct": 41.6,
       "home_win_pct": 58.4,
       "away_ml": 126,
-      "home_ml": -133,
+      "home_ml": -134,
       "ou_line": 8.5,
       "best_bet": false
     }
