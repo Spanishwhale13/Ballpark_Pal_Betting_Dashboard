@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T20:45:37.075682+00:00",
-  "scraped_at_display": "Scraped August 22, 2026 \u00b7 4:45 PM ET",
+  "scraped_at": "2026-08-22T21:13:29.026814+00:00",
+  "scraped_at_display": "Scraped August 22, 2026 \u00b7 5:13 PM ET",
   "date_label": "August 22, 2026",
   "games": [
     {
@@ -105,12 +105,8 @@
       "home_win_pct": 46.2,
       "away_ml": -122,
       "home_ml": 116,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Tampa Bay Rays @ Baltimore Orioles 7.5",
-      "best_bet_edge": 2.16
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "822858",
@@ -149,7 +145,7 @@
       "model_total": 8.43,
       "away_win_pct": 36.0,
       "home_win_pct": 64.0,
-      "away_ml": 217,
+      "away_ml": 220,
       "home_ml": -235,
       "ou_line": 8.5,
       "best_bet": false
@@ -192,7 +188,7 @@
       "away_win_pct": 35.3,
       "home_win_pct": 64.7,
       "away_ml": 190,
-      "home_ml": -203,
+      "home_ml": -200,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -234,7 +230,7 @@
       "away_win_pct": 37.8,
       "home_win_pct": 62.2,
       "away_ml": 238,
-      "home_ml": -250,
+      "home_ml": -246,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -254,7 +250,7 @@
       "model_total": 9.73,
       "away_win_pct": 50.0,
       "home_win_pct": 50.0,
-      "away_ml": -103,
+      "away_ml": -104,
       "home_ml": -104,
       "ou_line": 8.5,
       "best_bet": false
@@ -269,12 +265,12 @@
       "park": "Coors Field",
       "park_factor": "+26%",
       "park_factor_class": "pos",
-      "yrfi": 55.2,
-      "away_proj": 5.67,
-      "home_proj": 4.82,
-      "model_total": 10.49,
-      "away_win_pct": 54.9,
-      "home_win_pct": 45.1,
+      "yrfi": 53.0,
+      "away_proj": 5.52,
+      "home_proj": 4.92,
+      "model_total": 10.44,
+      "away_win_pct": 54.6,
+      "home_win_pct": 45.4,
       "away_ml": -136,
       "home_ml": 130,
       "ou_line": 10.5,
@@ -297,7 +293,7 @@
       "away_win_pct": 36.8,
       "home_win_pct": 63.2,
       "away_ml": 163,
-      "home_ml": -170,
+      "home_ml": -171,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -323,31 +319,5 @@
       "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "824798",
-      "time": "7:05",
-      "away": "Tampa Bay Rays",
-      "home": "Baltimore Orioles",
-      "away_starter": "Shane McClanahan",
-      "home_starter": "Brandon Young",
-      "park": "Oriole Park at Camden Yards",
-      "park_factor": "+1%",
-      "park_factor_class": "neut",
-      "yrfi": 49.5,
-      "away_proj": 5.06,
-      "home_proj": 4.6,
-      "model_total": 9.66,
-      "away_win_pct": 53.8,
-      "home_win_pct": 46.2,
-      "away_ml": -122,
-      "home_ml": 116,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Tampa Bay Rays @ Baltimore Orioles 7.5",
-      "best_bet_edge": 2.16
-    }
-  ]
+  "best_bets": []
 }
