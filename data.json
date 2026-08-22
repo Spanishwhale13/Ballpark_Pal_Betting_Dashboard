@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T17:13:07.404357+00:00",
-  "scraped_at_display": "Scraped August 22, 2026 \u00b7 1:13 PM ET",
+  "scraped_at": "2026-08-22T17:43:01.114234+00:00",
+  "scraped_at_display": "Scraped August 22, 2026 \u00b7 1:43 PM ET",
   "date_label": "August 22, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 7.38,
       "away_win_pct": 52.9,
       "home_win_pct": 47.1,
-      "away_ml": -103,
-      "home_ml": -104,
+      "away_ml": -104,
+      "home_ml": -101,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -62,7 +62,7 @@
       "away_win_pct": 35.6,
       "home_win_pct": 64.4,
       "away_ml": 168,
-      "home_ml": -177,
+      "home_ml": -180,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -171,7 +171,7 @@
       "away_win_pct": 50.1,
       "home_win_pct": 49.9,
       "away_ml": 104,
-      "home_ml": -108,
+      "home_ml": -106,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -213,7 +213,7 @@
       "away_win_pct": 46.7,
       "home_win_pct": 53.3,
       "away_ml": 105,
-      "home_ml": -111,
+      "home_ml": -112,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -233,7 +233,7 @@
       "model_total": 7.27,
       "away_win_pct": 36.3,
       "home_win_pct": 63.7,
-      "away_ml": 240,
+      "away_ml": 241,
       "home_ml": -245,
       "ou_line": 7.5,
       "best_bet": false
@@ -254,7 +254,7 @@
       "model_total": 9.68,
       "away_win_pct": 48.9,
       "home_win_pct": 51.1,
-      "away_ml": -104,
+      "away_ml": -103,
       "home_ml": -104,
       "ou_line": 8.5,
       "best_bet": false
@@ -297,7 +297,7 @@
       "away_win_pct": 36.8,
       "home_win_pct": 63.2,
       "away_ml": 157,
-      "home_ml": -160,
+      "home_ml": -164,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -318,7 +318,7 @@
       "away_win_pct": 41.6,
       "home_win_pct": 58.4,
       "away_ml": 126,
-      "home_ml": -134,
+      "home_ml": -133,
       "ou_line": 8.5,
       "best_bet": false
     }
