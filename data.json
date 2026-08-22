@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T02:11:46.595691+00:00",
-  "scraped_at_display": "Scraped August 21, 2026 \u00b7 10:11 PM ET",
+  "scraped_at": "2026-08-22T03:12:58.448459+00:00",
+  "scraped_at_display": "Scraped August 21, 2026 \u00b7 11:12 PM ET",
   "date_label": "August 21, 2026",
   "games": [
     {
@@ -318,13 +318,13 @@
       "away_win_pct": 38.0,
       "home_win_pct": 62.0,
       "away_ml": 100,
-      "home_ml": -104,
+      "home_ml": -102,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Seattle Mariners +-104",
-      "best_bet_edge": 11.02
+      "best_bet_desc": "Seattle Mariners +-102",
+      "best_bet_edge": 11.5
     }
   ],
   "best_bets": [
@@ -370,13 +370,13 @@
       "away_win_pct": 38.0,
       "home_win_pct": 62.0,
       "away_ml": 100,
-      "home_ml": -104,
+      "home_ml": -102,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Seattle Mariners +-104",
-      "best_bet_edge": 11.02
+      "best_bet_desc": "Seattle Mariners +-102",
+      "best_bet_edge": 11.5
     }
   ]
 }
