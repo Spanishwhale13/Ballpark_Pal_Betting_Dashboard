@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T18:55:33.932468+00:00",
-  "scraped_at_display": "Scraped August 22, 2026 \u00b7 2:55 PM ET",
+  "scraped_at": "2026-08-22T19:17:17.201652+00:00",
+  "scraped_at_display": "Scraped August 22, 2026 \u00b7 3:17 PM ET",
   "date_label": "August 22, 2026",
   "games": [
     {
@@ -76,14 +76,14 @@
       "park": "Citizens Bank Park",
       "park_factor": "-1%",
       "park_factor_class": "neut",
-      "yrfi": 50.4,
-      "away_proj": 4.11,
-      "home_proj": 4.86,
-      "model_total": 8.97,
-      "away_win_pct": 40.0,
-      "home_win_pct": 60.0,
-      "away_ml": 137,
-      "home_ml": -144,
+      "yrfi": 50.0,
+      "away_proj": 4.07,
+      "home_proj": 4.92,
+      "model_total": 8.99,
+      "away_win_pct": 38.1,
+      "home_win_pct": 61.9,
+      "away_ml": 150,
+      "home_ml": -143,
       "ou_line": 8.5,
       "best_bet": false
     },
