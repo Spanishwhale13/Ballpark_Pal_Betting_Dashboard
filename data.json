@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T19:17:17.201652+00:00",
-  "scraped_at_display": "Scraped August 22, 2026 \u00b7 3:17 PM ET",
+  "scraped_at": "2026-08-22T19:43:21.463901+00:00",
+  "scraped_at_display": "Scraped August 22, 2026 \u00b7 3:43 PM ET",
   "date_label": "August 22, 2026",
   "games": [
     {
@@ -149,8 +149,8 @@
       "model_total": 8.27,
       "away_win_pct": 36.6,
       "home_win_pct": 63.4,
-      "away_ml": 215,
-      "home_ml": -232,
+      "away_ml": 223,
+      "home_ml": -235,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -185,12 +185,12 @@
       "park": "Fenway Park",
       "park_factor": "-11%",
       "park_factor_class": "neg",
-      "yrfi": 47.7,
-      "away_proj": 3.63,
-      "home_proj": 4.98,
-      "model_total": 8.61,
-      "away_win_pct": 34.4,
-      "home_win_pct": 65.6,
+      "yrfi": 50.5,
+      "away_proj": 3.81,
+      "home_proj": 4.99,
+      "model_total": 8.8,
+      "away_win_pct": 35.3,
+      "home_win_pct": 64.7,
       "away_ml": 190,
       "home_ml": -203,
       "ou_line": 8.5,
@@ -297,7 +297,7 @@
       "away_win_pct": 36.8,
       "home_win_pct": 63.2,
       "away_ml": 163,
-      "home_ml": -166,
+      "home_ml": -170,
       "ou_line": 8.5,
       "best_bet": false
     },
