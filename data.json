@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-23T19:42:42.701254+00:00",
-  "scraped_at_display": "Scraped August 23, 2026 \u00b7 3:42 PM ET",
+  "scraped_at": "2026-08-23T20:12:47.135985+00:00",
+  "scraped_at_display": "Scraped August 23, 2026 \u00b7 4:12 PM ET",
   "date_label": "August 23, 2026",
   "games": [
     {
@@ -238,7 +238,7 @@
       "away_win_pct": 33.5,
       "home_win_pct": 66.5,
       "away_ml": 253,
-      "home_ml": -258,
+      "home_ml": -264,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -258,7 +258,7 @@
       "model_total": 7.26,
       "away_win_pct": 43.4,
       "home_win_pct": 56.6,
-      "away_ml": -114,
+      "away_ml": -118,
       "home_ml": 114,
       "ou_line": 7.5,
       "best_bet": false
@@ -279,8 +279,8 @@
       "model_total": 8.76,
       "away_win_pct": 43.8,
       "home_win_pct": 56.2,
-      "away_ml": 137,
-      "home_ml": -141,
+      "away_ml": 141,
+      "home_ml": -146,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -300,8 +300,8 @@
       "model_total": 9.41,
       "away_win_pct": 43.9,
       "home_win_pct": 56.1,
-      "away_ml": 132,
-      "home_ml": -138,
+      "away_ml": 128,
+      "home_ml": -133,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -313,7 +313,7 @@
       "away_starter": "Tyler Mahle",
       "home_starter": "Shane Drohan",
       "park": "Bowman Field",
-      "park_factor": "+1%",
+      "park_factor": "+2%",
       "park_factor_class": "neut",
       "yrfi": 49.1,
       "away_proj": 4.39,
@@ -321,8 +321,8 @@
       "model_total": 8.64,
       "away_win_pct": 49.7,
       "home_win_pct": 50.3,
-      "away_ml": 108,
-      "home_ml": -111,
+      "away_ml": 106,
+      "home_ml": -110,
       "ou_line": 7.5,
       "best_bet": false
     }
