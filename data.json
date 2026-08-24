@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T17:03:45.002168+00:00",
-  "scraped_at_display": "Scraped August 24, 2026 \u00b7 1:03 PM ET",
+  "scraped_at": "2026-08-24T17:55:26.210295+00:00",
+  "scraped_at_display": "Scraped August 24, 2026 \u00b7 1:55 PM ET",
   "date_label": "August 24, 2026",
   "games": [
     {
@@ -44,7 +44,7 @@
       "home_ml": 118,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Detroit Tigers 7.5",
       "best_bet_edge": 1.56
@@ -66,7 +66,7 @@
       "away_win_pct": 34.3,
       "home_win_pct": 65.7,
       "away_ml": 173,
-      "home_ml": -180,
+      "home_ml": -184,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -99,7 +99,7 @@
       "away_starter": "Parker Messick",
       "home_starter": "George Klassen",
       "park": "Angel Stadium",
-      "park_factor": "-2%",
+      "park_factor": "+1%",
       "park_factor_class": "neut",
       "yrfi": 49.6,
       "away_proj": 5.22,
@@ -120,7 +120,7 @@
       "away_starter": "Zack Wheeler",
       "home_starter": "Logan Gilbert",
       "park": "T-Mobile Park",
-      "park_factor": "-12%",
+      "park_factor": "-13%",
       "park_factor_class": "neg",
       "yrfi": 37.1,
       "away_proj": 3.37,
@@ -149,10 +149,14 @@
       "model_total": 12.3,
       "away_win_pct": 58.5,
       "home_win_pct": 41.5,
-      "away_ml": -150,
+      "away_ml": -148,
       "home_ml": 143,
-      "ou_line": 11.5,
-      "best_bet": false
+      "ou_line": 10.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Minnesota Twins @ Oakland Athletics 10.5",
+      "best_bet_edge": 1.8
     },
     {
       "gamepk": "825041",
@@ -183,7 +187,7 @@
       "away_starter": "Braxton Ashcraft",
       "home_starter": "Robbie Ray",
       "park": "Petco Park",
-      "park_factor": "-5%",
+      "park_factor": "-3%",
       "park_factor_class": "neg",
       "yrfi": 47.1,
       "away_proj": 4.34,
@@ -191,7 +195,7 @@
       "model_total": 8.0,
       "away_win_pct": 55.1,
       "home_win_pct": 44.9,
-      "away_ml": 103,
+      "away_ml": 102,
       "home_ml": -108,
       "ou_line": 7.5,
       "best_bet": false
@@ -204,7 +208,7 @@
       "away_starter": "Chase Burns",
       "home_starter": "Carson Whisenhunt",
       "park": "Oracle Park",
-      "park_factor": "-3%",
+      "park_factor": "-6%",
       "park_factor_class": "neg",
       "yrfi": 48.5,
       "away_proj": 5.17,
@@ -212,7 +216,7 @@
       "model_total": 8.48,
       "away_win_pct": 66.0,
       "home_win_pct": 34.0,
-      "away_ml": -152,
+      "away_ml": -154,
       "home_ml": 146,
       "ou_line": 7.5,
       "best_bet": false
@@ -239,10 +243,35 @@
       "home_ml": 118,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 1,
+      "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Detroit Tigers 7.5",
       "best_bet_edge": 1.56
+    },
+    {
+      "gamepk": "824964",
+      "time": "9:40",
+      "away": "Minnesota Twins",
+      "home": "Oakland Athletics",
+      "away_starter": "Zebby Matthews",
+      "home_starter": "Jeffrey Springs",
+      "park": "Sutter Health Park",
+      "park_factor": "+29%",
+      "park_factor_class": "pos",
+      "yrfi": 58.8,
+      "away_proj": 6.78,
+      "home_proj": 5.52,
+      "model_total": 12.3,
+      "away_win_pct": 58.5,
+      "home_win_pct": 41.5,
+      "away_ml": -148,
+      "home_ml": 143,
+      "ou_line": 10.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Minnesota Twins @ Oakland Athletics 10.5",
+      "best_bet_edge": 1.8
     }
   ]
 }
