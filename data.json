@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T21:51:18.255009+00:00",
-  "scraped_at_display": "Scraped August 24, 2026 \u00b7 5:51 PM ET",
+  "scraped_at": "2026-08-24T22:16:52.974461+00:00",
+  "scraped_at_display": "Scraped August 24, 2026 \u00b7 6:16 PM ET",
   "date_label": "August 24, 2026",
   "games": [
     {
@@ -20,7 +20,7 @@
       "away_win_pct": 47.7,
       "home_win_pct": 52.3,
       "away_ml": -119,
-      "home_ml": 113,
+      "home_ml": 112,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -40,8 +40,8 @@
       "model_total": 8.96,
       "away_win_pct": 61.9,
       "home_win_pct": 38.1,
-      "away_ml": -127,
-      "home_ml": 122,
+      "away_ml": -126,
+      "home_ml": 120,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -74,7 +74,7 @@
       "away_starter": "Kumar Rocker",
       "home_starter": "Jose Urquidy",
       "park": "Rate Field",
-      "park_factor": "-5%",
+      "park_factor": "-7%",
       "park_factor_class": "neg",
       "yrfi": 49.2,
       "away_proj": 4.28,
@@ -118,14 +118,14 @@
       "park": "T-Mobile Park",
       "park_factor": "-11%",
       "park_factor_class": "neg",
-      "yrfi": 39.0,
-      "away_proj": 3.46,
-      "home_proj": 2.98,
-      "model_total": 6.44,
-      "away_win_pct": 53.9,
-      "home_win_pct": 46.1,
+      "yrfi": 39.2,
+      "away_proj": 3.5,
+      "home_proj": 3.05,
+      "model_total": 6.55,
+      "away_win_pct": 53.2,
+      "home_win_pct": 46.8,
       "away_ml": -108,
-      "home_ml": 101,
+      "home_ml": 102,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -212,8 +212,8 @@
       "model_total": 8.24,
       "away_win_pct": 66.7,
       "home_win_pct": 33.3,
-      "away_ml": -158,
-      "home_ml": 149,
+      "away_ml": -160,
+      "home_ml": 152,
       "ou_line": 7.5,
       "best_bet": false
     }
