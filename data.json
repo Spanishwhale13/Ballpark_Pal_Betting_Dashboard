@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T21:21:56.199754+00:00",
-  "scraped_at_display": "Scraped August 24, 2026 \u00b7 5:21 PM ET",
+  "scraped_at": "2026-08-24T21:51:18.255009+00:00",
+  "scraped_at_display": "Scraped August 24, 2026 \u00b7 5:51 PM ET",
   "date_label": "August 24, 2026",
   "games": [
     {
@@ -41,7 +41,7 @@
       "away_win_pct": 61.9,
       "home_win_pct": 38.1,
       "away_ml": -127,
-      "home_ml": 119,
+      "home_ml": 122,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -139,20 +139,16 @@
       "park": "Sutter Health Park",
       "park_factor": "+29%",
       "park_factor_class": "pos",
-      "yrfi": 60.2,
-      "away_proj": 6.65,
-      "home_proj": 5.47,
-      "model_total": 12.12,
-      "away_win_pct": 55.6,
-      "home_win_pct": 44.4,
+      "yrfi": 57.9,
+      "away_proj": 6.51,
+      "home_proj": 5.46,
+      "model_total": 11.97,
+      "away_win_pct": 55.9,
+      "home_win_pct": 44.1,
       "away_ml": -140,
       "home_ml": 131,
-      "ou_line": 10.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Minnesota Twins @ Oakland Athletics 10.5",
-      "best_bet_edge": 1.62
+      "ou_line": 11.5,
+      "best_bet": false
     },
     {
       "gamepk": "825041",
@@ -223,31 +219,6 @@
     }
   ],
   "best_bets": [
-    {
-      "gamepk": "824964",
-      "time": "9:40",
-      "away": "Minnesota Twins",
-      "home": "Oakland Athletics",
-      "away_starter": "Zebby Matthews",
-      "home_starter": "Jeffrey Springs",
-      "park": "Sutter Health Park",
-      "park_factor": "+29%",
-      "park_factor_class": "pos",
-      "yrfi": 60.2,
-      "away_proj": 6.65,
-      "home_proj": 5.47,
-      "model_total": 12.12,
-      "away_win_pct": 55.6,
-      "home_win_pct": 44.4,
-      "away_ml": -140,
-      "home_ml": 131,
-      "ou_line": 10.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Minnesota Twins @ Oakland Athletics 10.5",
-      "best_bet_edge": 1.62
-    },
     {
       "gamepk": "825041",
       "time": "9:40",
