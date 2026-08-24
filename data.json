@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T16:26:00.845377+00:00",
-  "scraped_at_display": "Scraped August 24, 2026 \u00b7 12:26 PM ET",
+  "scraped_at": "2026-08-24T17:03:45.002168+00:00",
+  "scraped_at_display": "Scraped August 24, 2026 \u00b7 1:03 PM ET",
   "date_label": "August 24, 2026",
   "games": [
     {
@@ -40,11 +40,11 @@
       "model_total": 9.06,
       "away_win_pct": 61.1,
       "home_win_pct": 38.9,
-      "away_ml": -124,
+      "away_ml": -123,
       "home_ml": 118,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Detroit Tigers 7.5",
       "best_bet_edge": 1.56
@@ -65,7 +65,7 @@
       "model_total": 8.62,
       "away_win_pct": 34.3,
       "home_win_pct": 65.7,
-      "away_ml": 170,
+      "away_ml": 173,
       "home_ml": -180,
       "ou_line": 8.5,
       "best_bet": false
@@ -107,7 +107,7 @@
       "model_total": 8.42,
       "away_win_pct": 69.2,
       "home_win_pct": 30.8,
-      "away_ml": -156,
+      "away_ml": -155,
       "home_ml": 147,
       "ou_line": 7.5,
       "best_bet": false
@@ -151,12 +151,8 @@
       "home_win_pct": 41.5,
       "away_ml": -150,
       "home_ml": 143,
-      "ou_line": 10.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Minnesota Twins @ Oakland Athletics 10.5",
-      "best_bet_edge": 1.8
+      "ou_line": 11.5,
+      "best_bet": false
     },
     {
       "gamepk": "825041",
@@ -195,7 +191,7 @@
       "model_total": 8.0,
       "away_win_pct": 55.1,
       "home_win_pct": 44.9,
-      "away_ml": 102,
+      "away_ml": 103,
       "home_ml": -108,
       "ou_line": 7.5,
       "best_bet": false
@@ -217,7 +213,7 @@
       "away_win_pct": 66.0,
       "home_win_pct": 34.0,
       "away_ml": -152,
-      "home_ml": 145,
+      "home_ml": 146,
       "ou_line": 7.5,
       "best_bet": false
     }
@@ -239,39 +235,14 @@
       "model_total": 9.06,
       "away_win_pct": 61.1,
       "home_win_pct": 38.9,
-      "away_ml": -124,
+      "away_ml": -123,
       "home_ml": 118,
       "ou_line": 7.5,
       "best_bet": true,
-      "best_bet_rank": 2,
+      "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Detroit Tigers 7.5",
       "best_bet_edge": 1.56
-    },
-    {
-      "gamepk": "824964",
-      "time": "9:40",
-      "away": "Minnesota Twins",
-      "home": "Oakland Athletics",
-      "away_starter": "Zebby Matthews",
-      "home_starter": "Jeffrey Springs",
-      "park": "Sutter Health Park",
-      "park_factor": "+29%",
-      "park_factor_class": "pos",
-      "yrfi": 58.8,
-      "away_proj": 6.78,
-      "home_proj": 5.52,
-      "model_total": 12.3,
-      "away_win_pct": 58.5,
-      "home_win_pct": 41.5,
-      "away_ml": -150,
-      "home_ml": 143,
-      "ou_line": 10.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Minnesota Twins @ Oakland Athletics 10.5",
-      "best_bet_edge": 1.8
     }
   ]
 }
