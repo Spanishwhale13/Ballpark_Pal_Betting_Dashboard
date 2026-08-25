@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T23:17:57.415933+00:00",
-  "scraped_at_display": "Scraped August 25, 2026 \u00b7 7:17 PM ET",
+  "scraped_at": "2026-08-25T23:46:08.097795+00:00",
+  "scraped_at_display": "Scraped August 25, 2026 \u00b7 7:46 PM ET",
   "date_label": "August 25, 2026",
   "games": [
     {
@@ -125,7 +125,7 @@
       "away_win_pct": 57.9,
       "home_win_pct": 42.1,
       "away_ml": -157,
-      "home_ml": 148,
+      "home_ml": 147,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -146,7 +146,7 @@
       "away_win_pct": 59.3,
       "home_win_pct": 40.7,
       "away_ml": -148,
-      "home_ml": 143,
+      "home_ml": 142,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -188,8 +188,8 @@
       "away_win_pct": 43.3,
       "home_win_pct": 56.7,
       "away_ml": 120,
-      "home_ml": -124,
-      "ou_line": 7.5,
+      "home_ml": -117,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -209,7 +209,7 @@
       "away_win_pct": 65.8,
       "home_win_pct": 34.2,
       "away_ml": -140,
-      "home_ml": 135,
+      "home_ml": 131,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -229,8 +229,8 @@
       "model_total": 7.68,
       "away_win_pct": 51.4,
       "home_win_pct": 48.6,
-      "away_ml": -103,
-      "home_ml": -104,
+      "away_ml": 105,
+      "home_ml": -110,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -271,14 +271,14 @@
       "model_total": 7.91,
       "away_win_pct": 34.7,
       "home_win_pct": 65.3,
-      "away_ml": -105,
-      "home_ml": 101,
+      "away_ml": -103,
+      "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +101",
-      "best_bet_edge": 15.55
+      "best_bet_desc": "Arizona Diamondbacks +100",
+      "best_bet_edge": 15.3
     },
     {
       "gamepk": "823259",
@@ -290,20 +290,20 @@
       "park": "Petco Park",
       "park_factor": "-4%",
       "park_factor_class": "neg",
-      "yrfi": 52.4,
-      "away_proj": 4.19,
-      "home_proj": 4.95,
-      "model_total": 9.14,
-      "away_win_pct": 40.7,
-      "home_win_pct": 59.3,
-      "away_ml": 114,
-      "home_ml": -119,
+      "yrfi": 53.0,
+      "away_proj": 4.25,
+      "home_proj": 4.86,
+      "model_total": 9.11,
+      "away_win_pct": 41.6,
+      "home_win_pct": 58.4,
+      "away_ml": 115,
+      "home_ml": -120,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Pittsburgh Pirates @ San Diego Padres 7.5",
-      "best_bet_edge": 1.64
+      "best_bet_edge": 1.61
     },
     {
       "gamepk": "823181",
@@ -344,14 +344,14 @@
       "model_total": 7.91,
       "away_win_pct": 34.7,
       "home_win_pct": 65.3,
-      "away_ml": -105,
-      "home_ml": 101,
+      "away_ml": -103,
+      "home_ml": 100,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +101",
-      "best_bet_edge": 15.55
+      "best_bet_desc": "Arizona Diamondbacks +100",
+      "best_bet_edge": 15.3
     },
     {
       "gamepk": "823259",
@@ -363,20 +363,20 @@
       "park": "Petco Park",
       "park_factor": "-4%",
       "park_factor_class": "neg",
-      "yrfi": 52.4,
-      "away_proj": 4.19,
-      "home_proj": 4.95,
-      "model_total": 9.14,
-      "away_win_pct": 40.7,
-      "home_win_pct": 59.3,
-      "away_ml": 114,
-      "home_ml": -119,
+      "yrfi": 53.0,
+      "away_proj": 4.25,
+      "home_proj": 4.86,
+      "model_total": 9.11,
+      "away_win_pct": 41.6,
+      "home_win_pct": 58.4,
+      "away_ml": 115,
+      "home_ml": -120,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 2,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Pittsburgh Pirates @ San Diego Padres 7.5",
-      "best_bet_edge": 1.64
+      "best_bet_edge": 1.61
     }
   ]
 }
