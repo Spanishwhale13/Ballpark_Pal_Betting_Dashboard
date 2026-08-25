@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T00:52:02.691396+00:00",
-  "scraped_at_display": "Scraped August 24, 2026 \u00b7 8:52 PM ET",
+  "scraped_at": "2026-08-25T02:14:22.084866+00:00",
+  "scraped_at_display": "Scraped August 24, 2026 \u00b7 10:14 PM ET",
   "date_label": "August 24, 2026",
   "games": [
     {
@@ -97,14 +97,14 @@
       "park": "Angel Stadium",
       "park_factor": "+2%",
       "park_factor_class": "neut",
-      "yrfi": 50.0,
-      "away_proj": 5.27,
-      "home_proj": 3.28,
-      "model_total": 8.55,
-      "away_win_pct": 68.7,
-      "home_win_pct": 31.3,
-      "away_ml": -161,
-      "home_ml": 152,
+      "yrfi": 47.2,
+      "away_proj": 5.17,
+      "home_proj": 3.22,
+      "model_total": 8.39,
+      "away_win_pct": 69.2,
+      "home_win_pct": 30.8,
+      "away_ml": -159,
+      "home_ml": 153,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -124,8 +124,8 @@
       "model_total": 6.55,
       "away_win_pct": 53.2,
       "home_win_pct": 46.8,
-      "away_ml": -111,
-      "home_ml": 107,
+      "away_ml": -114,
+      "home_ml": 106,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -212,7 +212,7 @@
       "model_total": 8.33,
       "away_win_pct": 73.3,
       "home_win_pct": 26.7,
-      "away_ml": -164,
+      "away_ml": -167,
       "home_ml": 160,
       "ou_line": 7.5,
       "best_bet": false
