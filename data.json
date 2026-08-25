@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T22:51:39.961328+00:00",
-  "scraped_at_display": "Scraped August 25, 2026 \u00b7 6:51 PM ET",
+  "scraped_at": "2026-08-25T23:17:57.415933+00:00",
+  "scraped_at_display": "Scraped August 25, 2026 \u00b7 7:17 PM ET",
   "date_label": "August 25, 2026",
   "games": [
     {
@@ -62,7 +62,7 @@
       "away_win_pct": 43.8,
       "home_win_pct": 56.2,
       "away_ml": 150,
-      "home_ml": -146,
+      "home_ml": -157,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -124,7 +124,7 @@
       "model_total": 8.33,
       "away_win_pct": 57.9,
       "home_win_pct": 42.1,
-      "away_ml": -156,
+      "away_ml": -157,
       "home_ml": 148,
       "ou_line": 7.5,
       "best_bet": false
@@ -200,7 +200,7 @@
       "away_starter": "Gavin Williams",
       "home_starter": "Walbert Urena",
       "park": "Angel Stadium",
-      "park_factor": "0%",
+      "park_factor": "+0%",
       "park_factor_class": "neut",
       "yrfi": 41.1,
       "away_proj": 4.51,
@@ -296,7 +296,7 @@
       "model_total": 9.14,
       "away_win_pct": 40.7,
       "home_win_pct": 59.3,
-      "away_ml": 115,
+      "away_ml": 114,
       "home_ml": -119,
       "ou_line": 7.5,
       "best_bet": true,
@@ -369,7 +369,7 @@
       "model_total": 9.14,
       "away_win_pct": 40.7,
       "home_win_pct": 59.3,
-      "away_ml": 115,
+      "away_ml": 114,
       "home_ml": -119,
       "ou_line": 7.5,
       "best_bet": true,
