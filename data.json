@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T13:41:22.935164+00:00",
-  "scraped_at_display": "Scraped August 25, 2026 \u00b7 9:41 AM ET",
+  "scraped_at": "2026-08-25T14:35:37.099361+00:00",
+  "scraped_at_display": "Scraped August 25, 2026 \u00b7 10:35 AM ET",
   "date_label": "August 25, 2026",
   "games": [
     {
@@ -40,8 +40,8 @@
       "model_total": 8.53,
       "away_win_pct": 54.6,
       "home_win_pct": 45.4,
-      "away_ml": -124,
-      "home_ml": 120,
+      "away_ml": -125,
+      "home_ml": 116,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -62,7 +62,7 @@
       "away_win_pct": 42.3,
       "home_win_pct": 57.7,
       "away_ml": 136,
-      "home_ml": -145,
+      "home_ml": -141,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -82,8 +82,8 @@
       "model_total": 10.02,
       "away_win_pct": 50.6,
       "home_win_pct": 49.4,
-      "away_ml": 131,
-      "home_ml": -138,
+      "away_ml": 130,
+      "home_ml": -137,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 3,
@@ -107,7 +107,7 @@
       "model_total": 9.36,
       "away_win_pct": 42.2,
       "home_win_pct": 57.8,
-      "away_ml": 116,
+      "away_ml": 117,
       "home_ml": -124,
       "ou_line": 8.5,
       "best_bet": false
@@ -128,7 +128,7 @@
       "model_total": 8.46,
       "away_win_pct": 60.4,
       "home_win_pct": 39.6,
-      "away_ml": -157,
+      "away_ml": -156,
       "home_ml": 150,
       "ou_line": 7.5,
       "best_bet": false
@@ -149,7 +149,7 @@
       "model_total": 10.25,
       "away_win_pct": 59.9,
       "home_win_pct": 40.1,
-      "away_ml": -149,
+      "away_ml": -148,
       "home_ml": 143,
       "ou_line": 8.5,
       "best_bet": true,
@@ -174,8 +174,8 @@
       "model_total": 8.34,
       "away_win_pct": 63.1,
       "home_win_pct": 36.9,
-      "away_ml": -108,
-      "home_ml": 106,
+      "away_ml": -105,
+      "home_ml": 100,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -217,7 +217,7 @@
       "away_win_pct": 65.7,
       "home_win_pct": 34.3,
       "away_ml": -139,
-      "home_ml": 130,
+      "home_ml": 132,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -237,8 +237,8 @@
       "model_total": 7.85,
       "away_win_pct": 51.9,
       "home_win_pct": 48.1,
-      "away_ml": -102,
-      "home_ml": -105,
+      "away_ml": 100,
+      "home_ml": -104,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -258,8 +258,8 @@
       "model_total": 11.0,
       "away_win_pct": 60.7,
       "home_win_pct": 39.3,
-      "away_ml": -145,
-      "home_ml": 135,
+      "away_ml": -144,
+      "home_ml": 137,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -279,14 +279,14 @@
       "model_total": 8.12,
       "away_win_pct": 33.5,
       "home_win_pct": 66.5,
-      "away_ml": -105,
-      "home_ml": 100,
+      "away_ml": -104,
+      "home_ml": -101,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +100",
-      "best_bet_edge": 16.5
+      "best_bet_desc": "Arizona Diamondbacks +-101",
+      "best_bet_edge": 16.25
     },
     {
       "gamepk": "823259",
@@ -304,7 +304,7 @@
       "model_total": 8.94,
       "away_win_pct": 40.7,
       "home_win_pct": 59.3,
-      "away_ml": 110,
+      "away_ml": 111,
       "home_ml": -118,
       "ou_line": 7.5,
       "best_bet": false
@@ -348,8 +348,8 @@
       "model_total": 10.02,
       "away_win_pct": 50.6,
       "home_win_pct": 49.4,
-      "away_ml": 131,
-      "home_ml": -138,
+      "away_ml": 130,
+      "home_ml": -137,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 3,
@@ -373,7 +373,7 @@
       "model_total": 10.25,
       "away_win_pct": 59.9,
       "home_win_pct": 40.1,
-      "away_ml": -149,
+      "away_ml": -148,
       "home_ml": 143,
       "ou_line": 8.5,
       "best_bet": true,
@@ -398,14 +398,14 @@
       "model_total": 8.12,
       "away_win_pct": 33.5,
       "home_win_pct": 66.5,
-      "away_ml": -105,
-      "home_ml": 100,
+      "away_ml": -104,
+      "home_ml": -101,
       "ou_line": 8.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Arizona Diamondbacks +100",
-      "best_bet_edge": 16.5
+      "best_bet_desc": "Arizona Diamondbacks +-101",
+      "best_bet_edge": 16.25
     }
   ]
 }
