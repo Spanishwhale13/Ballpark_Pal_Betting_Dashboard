@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-28T22:49:05.298340+00:00",
-  "scraped_at_display": "Scraped August 28, 2026 \u00b7 6:49 PM ET",
+  "scraped_at": "2026-08-29T03:58:29.499536+00:00",
+  "scraped_at_display": "Scraped August 28, 2026 \u00b7 11:58 PM ET",
   "date_label": "August 28, 2026",
   "games": [
     {
@@ -45,7 +45,7 @@
       "away_win_pct": 57.4,
       "home_win_pct": 42.6,
       "away_ml": -173,
-      "home_ml": 168,
+      "home_ml": 170,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -65,7 +65,7 @@
       "model_total": 9.9,
       "away_win_pct": 59.3,
       "home_win_pct": 40.7,
-      "away_ml": -133,
+      "away_ml": -134,
       "home_ml": 125,
       "ou_line": 8.5,
       "best_bet": false
@@ -128,7 +128,7 @@
       "model_total": 8.19,
       "away_win_pct": 48.1,
       "home_win_pct": 51.9,
-      "away_ml": 124,
+      "away_ml": 123,
       "home_ml": -129,
       "ou_line": 7.5,
       "best_bet": false
@@ -150,7 +150,7 @@
       "away_win_pct": 42.0,
       "home_win_pct": 58.0,
       "away_ml": 200,
-      "home_ml": -216,
+      "home_ml": -215,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -191,7 +191,7 @@
       "model_total": 7.1,
       "away_win_pct": 45.8,
       "home_win_pct": 54.2,
-      "away_ml": 131,
+      "away_ml": 140,
       "home_ml": -137,
       "ou_line": 6.5,
       "best_bet": false
@@ -212,8 +212,8 @@
       "model_total": 8.12,
       "away_win_pct": 39.0,
       "home_win_pct": 61.0,
-      "away_ml": 190,
-      "home_ml": -199,
+      "away_ml": 198,
+      "home_ml": -205,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -233,8 +233,8 @@
       "model_total": 9.17,
       "away_win_pct": 39.3,
       "home_win_pct": 60.7,
-      "away_ml": 116,
-      "home_ml": -123,
+      "away_ml": 120,
+      "home_ml": -125,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -267,7 +267,7 @@
       "away_starter": "Andrew Painter",
       "home_starter": "Reid Detmers",
       "park": "Angel Stadium",
-      "park_factor": "+1%",
+      "park_factor": "+2%",
       "park_factor_class": "neut",
       "yrfi": 47.6,
       "away_proj": 4.47,
@@ -275,8 +275,8 @@
       "model_total": 8.36,
       "away_win_pct": 54.3,
       "home_win_pct": 45.7,
-      "away_ml": -121,
-      "home_ml": 115,
+      "away_ml": -114,
+      "home_ml": 107,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -297,7 +297,7 @@
       "away_win_pct": 45.8,
       "home_win_pct": 54.2,
       "away_ml": -108,
-      "home_ml": 103,
+      "home_ml": 101,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -309,18 +309,22 @@
       "away_starter": "Kohl Drake",
       "home_starter": "Blade Tidwell",
       "park": "Oracle Park",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
-      "yrfi": 52.6,
-      "away_proj": 4.75,
-      "home_proj": 4.2,
-      "model_total": 8.95,
-      "away_win_pct": 53.2,
-      "home_win_pct": 46.8,
+      "park_factor": "-2%",
+      "park_factor_class": "neut",
+      "yrfi": 51.6,
+      "away_proj": 4.95,
+      "home_proj": 4.23,
+      "model_total": 9.18,
+      "away_win_pct": 54.9,
+      "home_win_pct": 45.1,
       "away_ml": -110,
-      "home_ml": 107,
+      "home_ml": 104,
       "ou_line": 7.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Arizona Diamondbacks @ San Francisco Giants 7.5",
+      "best_bet_edge": 1.68
     }
   ],
   "best_bets": [
@@ -348,6 +352,31 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cincinnati Reds @ Chicago Cubs 8.5",
       "best_bet_edge": 2.15
+    },
+    {
+      "gamepk": "823178",
+      "time": "10:15",
+      "away": "Arizona Diamondbacks",
+      "home": "San Francisco Giants",
+      "away_starter": "Kohl Drake",
+      "home_starter": "Blade Tidwell",
+      "park": "Oracle Park",
+      "park_factor": "-2%",
+      "park_factor_class": "neut",
+      "yrfi": 51.6,
+      "away_proj": 4.95,
+      "home_proj": 4.23,
+      "model_total": 9.18,
+      "away_win_pct": 54.9,
+      "home_win_pct": 45.1,
+      "away_ml": -110,
+      "home_ml": 104,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 2,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Arizona Diamondbacks @ San Francisco Giants 7.5",
+      "best_bet_edge": 1.68
     }
   ]
 }
