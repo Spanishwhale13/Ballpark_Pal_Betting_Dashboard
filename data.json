@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-30T19:55:00.734717+00:00",
-  "scraped_at_display": "Scraped August 30, 2026 \u00b7 3:55 PM ET",
+  "scraped_at": "2026-08-30T22:15:35.959107+00:00",
+  "scraped_at_display": "Scraped August 30, 2026 \u00b7 6:15 PM ET",
   "date_label": "August 30, 2026",
   "games": [
     {
@@ -283,8 +283,8 @@
       "model_total": 8.63,
       "away_win_pct": 64.0,
       "home_win_pct": 36.0,
-      "away_ml": -160,
-      "home_ml": 157,
+      "away_ml": -157,
+      "home_ml": 150,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -296,16 +296,16 @@
       "away_starter": "Chase Burns",
       "home_starter": "Shota Imanaga",
       "park": "Wrigley Field",
-      "park_factor": "+17%",
+      "park_factor": "+11%",
       "park_factor_class": "pos",
-      "yrfi": 54.0,
-      "away_proj": 5.39,
-      "home_proj": 5.04,
-      "model_total": 10.43,
-      "away_win_pct": 50.7,
-      "home_win_pct": 49.3,
-      "away_ml": 143,
-      "home_ml": -150,
+      "yrfi": 53.4,
+      "away_proj": 5.31,
+      "home_proj": 5.07,
+      "model_total": 10.38,
+      "away_win_pct": 49.2,
+      "home_win_pct": 50.8,
+      "away_ml": 145,
+      "home_ml": -149,
       "ou_line": 9.5,
       "best_bet": false
     }
