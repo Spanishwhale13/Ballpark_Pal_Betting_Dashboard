@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-03T00:24:45.937609+00:00",
-  "scraped_at_display": "Scraped September 2, 2026 \u00b7 8:24 PM ET",
+  "scraped_at": "2026-09-03T02:25:45.460620+00:00",
+  "scraped_at_display": "Scraped September 2, 2026 \u00b7 10:25 PM ET",
   "date_label": "September 2, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Casey Mize",
       "home_starter": "Brandon Williamson",
       "park": "Great American Ball Park",
-      "park_factor": "+11%",
+      "park_factor": "+7%",
       "park_factor_class": "pos",
       "yrfi": 53.8,
       "away_proj": 5.16,
@@ -137,7 +137,7 @@
       "away_starter": "Dylan Cease",
       "home_starter": "Joey Cantillo",
       "park": "Progressive Field",
-      "park_factor": "+8%",
+      "park_factor": "+9%",
       "park_factor_class": "pos",
       "yrfi": 47.7,
       "away_proj": 4.51,
@@ -179,7 +179,7 @@
       "away_starter": "Landen Roupp",
       "home_starter": "Bubba Chandler",
       "park": "PNC Park",
-      "park_factor": "+6%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 51.8,
       "away_proj": 4.07,
@@ -292,8 +292,8 @@
       "model_total": 6.68,
       "away_win_pct": 56.1,
       "home_win_pct": 43.9,
-      "away_ml": -155,
-      "home_ml": 147,
+      "away_ml": -148,
+      "home_ml": 146,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -313,8 +313,8 @@
       "model_total": 7.56,
       "away_win_pct": 27.4,
       "home_win_pct": 72.6,
-      "away_ml": 245,
-      "home_ml": -260,
+      "away_ml": 270,
+      "home_ml": -280,
       "ou_line": 7.5,
       "best_bet": false
     }
