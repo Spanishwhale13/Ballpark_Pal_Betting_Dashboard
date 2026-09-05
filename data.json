@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-04T23:35:11.580123+00:00",
-  "scraped_at_display": "Scraped September 4, 2026 \u00b7 7:35 PM ET",
+  "scraped_at": "2026-09-05T02:21:46.843056+00:00",
+  "scraped_at_display": "Scraped September 4, 2026 \u00b7 10:21 PM ET",
   "date_label": "September 4, 2026",
   "games": [
     {
@@ -199,8 +199,8 @@
       "model_total": 9.41,
       "away_win_pct": 44.0,
       "home_win_pct": 56.0,
-      "away_ml": 112,
-      "home_ml": -113,
+      "away_ml": 115,
+      "home_ml": -121,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -304,8 +304,8 @@
       "model_total": 7.55,
       "away_win_pct": 46.3,
       "home_win_pct": 53.7,
-      "away_ml": -109,
-      "home_ml": 106,
+      "away_ml": -107,
+      "home_ml": 101,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -325,7 +325,7 @@
       "model_total": 7.2,
       "away_win_pct": 38.7,
       "home_win_pct": 61.3,
-      "away_ml": 200,
+      "away_ml": 202,
       "home_ml": -220,
       "ou_line": 7.5,
       "best_bet": false
@@ -346,9 +346,9 @@
       "model_total": 8.76,
       "away_win_pct": 29.0,
       "home_win_pct": 71.0,
-      "away_ml": 230,
-      "home_ml": -257,
-      "ou_line": 8.5,
+      "away_ml": 238,
+      "home_ml": -265,
+      "ou_line": 7.5,
       "best_bet": false
     }
   ],
