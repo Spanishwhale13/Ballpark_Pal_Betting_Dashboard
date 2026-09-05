@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-05T15:42:58.986367+00:00",
-  "scraped_at_display": "Scraped September 5, 2026 \u00b7 11:42 AM ET",
+  "scraped_at": "2026-09-05T17:49:21.544394+00:00",
+  "scraped_at_display": "Scraped September 5, 2026 \u00b7 1:49 PM ET",
   "date_label": "September 5, 2026",
   "games": [
     {
@@ -13,13 +13,13 @@
       "park": "Citi Field",
       "park_factor": "-12%",
       "park_factor_class": "neg",
-      "yrfi": 48.9,
-      "away_proj": 3.65,
-      "home_proj": 4.36,
-      "model_total": 8.01,
-      "away_win_pct": 40.0,
-      "home_win_pct": 60.0,
-      "away_ml": 155,
+      "yrfi": 49.5,
+      "away_proj": 3.57,
+      "home_proj": 4.51,
+      "model_total": 8.08,
+      "away_win_pct": 37.9,
+      "home_win_pct": 62.1,
+      "away_ml": 148,
       "home_ml": -157,
       "ou_line": 7.5,
       "best_bet": false
@@ -34,14 +34,14 @@
       "park": "LoanDepot Park",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 50.6,
-      "away_proj": 4.14,
-      "home_proj": 4.19,
-      "model_total": 8.33,
-      "away_win_pct": 46.8,
-      "home_win_pct": 53.2,
-      "away_ml": -121,
-      "home_ml": 112,
+      "yrfi": 50.8,
+      "away_proj": 4.08,
+      "home_proj": 4.17,
+      "model_total": 8.25,
+      "away_win_pct": 46.1,
+      "home_win_pct": 53.9,
+      "away_ml": -119,
+      "home_ml": 113,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -62,7 +62,7 @@
       "away_win_pct": 36.4,
       "home_win_pct": 63.6,
       "away_ml": 143,
-      "home_ml": -152,
+      "home_ml": -151,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -83,13 +83,13 @@
       "away_win_pct": 27.4,
       "home_win_pct": 72.6,
       "away_ml": 143,
-      "home_ml": -148,
+      "home_ml": -150,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Cleveland Guardians +-148",
-      "best_bet_edge": 12.92
+      "best_bet_desc": "Cleveland Guardians +-150",
+      "best_bet_edge": 12.6
     },
     {
       "gamepk": "824468",
@@ -107,7 +107,7 @@
       "model_total": 10.87,
       "away_win_pct": 59.4,
       "home_win_pct": 40.6,
-      "away_ml": -150,
+      "away_ml": -145,
       "home_ml": 143,
       "ou_line": 9.5,
       "best_bet": false
@@ -128,7 +128,7 @@
       "model_total": 7.85,
       "away_win_pct": 36.8,
       "home_win_pct": 63.2,
-      "away_ml": 164,
+      "away_ml": 165,
       "home_ml": -177,
       "ou_line": 7.5,
       "best_bet": false
@@ -170,8 +170,8 @@
       "model_total": 9.2,
       "away_win_pct": 58.5,
       "home_win_pct": 41.5,
-      "away_ml": -120,
-      "home_ml": 115,
+      "away_ml": -122,
+      "home_ml": 113,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -233,8 +233,8 @@
       "model_total": 8.6,
       "away_win_pct": 61.0,
       "home_win_pct": 39.0,
-      "away_ml": -104,
-      "home_ml": -104,
+      "away_ml": -105,
+      "home_ml": -103,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -275,8 +275,8 @@
       "model_total": 11.23,
       "away_win_pct": 47.8,
       "home_win_pct": 52.2,
-      "away_ml": -119,
-      "home_ml": 110,
+      "away_ml": -120,
+      "home_ml": 111,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -296,7 +296,7 @@
       "model_total": 7.83,
       "away_win_pct": 39.2,
       "home_win_pct": 60.8,
-      "away_ml": 200,
+      "away_ml": 195,
       "home_ml": -213,
       "ou_line": 7.5,
       "best_bet": false
@@ -341,13 +341,13 @@
       "away_win_pct": 27.4,
       "home_win_pct": 72.6,
       "away_ml": 143,
-      "home_ml": -148,
+      "home_ml": -150,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "Cleveland Guardians +-148",
-      "best_bet_edge": 12.92
+      "best_bet_desc": "Cleveland Guardians +-150",
+      "best_bet_edge": 12.6
     }
   ]
 }
