@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-05T23:28:10.322507+00:00",
-  "scraped_at_display": "Scraped September 5, 2026 \u00b7 7:28 PM ET",
+  "scraped_at": "2026-09-06T01:13:04.614434+00:00",
+  "scraped_at_display": "Scraped September 5, 2026 \u00b7 9:13 PM ET",
   "date_label": "September 5, 2026",
   "games": [
     {
@@ -183,8 +183,8 @@
       "away_starter": "Taj Bradley",
       "home_starter": "Anthony Kay",
       "park": "Rate Field",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
+      "park_factor": "+1%",
+      "park_factor_class": "neut",
       "yrfi": 47.7,
       "away_proj": 4.61,
       "home_proj": 4.41,
@@ -276,7 +276,7 @@
       "away_win_pct": 46.0,
       "home_win_pct": 54.0,
       "away_ml": -120,
-      "home_ml": 111,
+      "home_ml": 112,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -288,7 +288,7 @@
       "away_starter": "Cade Cavalli",
       "home_starter": "Tyler Glasnow",
       "park": "Dodger Stadium",
-      "park_factor": "+4%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 43.1,
       "away_proj": 3.66,
@@ -296,9 +296,9 @@
       "model_total": 7.62,
       "away_win_pct": 42.9,
       "home_win_pct": 57.1,
-      "away_ml": 185,
-      "home_ml": -201,
-      "ou_line": 7.5,
+      "away_ml": 170,
+      "home_ml": -176,
+      "ou_line": 6.5,
       "best_bet": false
     },
     {
@@ -318,7 +318,7 @@
       "away_win_pct": 31.1,
       "home_win_pct": 68.9,
       "away_ml": 210,
-      "home_ml": -235,
+      "home_ml": -230,
       "ou_line": 7.5,
       "best_bet": false
     }
