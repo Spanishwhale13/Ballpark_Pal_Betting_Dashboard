@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-07T01:09:21.637475+00:00",
-  "scraped_at_display": "Scraped September 6, 2026 \u00b7 9:09 PM ET",
+  "scraped_at": "2026-09-07T02:14:51.175607+00:00",
+  "scraped_at_display": "Scraped September 6, 2026 \u00b7 10:14 PM ET",
   "date_label": "September 6, 2026",
   "games": [
     {
@@ -74,8 +74,8 @@
       "away_starter": "Payton Tolle",
       "home_starter": "Kyle Bradish",
       "park": "Oriole Park at Camden Yards",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
+      "park_factor": "-2%",
+      "park_factor_class": "neut",
       "yrfi": 43.5,
       "away_proj": 4.5,
       "home_proj": 3.18,
@@ -284,8 +284,8 @@
       "away_starter": "Bailey Ober",
       "home_starter": "Bryan Hudson",
       "park": "Rate Field",
-      "park_factor": "-5%",
-      "park_factor_class": "neg",
+      "park_factor": "+0%",
+      "park_factor_class": "neut",
       "yrfi": 47.0,
       "away_proj": 4.34,
       "home_proj": 4.47,
@@ -313,7 +313,7 @@
       "model_total": 9.14,
       "away_win_pct": 40.7,
       "home_win_pct": 59.3,
-      "away_ml": 180,
+      "away_ml": 175,
       "home_ml": -190,
       "ou_line": 8.5,
       "best_bet": false
