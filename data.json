@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-10T00:22:16.865742+00:00",
-  "scraped_at_display": "Scraped September 9, 2026 \u00b7 8:22 PM ET",
+  "scraped_at": "2026-09-10T02:29:41.752153+00:00",
+  "scraped_at_display": "Scraped September 9, 2026 \u00b7 10:29 PM ET",
   "date_label": "September 9, 2026",
   "games": [
     {
@@ -162,7 +162,7 @@
       "away_starter": "Hunter Brown",
       "home_starter": "Cristopher Sanchez",
       "park": "Citizens Bank Park",
-      "park_factor": "+12%",
+      "park_factor": "+14%",
       "park_factor_class": "pos",
       "yrfi": 50.9,
       "away_proj": 4.37,
@@ -204,7 +204,7 @@
       "away_starter": "Tomoyuki Sugano",
       "home_starter": "Will Warren",
       "park": "Yankee Stadium",
-      "park_factor": "+5%",
+      "park_factor": "+11%",
       "park_factor_class": "pos",
       "yrfi": 59.4,
       "away_proj": 4.8,
@@ -246,7 +246,7 @@
       "away_starter": "Lake Bachar",
       "home_starter": "Davis Martin",
       "park": "Rate Field",
-      "park_factor": "+1%",
+      "park_factor": "-1%",
       "park_factor_class": "neut",
       "yrfi": 50.7,
       "away_proj": 4.85,
@@ -317,8 +317,8 @@
       "model_total": 7.85,
       "away_win_pct": 24.7,
       "home_win_pct": 75.3,
-      "away_ml": 242,
-      "home_ml": -272,
+      "away_ml": 245,
+      "home_ml": -265,
       "ou_line": 8.5,
       "best_bet": false
     }
