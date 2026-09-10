@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-09T22:07:48.904364+00:00",
-  "scraped_at_display": "Scraped September 9, 2026 \u00b7 6:07 PM ET",
+  "scraped_at": "2026-09-10T00:22:16.865742+00:00",
+  "scraped_at_display": "Scraped September 9, 2026 \u00b7 8:22 PM ET",
   "date_label": "September 9, 2026",
   "games": [
     {
@@ -162,7 +162,7 @@
       "away_starter": "Hunter Brown",
       "home_starter": "Cristopher Sanchez",
       "park": "Citizens Bank Park",
-      "park_factor": "+14%",
+      "park_factor": "+12%",
       "park_factor_class": "pos",
       "yrfi": 50.9,
       "away_proj": 4.37,
@@ -171,13 +171,9 @@
       "away_win_pct": 43.3,
       "home_win_pct": 56.7,
       "away_ml": 133,
-      "home_ml": -139,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Houston Astros @ Philadelphia Phillies 7.5",
-      "best_bet_edge": 1.65
+      "home_ml": -141,
+      "ou_line": 8.5,
+      "best_bet": false
     },
     {
       "gamepk": "824713",
@@ -195,7 +191,7 @@
       "model_total": 9.33,
       "away_win_pct": 29.8,
       "home_win_pct": 70.2,
-      "away_ml": 191,
+      "away_ml": 193,
       "home_ml": -210,
       "ou_line": 9.5,
       "best_bet": false
@@ -208,15 +204,15 @@
       "away_starter": "Tomoyuki Sugano",
       "home_starter": "Will Warren",
       "park": "Yankee Stadium",
-      "park_factor": "0%",
-      "park_factor_class": "neut",
+      "park_factor": "+5%",
+      "park_factor_class": "pos",
       "yrfi": 59.4,
       "away_proj": 4.8,
       "home_proj": 6.07,
       "model_total": 10.87,
       "away_win_pct": 35.5,
       "home_win_pct": 64.5,
-      "away_ml": 212,
+      "away_ml": 213,
       "home_ml": -236,
       "ou_line": 9.5,
       "best_bet": false
@@ -250,7 +246,7 @@
       "away_starter": "Lake Bachar",
       "home_starter": "Davis Martin",
       "park": "Rate Field",
-      "park_factor": "-1%",
+      "park_factor": "+1%",
       "park_factor_class": "neut",
       "yrfi": 50.7,
       "away_proj": 4.85,
@@ -259,7 +255,7 @@
       "away_win_pct": 52.1,
       "home_win_pct": 47.9,
       "away_ml": 117,
-      "home_ml": -127,
+      "home_ml": -125,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -280,7 +276,7 @@
       "away_win_pct": 42.5,
       "home_win_pct": 57.5,
       "away_ml": 117,
-      "home_ml": -127,
+      "home_ml": -126,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -300,7 +296,7 @@
       "model_total": 9.94,
       "away_win_pct": 43.7,
       "home_win_pct": 56.3,
-      "away_ml": -110,
+      "away_ml": -111,
       "home_ml": 104,
       "ou_line": 8.5,
       "best_bet": false
@@ -315,14 +311,14 @@
       "park": "Dodger Stadium",
       "park_factor": "+1%",
       "park_factor_class": "neut",
-      "yrfi": 48.6,
-      "away_proj": 3.25,
-      "home_proj": 5.45,
-      "model_total": 8.7,
-      "away_win_pct": 26.3,
-      "home_win_pct": 73.7,
-      "away_ml": 239,
-      "home_ml": -268,
+      "yrfi": 47.6,
+      "away_proj": 2.81,
+      "home_proj": 5.04,
+      "model_total": 7.85,
+      "away_win_pct": 24.7,
+      "home_win_pct": 75.3,
+      "away_ml": 242,
+      "home_ml": -272,
       "ou_line": 8.5,
       "best_bet": false
     }
@@ -352,31 +348,6 @@
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cleveland Guardians @ Baltimore Orioles 8.5",
       "best_bet_edge": 1.77
-    },
-    {
-      "gamepk": "823416",
-      "time": "6:40",
-      "away": "Houston Astros",
-      "home": "Philadelphia Phillies",
-      "away_starter": "Hunter Brown",
-      "home_starter": "Cristopher Sanchez",
-      "park": "Citizens Bank Park",
-      "park_factor": "+14%",
-      "park_factor_class": "pos",
-      "yrfi": 50.9,
-      "away_proj": 4.37,
-      "home_proj": 4.78,
-      "model_total": 9.15,
-      "away_win_pct": 43.3,
-      "home_win_pct": 56.7,
-      "away_ml": 133,
-      "home_ml": -139,
-      "ou_line": 7.5,
-      "best_bet": true,
-      "best_bet_rank": 2,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Houston Astros @ Philadelphia Phillies 7.5",
-      "best_bet_edge": 1.65
     }
   ]
 }
