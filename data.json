@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-10T23:34:42.732295+00:00",
-  "scraped_at_display": "Scraped September 10, 2026 \u00b7 7:34 PM ET",
+  "scraped_at": "2026-09-11T02:24:32.356952+00:00",
+  "scraped_at_display": "Scraped September 10, 2026 \u00b7 10:24 PM ET",
   "date_label": "September 10, 2026",
   "games": [
     {
@@ -95,7 +95,7 @@
       "away_starter": "Jared Jones",
       "home_starter": "Hagen Smith",
       "park": "Rate Field",
-      "park_factor": "-6%",
+      "park_factor": "-3%",
       "park_factor_class": "neg",
       "yrfi": 41.9,
       "away_proj": 4.01,
