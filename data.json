@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-11T23:43:32.449226+00:00",
-  "scraped_at_display": "Scraped September 11, 2026 \u00b7 7:43 PM ET",
+  "scraped_at": "2026-09-12T02:31:53.783437+00:00",
+  "scraped_at_display": "Scraped September 11, 2026 \u00b7 10:31 PM ET",
   "date_label": "September 11, 2026",
   "games": [
     {
@@ -74,7 +74,7 @@
       "away_starter": "Nolan McLean",
       "home_starter": "Carlos Rodon",
       "park": "Yankee Stadium",
-      "park_factor": "-8%",
+      "park_factor": "-9%",
       "park_factor_class": "neg",
       "yrfi": 52.5,
       "away_proj": 4.41,
@@ -279,8 +279,8 @@
       "model_total": 10.71,
       "away_win_pct": 58.5,
       "home_win_pct": 41.5,
-      "away_ml": -154,
-      "home_ml": 143,
+      "away_ml": -155,
+      "home_ml": 140,
       "ou_line": 10.5,
       "best_bet": false
     },
@@ -301,7 +301,7 @@
       "away_win_pct": 41.5,
       "home_win_pct": 58.5,
       "away_ml": 102,
-      "home_ml": -107,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -321,7 +321,7 @@
       "model_total": 8.23,
       "away_win_pct": 52.8,
       "home_win_pct": 47.2,
-      "away_ml": -143,
+      "away_ml": -152,
       "home_ml": 142,
       "ou_line": 7.5,
       "best_bet": false
