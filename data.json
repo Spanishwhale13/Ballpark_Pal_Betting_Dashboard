@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-12T22:43:54.317294+00:00",
-  "scraped_at_display": "Scraped September 12, 2026 \u00b7 6:43 PM ET",
+  "scraped_at": "2026-09-13T00:30:28.705439+00:00",
+  "scraped_at_display": "Scraped September 12, 2026 \u00b7 8:30 PM ET",
   "date_label": "September 12, 2026",
   "games": [
     {
@@ -32,8 +32,8 @@
       "away_starter": "Zach Thornton",
       "home_starter": "Gerrit Cole",
       "park": "Yankee Stadium",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
+      "park_factor": "-2%",
+      "park_factor_class": "neut",
       "yrfi": 49.2,
       "away_proj": 3.77,
       "home_proj": 4.55,
@@ -237,7 +237,7 @@
       "model_total": 10.84,
       "away_win_pct": 34.9,
       "home_win_pct": 65.1,
-      "away_ml": 200,
+      "away_ml": 185,
       "home_ml": -198,
       "ou_line": 8.5,
       "best_bet": true,
@@ -283,7 +283,7 @@
       "model_total": 9.6,
       "away_win_pct": 49.5,
       "home_win_pct": 50.5,
-      "away_ml": 126,
+      "away_ml": 124,
       "home_ml": -134,
       "ou_line": 8.5,
       "best_bet": false
@@ -304,8 +304,8 @@
       "model_total": 8.55,
       "away_win_pct": 41.6,
       "home_win_pct": 58.4,
-      "away_ml": 120,
-      "home_ml": -130,
+      "away_ml": 125,
+      "home_ml": -129,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -325,8 +325,8 @@
       "model_total": 10.12,
       "away_win_pct": 56.2,
       "home_win_pct": 43.8,
-      "away_ml": -149,
-      "home_ml": 142,
+      "away_ml": -146,
+      "home_ml": 136,
       "ou_line": 9.5,
       "best_bet": false
     }
@@ -398,7 +398,7 @@
       "model_total": 10.84,
       "away_win_pct": 34.9,
       "home_win_pct": 65.1,
-      "away_ml": 200,
+      "away_ml": 185,
       "home_ml": -198,
       "ou_line": 8.5,
       "best_bet": true,
