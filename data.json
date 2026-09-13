@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-13T21:31:10.228059+00:00",
-  "scraped_at_display": "Scraped September 13, 2026 \u00b7 5:31 PM ET",
+  "scraped_at": "2026-09-13T23:48:33.514293+00:00",
+  "scraped_at_display": "Scraped September 13, 2026 \u00b7 7:48 PM ET",
   "date_label": "September 13, 2026",
   "games": [
     {
@@ -313,8 +313,8 @@
       "model_total": 7.72,
       "away_win_pct": 63.9,
       "home_win_pct": 36.1,
-      "away_ml": -137,
-      "home_ml": 126,
+      "away_ml": -135,
+      "home_ml": 124,
       "ou_line": 7.5,
       "best_bet": false
     }
