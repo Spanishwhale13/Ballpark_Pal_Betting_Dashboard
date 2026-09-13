@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-13T00:30:28.705439+00:00",
-  "scraped_at_display": "Scraped September 12, 2026 \u00b7 8:30 PM ET",
+  "scraped_at": "2026-09-13T02:30:46.678037+00:00",
+  "scraped_at_display": "Scraped September 12, 2026 \u00b7 10:30 PM ET",
   "date_label": "September 12, 2026",
   "games": [
     {
@@ -53,7 +53,7 @@
       "away_starter": "Paul Skenes",
       "home_starter": "Clay Holmes",
       "park": "Wrigley Field",
-      "park_factor": "+3%",
+      "park_factor": "+8%",
       "park_factor_class": "pos",
       "yrfi": 55.8,
       "away_proj": 5.08,
@@ -141,7 +141,7 @@
       "away_starter": "Randy Dobnak",
       "home_starter": "Ranger Suarez",
       "park": "Fenway Park",
-      "park_factor": "+6%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 62.0,
       "away_proj": 5.35,
@@ -365,7 +365,7 @@
       "away_starter": "Randy Dobnak",
       "home_starter": "Ranger Suarez",
       "park": "Fenway Park",
-      "park_factor": "+6%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 62.0,
       "away_proj": 5.35,
