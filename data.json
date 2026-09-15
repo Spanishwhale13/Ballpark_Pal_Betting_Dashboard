@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T00:07:54.979566+00:00",
-  "scraped_at_display": "Scraped September 14, 2026 \u00b7 8:07 PM ET",
+  "scraped_at": "2026-09-15T02:49:41.870653+00:00",
+  "scraped_at_display": "Scraped September 14, 2026 \u00b7 10:49 PM ET",
   "date_label": "September 14, 2026",
   "games": [
     {
@@ -32,7 +32,7 @@
       "away_starter": "Tarik Skubal",
       "home_starter": "Nick Lodolo",
       "park": "Great American Ball Park",
-      "park_factor": "+5%",
+      "park_factor": "+9%",
       "park_factor_class": "pos",
       "yrfi": 52.5,
       "away_proj": 5.25,
@@ -78,7 +78,7 @@
       "away_starter": "Brandon Young",
       "home_starter": "Jonah Tong",
       "park": "Citi Field",
-      "park_factor": "-9%",
+      "park_factor": "-11%",
       "park_factor_class": "neg",
       "yrfi": 49.5,
       "away_proj": 3.91,
@@ -175,7 +175,7 @@
       "away_win_pct": 63.2,
       "home_win_pct": 36.8,
       "away_ml": -205,
-      "home_ml": 197,
+      "home_ml": 193,
       "ou_line": 11.5,
       "best_bet": false
     },
@@ -195,8 +195,8 @@
       "model_total": 7.48,
       "away_win_pct": 42.3,
       "home_win_pct": 57.7,
-      "away_ml": -105,
-      "home_ml": -103,
+      "away_ml": 100,
+      "home_ml": -106,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -216,7 +216,7 @@
       "model_total": 8.52,
       "away_win_pct": 43.2,
       "home_win_pct": 56.8,
-      "away_ml": 121,
+      "away_ml": 123,
       "home_ml": -132,
       "ou_line": 8.5,
       "best_bet": false
@@ -231,7 +231,7 @@
       "away_starter": "Tarik Skubal",
       "home_starter": "Nick Lodolo",
       "park": "Great American Ball Park",
-      "park_factor": "+5%",
+      "park_factor": "+9%",
       "park_factor_class": "pos",
       "yrfi": 52.5,
       "away_proj": 5.25,
