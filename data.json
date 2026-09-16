@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16T01:10:28.876118+00:00",
-  "scraped_at_display": "Scraped September 15, 2026 \u00b7 9:10 PM ET",
+  "scraped_at": "2026-09-16T02:45:04.535975+00:00",
+  "scraped_at_display": "Scraped September 15, 2026 \u00b7 10:45 PM ET",
   "date_label": "September 15, 2026",
   "games": [
     {
@@ -179,7 +179,7 @@
       "away_starter": "Martin Perez",
       "home_starter": "Kevin Gausman",
       "park": "Wrigley Field",
-      "park_factor": "-11%",
+      "park_factor": "-9%",
       "park_factor_class": "neg",
       "yrfi": 53.5,
       "away_proj": 4.36,
@@ -292,8 +292,8 @@
       "model_total": 8.58,
       "away_win_pct": 60.8,
       "home_win_pct": 39.2,
-      "away_ml": -158,
-      "home_ml": 155,
+      "away_ml": -159,
+      "home_ml": 146,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -313,8 +313,8 @@
       "model_total": 9.58,
       "away_win_pct": 45.1,
       "home_win_pct": 54.9,
-      "away_ml": 140,
-      "home_ml": -141,
+      "away_ml": 143,
+      "home_ml": -152,
       "ou_line": 8.5,
       "best_bet": false
     }
