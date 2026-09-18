@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17T22:57:36.973822+00:00",
-  "scraped_at_display": "Scraped September 17, 2026 \u00b7 6:57 PM ET",
+  "scraped_at": "2026-09-18T01:02:22.952118+00:00",
+  "scraped_at_display": "Scraped September 17, 2026 \u00b7 9:02 PM ET",
   "date_label": "September 17, 2026",
   "games": [
     {
@@ -36,7 +36,7 @@
       "away_starter": "Justin Wrobleski",
       "home_starter": "Brady Singer",
       "park": "Great American Ball Park",
-      "park_factor": "+12%",
+      "park_factor": "+10%",
       "park_factor_class": "pos",
       "yrfi": 54.1,
       "away_proj": 5.28,
@@ -128,7 +128,7 @@
       "model_total": 8.8,
       "away_win_pct": 47.1,
       "home_win_pct": 52.9,
-      "away_ml": 112,
+      "away_ml": 113,
       "home_ml": -122,
       "ou_line": 8.5,
       "best_bet": false
@@ -149,8 +149,8 @@
       "model_total": 8.59,
       "away_win_pct": 41.7,
       "home_win_pct": 58.3,
-      "away_ml": 101,
-      "home_ml": -104,
+      "away_ml": 103,
+      "home_ml": -110,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -171,7 +171,7 @@
       "away_win_pct": 55.8,
       "home_win_pct": 44.2,
       "away_ml": -117,
-      "home_ml": 108,
+      "home_ml": 110,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -192,7 +192,7 @@
       "away_win_pct": 51.9,
       "home_win_pct": 48.1,
       "away_ml": 102,
-      "home_ml": -104,
+      "home_ml": -105,
       "ou_line": 7.5,
       "best_bet": false
     }
