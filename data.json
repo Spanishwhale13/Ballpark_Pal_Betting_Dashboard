@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-18T01:02:22.952118+00:00",
-  "scraped_at_display": "Scraped September 17, 2026 \u00b7 9:02 PM ET",
+  "scraped_at": "2026-09-18T02:35:43.269418+00:00",
+  "scraped_at_display": "Scraped September 17, 2026 \u00b7 10:35 PM ET",
   "date_label": "September 17, 2026",
   "games": [
     {
@@ -36,7 +36,7 @@
       "away_starter": "Justin Wrobleski",
       "home_starter": "Brady Singer",
       "park": "Great American Ball Park",
-      "park_factor": "+10%",
+      "park_factor": "+12%",
       "park_factor_class": "pos",
       "yrfi": 54.1,
       "away_proj": 5.28,
@@ -120,8 +120,8 @@
       "away_starter": "Aaron Nola",
       "home_starter": "Nolan McLean",
       "park": "Citi Field",
-      "park_factor": "-1%",
-      "park_factor_class": "neut",
+      "park_factor": "-3%",
+      "park_factor_class": "neg",
       "yrfi": 50.9,
       "away_proj": 4.34,
       "home_proj": 4.46,
@@ -141,7 +141,7 @@
       "away_starter": "Framber Valdez",
       "home_starter": "Erick Fedde",
       "park": "Rate Field",
-      "park_factor": "-6%",
+      "park_factor": "-4%",
       "park_factor_class": "neg",
       "yrfi": 49.5,
       "away_proj": 4.01,
@@ -191,7 +191,7 @@
       "model_total": 7.7,
       "away_win_pct": 51.9,
       "home_win_pct": 48.1,
-      "away_ml": 102,
+      "away_ml": 101,
       "home_ml": -105,
       "ou_line": 7.5,
       "best_bet": false
