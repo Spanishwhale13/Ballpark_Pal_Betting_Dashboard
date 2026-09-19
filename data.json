@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-18T23:46:18.311005+00:00",
-  "scraped_at_display": "Scraped September 18, 2026 \u00b7 7:46 PM ET",
+  "scraped_at": "2026-09-19T02:34:51.314135+00:00",
+  "scraped_at_display": "Scraped September 18, 2026 \u00b7 10:34 PM ET",
   "date_label": "September 18, 2026",
   "games": [
     {
@@ -171,7 +171,7 @@
       "away_win_pct": 55.0,
       "home_win_pct": 45.0,
       "away_ml": -132,
-      "home_ml": 121,
+      "home_ml": 122,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -212,7 +212,7 @@
       "model_total": 10.32,
       "away_win_pct": 53.5,
       "home_win_pct": 46.5,
-      "away_ml": -179,
+      "away_ml": -180,
       "home_ml": 164,
       "ou_line": 10.5,
       "best_bet": false
@@ -233,8 +233,8 @@
       "model_total": 8.08,
       "away_win_pct": 53.3,
       "home_win_pct": 46.7,
-      "away_ml": -107,
-      "home_ml": -101,
+      "away_ml": -108,
+      "home_ml": 100,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -246,8 +246,8 @@
       "away_starter": "Connor Prielipp",
       "home_starter": "Grayson Rodriguez",
       "park": "Angel Stadium",
-      "park_factor": "-2%",
-      "park_factor_class": "neut",
+      "park_factor": "-3%",
+      "park_factor_class": "neg",
       "yrfi": 46.7,
       "away_proj": 4.05,
       "home_proj": 3.89,
@@ -255,8 +255,8 @@
       "away_win_pct": 48.4,
       "home_win_pct": 51.6,
       "away_ml": -106,
-      "home_ml": 102,
-      "ou_line": 7.5,
+      "home_ml": 100,
+      "ou_line": 8.5,
       "best_bet": false
     },
     {
@@ -275,8 +275,8 @@
       "model_total": 7.5,
       "away_win_pct": 39.4,
       "home_win_pct": 60.6,
-      "away_ml": 184,
-      "home_ml": -200,
+      "away_ml": 175,
+      "home_ml": -192,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -311,14 +311,14 @@
       "park": "Dodger Stadium",
       "park_factor": "+1%",
       "park_factor_class": "neut",
-      "yrfi": 47.6,
-      "away_proj": 3.2,
-      "home_proj": 5.03,
-      "model_total": 8.23,
-      "away_win_pct": 29.2,
-      "home_win_pct": 70.8,
-      "away_ml": 261,
-      "home_ml": -294,
+      "yrfi": 46.1,
+      "away_proj": 3.12,
+      "home_proj": 5.07,
+      "model_total": 8.19,
+      "away_win_pct": 27.7,
+      "home_win_pct": 72.3,
+      "away_ml": 275,
+      "home_ml": -312,
       "ou_line": 8.5,
       "best_bet": false
     }
