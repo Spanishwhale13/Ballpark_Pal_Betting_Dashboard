@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T21:42:49.282176+00:00",
-  "scraped_at_display": "Scraped September 20, 2026 \u00b7 5:42 PM ET",
+  "scraped_at": "2026-09-20T23:44:15.723349+00:00",
+  "scraped_at_display": "Scraped September 20, 2026 \u00b7 7:44 PM ET",
   "date_label": "September 20, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Cristopher Sanchez",
       "home_starter": "Jonah Tong",
       "park": "Citi Field",
-      "park_factor": "-4%",
+      "park_factor": "-3%",
       "park_factor_class": "neg",
       "yrfi": 51.4,
       "away_proj": 4.81,
@@ -313,8 +313,8 @@
       "model_total": 8.72,
       "away_win_pct": 64.2,
       "home_win_pct": 35.8,
-      "away_ml": -200,
-      "home_ml": 182,
+      "away_ml": -201,
+      "home_ml": 190,
       "ou_line": 7.5,
       "best_bet": false
     }
