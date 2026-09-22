@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21T22:05:02.915485+00:00",
-  "scraped_at_display": "Scraped September 21, 2026 \u00b7 6:05 PM ET",
+  "scraped_at": "2026-09-22T00:57:59.674884+00:00",
+  "scraped_at_display": "Scraped September 21, 2026 \u00b7 8:57 PM ET",
   "date_label": "September 21, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 8.23,
       "away_win_pct": 54.8,
       "home_win_pct": 45.2,
-      "away_ml": -105,
-      "home_ml": -103,
+      "away_ml": -103,
+      "home_ml": 100,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -40,8 +40,8 @@
       "model_total": 8.59,
       "away_win_pct": 48.0,
       "home_win_pct": 52.0,
-      "away_ml": 117,
-      "home_ml": -127,
+      "away_ml": 119,
+      "home_ml": -129,
       "ou_line": 8.5,
       "best_bet": false
     },
@@ -55,14 +55,14 @@
       "park": "Oracle Park",
       "park_factor": "-12%",
       "park_factor_class": "neg",
-      "yrfi": 41.7,
-      "away_proj": 3.85,
-      "home_proj": 3.23,
-      "model_total": 7.08,
-      "away_win_pct": 54.6,
-      "home_win_pct": 45.4,
-      "away_ml": -116,
-      "home_ml": 108,
+      "yrfi": 39.7,
+      "away_proj": 3.68,
+      "home_proj": 2.87,
+      "model_total": 6.55,
+      "away_win_pct": 57.8,
+      "home_win_pct": 42.2,
+      "away_ml": -117,
+      "home_ml": 110,
       "ou_line": 8.5,
       "best_bet": false
     }
