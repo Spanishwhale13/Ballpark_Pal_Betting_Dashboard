@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-23T23:21:53.913286+00:00",
-  "scraped_at_display": "Scraped September 23, 2026 \u00b7 7:21 PM ET",
+  "scraped_at": "2026-09-24T01:32:57.220403+00:00",
+  "scraped_at_display": "Scraped September 23, 2026 \u00b7 9:32 PM ET",
   "date_label": "September 23, 2026",
   "games": [
     {
@@ -200,7 +200,7 @@
       "away_win_pct": 31.3,
       "home_win_pct": 68.7,
       "away_ml": 233,
-      "home_ml": -260,
+      "home_ml": -261,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -241,8 +241,8 @@
       "model_total": 7.99,
       "away_win_pct": 37.5,
       "home_win_pct": 62.5,
-      "away_ml": 160,
-      "home_ml": -174,
+      "away_ml": 161,
+      "home_ml": -176,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -283,7 +283,7 @@
       "model_total": 11.27,
       "away_win_pct": 56.9,
       "home_win_pct": 43.1,
-      "away_ml": -155,
+      "away_ml": -160,
       "home_ml": 146,
       "ou_line": 11.5,
       "best_bet": false
@@ -304,8 +304,8 @@
       "model_total": 10.3,
       "away_win_pct": 52.6,
       "home_win_pct": 47.4,
-      "away_ml": -124,
-      "home_ml": 114,
+      "away_ml": -129,
+      "home_ml": 123,
       "ou_line": 9.5,
       "best_bet": false
     },
@@ -317,16 +317,16 @@
       "away_starter": "Ethan Pecko",
       "home_starter": "George Kirby",
       "park": "T-Mobile Park",
-      "park_factor": "-15%",
+      "park_factor": "-16%",
       "park_factor_class": "neg",
-      "yrfi": 49.4,
-      "away_proj": 4.36,
-      "home_proj": 3.97,
-      "model_total": 8.33,
-      "away_win_pct": 52.3,
-      "home_win_pct": 47.7,
-      "away_ml": 109,
-      "home_ml": -118,
+      "yrfi": 48.8,
+      "away_proj": 4.11,
+      "home_proj": 4.01,
+      "model_total": 8.12,
+      "away_win_pct": 49.4,
+      "home_win_pct": 50.6,
+      "away_ml": 115,
+      "home_ml": -122,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -346,8 +346,8 @@
       "model_total": 9.03,
       "away_win_pct": 27.0,
       "home_win_pct": 73.0,
-      "away_ml": 189,
-      "home_ml": -209,
+      "away_ml": 193,
+      "home_ml": -213,
       "ou_line": 8.5,
       "best_bet": false
     }
