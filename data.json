@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-24T23:46:22.928324+00:00",
-  "scraped_at_display": "Scraped September 24, 2026 \u00b7 7:46 PM ET",
+  "scraped_at": "2026-09-25T02:52:13.263250+00:00",
+  "scraped_at_display": "Scraped September 24, 2026 \u00b7 10:52 PM ET",
   "date_label": "September 24, 2026",
   "games": [
     {
@@ -162,7 +162,7 @@
       "away_starter": "Ian Seymour",
       "home_starter": "Cam Schlittler",
       "park": "Yankee Stadium",
-      "park_factor": "-20%",
+      "park_factor": "-17%",
       "park_factor_class": "neg",
       "yrfi": 39.5,
       "away_proj": 2.99,
@@ -238,7 +238,7 @@
       "away_win_pct": 40.2,
       "home_win_pct": 59.8,
       "away_ml": 175,
-      "home_ml": -186,
+      "home_ml": -183,
       "ou_line": 6.5,
       "best_bet": false
     },
@@ -258,7 +258,7 @@
       "model_total": 8.15,
       "away_win_pct": 42.4,
       "home_win_pct": 57.6,
-      "away_ml": 148,
+      "away_ml": 149,
       "home_ml": -162,
       "ou_line": 7.5,
       "best_bet": false
