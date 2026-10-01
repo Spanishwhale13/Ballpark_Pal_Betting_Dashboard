@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-01T10:23:43.924100+00:00",
-  "scraped_at_display": "Scraped October 1, 2026 \u00b7 6:23 AM ET",
+  "scraped_at": "2026-10-01T18:38:18.679266+00:00",
+  "scraped_at_display": "Scraped October 1, 2026 \u00b7 2:38 PM ET",
   "date_label": "October 1, 2026",
   "games": [
     {
@@ -11,22 +11,22 @@
       "away_starter": "Aaron Nola",
       "home_starter": "Ray Kerr",
       "park": "Truist Park",
-      "park_factor": "-4%",
+      "park_factor": "-14%",
       "park_factor_class": "neg",
-      "yrfi": 49.9,
-      "away_proj": 4.85,
-      "home_proj": 4.23,
-      "model_total": 9.08,
+      "yrfi": 51.9,
+      "away_proj": 4.94,
+      "home_proj": 4.27,
+      "model_total": 9.21,
       "away_win_pct": 54.3,
       "home_win_pct": 45.7,
-      "away_ml": -108,
-      "home_ml": 100,
+      "away_ml": -106,
+      "home_ml": -102,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Philadelphia Phillies @ Atlanta Braves 7.5",
-      "best_bet_edge": 1.58
+      "best_bet_edge": 1.71
     }
   ],
   "best_bets": [
@@ -38,22 +38,22 @@
       "away_starter": "Aaron Nola",
       "home_starter": "Ray Kerr",
       "park": "Truist Park",
-      "park_factor": "-4%",
+      "park_factor": "-14%",
       "park_factor_class": "neg",
-      "yrfi": 49.9,
-      "away_proj": 4.85,
-      "home_proj": 4.23,
-      "model_total": 9.08,
+      "yrfi": 51.9,
+      "away_proj": 4.94,
+      "home_proj": 4.27,
+      "model_total": 9.21,
       "away_win_pct": 54.3,
       "home_win_pct": 45.7,
-      "away_ml": -108,
-      "home_ml": 100,
+      "away_ml": -106,
+      "home_ml": -102,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Philadelphia Phillies @ Atlanta Braves 7.5",
-      "best_bet_edge": 1.58
+      "best_bet_edge": 1.71
     }
   ]
 }
