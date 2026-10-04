@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T02:16:15.169137+00:00",
-  "scraped_at_display": "Scraped October 3, 2026 \u00b7 10:16 PM ET",
+  "scraped_at": "2026-10-04T03:42:21.913440+00:00",
+  "scraped_at_display": "Scraped October 3, 2026 \u00b7 11:42 PM ET",
   "date_label": "October 3, 2026",
   "games": [
     {
@@ -32,7 +32,7 @@
       "away_starter": "Dylan Dodd",
       "home_starter": "Tarik Skubal",
       "park": "Dodger Stadium",
-      "park_factor": "+6%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 51.0,
       "away_proj": 4.36,
@@ -101,7 +101,7 @@
       "away_starter": "Dylan Dodd",
       "home_starter": "Tarik Skubal",
       "park": "Dodger Stadium",
-      "park_factor": "+6%",
+      "park_factor": "+5%",
       "park_factor_class": "pos",
       "yrfi": 51.0,
       "away_proj": 4.36,
