@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T20:17:06.037596+00:00",
-  "scraped_at_display": "Scraped October 4, 2026 \u00b7 4:17 PM ET",
+  "scraped_at": "2026-10-04T23:22:23.928805+00:00",
+  "scraped_at_display": "Scraped October 4, 2026 \u00b7 7:22 PM ET",
   "date_label": "October 4, 2026",
   "games": [
     {
@@ -32,19 +32,49 @@
       "away_starter": "Ray Kerr",
       "home_starter": "Blake Snell",
       "park": "Dodger Stadium",
-      "park_factor": "+3%",
+      "park_factor": "+6%",
       "park_factor_class": "pos",
-      "yrfi": 52.5,
-      "away_proj": 4.02,
-      "home_proj": 4.59,
-      "model_total": 8.61,
-      "away_win_pct": 41.4,
-      "home_win_pct": 58.6,
-      "away_ml": 202,
-      "home_ml": -212,
+      "yrfi": 50.0,
+      "away_proj": 4.3,
+      "home_proj": 5.54,
+      "model_total": 9.84,
+      "away_win_pct": 37.0,
+      "home_win_pct": 63.0,
+      "away_ml": 211,
+      "home_ml": -213,
       "ou_line": 7.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Atlanta Braves @ Los Angeles Dodgers 7.5",
+      "best_bet_edge": 2.34
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "849823",
+      "time": "8:00",
+      "away": "Atlanta Braves",
+      "home": "Los Angeles Dodgers",
+      "away_starter": "Ray Kerr",
+      "home_starter": "Blake Snell",
+      "park": "Dodger Stadium",
+      "park_factor": "+6%",
+      "park_factor_class": "pos",
+      "yrfi": 50.0,
+      "away_proj": 4.3,
+      "home_proj": 5.54,
+      "model_total": 9.84,
+      "away_win_pct": 37.0,
+      "home_win_pct": 63.0,
+      "away_ml": 211,
+      "home_ml": -213,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Atlanta Braves @ Los Angeles Dodgers 7.5",
+      "best_bet_edge": 2.34
+    }
+  ]
 }
