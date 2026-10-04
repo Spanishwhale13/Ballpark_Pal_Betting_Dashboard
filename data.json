@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T17:12:43.468576+00:00",
-  "scraped_at_display": "Scraped October 4, 2026 \u00b7 1:12 PM ET",
+  "scraped_at": "2026-10-04T20:17:06.037596+00:00",
+  "scraped_at_display": "Scraped October 4, 2026 \u00b7 4:17 PM ET",
   "date_label": "October 4, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 7.98,
       "away_win_pct": 48.6,
       "home_win_pct": 51.4,
-      "away_ml": 123,
-      "home_ml": -128,
+      "away_ml": 117,
+      "home_ml": -127,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -29,19 +29,19 @@
       "time": "8:00",
       "away": "Atlanta Braves",
       "home": "Los Angeles Dodgers",
-      "away_starter": "Chris Sale",
+      "away_starter": "Ray Kerr",
       "home_starter": "Blake Snell",
       "park": "Dodger Stadium",
       "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 44.8,
-      "away_proj": 4.17,
-      "home_proj": 4.34,
-      "model_total": 8.51,
-      "away_win_pct": 46.2,
-      "home_win_pct": 53.8,
-      "away_ml": 140,
-      "home_ml": -146,
+      "yrfi": 52.5,
+      "away_proj": 4.02,
+      "home_proj": 4.59,
+      "model_total": 8.61,
+      "away_win_pct": 41.4,
+      "home_win_pct": 58.6,
+      "away_ml": 202,
+      "home_ml": -212,
       "ou_line": 7.5,
       "best_bet": false
     }
