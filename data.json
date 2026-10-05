@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T23:22:23.928805+00:00",
-  "scraped_at_display": "Scraped October 4, 2026 \u00b7 7:22 PM ET",
+  "scraped_at": "2026-10-05T02:11:27.104122+00:00",
+  "scraped_at_display": "Scraped October 4, 2026 \u00b7 10:11 PM ET",
   "date_label": "October 4, 2026",
   "games": [
     {
@@ -40,8 +40,8 @@
       "model_total": 9.84,
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
-      "away_ml": 211,
-      "home_ml": -213,
+      "away_ml": 208,
+      "home_ml": -178,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -67,8 +67,8 @@
       "model_total": 9.84,
       "away_win_pct": 37.0,
       "home_win_pct": 63.0,
-      "away_ml": 211,
-      "home_ml": -213,
+      "away_ml": 208,
+      "home_ml": -178,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
