@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T02:11:27.104122+00:00",
-  "scraped_at_display": "Scraped October 4, 2026 \u00b7 10:11 PM ET",
+  "scraped_at": "2026-10-05T03:26:05.548931+00:00",
+  "scraped_at_display": "Scraped October 4, 2026 \u00b7 11:26 PM ET",
   "date_label": "October 4, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Michael King",
       "home_starter": "Logan Henderson",
       "park": "American Family Field",
-      "park_factor": "-9%",
+      "park_factor": "-8%",
       "park_factor_class": "neg",
       "yrfi": 43.9,
       "away_proj": 4.0,
@@ -32,7 +32,7 @@
       "away_starter": "Ray Kerr",
       "home_starter": "Blake Snell",
       "park": "Dodger Stadium",
-      "park_factor": "+6%",
+      "park_factor": "+4%",
       "park_factor_class": "pos",
       "yrfi": 50.0,
       "away_proj": 4.3,
@@ -59,7 +59,7 @@
       "away_starter": "Ray Kerr",
       "home_starter": "Blake Snell",
       "park": "Dodger Stadium",
-      "park_factor": "+6%",
+      "park_factor": "+4%",
       "park_factor_class": "pos",
       "yrfi": 50.0,
       "away_proj": 4.3,
