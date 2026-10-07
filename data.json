@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-06T22:50:41.266609+00:00",
-  "scraped_at_display": "Scraped October 6, 2026 \u00b7 6:50 PM ET",
+  "scraped_at": "2026-10-07T01:54:49.584353+00:00",
+  "scraped_at_display": "Scraped October 6, 2026 \u00b7 9:54 PM ET",
   "date_label": "October 6, 2026",
   "games": [
     {
@@ -34,14 +34,14 @@
       "park": "Petco Park",
       "park_factor": "-8%",
       "park_factor_class": "neg",
-      "yrfi": 47.1,
+      "yrfi": 48.0,
       "away_proj": 3.79,
-      "home_proj": 4.51,
-      "model_total": 8.3,
-      "away_win_pct": 39.3,
-      "home_win_pct": 60.7,
-      "away_ml": 122,
-      "home_ml": -132,
+      "home_proj": 4.42,
+      "model_total": 8.21,
+      "away_win_pct": 40.2,
+      "home_win_pct": 59.8,
+      "away_ml": 124,
+      "home_ml": -130,
       "ou_line": 7.5,
       "best_bet": false
     }
