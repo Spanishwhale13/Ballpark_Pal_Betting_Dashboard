@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-07T01:54:49.584353+00:00",
-  "scraped_at_display": "Scraped October 6, 2026 \u00b7 9:54 PM ET",
+  "scraped_at": "2026-10-07T03:40:17.367152+00:00",
+  "scraped_at_display": "Scraped October 6, 2026 \u00b7 11:40 PM ET",
   "date_label": "October 6, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Yoshinobu Yamamoto",
       "home_starter": "Chris Sale",
       "park": "Truist Park",
-      "park_factor": "-9%",
+      "park_factor": "-8%",
       "park_factor_class": "neg",
       "yrfi": 39.1,
       "away_proj": 3.8,
