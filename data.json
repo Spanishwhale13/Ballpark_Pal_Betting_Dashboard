@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-07T23:38:44.916477+00:00",
-  "scraped_at_display": "Scraped October 7, 2026 \u00b7 7:38 PM ET",
+  "scraped_at": "2026-10-08T03:54:14.451358+00:00",
+  "scraped_at_display": "Scraped October 7, 2026 \u00b7 11:54 PM ET",
   "date_label": "October 7, 2026",
   "games": [
     {
@@ -11,8 +11,8 @@
       "away_starter": "Daniel Espino",
       "home_starter": "Sean Newcomb",
       "park": "Rate Field",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
+      "park_factor": "+6%",
+      "park_factor_class": "pos",
       "yrfi": 48.0,
       "away_proj": 5.0,
       "home_proj": 4.58,
@@ -36,8 +36,8 @@
       "away_starter": "Tyler Glasnow",
       "home_starter": "Tyler Mahle",
       "park": "Truist Park",
-      "park_factor": "-1%",
-      "park_factor_class": "neut",
+      "park_factor": "-3%",
+      "park_factor_class": "neg",
       "yrfi": 48.4,
       "away_proj": 4.93,
       "home_proj": 4.34,
@@ -69,8 +69,8 @@
       "model_total": 8.34,
       "away_win_pct": 42.7,
       "home_win_pct": 57.3,
-      "away_ml": 152,
-      "home_ml": -166,
+      "away_ml": 160,
+      "home_ml": -167,
       "ou_line": 7.5,
       "best_bet": false
     },
@@ -82,7 +82,7 @@
       "away_starter": "Robert Gasser",
       "home_starter": "Walker Buehler",
       "park": "Petco Park",
-      "park_factor": "-6%",
+      "park_factor": "-7%",
       "park_factor_class": "neg",
       "yrfi": 47.5,
       "away_proj": 3.83,
@@ -91,13 +91,13 @@
       "away_win_pct": 39.0,
       "home_win_pct": 61.0,
       "away_ml": -104,
-      "home_ml": -104,
+      "home_ml": -103,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "San Diego Padres +-104",
-      "best_bet_edge": 10.02
+      "best_bet_desc": "San Diego Padres +-103",
+      "best_bet_edge": 10.26
     }
   ],
   "best_bets": [
@@ -109,8 +109,8 @@
       "away_starter": "Daniel Espino",
       "home_starter": "Sean Newcomb",
       "park": "Rate Field",
-      "park_factor": "-3%",
-      "park_factor_class": "neg",
+      "park_factor": "+6%",
+      "park_factor_class": "pos",
       "yrfi": 48.0,
       "away_proj": 5.0,
       "home_proj": 4.58,
@@ -134,8 +134,8 @@
       "away_starter": "Tyler Glasnow",
       "home_starter": "Tyler Mahle",
       "park": "Truist Park",
-      "park_factor": "-1%",
-      "park_factor_class": "neut",
+      "park_factor": "-3%",
+      "park_factor_class": "neg",
       "yrfi": 48.4,
       "away_proj": 4.93,
       "home_proj": 4.34,
@@ -159,7 +159,7 @@
       "away_starter": "Robert Gasser",
       "home_starter": "Walker Buehler",
       "park": "Petco Park",
-      "park_factor": "-6%",
+      "park_factor": "-7%",
       "park_factor_class": "neg",
       "yrfi": 47.5,
       "away_proj": 3.83,
@@ -168,13 +168,13 @@
       "away_win_pct": 39.0,
       "home_win_pct": 61.0,
       "away_ml": -104,
-      "home_ml": -104,
+      "home_ml": -103,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "ml_home",
-      "best_bet_desc": "San Diego Padres +-104",
-      "best_bet_edge": 10.02
+      "best_bet_desc": "San Diego Padres +-103",
+      "best_bet_edge": 10.26
     }
   ]
 }
