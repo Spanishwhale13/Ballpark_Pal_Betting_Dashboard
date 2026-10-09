@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-09T18:35:40.774775+00:00",
-  "scraped_at_display": "Scraped October 9, 2026 \u00b7 2:35 PM ET",
+  "scraped_at": "2026-10-09T22:58:45.103626+00:00",
+  "scraped_at_display": "Scraped October 9, 2026 \u00b7 6:58 PM ET",
   "date_label": "October 9, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Sean Burke",
       "home_starter": "Gavin Williams",
       "park": "Progressive Field",
-      "park_factor": "0%",
+      "park_factor": "-1%",
       "park_factor_class": "neut",
       "yrfi": 45.1,
       "away_proj": 4.12,
