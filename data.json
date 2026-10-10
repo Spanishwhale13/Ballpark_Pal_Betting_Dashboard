@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10T03:44:35.712220+00:00",
-  "scraped_at_display": "Scraped October 9, 2026 \u00b7 11:44 PM ET",
-  "date_label": "October 9, 2026",
+  "scraped_at": "2026-10-10T17:33:24.698929+00:00",
+  "scraped_at_display": "Scraped October 10, 2026 \u00b7 1:33 PM ET",
+  "date_label": "October 10, 2026",
   "games": [
     {
       "gamepk": "849831",
@@ -11,19 +11,49 @@
       "away_starter": "Sean Burke",
       "home_starter": "Gavin Williams",
       "park": "Progressive Field",
-      "park_factor": "+1%",
-      "park_factor_class": "neut",
-      "yrfi": 44.4,
-      "away_proj": 4.19,
-      "home_proj": 4.69,
-      "model_total": 8.88,
-      "away_win_pct": 41.4,
-      "home_win_pct": 58.6,
-      "away_ml": 118,
+      "park_factor": "+4%",
+      "park_factor_class": "pos",
+      "yrfi": 45.0,
+      "away_proj": 4.41,
+      "home_proj": 4.91,
+      "model_total": 9.32,
+      "away_win_pct": 42.1,
+      "home_win_pct": 57.9,
+      "away_ml": 127,
       "home_ml": -135,
       "ou_line": 7.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Chicago White Sox @ Cleveland Guardians 7.5",
+      "best_bet_edge": 1.82
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "849831",
+      "time": "8:00",
+      "away": "Chicago White Sox",
+      "home": "Cleveland Guardians",
+      "away_starter": "Sean Burke",
+      "home_starter": "Gavin Williams",
+      "park": "Progressive Field",
+      "park_factor": "+4%",
+      "park_factor_class": "pos",
+      "yrfi": 45.0,
+      "away_proj": 4.41,
+      "home_proj": 4.91,
+      "model_total": 9.32,
+      "away_win_pct": 42.1,
+      "home_win_pct": 57.9,
+      "away_ml": 127,
+      "home_ml": -135,
+      "ou_line": 7.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Chicago White Sox @ Cleveland Guardians 7.5",
+      "best_bet_edge": 1.82
+    }
+  ]
 }
