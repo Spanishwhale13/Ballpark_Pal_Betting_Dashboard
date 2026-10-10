@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-10T17:33:24.698929+00:00",
-  "scraped_at_display": "Scraped October 10, 2026 \u00b7 1:33 PM ET",
+  "scraped_at": "2026-10-10T20:56:34.221259+00:00",
+  "scraped_at_display": "Scraped October 10, 2026 \u00b7 4:56 PM ET",
   "date_label": "October 10, 2026",
   "games": [
     {
@@ -11,22 +11,22 @@
       "away_starter": "Sean Burke",
       "home_starter": "Gavin Williams",
       "park": "Progressive Field",
-      "park_factor": "+4%",
+      "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 45.0,
-      "away_proj": 4.41,
-      "home_proj": 4.91,
-      "model_total": 9.32,
-      "away_win_pct": 42.1,
-      "home_win_pct": 57.9,
-      "away_ml": 127,
-      "home_ml": -135,
+      "yrfi": 46.3,
+      "away_proj": 4.19,
+      "home_proj": 4.99,
+      "model_total": 9.18,
+      "away_win_pct": 39.1,
+      "home_win_pct": 60.9,
+      "away_ml": 128,
+      "home_ml": -134,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Chicago White Sox @ Cleveland Guardians 7.5",
-      "best_bet_edge": 1.82
+      "best_bet_edge": 1.68
     }
   ],
   "best_bets": [
@@ -38,22 +38,22 @@
       "away_starter": "Sean Burke",
       "home_starter": "Gavin Williams",
       "park": "Progressive Field",
-      "park_factor": "+4%",
+      "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 45.0,
-      "away_proj": 4.41,
-      "home_proj": 4.91,
-      "model_total": 9.32,
-      "away_win_pct": 42.1,
-      "home_win_pct": 57.9,
-      "away_ml": 127,
-      "home_ml": -135,
+      "yrfi": 46.3,
+      "away_proj": 4.19,
+      "home_proj": 4.99,
+      "model_total": 9.18,
+      "away_win_pct": 39.1,
+      "home_win_pct": 60.9,
+      "away_ml": 128,
+      "home_ml": -134,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Chicago White Sox @ Cleveland Guardians 7.5",
-      "best_bet_edge": 1.82
+      "best_bet_edge": 1.68
     }
   ]
 }
