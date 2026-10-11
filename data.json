@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-11T17:51:10.995263+00:00",
-  "scraped_at_display": "Scraped October 11, 2026 \u00b7 1:51 PM ET",
+  "scraped_at": "2026-10-11T21:17:45.366812+00:00",
+  "scraped_at_display": "Scraped October 11, 2026 \u00b7 5:17 PM ET",
   "date_label": "October 11, 2026",
   "games": [
     {
@@ -11,19 +11,49 @@
       "away_starter": "Tarik Skubal",
       "home_starter": "Jacob Misiorowski",
       "park": "American Family Field",
-      "park_factor": "-9%",
+      "park_factor": "-10%",
       "park_factor_class": "neg",
-      "yrfi": 38.6,
-      "away_proj": 3.97,
-      "home_proj": 3.25,
-      "model_total": 7.22,
-      "away_win_pct": 55.0,
-      "home_win_pct": 45.0,
-      "away_ml": -103,
-      "home_ml": -105,
-      "ou_line": 6.5,
-      "best_bet": false
+      "yrfi": 37.4,
+      "away_proj": 3.94,
+      "home_proj": 3.21,
+      "model_total": 7.15,
+      "away_win_pct": 55.5,
+      "home_win_pct": 44.5,
+      "away_ml": -106,
+      "home_ml": -102,
+      "ou_line": 5.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Los Angeles Dodgers @ Milwaukee Brewers 5.5",
+      "best_bet_edge": 1.65
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "849809",
+      "time": "8:00",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
+      "away_starter": "Tarik Skubal",
+      "home_starter": "Jacob Misiorowski",
+      "park": "American Family Field",
+      "park_factor": "-10%",
+      "park_factor_class": "neg",
+      "yrfi": 37.4,
+      "away_proj": 3.94,
+      "home_proj": 3.21,
+      "model_total": 7.15,
+      "away_win_pct": 55.5,
+      "home_win_pct": 44.5,
+      "away_ml": -106,
+      "home_ml": -102,
+      "ou_line": 5.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Los Angeles Dodgers @ Milwaukee Brewers 5.5",
+      "best_bet_edge": 1.65
+    }
+  ]
 }
