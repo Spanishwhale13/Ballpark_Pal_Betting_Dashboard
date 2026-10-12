@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12T00:39:35.788013+00:00",
-  "scraped_at_display": "Scraped October 11, 2026 \u00b7 8:39 PM ET",
+  "scraped_at": "2026-10-12T03:40:35.767043+00:00",
+  "scraped_at_display": "Scraped October 11, 2026 \u00b7 11:40 PM ET",
   "date_label": "October 11, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Tarik Skubal",
       "home_starter": "Jacob Misiorowski",
       "park": "American Family Field",
-      "park_factor": "-10%",
+      "park_factor": "-9%",
       "park_factor_class": "neg",
       "yrfi": 37.4,
       "away_proj": 3.94,
