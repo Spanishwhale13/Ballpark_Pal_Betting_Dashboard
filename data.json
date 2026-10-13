@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-13T19:40:28.927518+00:00",
-  "scraped_at_display": "Scraped October 13, 2026 \u00b7 3:40 PM ET",
+  "scraped_at": "2026-10-13T23:32:12.813995+00:00",
+  "scraped_at_display": "Scraped October 13, 2026 \u00b7 7:32 PM ET",
   "date_label": "October 13, 2026",
   "games": [
     {
@@ -14,16 +14,46 @@
       "park_factor": "-6%",
       "park_factor_class": "neg",
       "yrfi": 42.5,
-      "away_proj": 3.7,
-      "home_proj": 4.21,
-      "model_total": 7.91,
-      "away_win_pct": 43.1,
-      "home_win_pct": 56.9,
-      "away_ml": 119,
-      "home_ml": -129,
+      "away_proj": 3.65,
+      "home_proj": 4.37,
+      "model_total": 8.02,
+      "away_win_pct": 40.4,
+      "home_win_pct": 59.6,
+      "away_ml": 120,
+      "home_ml": -128,
       "ou_line": 6.5,
-      "best_bet": false
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Cleveland Guardians @ Tampa Bay Rays 6.5",
+      "best_bet_edge": 1.52
     }
   ],
-  "best_bets": []
+  "best_bets": [
+    {
+      "gamepk": "849813",
+      "time": "8:00",
+      "away": "Cleveland Guardians",
+      "home": "Tampa Bay Rays",
+      "away_starter": "Parker Messick",
+      "home_starter": "Freddy Peralta",
+      "park": "Tropicana Field",
+      "park_factor": "-6%",
+      "park_factor_class": "neg",
+      "yrfi": 42.5,
+      "away_proj": 3.65,
+      "home_proj": 4.37,
+      "model_total": 8.02,
+      "away_win_pct": 40.4,
+      "home_win_pct": 59.6,
+      "away_ml": 120,
+      "home_ml": -128,
+      "ou_line": 6.5,
+      "best_bet": true,
+      "best_bet_rank": 1,
+      "best_bet_type": "over",
+      "best_bet_desc": "OVER Cleveland Guardians @ Tampa Bay Rays 6.5",
+      "best_bet_edge": 1.52
+    }
+  ]
 }
