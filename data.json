@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-13T04:53:33.294326+00:00",
-  "scraped_at_display": "Scraped October 13, 2026 \u00b7 12:53 AM ET",
+  "scraped_at": "2026-10-13T19:40:28.927518+00:00",
+  "scraped_at_display": "Scraped October 13, 2026 \u00b7 3:40 PM ET",
   "date_label": "October 13, 2026",
   "games": [
     {
@@ -11,16 +11,16 @@
       "away_starter": "Parker Messick",
       "home_starter": "Freddy Peralta",
       "park": "Tropicana Field",
-      "park_factor": "-5%",
+      "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 44.0,
+      "yrfi": 42.5,
       "away_proj": 3.7,
-      "home_proj": 4.25,
-      "model_total": 7.95,
-      "away_win_pct": 42.1,
-      "home_win_pct": 57.9,
-      "away_ml": 120,
-      "home_ml": -130,
+      "home_proj": 4.21,
+      "model_total": 7.91,
+      "away_win_pct": 43.1,
+      "home_win_pct": 56.9,
+      "away_ml": 119,
+      "home_ml": -129,
       "ou_line": 6.5,
       "best_bet": false
     }
