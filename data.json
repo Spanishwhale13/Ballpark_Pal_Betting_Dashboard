@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T17:41:43.640916+00:00",
-  "scraped_at_display": "Scraped October 14, 2026 \u00b7 1:41 PM ET",
+  "scraped_at": "2026-10-14T21:08:17.130399+00:00",
+  "scraped_at_display": "Scraped October 14, 2026 \u00b7 5:08 PM ET",
   "date_label": "October 14, 2026",
   "games": [
     {
@@ -13,20 +13,20 @@
       "park": "Dodger Stadium",
       "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 49.2,
-      "away_proj": 3.97,
-      "home_proj": 5.24,
-      "model_total": 9.21,
-      "away_win_pct": 35.5,
-      "home_win_pct": 64.5,
+      "yrfi": 47.8,
+      "away_proj": 3.88,
+      "home_proj": 5.17,
+      "model_total": 9.05,
+      "away_win_pct": 35.0,
+      "home_win_pct": 65.0,
       "away_ml": 154,
-      "home_ml": -168,
+      "home_ml": -159,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Milwaukee Brewers @ Los Angeles Dodgers 7.5",
-      "best_bet_edge": 1.71
+      "best_bet_edge": 1.55
     }
   ],
   "best_bets": [
@@ -40,20 +40,20 @@
       "park": "Dodger Stadium",
       "park_factor": "+3%",
       "park_factor_class": "pos",
-      "yrfi": 49.2,
-      "away_proj": 3.97,
-      "home_proj": 5.24,
-      "model_total": 9.21,
-      "away_win_pct": 35.5,
-      "home_win_pct": 64.5,
+      "yrfi": 47.8,
+      "away_proj": 3.88,
+      "home_proj": 5.17,
+      "model_total": 9.05,
+      "away_win_pct": 35.0,
+      "home_win_pct": 65.0,
       "away_ml": 154,
-      "home_ml": -168,
+      "home_ml": -159,
       "ou_line": 7.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Milwaukee Brewers @ Los Angeles Dodgers 7.5",
-      "best_bet_edge": 1.71
+      "best_bet_edge": 1.55
     }
   ]
 }
