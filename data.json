@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T23:59:15.172284+00:00",
-  "scraped_at_display": "Scraped October 14, 2026 \u00b7 7:59 PM ET",
+  "scraped_at": "2026-10-15T02:40:32.401773+00:00",
+  "scraped_at_display": "Scraped October 14, 2026 \u00b7 10:40 PM ET",
   "date_label": "October 14, 2026",
   "games": [
     {
@@ -11,8 +11,8 @@
       "away_starter": "Robert Gasser",
       "home_starter": "Blake Snell",
       "park": "Dodger Stadium",
-      "park_factor": "+3%",
-      "park_factor_class": "pos",
+      "park_factor": "+2%",
+      "park_factor_class": "neut",
       "yrfi": 48.5,
       "away_proj": 3.94,
       "home_proj": 5.22,
@@ -38,8 +38,8 @@
       "away_starter": "Robert Gasser",
       "home_starter": "Blake Snell",
       "park": "Dodger Stadium",
-      "park_factor": "+3%",
-      "park_factor_class": "pos",
+      "park_factor": "+2%",
+      "park_factor_class": "neut",
       "yrfi": 48.5,
       "away_proj": 3.94,
       "home_proj": 5.22,
