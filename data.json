@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16T19:59:43.274447+00:00",
-  "scraped_at_display": "Scraped October 16, 2026 \u00b7 3:59 PM ET",
+  "scraped_at": "2026-10-16T22:41:05.990457+00:00",
+  "scraped_at_display": "Scraped October 16, 2026 \u00b7 6:41 PM ET",
   "date_label": "October 16, 2026",
   "games": [
     {
@@ -11,22 +11,22 @@
       "away_starter": "Nick Martinez",
       "home_starter": "Shawn Armstrong",
       "park": "Progressive Field",
-      "park_factor": "-1%",
+      "park_factor": "+1%",
       "park_factor_class": "neut",
-      "yrfi": 46.4,
-      "away_proj": 4.7,
-      "home_proj": 4.21,
-      "model_total": 8.91,
-      "away_win_pct": 51.7,
-      "home_win_pct": 48.3,
-      "away_ml": -105,
-      "home_ml": -103,
+      "yrfi": 47.7,
+      "away_proj": 4.87,
+      "home_proj": 4.37,
+      "model_total": 9.24,
+      "away_win_pct": 51.8,
+      "home_win_pct": 48.2,
+      "away_ml": -109,
+      "home_ml": 101,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Cleveland Guardians 6.5",
-      "best_bet_edge": 2.41
+      "best_bet_edge": 2.74
     }
   ],
   "best_bets": [
@@ -38,22 +38,22 @@
       "away_starter": "Nick Martinez",
       "home_starter": "Shawn Armstrong",
       "park": "Progressive Field",
-      "park_factor": "-1%",
+      "park_factor": "+1%",
       "park_factor_class": "neut",
-      "yrfi": 46.4,
-      "away_proj": 4.7,
-      "home_proj": 4.21,
-      "model_total": 8.91,
-      "away_win_pct": 51.7,
-      "home_win_pct": 48.3,
-      "away_ml": -105,
-      "home_ml": -103,
+      "yrfi": 47.7,
+      "away_proj": 4.87,
+      "home_proj": 4.37,
+      "model_total": 9.24,
+      "away_win_pct": 51.8,
+      "home_win_pct": 48.2,
+      "away_ml": -109,
+      "home_ml": 101,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Tampa Bay Rays @ Cleveland Guardians 6.5",
-      "best_bet_edge": 2.41
+      "best_bet_edge": 2.74
     }
   ]
 }
