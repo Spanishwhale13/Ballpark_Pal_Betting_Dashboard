@@ -1,59 +1,29 @@
 {
-  "scraped_at": "2026-10-17T00:54:59.016202+00:00",
-  "scraped_at_display": "Scraped October 16, 2026 \u00b7 8:54 PM ET",
+  "scraped_at": "2026-10-17T02:28:31.842849+00:00",
+  "scraped_at_display": "Scraped October 16, 2026 \u00b7 10:28 PM ET",
   "date_label": "October 16, 2026",
   "games": [
     {
-      "gamepk": "849817",
+      "gamepk": "849816",
       "time": "8:00",
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
       "away_starter": "Nick Martinez",
       "home_starter": "Shawn Armstrong",
       "park": "Progressive Field",
-      "park_factor": "+1%",
-      "park_factor_class": "neut",
-      "yrfi": 47.7,
-      "away_proj": 4.87,
-      "home_proj": 4.37,
-      "model_total": 9.24,
-      "away_win_pct": 51.8,
-      "home_win_pct": 48.2,
+      "park_factor": "-21%",
+      "park_factor_class": "neg",
+      "yrfi": 40.7,
+      "away_proj": 3.62,
+      "home_proj": 3.21,
+      "model_total": 6.83,
+      "away_win_pct": 51.6,
+      "home_win_pct": 48.4,
       "away_ml": -112,
       "home_ml": 103,
       "ou_line": 6.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Tampa Bay Rays @ Cleveland Guardians 6.5",
-      "best_bet_edge": 2.74
+      "best_bet": false
     }
   ],
-  "best_bets": [
-    {
-      "gamepk": "849817",
-      "time": "8:00",
-      "away": "Tampa Bay Rays",
-      "home": "Cleveland Guardians",
-      "away_starter": "Nick Martinez",
-      "home_starter": "Shawn Armstrong",
-      "park": "Progressive Field",
-      "park_factor": "+1%",
-      "park_factor_class": "neut",
-      "yrfi": 47.7,
-      "away_proj": 4.87,
-      "home_proj": 4.37,
-      "model_total": 9.24,
-      "away_win_pct": 51.8,
-      "home_win_pct": 48.2,
-      "away_ml": -112,
-      "home_ml": 103,
-      "ou_line": 6.5,
-      "best_bet": true,
-      "best_bet_rank": 1,
-      "best_bet_type": "over",
-      "best_bet_desc": "OVER Tampa Bay Rays @ Cleveland Guardians 6.5",
-      "best_bet_edge": 2.74
-    }
-  ]
+  "best_bets": []
 }
