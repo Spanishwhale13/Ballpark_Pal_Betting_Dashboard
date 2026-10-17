@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-17T18:39:05.797120+00:00",
-  "scraped_at_display": "Scraped October 17, 2026 \u00b7 2:39 PM ET",
+  "scraped_at": "2026-10-17T21:09:30.615767+00:00",
+  "scraped_at_display": "Scraped October 17, 2026 \u00b7 5:09 PM ET",
   "date_label": "October 17, 2026",
   "games": [
     {
@@ -11,15 +11,15 @@
       "away_starter": "Nick Martinez",
       "home_starter": "Shawn Armstrong",
       "park": "Progressive Field",
-      "park_factor": "-16%",
+      "park_factor": "-17%",
       "park_factor_class": "neg",
-      "yrfi": 43.9,
-      "away_proj": 3.9,
-      "home_proj": 3.5,
-      "model_total": 7.4,
-      "away_win_pct": 51.2,
-      "home_win_pct": 48.8,
-      "away_ml": -112,
+      "yrfi": 40.1,
+      "away_proj": 3.89,
+      "home_proj": 3.42,
+      "model_total": 7.31,
+      "away_win_pct": 51.4,
+      "home_win_pct": 48.6,
+      "away_ml": -110,
       "home_ml": 103,
       "ou_line": 6.5,
       "best_bet": false
