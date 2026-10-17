@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16T22:41:05.990457+00:00",
-  "scraped_at_display": "Scraped October 16, 2026 \u00b7 6:41 PM ET",
+  "scraped_at": "2026-10-17T00:54:59.016202+00:00",
+  "scraped_at_display": "Scraped October 16, 2026 \u00b7 8:54 PM ET",
   "date_label": "October 16, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 9.24,
       "away_win_pct": 51.8,
       "home_win_pct": 48.2,
-      "away_ml": -109,
-      "home_ml": 101,
+      "away_ml": -112,
+      "home_ml": 103,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
@@ -46,8 +46,8 @@
       "model_total": 9.24,
       "away_win_pct": 51.8,
       "home_win_pct": 48.2,
-      "away_ml": -109,
-      "home_ml": 101,
+      "away_ml": -112,
+      "home_ml": 103,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
