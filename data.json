@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T01:18:13.134458+00:00",
-  "scraped_at_display": "Scraped October 17, 2026 \u00b7 9:18 PM ET",
+  "scraped_at": "2026-10-18T02:28:45.539130+00:00",
+  "scraped_at_display": "Scraped October 17, 2026 \u00b7 10:28 PM ET",
   "date_label": "October 17, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Nick Martinez",
       "home_starter": "Shawn Armstrong",
       "park": "Progressive Field",
-      "park_factor": "-17%",
+      "park_factor": "-16%",
       "park_factor_class": "neg",
       "yrfi": 40.1,
       "away_proj": 3.89,
