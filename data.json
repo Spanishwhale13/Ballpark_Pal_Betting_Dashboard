@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T16:15:52.294315+00:00",
-  "scraped_at_display": "Scraped October 18, 2026 \u00b7 12:15 PM ET",
+  "scraped_at": "2026-10-18T18:44:27.362677+00:00",
+  "scraped_at_display": "Scraped October 18, 2026 \u00b7 2:44 PM ET",
   "date_label": "October 18, 2026",
   "games": [
     {
@@ -13,14 +13,14 @@
       "park": "Progressive Field",
       "park_factor": "-15%",
       "park_factor_class": "neg",
-      "yrfi": 41.7,
-      "away_proj": 3.69,
-      "home_proj": 3.41,
-      "model_total": 7.1,
-      "away_win_pct": 50.6,
-      "home_win_pct": 49.4,
-      "away_ml": -123,
-      "home_ml": 116,
+      "yrfi": 42.3,
+      "away_proj": 3.87,
+      "home_proj": 3.42,
+      "model_total": 7.29,
+      "away_win_pct": 50.8,
+      "home_win_pct": 49.2,
+      "away_ml": -122,
+      "home_ml": 113,
       "ou_line": 6.5,
       "best_bet": false
     }
