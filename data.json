@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T18:54:48.452038+00:00",
-  "scraped_at_display": "Scraped October 19, 2026 \u00b7 2:54 PM ET",
+  "scraped_at": "2026-10-19T22:42:05.505561+00:00",
+  "scraped_at_display": "Scraped October 19, 2026 \u00b7 6:42 PM ET",
   "date_label": "October 19, 2026",
   "games": [
     {
@@ -13,20 +13,20 @@
       "park": "Tropicana Field",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 43.6,
-      "away_proj": 3.6,
-      "home_proj": 4.45,
-      "model_total": 8.05,
-      "away_win_pct": 38.7,
-      "home_win_pct": 61.3,
-      "away_ml": 136,
-      "home_ml": -148,
+      "yrfi": 42.5,
+      "away_proj": 3.65,
+      "home_proj": 4.44,
+      "model_total": 8.09,
+      "away_win_pct": 38.5,
+      "home_win_pct": 61.5,
+      "away_ml": 140,
+      "home_ml": -147,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cleveland Guardians @ Tampa Bay Rays 6.5",
-      "best_bet_edge": 1.55
+      "best_bet_edge": 1.59
     }
   ],
   "best_bets": [
@@ -40,20 +40,20 @@
       "park": "Tropicana Field",
       "park_factor": "-6%",
       "park_factor_class": "neg",
-      "yrfi": 43.6,
-      "away_proj": 3.6,
-      "home_proj": 4.45,
-      "model_total": 8.05,
-      "away_win_pct": 38.7,
-      "home_win_pct": 61.3,
-      "away_ml": 136,
-      "home_ml": -148,
+      "yrfi": 42.5,
+      "away_proj": 3.65,
+      "home_proj": 4.44,
+      "model_total": 8.09,
+      "away_win_pct": 38.5,
+      "home_win_pct": 61.5,
+      "away_ml": 140,
+      "home_ml": -147,
       "ou_line": 6.5,
       "best_bet": true,
       "best_bet_rank": 1,
       "best_bet_type": "over",
       "best_bet_desc": "OVER Cleveland Guardians @ Tampa Bay Rays 6.5",
-      "best_bet_edge": 1.55
+      "best_bet_edge": 1.59
     }
   ]
 }
