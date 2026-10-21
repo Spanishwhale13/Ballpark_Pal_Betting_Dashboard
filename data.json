@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-21T02:48:43.062861+00:00",
-  "scraped_at_display": "Scraped October 20, 2026 \u00b7 10:48 PM ET",
-  "date_label": "October 20, 2026",
+  "scraped_at": "2026-10-21T08:10:14.190241+00:00",
+  "scraped_at_display": "Scraped October 21, 2026 \u00b7 4:10 AM ET",
+  "date_label": "October 21, 2026",
   "games": [
     {
       "gamepk": "849805",
@@ -13,12 +13,12 @@
       "park": "American Family Field",
       "park_factor": "-15%",
       "park_factor_class": "neg",
-      "yrfi": 35.7,
-      "away_proj": 3.1,
+      "yrfi": 36.5,
+      "away_proj": 3.12,
       "home_proj": 3.23,
-      "model_total": 6.33,
-      "away_win_pct": 45.3,
-      "home_win_pct": 54.7,
+      "model_total": 6.35,
+      "away_win_pct": 45.2,
+      "home_win_pct": 54.8,
       "away_ml": 138,
       "home_ml": -158,
       "ou_line": 6.5,
