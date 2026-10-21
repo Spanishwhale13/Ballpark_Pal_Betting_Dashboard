@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T08:10:14.190241+00:00",
-  "scraped_at_display": "Scraped October 21, 2026 \u00b7 4:10 AM ET",
+  "scraped_at": "2026-10-21T17:47:36.547807+00:00",
+  "scraped_at_display": "Scraped October 21, 2026 \u00b7 1:47 PM ET",
   "date_label": "October 21, 2026",
   "games": [
     {
@@ -11,15 +11,15 @@
       "away_starter": "Drew Rasmussen",
       "home_starter": "Jacob Misiorowski",
       "park": "American Family Field",
-      "park_factor": "-15%",
+      "park_factor": "-16%",
       "park_factor_class": "neg",
-      "yrfi": 36.5,
-      "away_proj": 3.12,
-      "home_proj": 3.23,
-      "model_total": 6.35,
-      "away_win_pct": 45.2,
-      "home_win_pct": 54.8,
-      "away_ml": 138,
+      "yrfi": 34.9,
+      "away_proj": 3.14,
+      "home_proj": 3.18,
+      "model_total": 6.32,
+      "away_win_pct": 46.6,
+      "home_win_pct": 53.4,
+      "away_ml": 136,
       "home_ml": -158,
       "ou_line": 6.5,
       "best_bet": false
