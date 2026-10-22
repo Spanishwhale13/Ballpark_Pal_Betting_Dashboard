@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T17:45:57.302926+00:00",
-  "scraped_at_display": "Scraped October 22, 2026 \u00b7 1:45 PM ET",
+  "scraped_at": "2026-10-22T21:01:07.547222+00:00",
+  "scraped_at_display": "Scraped October 22, 2026 \u00b7 5:01 PM ET",
   "date_label": "October 22, 2026",
   "games": [
     {
@@ -8,19 +8,19 @@
       "time": "8:00",
       "away": "Tampa Bay Rays",
       "home": "Milwaukee Brewers",
-      "away_starter": "Drew Rasmussen",
+      "away_starter": "Nick Martinez",
       "home_starter": "Jacob Misiorowski",
       "park": "American Family Field",
       "park_factor": "-16%",
       "park_factor_class": "neg",
-      "yrfi": 34.0,
-      "away_proj": 3.07,
-      "home_proj": 3.29,
-      "model_total": 6.36,
-      "away_win_pct": 44.2,
-      "home_win_pct": 55.8,
-      "away_ml": 148,
-      "home_ml": -155,
+      "yrfi": 35.3,
+      "away_proj": 3.02,
+      "home_proj": 3.3,
+      "model_total": 6.32,
+      "away_win_pct": 43.9,
+      "home_win_pct": 56.1,
+      "away_ml": 164,
+      "home_ml": -169,
       "ou_line": 6.5,
       "best_bet": false
     }
