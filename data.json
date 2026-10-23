@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-23T20:49:43.549931+00:00",
-  "scraped_at_display": "Scraped October 23, 2026 \u00b7 4:49 PM ET",
+  "scraped_at": "2026-10-23T23:41:12.123928+00:00",
+  "scraped_at_display": "Scraped October 23, 2026 \u00b7 7:41 PM ET",
   "date_label": "October 23, 2026",
   "games": [
     {
@@ -11,7 +11,7 @@
       "away_starter": "Nick Martinez",
       "home_starter": "Jacob Misiorowski",
       "park": "American Family Field",
-      "park_factor": "-10%",
+      "park_factor": "-9%",
       "park_factor_class": "neg",
       "yrfi": 42.8,
       "away_proj": 3.13,
@@ -19,8 +19,8 @@
       "model_total": 7.21,
       "away_win_pct": 36.2,
       "home_win_pct": 63.8,
-      "away_ml": 167,
-      "home_ml": -183,
+      "away_ml": 166,
+      "home_ml": -182,
       "ou_line": 6.5,
       "best_bet": false
     }
