@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-24T21:20:14.707017+00:00",
-  "scraped_at_display": "Scraped October 24, 2026 \u00b7 5:20 PM ET",
+  "scraped_at": "2026-10-24T23:28:58.964880+00:00",
+  "scraped_at_display": "Scraped October 24, 2026 \u00b7 7:28 PM ET",
   "date_label": "October 24, 2026",
   "games": [
     {
@@ -19,8 +19,8 @@
       "model_total": 7.42,
       "away_win_pct": 50.8,
       "home_win_pct": 49.2,
-      "away_ml": 107,
-      "home_ml": -112,
+      "away_ml": 105,
+      "home_ml": -114,
       "ou_line": 6.5,
       "best_bet": false
     }
