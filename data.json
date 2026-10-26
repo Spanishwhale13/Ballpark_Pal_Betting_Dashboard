@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-26T18:57:05.401913+00:00",
-  "scraped_at_display": "Scraped October 26, 2026 \u00b7 2:57 PM ET",
+  "scraped_at": "2026-10-26T23:00:40.452201+00:00",
+  "scraped_at_display": "Scraped October 26, 2026 \u00b7 7:00 PM ET",
   "date_label": "October 26, 2026",
   "games": [
     {
@@ -13,14 +13,14 @@
       "park": "Tropicana Field",
       "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 45.8,
-      "away_proj": 3.9,
-      "home_proj": 4.08,
-      "model_total": 7.98,
-      "away_win_pct": 46.7,
-      "home_win_pct": 53.3,
-      "away_ml": 103,
-      "home_ml": -110,
+      "yrfi": 44.3,
+      "away_proj": 3.96,
+      "home_proj": 4.01,
+      "model_total": 7.97,
+      "away_win_pct": 47.2,
+      "home_win_pct": 52.8,
+      "away_ml": 102,
+      "home_ml": -111,
       "ou_line": 7.5,
       "best_bet": false
     }
