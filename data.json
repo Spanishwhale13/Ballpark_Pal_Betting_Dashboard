@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-26T02:37:35.858626+00:00",
-  "scraped_at_display": "Scraped October 25, 2026 \u00b7 10:37 PM ET",
-  "date_label": "October 25, 2026",
+  "scraped_at": "2026-10-26T08:20:59.375556+00:00",
+  "scraped_at_display": "Scraped October 26, 2026 \u00b7 4:20 AM ET",
+  "date_label": "October 26, 2026",
   "games": [
     {
       "gamepk": "849804",
@@ -20,7 +20,7 @@
       "away_win_pct": 46.7,
       "home_win_pct": 53.3,
       "away_ml": 103,
-      "home_ml": -108,
+      "home_ml": -114,
       "ou_line": 7.5,
       "best_bet": false
     }
