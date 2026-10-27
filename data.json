@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-27T18:29:10.329643+00:00",
-  "scraped_at_display": "Scraped October 27, 2026 \u00b7 2:29 PM ET",
+  "scraped_at": "2026-10-27T22:29:50.748351+00:00",
+  "scraped_at_display": "Scraped October 27, 2026 \u00b7 6:29 PM ET",
   "date_label": "October 27, 2026",
   "games": [
     {
@@ -11,16 +11,16 @@
       "away_starter": "Dustin May",
       "home_starter": "Griffin Jax",
       "park": "Tropicana Field",
-      "park_factor": "-6%",
+      "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 46.3,
-      "away_proj": 3.92,
-      "home_proj": 4.2,
-      "model_total": 8.12,
-      "away_win_pct": 45.5,
-      "home_win_pct": 54.5,
-      "away_ml": -116,
-      "home_ml": 111,
+      "yrfi": 47.8,
+      "away_proj": 3.8,
+      "home_proj": 4.29,
+      "model_total": 8.09,
+      "away_win_pct": 44.0,
+      "home_win_pct": 56.0,
+      "away_ml": -115,
+      "home_ml": 106,
       "ou_line": 7.5,
       "best_bet": false
     }
