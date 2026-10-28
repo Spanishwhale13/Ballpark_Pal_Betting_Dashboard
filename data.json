@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-28T18:34:57.598468+00:00",
-  "scraped_at_display": "Scraped October 28, 2026 \u00b7 2:34 PM ET",
+  "scraped_at": "2026-10-28T22:55:05.146065+00:00",
+  "scraped_at_display": "Scraped October 28, 2026 \u00b7 6:55 PM ET",
   "date_label": "October 28, 2026",
   "games": [
     {
@@ -9,18 +9,18 @@
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
       "away_starter": "Jacob Misiorowski",
-      "home_starter": "Steven Matz",
+      "home_starter": "Drew Rasmussen",
       "park": "Tropicana Field",
-      "park_factor": "-6%",
+      "park_factor": "-5%",
       "park_factor_class": "neg",
-      "yrfi": 44.0,
-      "away_proj": 4.25,
-      "home_proj": 3.28,
-      "model_total": 7.53,
-      "away_win_pct": 60.4,
-      "home_win_pct": 39.6,
-      "away_ml": -151,
-      "home_ml": 140,
+      "yrfi": 38.7,
+      "away_proj": 3.97,
+      "home_proj": 3.29,
+      "model_total": 7.26,
+      "away_win_pct": 54.6,
+      "home_win_pct": 45.4,
+      "away_ml": -138,
+      "home_ml": 127,
       "ou_line": 6.5,
       "best_bet": false
     }
