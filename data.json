@@ -1,29 +1,7 @@
 {
-  "scraped_at": "2026-10-29T03:48:58.814931+00:00",
-  "scraped_at_display": "Scraped October 28, 2026 \u00b7 11:48 PM ET",
-  "date_label": "October 28, 2026",
-  "games": [
-    {
-      "gamepk": "849799",
-      "time": "8:00",
-      "away": "Milwaukee Brewers",
-      "home": "Tampa Bay Rays",
-      "away_starter": "Jacob Misiorowski",
-      "home_starter": "Drew Rasmussen",
-      "park": "Tropicana Field",
-      "park_factor": "-5%",
-      "park_factor_class": "neg",
-      "yrfi": 38.7,
-      "away_proj": 3.97,
-      "home_proj": 3.29,
-      "model_total": 7.26,
-      "away_win_pct": 54.6,
-      "home_win_pct": 45.4,
-      "away_ml": -132,
-      "home_ml": 123,
-      "ou_line": 6.5,
-      "best_bet": false
-    }
-  ],
+  "scraped_at": "2026-10-29T18:44:28.410272+00:00",
+  "scraped_at_display": "Scraped October 29, 2026 \u00b7 2:44 PM ET",
+  "date_label": "October 29, 2026",
+  "games": [],
   "best_bets": []
 }
